@@ -1,10 +1,10 @@
 # Supported Browsers
 Imagine is designed to work on the following browsers on Windows machines.
-•	Edge (v16+)
-•	Chrome (v67+)
-•	Firefox (v61+)
-•	Safari (v11.2+)
-•	Opera 
+ - Edge (v16+)
+ - Chrome (v67+)
+ - Firefox (v61+)
+ - Safari (v11.2+)
+ - Opera 
 
 The same browsers are supported on iOS, Android and Windows 10 Mobile however some functionality may be restricted. For example, iOS does not allow you to run the apps in full screen in browser. We do not provide minimum version numbers of these for mobile devices.
 

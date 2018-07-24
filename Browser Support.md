@@ -1,5 +1,5 @@
 # Supported Browsers
-Imagine is designed to work on the following browsers on Windows machines.
+Imagine is designed to work on the following browsers on Windows, Linux and OSX machines.
  - Edge (v16+)
  - Chrome (v67+)
  - Firefox (v61+)

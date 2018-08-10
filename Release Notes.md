@@ -17,6 +17,11 @@
  - Date filters now fixed so "End date" is taken from the end of the day
  - Weekly Sales report now showing correctly
  - Suburst report now showing correctly
+### PPE
+ - Item Search bug fixed
+### Public API
+ - Bug creating integrators and integrations fixed
+ - Swithced to use Integration ID instead of Integrator ID
 ## Features
 ### POS
  - POS now configures the receipt lines in line with the Imagine model rather than the old DdD one
@@ -35,3 +40,5 @@
  - Remote access to Connector now working
  - Support Platform now ported to Imagine
  - POS Tracking now ported to Imagine
+ - AppMetrics added to all backend services
+ 

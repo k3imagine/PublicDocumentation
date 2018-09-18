@@ -1,3 +1,45 @@
+# Production - 19th September 2018
+## Bugs
+### Stock Management
+ - Stocktake scanning increment error now scan increases by 1 instead of prefixing a 1
+ - Language string bug in Vendor combobox
+
+### Item Management
+ - Bug saving variants one standard items causing error now fixed
+
+## Features
+### POS
+ - Multicurrency Gift Certificates - When creating a gift certificate it will be linked to the currency of the store issuing it. If that currency is not supported by the store you are trying to redeem in, it will show as not found
+ - Matrix Stock Lookup - The Stock Widget now allows you to view your stock in all your stores in a Matrix Grid
+ - Customers - You can now create and edit customers at the POS
+
+### Backoffice
+ - Gift Voucher Management - View, audit, and manually expire gift certificates
+ - Clerk Passwords no longer mandatory - Sign in with just the Clerk Number
+ - Clerk Roles - Clerks can now be associated to configurable roles which are linked to Button Management Profiles which can restrict the functionality at the POS based upon the clerk role
+ - Groups - You can now link stores to Groups, and your Expense Codes, Reason Codes and Item Groups can be selected at group level to give more control over what appears locally at the POS for different stores
+
+### Stock Management
+ - Stock Transfers - Transfer goods in and out of stores
+ 
+### Public API
+ - Will now accept web orders - addition of this functionality to the POS is still pending
+ - Will now accept modification of objects through external identifiers
+ - Can now park a note (receipt/transaction) through the Public API
+ - Can now pass in a basket to the PPE from an external source, like and eCommerce engine
+ - Will now accept Stocktakes to be passed in
+ - Now has paged GET methods where appropriate
+ - Added some update methods which were missing
+
+## Other
+ - Safe deletion of Vendors - Will not actually delete any data unless there is no related data for this
+ - PPE has some backend model changes
+ - All UIs are now multilnaguage capable (though some are awaiting translation)
+ - CleanCash Fiscalization for Sweden is completed
+ - We have added a Globals microservice to allow things like the buttons, currencies etc to be managed for all tenants not just individual tenants which will make future maintenence easier
+  - We have added a Number Generation microservice which will automatically create numbers in various places. This is still to be added to the UIs
+
+---
 # Production - 8th August 2018
 ## Bugs
 ### Item Management

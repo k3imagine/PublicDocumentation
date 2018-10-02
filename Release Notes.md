@@ -1,5 +1,42 @@
 # Production - 19th September 2018
 ## Bugs
+### POS
+ - Stock and Customer widgets not clearing down after a transaction is finished
+ - Clerk not redirected after login when using cleancash
+ - Connectors were not mulittenanted - now they are
+ - Journals print button was missing translation text
+ - Invalid credentials resulting in redirection loop
+
+### Price and Promotion Engine
+ - General errors when setting up a promotions
+ - Bug fixed creating a hierarchy discount
+ - Error creating a Bundle promotion
+ 
+### Item Management
+ - View figures tab now works
+ - Updating items without variants was throwing an error
+ 
+### Stock Management
+ - Now support label printing from Receive Goods
+ 
+## Features
+### POS
+ - Customer widget now supports the creation and edit of customers
+ 
+### Public API
+ - Customer now has an "isActive" property
+
+### Price and Promotion Engine
+ - Now supports multibuys for Prices, not just percentage discounts
+
+## Other
+ - Connector now support slabel printing with the Citizen CL-S521
+ - Adjustment data is now being rabbited out
+
+
+---
+# Production - 19th September 2018
+## Bugs
 ### Stock Management
  - Stocktake scanning increment error now scan increases by 1 instead of prefixing a 1
  - Language string bug in Vendor combobox

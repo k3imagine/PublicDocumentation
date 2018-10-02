@@ -1,4 +1,4 @@
-# Production - 19th September 2018
+# Production - 3rd October 2018
 ## Bugs
 ### POS
  - Stock and Customer widgets not clearing down after a transaction is finished

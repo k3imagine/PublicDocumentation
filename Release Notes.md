@@ -1,3 +1,50 @@
+# Release Candidate - 10th October 2018
+## Bugs
+### POS
+ - Errors recalling parked receipt
+ 
+### Item Management
+ - Description field reverted back to original value after save
+ - Fixed restocking validation
+ - Movements not returning User information fixed
+ 
+### Stock Management
+ - Error saving and committing a goods receive
+ - Switching from Stocktake to Receive Goods would sometimes throw an error
+ - Removed non-functioning buttons
+ - Can now no longer edit a Commited Receive Goods
+
+### Price and Promotion Engine
+ - Wasn't working when there were multiple barcodes for a product, not finding the item to calculate against
+ - Big refactor of first 4 discount types (Discount, Deal Bundle, Least Expensive, Multibuy) correcting many usability issues
+
+### Connector
+ - Error handling for X Report functionality
+ - Logging fixes
+
+## Features
+### POS
+ - Added the ability to genrate and print an X Report
+ - Added Web Orders/Omni Channel functionality
+ - Added Revide Integration
+ - Added Solid Insurance integration
+ 
+### Price and Promotion Engine
+ - Added Multibuy With Price discount type
+ 
+### Item Management
+ - Added Copy Item functionality
+ - Added Smart Search
+ - Added Manufacturer Item Number as a property
+ - Added Number Generation support, leaving Item Number blank will generate one for you
+
+### Stock Management
+ - Added Purchase Orders
+ 
+### Admin
+ - Added K3 Pay as a payment type in Admin for future support of K3 Pay Gateway
+
+
 # Production - 3rd October 2018
 ## Bugs
 ### POS

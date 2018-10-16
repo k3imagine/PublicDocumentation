@@ -1,4 +1,34 @@
 # Production - 17th October 2018
+## Features
+### POS
+ - Added the ability to genrate and print an X Report
+ - Added Web Orders/Omni Channel functionality
+ - Added Revide Integration
+ - Added Solid Insurance integration
+
+### Backoffice
+ - Can now define default multiplier and pence deduction to your Vendors for automatic suggested pricing in Item Management
+ - Added an external identifier to the SHops screen for better management for integrations
+ 
+### Price and Promotion Engine
+ - Added Multibuy With Price discount type
+ 
+### Item Management
+ - Added Smart Search
+ - Added Manufacturer Item Number as a property
+ - Added Number Generation support, leaving Item Number blank will generate one for you
+ - Added barcode genration support - leaving it blank will generate a barcode for you. Configurable (in the backend) to use EAN13 or EAN8, further can be added on request
+
+### Stock Management
+ - Added Purchase Orders
+ 
+### Admin
+ - Added K3 Pay as a payment type in Admin for future support of K3 Pay Gateway
+ 
+### Support Platform
+ - Better tools for Tenant and User maintenence
+ - Rebrand to K3
+ 
 ## Bugs
 ### POS
  - Errors recalling parked receipt
@@ -30,36 +60,8 @@
  - Error handling for X Report functionality
  - Logging fixes
 
-## Features
-### POS
- - Added the ability to genrate and print an X Report
- - Added Web Orders/Omni Channel functionality
- - Added Revide Integration
- - Added Solid Insurance integration
 
-### Backoffice
- - Can now define default multiplier and pence deduction to your Vendors for automatic suggested pricing in Item Management
- - Added an external identifier to the SHops screen for better management for integrations
- 
-### Price and Promotion Engine
- - Added Multibuy With Price discount type
- 
-### Item Management
- - Added Smart Search
- - Added Manufacturer Item Number as a property
- - Added Number Generation support, leaving Item Number blank will generate one for you
- - Added barcode genration support - leaving it blank will generate a barcode for you. Configurable (in the backend) to use EAN13 or EAN8, further can be added on request
-
-### Stock Management
- - Added Purchase Orders
- 
-### Admin
- - Added K3 Pay as a payment type in Admin for future support of K3 Pay Gateway
- 
-### Support Platform
- - Better tools for Tenant and User maintenence
- - Rebrand to K3
-
+---
 
 # Production - 3rd October 2018
 ## Bugs

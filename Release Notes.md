@@ -8,16 +8,17 @@
 
 ### Backoffice
  - Can now define default multiplier and pence deduction to your Vendors for automatic suggested pricing in Item Management
- - Added an external identifier to the SHops screen for better management for integrations
+ - Added an external identifier to the Shops screen for better management for integrations
  
 ### Price and Promotion Engine
  - Added Multibuy With Price discount type
  
 ### Item Management
- - Added Smart Search
+ - Added Smart Search capability
  - Added Manufacturer Item Number as a property
  - Added Number Generation support, leaving Item Number blank will generate one for you
- - Added barcode genration support - leaving it blank will generate a barcode for you. Configurable (in the backend) to use EAN13 or EAN8, further can be added on request
+ - Added Barcode genration support - leaving it blank will generate a barcode for you. Configurable (in the backend) to use EAN13 or EAN8, further can be added on request
+ - Added Barcode Printing functionality
 
 ### Stock Management
  - Added Purchase Orders
@@ -43,13 +44,14 @@
  - Description field reverted back to original value after save
  - Fixed restocking validation
  - Movements not returning Transfer information fixed
+ - Various label fixes
  
 ### Stock Management
  - Error saving and committing a goods receive
  - Switching from Stocktake to Receive Goods would sometimes throw an error
  - Removed non-functioning buttons
  - Can now no longer edit a Commited Receive Goods
- - Fixed a bug where Transfers were not creating Item Units properly
+ - Fixed a bug where Transfers were not creating Item Units and Movements properly
 
 ### Price and Promotion Engine
  - Wasn't working when there were multiple barcodes for a product, not finding the item to calculate against
@@ -60,6 +62,8 @@
  - Error handling for X Report functionality
  - Logging fixes
 
+### Support Platform
+ - Fixes to user module assignment
 
 ---
 

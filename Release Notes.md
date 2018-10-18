@@ -1,4 +1,4 @@
-# Production - 17th October 2018
+# Production - 18th October 2018
 ## Features
 ### POS
  - Added the ability to genrate and print an X Report
@@ -19,6 +19,8 @@
  - Added Number Generation support, leaving Item Number blank will generate one for you
  - Added Barcode genration support - leaving it blank will generate a barcode for you. Configurable (in the backend) to use EAN13 or EAN8, further can be added on request
  - Added Barcode Printing functionality
+ - Added Copy Item functionality
+ - Added support for suggested price calculation based upon vendor values
 
 ### Stock Management
  - Added Purchase Orders
@@ -52,6 +54,7 @@
  - Removed non-functioning buttons
  - Can now no longer edit a Commited Receive Goods
  - Fixed a bug where Transfers were not creating Item Units and Movements properly
+ - Fixed screens not showing product dimensions
 
 ### Price and Promotion Engine
  - Wasn't working when there were multiple barcodes for a product, not finding the item to calculate against
@@ -64,6 +67,10 @@
 
 ### Support Platform
  - Fixes to user module assignment
+
+### Reports
+ - Removed redundant message button
+ - Fixed tooltip label in chart for Weekly Sales
 
 ---
 

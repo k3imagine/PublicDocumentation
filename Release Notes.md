@@ -21,9 +21,6 @@
  - Added Barcode Printing functionality
  - Added Copy Item functionality
  - Added support for suggested price calculation based upon vendor values
-
-### Stock Management
- - Added Purchase Orders
  
 ### Admin
  - Added K3 Pay as a payment type in Admin for future support of K3 Pay Gateway

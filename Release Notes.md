@@ -1,3 +1,30 @@
+# Scheduled for - 31st October 2018
+## Features
+### POS
+ - Added Web Order/Omni Channel integration
+
+### Stock Management
+ - Added Purchase Order functionality
+ - Added Stock Lookup functionality
+
+### Item Management
+ - Added the ability to edit your hierarchy and assign specific tax groups to the nodes
+ 
+### Support Platform
+ - Added User Group functionality - Users with access to the support platform will only see tenants that are a part of the same User Group. This will allow K3 Europe to only see their customers, UKIn to only see their customers etc.
+ - Added Super Administrator privileges for the Imagine team to see all tenants
+ - Added Widget Management
+ - Added Shop Feature management
+
+### Connector
+ - Fully migrated to use HTTPS
+ - Connector now writes the Morning Amount and Cash Statement values back to 
+ 
+
+## Bug Fixes
+### Item Management
+ - Fixed the date time in Movements to show the time
+
 # Production - 18th October 2018
 ## Features
 ### POS

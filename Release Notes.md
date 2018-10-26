@@ -2,6 +2,7 @@
 ## Features
 ### POS
  - Added Web Order/Omni Channel integration
+ - We can now utilise the OS Clipboard if the Operating System supports it
 
 ### Stock Management
  - Added Purchase Order functionality
@@ -16,14 +17,24 @@
  - Added Widget Management
  - Added Shop Feature management
 
+### Public API
+ - Added Voucher and Credit Memo details in the Transactions for import/use by 3rd party systems
+
 ### Connector
  - Fully migrated to use HTTPS
  - Connector now writes the Morning Amount and Cash Statement values back to 
  
 
 ## Bug Fixes
+### POS
+ - Reverse input on iOS devices fixed
+ - Printing journals for Swedish locale now working
+
 ### Item Management
  - Fixed the date time in Movements to show the time
+
+### Admin
+ - Fixed failure to update edits to receipts when there was already customizations present
 
 # Production - 18th October 2018
 ## Features

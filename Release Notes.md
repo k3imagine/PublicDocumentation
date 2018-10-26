@@ -33,6 +33,7 @@
 
 ### Admin
  - Fixed failure to update edits to receipts when there was already customizations present
+ - Put the correct default logo into Receipt Edit
  
  ---
 

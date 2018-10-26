@@ -21,9 +21,7 @@
  - Added Voucher and Credit Memo details in the Transactions for import/use by 3rd party systems
 
 ### Connector
- - Fully migrated to use HTTPS
  - Connector now writes the Morning Amount and Cash Statement values back to 
- 
 
 ## Bug Fixes
 ### POS
@@ -35,6 +33,8 @@
 
 ### Admin
  - Fixed failure to update edits to receipts when there was already customizations present
+ 
+ ---
 
 # Production - 18th October 2018
 ## Features

@@ -1,12 +1,12 @@
-# Scheduled for - 31st October 2018
+# Scheduled for - 5th November 2018
 ## Features
 ### POS
  - Added Web Order/Omni Channel integration
  - We can now utilise the OS Clipboard if the Operating System supports it
+ - Added VendorItemNo as a receipt property
 
 ### Stock Management
  - Added Purchase Order functionality
- - Added Stock Lookup functionality
 
 ### Item Management
  - Added the ability to edit your hierarchy and assign specific tax groups to the nodes
@@ -19,9 +19,6 @@
 
 ### Public API
  - Added Voucher and Credit Memo details in the Transactions for import/use by 3rd party systems
-
-### Connector
- - Connector now writes the Morning Amount and Cash Statement values back to 
 
 ## Bug Fixes
 ### POS

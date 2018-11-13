@@ -4,6 +4,7 @@
  - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. Clerks and products have now been moved.
  - Added the ability to assign reason codes at line and receipt level, pulled from the reason codes set up in Backoffice
  - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev Boxes only)
+ - Added support for using the device camera as a scanner (new widget)
  
 ### Backoffice
  - Added better filtering to Gift Voucher screen

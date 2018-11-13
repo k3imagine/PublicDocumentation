@@ -1,3 +1,51 @@
+# Scheduled for - 14th November 2018
+## Features
+### POS
+ - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. Clerks and products have now been moved.
+ - Added the ability to assign reason codes at line and receipt level, pulled from the reason codes set up in Backoffice
+ 
+### Backoffice
+ - Added better filtering to Gift Voucher screen
+ - Added better filtering to Credit Memo screen
+
+### Item Management
+ - Added the abiloity to edit hierarchy nodes so you can associate the relevant tax rates (For when using them as Item Groups)
+ 
+### Admin
+ - Added a POS Option to ask for Email Receipt (Previous always on)
+ - Added ZVT as a terminal type for EFT
+
+### Integration (DataSwitch)
+ - Added the ability to create stocktakes
+ 
+### Other
+ - Added ZVT Terminal Integration
+ 
+
+## Bugs
+### POS
+ - Fixed the Chart not refreshing when selecting different options (This had never worked in DdD either)
+ - Fixed error searching for customers using the `find-customer` widget. 
+ - Fixed an issue where if an item was added to the receipt with 0 price and the price gets altered, adding a subsequent item reset the price back to 0 (This was also present in the DdD version) 
+
+### Admin
+ - Fix and issue where edit receipt line items might not display or reload, and buttons not appearing
+ 
+### Reports
+ - Fixed an issue where Sales Analysis by Profit would not return data
+ - Fixed weekly sales not returning data
+ - Fixed Sales Sundial not returning data
+ 
+### Item Management
+ - Fixed the Manufacturer Item number label in the Matrix tab
+ - 
+
+### Support Platform
+ - Fixed a bug where the widgfet configuration was being saved to the wrong microservice database
+ 
+ 
+
+
 # Production - 6th November 2018
 ## Features
 ### POS

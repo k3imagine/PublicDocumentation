@@ -46,6 +46,7 @@
 ### Item Management
  - Fixed the Manufacturer Item number label in the Matrix tab
  - Fixed the Item Search to only return Master Items corectly
+ - Fixed error creating products due to NumbersUsed bug
 
 ### Support Platform
  - Fixed a bug where the widgfet configuration was being saved to the wrong microservice database

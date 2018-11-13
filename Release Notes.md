@@ -10,7 +10,7 @@
  - Added better filtering to Credit Memo screen
 
 ### Item Management
- - Added the abiloity to edit hierarchy nodes so you can associate the relevant tax rates (For when using them as Item Groups)
+ - Added the ability to edit hierarchy nodes so you can associate the relevant tax rates (For when using them as Item Groups)
  - Unit of Measure is no longer Mandatory
  - Cost and Price will now interpret 0 as valid
  

@@ -3,6 +3,7 @@
 ### POS
  - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. Clerks and products have now been moved.
  - Added the ability to assign reason codes at line and receipt level, pulled from the reason codes set up in Backoffice
+ - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev Boxes only)
  
 ### Backoffice
  - Added better filtering to Gift Voucher screen
@@ -10,10 +11,15 @@
 
 ### Item Management
  - Added the abiloity to edit hierarchy nodes so you can associate the relevant tax rates (For when using them as Item Groups)
+ - Unit of Measure is no longer Mandatory
+ - Cost and Price will now interpret 0 as valid
  
 ### Admin
  - Added a POS Option to ask for Email Receipt (Previous always on)
  - Added ZVT as a terminal type for EFT
+
+### Reports
+ - Added Financial Report (Still some work to do to populate Cash data in the next release)
 
 ### Integration (DataSwitch)
  - Added the ability to create stocktakes
@@ -21,12 +27,12 @@
 ### Other
  - Added ZVT Terminal Integration
  
-
 ## Bugs
 ### POS
  - Fixed the Chart not refreshing when selecting different options (This had never worked in DdD either)
  - Fixed error searching for customers using the `find-customer` widget. 
  - Fixed an issue where if an item was added to the receipt with 0 price and the price gets altered, adding a subsequent item reset the price back to 0 (This was also present in the DdD version) 
+ - Fixed styling of Find Customer widget panel
 
 ### Admin
  - Fix and issue where edit receipt line items might not display or reload, and buttons not appearing
@@ -38,7 +44,7 @@
  
 ### Item Management
  - Fixed the Manufacturer Item number label in the Matrix tab
- - 
+ - Fixed the Item Search to only return Master Items corectly
 
 ### Support Platform
  - Fixed a bug where the widgfet configuration was being saved to the wrong microservice database

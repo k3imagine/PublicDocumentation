@@ -5,6 +5,7 @@
  - Added the ability to assign reason codes at line and receipt level, pulled from the reason codes set up in Backoffice
  - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev connectors only)
  - Added support for using the device camera as a scanner (new widget)
+ - Added the ability for a clerk to stay logged in to the POS
  
 ### Backoffice
  - Added better filtering to Gift Voucher screen
@@ -18,6 +19,7 @@
 ### Admin
  - Added a POS Option to ask for Email Receipt (Previous always on)
  - Added ZVT as a terminal type for EFT
+ - Added setting for "stay logged in" to the POS
 
 ### Reports
  - Added Financial Report (Still some work to do to populate Cash data in the next release)

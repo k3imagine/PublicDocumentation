@@ -1,9 +1,9 @@
 # Scheduled for - 14th November 2018
 ## Features
 ### POS
- - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. (Clerks, products, Expense Codes, Item Groups now migrated)
+ - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. (Clerks, products, Expense Codes, Item Groups, Messaging now migrated)
  - Added the ability to assign reason codes at line and receipt level, pulled from the reason codes set up in Backoffice
- - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev Boxes only)
+ - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev connectors only)
  - Added support for using the device camera as a scanner (new widget)
  
 ### Backoffice
@@ -34,6 +34,7 @@
  - Fixed error searching for customers using the `find-customer` widget. 
  - Fixed an issue where if an item was added to the receipt with 0 price and the price gets altered, adding a subsequent item reset the price back to 0 (This was also present in the DdD version) 
  - Fixed styling of Find Customer widget panel
+ - Fixed the need to go "incognito" when switching between POS and Tenants
 
 ### Admin
  - Fix and issue where edit receipt line items might not display or reload, and buttons not appearing

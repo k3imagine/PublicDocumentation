@@ -7,10 +7,12 @@
  - Added support for using the device camera as a scanner (new widget) Not currently supported on iOS though.
  - Added the ability for a clerk to stay logged in to the POS
  - Solid Insurance widget altered to have 2 fields per line
+ - Added display of sales budgets to the POS charts
  
 ### Backoffice
  - Added better filtering to Gift Voucher screen
  - Added better filtering to Credit Memo screen
+ - Added the ability to upload sales budgets per store from an Excel file
 
 ### Item Management
  - Added the ability to edit hierarchy nodes so you can associate the relevant tax rates (For when using them as Item Groups)

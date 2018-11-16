@@ -1,4 +1,4 @@
-# Scheduled for - 14th November 2018
+# Scheduled for - 19th November 2018
 ## Features
 ### POS
  - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. (Clerks, products, Expense Codes, Item Groups, Messaging now migrated)
@@ -6,6 +6,7 @@
  - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev connectors only)
  - Added support for using the device camera as a scanner (new widget)
  - Added the ability for a clerk to stay logged in to the POS
+ - Solid Insurance widget altered to have 2 fields per line
  
 ### Backoffice
  - Added better filtering to Gift Voucher screen
@@ -31,12 +32,16 @@
  - Added ZVT Terminal Integration
  
 ## Bugs
+### Portal
+ - Have fixed the slowness issue when logging in by making a single API call instead of several dozen. This was particularly bad when many stores were present.
+ 
 ### POS
  - Fixed the Chart not refreshing when selecting different options (This had never worked in DdD either)
  - Fixed error searching for customers using the `find-customer` widget. 
  - Fixed an issue where if an item was added to the receipt with 0 price and the price gets altered, adding a subsequent item reset the price back to 0 (This was also present in the DdD version) 
  - Fixed styling of Find Customer widget panel
- - Fixed the need to go "incognito" when switching between POS and Tenants
+ - Fixed the need to go "incognito" when switching between Stores/Tenants
+ - Fixed the issue when cancelling inusrance in the Solid Insurance widget
 
 ### Admin
  - Fix and issue where edit receipt line items might not display or reload, and buttons not appearing

@@ -27,6 +27,7 @@
 
 ### Integration (DataSwitch)
  - Added the ability to create stocktakes
+ - Added the ability to retrieve purchase orders
  
 ### Other
  - Added ZVT Terminal Integration

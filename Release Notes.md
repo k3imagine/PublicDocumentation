@@ -8,6 +8,7 @@
  - Added the ability for a clerk to stay logged in to the POS
  - Solid Insurance widget altered to have 2 fields per line
  - Added display of sales budgets to the POS charts
+ - Solid Insurance now supports search by Social Security Number
  
 ### Backoffice
  - Added better filtering to Gift Voucher screen

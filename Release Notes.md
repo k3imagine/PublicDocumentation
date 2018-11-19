@@ -1,10 +1,10 @@
-# Scheduled for - 19th November 2018
+# Production - 19th November 2018
 ## Features
 ### POS
  - Began migration away of Local Storage in favour of IndexDB for offline functionality to increase performance and functionality for the future. (Clerks, products, Expense Codes, Item Groups, Messaging now migrated)
  - Added the ability to assign reason codes at line and receipt level, pulled from the reason codes set up in Backoffice
  - Added support for HTTPS connectivity to the connector, enforced by changes to Google Chrome. Requires manual update to connectors currently in the field (Dev connectors only)
- - Added support for using the device camera as a scanner (new widget) Not currently supported on iOS though.
+ - (Beta) Added support for using the device camera as a scanner (new widget) Not currently supported on iOS though.
  - Added the ability for a clerk to stay logged in to the POS
  - Solid Insurance widget altered to have 2 fields per line
  - Added display of sales budgets to the POS charts
@@ -13,12 +13,9 @@
 ### Backoffice
  - Added better filtering to Gift Voucher screen
  - Added better filtering to Credit Memo screen
- - Added the ability to upload sales budgets per store from an Excel file
 
 ### Item Management
  - Added the ability to edit hierarchy nodes so you can associate the relevant tax rates (For when using them as Item Groups)
- - Unit of Measure is no longer Mandatory
- - Cost and Price will now interpret 0 as valid
  
 ### Admin
  - Added a POS Option to ask for Email Receipt (Previous always on)
@@ -26,7 +23,7 @@
  - Added setting for "stay logged in" to the POS
 
 ### Reports
- - Added Financial Report (Still some work to do to populate Cash data in the next release)
+ - (Beta) Added Financial Report (TO be improved later in the week)
 
 ### Integration (DataSwitch)
  - Added the ability to create stocktakes
@@ -63,7 +60,7 @@
 ### Support Platform
  - Fixed a bug where the widgfet configuration was being saved to the wrong microservice database
  
- 
+ ---
 
 
 # Production - 6th November 2018

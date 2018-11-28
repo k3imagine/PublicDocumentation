@@ -1,3 +1,52 @@
+# Production - 28th November 2018
+## Features
+### POS
+ - Added new widget `article-statistic` which shows stock, on order, reserved and available quantiies for the item selected
+ - Data for Morning Amount and Cash Statements now uploaded back into imagine and no longer just on the Connector
+ - Gift Certificates now have an unlimited value - value no longer embedded in Voucher number
+ - POS can now issue Gift Vouchers as change
+ - POS can now partially redeem Gift Vouchers
+
+### Backoffice
+ - Now supports a vendor name up to 50 characters
+ - Major overhaul of Gift Voucher management
+ - Major overhaul of Credit Note management
+ - Added the ability to upload Sales Budgets via Excel spreadsheet
+
+### Reports
+ - (Beta) further work on the Financial Report
+
+### Item Managemnt
+ - Added the ability to edit the Tax Rate associated to an item
+ - (Beta) Added the ability to switch and manage the dimensions for a product
+ - Adding a non-SKU product no longer requires a Vendor to be selected
+ - Unit of Measure is no longer mandatory
+ - 0 (Zero) cost and price are now considered valid
+
+### Stock Management
+ - Added the Stock lookup feature to view all data for a scanned or selcted article-statistic`
+ 
+### Public API
+ - Added the ability to create, redeem and balance check Gift Vouchers and Credit Notes
+
+## Bugs
+### POS
+ - Fixed a bug where different fields would be displayed on the receipt panel depending on if you used a barcode scan or a search
+ - Fixed a bug where the VAT was not being recorded against some transactions
+ - Fixed a bug in the customer search when using case insensitive "contains" searches
+ - Fixed a bug where some parameters were not printing on the receipt
+ - Fixed a bug which could have meant a sale was duplicated in the datauplaoded by the connector
+ - Fixed a bug where certain items could not be sold
+ - Fixed a bug where pasting into the Line Comment could end up in the Barcode box and not get cleared down
+
+### Item Management
+ - Fixed the search results to return Master items
+ - Fixed a bug in auto price calculation where if the default multiplier is 0 it should not try and recalcluate the price
+ - Fixed a bug where it would append the item number even when you are auto-generating
+ 
+### Admin
+ - Fixed a bug which meant saving a Shop Currency would set the shop name to blank
+---
 # Production - 19th November 2018
 ## Features
 ### POS

@@ -1,3 +1,27 @@
+# Scheduled for 12th December 2018
+## Features
+### Public API
+ - Now supports partial redemption of Gift Vouchers
+ 
+### Reports
+ - Financial Report has been enhaced with abetter layout for cash statements
+ 
+### Stock management
+ - Added Stock Lookup feature to search for and scan items and return all article statistics
+ 
+
+## Bugs
+### POS
+ - Issue when searching for items with an unusual tax setup (deliverate or otherwise) has been resolved
+ - Fixed an issue where you could over-return a value onto a gift voucher, which should have been invalid behaviour
+ - Fixed a bug where Cash Statements were getting submitted as Sales Transqactions and skewing report information
+ 
+### Price and Promotion Engine
+ - Big refactor featuring many bug fixes
+ 
+### Reports
+ - Fixed reports to stop them displaying Cash Statements as Sales
+
 # Production - 28th November 2018
 ## Features
 ### POS

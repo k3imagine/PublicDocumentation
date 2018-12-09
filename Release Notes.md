@@ -1,5 +1,11 @@
 # Scheduled for 12th December 2018
 ## Features
+### POS
+ - Gift Vouchers and Credit Memos now have a configurable expiration date. The default expiration date is 365. 
+ 
+### Support Platfoprm
+ - Now restricts user to only see data within their user group
+ 
 ### Public API
  - Now supports partial redemption of Gift Vouchers
  

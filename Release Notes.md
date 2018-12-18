@@ -1,7 +1,14 @@
-# Scheduled for 12th December 2018
+# Scheduled for 19th December 2018
 ## Features
 ### POS
  - Gift Vouchers and Credit Memos now have a configurable expiration date. The default expiration date is 365. 
+ - Now supports Customer Facing Displays. To automate its deployment to a second screen we recommend using google chrome with our extension: https://chrome.google.com/webstore/detail/k3-imagine-companion-exte/kimblkaofpaipeibpkjfngeajffkepen
+ - Receipt numbers have been altered to support up to 999 POS per store
+ - Receipt number has now been put underneath the receipt barcode to make it clear what it represents
+ - Added support in the POS for "Offline" returns so they do not go into main stock. Configuration in the Back Office needs to follow to reflect his change but can be added by K3 in the interim
+ 
+## Admin
+ - Added configuration for Customer Facing Displays
  
 ### Support Platfoprm
  - Now restricts user to only see data within their user group
@@ -14,6 +21,7 @@
  
 ### Stock management
  - Added Stock Lookup feature to search for and scan items and return all article statistics
+ - Added the ability to enter quantities to purchase order through a Matrix Grid
  
 
 ## Bugs
@@ -21,6 +29,11 @@
  - Issue when searching for items with an unusual tax setup (deliverate or otherwise) has been resolved
  - Fixed an issue where you could over-return a value onto a gift voucher, which should have been invalid behaviour
  - Fixed a bug where Cash Statements were getting submitted as Sales Transqactions and skewing report information
+ - Fixed an issue where scanning the receipt barcode was not creating the return transaction
+ - Fixed a bug where having duplicate ItemTaxCode records could misrecord VAT calculation
+
+### Admin
+ - Fixed an issue where terminal configuration wasn't being included in the response from the API
  
 ### Price and Promotion Engine
  - Big refactor featuring many bug fixes

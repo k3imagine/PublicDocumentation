@@ -39,6 +39,9 @@
 
 ### Admin
  - Fixed an issue where terminal configuration wasn't being included in the response from the API
+
+### Backoffice
+ - Fixed a date filter issue when from and to dates are the same day
  
 ### Price and Promotion Engine
  - Big refactor featuring many bug fixes

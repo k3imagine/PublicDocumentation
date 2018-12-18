@@ -6,9 +6,14 @@
  - Receipt numbers have been altered to support up to 999 POS per store
  - Receipt number has now been put underneath the receipt barcode to make it clear what it represents
  - Added support in the POS for "Offline" returns so they do not go into main stock. Configuration in the Back Office needs to follow to reflect his change but can be added by K3 in the interim
+ - Swedish translations updated
+ - Added a comprehensive search for previous receipts to allow for clerks to search for and return transactions
  
-## Admin
+### Admin
  - Added configuration for Customer Facing Displays
+
+### Item Management
+ - Added the ability to switch and resequence your dimensions and their values
  
 ### Support Platfoprm
  - Now restricts user to only see data within their user group

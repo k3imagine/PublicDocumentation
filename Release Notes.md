@@ -37,6 +37,9 @@
  - Fixed an issue where scanning the receipt barcode was not creating the return transaction
  - Fixed a bug where having duplicate ItemTaxCode records could misrecord VAT calculation
 
+### Price and Promotion Engine
+ - Fixed a bug where duplicated item data may get added to the PPE
+
 ### Admin
  - Fixed an issue where terminal configuration wasn't being included in the response from the API
 

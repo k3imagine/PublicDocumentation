@@ -20,6 +20,7 @@
  
 ### Public API
  - Now supports partial redemption of Gift Vouchers
+ - CSV Import will now only reject failed records and allow the remaining records to be imported
  
 ### Reports
  - Financial Report has been enhaced with abetter layout for cash statements

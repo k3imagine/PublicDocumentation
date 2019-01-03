@@ -1,7 +1,8 @@
-# Scheduled - 3rd January 2019
+# 3rd January 2019
 ## Features
 ### POS
  - Receipt Search "Find Note" functionality now uses elastic search and you can search for and reprint historical receipts
+ - Modifications made to the english translations around "notes" to "trasactions"
 
 ### Connector
  - Returns will now print a separate slip asking for notes and a signature

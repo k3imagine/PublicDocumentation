@@ -1,3 +1,26 @@
+# Scheduled - 3rd January 2019
+## Features
+### POS
+ - Receipt Search "Find Note" functionality now uses elastic search and you can search for and reprint historical receipts
+
+### Connector
+ - Returns will now print a separate slip asking for notes and a signature
+ 
+## Bug Fixes
+### POS
+ - Fixed an issue with the Swedish Language on the home screen
+ 
+### Price and Promotion Engine
+ - Fixed issue preventing the user from accessing the module
+ 
+### Connector
+ - Fixed issue where the price would not print in the correct alignment when the item details wrap over a line
+
+### Support Platform
+ - Fixed general issues when loading tenant information
+ 
+---
+
 # 19th December 2018
 ## Features
 ### POS

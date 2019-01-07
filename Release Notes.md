@@ -12,6 +12,7 @@
 
 ### Public API
  - Increased timeout value for CSV imports
+ - CSV import will now import successful lines, reject valid ones and respond with the appropriate issue for each rejected line
  
 ## Bug Fixes
 ### Portal

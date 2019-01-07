@@ -1,3 +1,33 @@
+# 7th January 2019
+## Features
+### POS
+ - Emailed Receipt now comes "from" a store's email address (See Backoffice release note)
+ - Added the capability to auto roll over the POS ID when the maximum receipt number has been reached
+
+### Backoffice
+ - Backend now supports an EmailReceipt "from" parameter. This is to be added to the UI as part of the new UX work but can be configured manually in the data for the time being
+ 
+### Price and Promotion Engine
+ - Basket calculation speed for item prices has been improved
+
+### Public API
+ - Increased timeout value for CSV imports
+ 
+## Bug Fixes
+### Portal
+ - Fixed an issue where the portal screen would load blank when re-visiting it after a period of time
+ 
+### POS
+ - Fixed issue when "stay logged in" feature was enabled that caused subsequenct receipts to have 0 receipt numbers
+ 
+### Support Platform
+ - Fixed issues creating users and assigning modules
+
+### Public API
+ - Various import bugs fixed
+
+---
+
 # 3rd January 2019
 ## Features
 ### POS

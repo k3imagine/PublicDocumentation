@@ -1,3 +1,21 @@
+# 10th January - Scheduled
+## Features
+### Internal API
+ - Added new Internal API gateway to improve PPE performance
+ 
+## Bug Fixes
+### Admin
+ - Fixed issue where setting receipt line items back to be blank/nothing wasn;t possible
+
+### Backoffice
+ - Fixed issue saving a clerk as a local clerk
+ 
+### POS
+ - Fixed issue where different properties are displayed when scanning a receipt vs searching for it for return
+
+### Stock Management
+ - Fixed issue saving a Goods Recieve Note
+---
 # 7th January 2019
 ## Features
 ### POS

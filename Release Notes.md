@@ -5,7 +5,7 @@
  
 ## Bug Fixes
 ### Admin
- - Fixed issue where setting receipt line items back to be blank/nothing wasn;t possible
+ - Fixed issue where setting receipt line items back to be blank/nothing wasn't possible
 
 ### Backoffice
  - Fixed issue saving a clerk as a local clerk

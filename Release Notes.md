@@ -1,4 +1,4 @@
-# 10th January - Scheduled
+# 10th January
 ## Features
 ### Internal API
  - Added new Internal API gateway to improve PPE performance

@@ -2,6 +2,10 @@
 ## Features
 ### POS
  - Future receipts will now be searchable on Payment Type/Method
+
+### Reports
+ - Added Average Transaction basket to Financial Report
+ - (BETA) Added Overview report
  
 ## Bug Fixes
 ### POS

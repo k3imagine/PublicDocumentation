@@ -11,7 +11,7 @@
  - Fixes to the Financial Report for reconciliation
 
 ### Backoffice
- - Fix error saving a global clerk
+ - Fixed error saving a global clerk
 
 ---
 # 10th January

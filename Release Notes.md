@@ -1,3 +1,19 @@
+# 14th January 2018
+## Features
+### POS
+ - Future receipts will now be searchable on Payment Type/Method
+ 
+## Bug Fixes
+### POS
+ - Fixed issue where receipt search was not displaying discount lines
+ 
+### Reports
+ - Fixes to the Financial Report for reconciliation
+
+### Backoffice
+ - Fix error saving a global clerk
+
+---
 # 10th January
 ## Features
 ### Internal API

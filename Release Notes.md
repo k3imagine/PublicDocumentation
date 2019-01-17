@@ -4,12 +4,16 @@
  - Updated Swedish translations
  - Added a Shop Filter to Receipt Search to search for eceipts from local store only, or all stores
  - Added Payment Types to the Receipt Search
- - 
  
  ### Connector
  - Added "Return" to the header on return receipts
  
-
+### Support Platform
+ - Added security to Connector Details screen to restrict to only that user groups tenants
+ 
+### Stock Managemnet
+ - Added backend functionality for Offline Stock management. Still not ready for market as the UI work is to be completed.
+ 
 ## Bugs
 ### POS
  - Fixed an issue where if the Tracking service was not available it would block/slow down POS usage. Implemented a Service Worker to track these and manage offline much more effectively.

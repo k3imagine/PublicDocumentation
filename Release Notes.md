@@ -1,4 +1,4 @@
-# Scheduled 17th January 2018
+# 17th January 2018
 ## Features
 ### POS
  - Updated Swedish translations

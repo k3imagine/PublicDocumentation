@@ -1,3 +1,35 @@
+# Scheduled 17th January 2018
+## Features
+### POS
+ - Updated Swedish translations
+ - Added a Shop Filter to Receipt Search to search for eceipts from local store only, or all stores
+ - Added Payment Types to the Receipt Search
+ - 
+ 
+ ### Connector
+ - Added "Return" to the header on return receipts
+ 
+
+## Bugs
+### POS
+ - Fixed an issue where if the Tracking service was not available it would block/slow down POS usage. Implemented a Service Worker to track these and manage offline much more effectively.
+ - Fixed an issue where receipts may be duplicated in Receipt Search
+ - Added negative symbols to return values in Receipt Search
+ 
+### Number Generation
+ - Fixed a bug where seeded DemoData would not jump the automatic number sequence which would cause an error generating new Clerk numbers, amongst other things.
+ 
+### Stock
+ - Fixed a bug preventing Goods Receive Notes being generated
+ 
+### Support Platform
+ - Fixed a bug which caused the erroneous creation of new Databases with funny names
+
+### Connector
+ - Fixed an issue where the connector would error when an alphanumeric barcode was used, which cause transactions to not be saved properly
+
+---
+
 # 14th January 2018
 ## Features
 ### POS

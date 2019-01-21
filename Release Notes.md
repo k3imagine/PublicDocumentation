@@ -1,3 +1,15 @@
+# 21st January 2018
+## Features
+### POS
+ - Added a button to Clear All Discounts
+
+## Bugs
+### POS
+ - Fixed an sisue where transactionType for CashStatement lines came through as Sale
+### Reports
+ - Fixed issue with Week Numbers going above 53 on the Weekly Sales report
+
+---
 # 17th January 2018
 ## Features
 ### POS

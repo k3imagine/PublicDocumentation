@@ -2,10 +2,18 @@
 ## Features
 ### POS
  - Added a button to Clear All Discounts
+ - Added a "Toggle Filters" button to Receipt Search so it takes up less screen space
+
+### Order Ready Board
+ - Now live in Production
+
+### Price and Promotion Engine
+ - Enhancement to the basket calculation to improve performance and scalability
 
 ## Bugs
 ### POS
  - Fixed an sisue where transactionType for CashStatement lines came through as Sale
+ - Fixed an issue where Offline database might not get initialised
 ### Reports
  - Fixed issue with Week Numbers going above 53 on the Weekly Sales report
 

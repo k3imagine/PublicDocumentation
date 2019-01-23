@@ -18,6 +18,8 @@
  - Fixed an sisue where transactionType for CashStatement lines came through as Sale
  - Fixed an issue where Offline database might not get initialised
  - Fixed an issue where making a return for a discounted transaction would not bring back the discounted amount
+ - Fixed Foreign Credit Note change to now issue an Imagine Credit Note
+ - Fixed Foreign Gift Certificate change to issue an Imagine Credit Note
  
 ### Reports
  - Fixed issue with Week Numbers going above 53 on the Weekly Sales report

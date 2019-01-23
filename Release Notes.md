@@ -24,6 +24,9 @@
 ### Reports
  - Fixed issue with Week Numbers going above 53 on the Weekly Sales report
 
+### Public API
+ - Fixed issue with return amounts when original price is 0
+
 ---
 # 17th January 2018
 ## Features

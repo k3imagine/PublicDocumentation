@@ -1,4 +1,4 @@
-# 21st January 2018
+# 23rd January 2018
 ## Features
 ### POS
  - Added a button to Clear All Discounts

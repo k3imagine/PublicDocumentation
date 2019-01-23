@@ -17,6 +17,8 @@
 ### POS
  - Fixed an sisue where transactionType for CashStatement lines came through as Sale
  - Fixed an issue where Offline database might not get initialised
+ - Fixed an issue where making a return for a discounted transaction would not bring back the discounted amount
+ 
 ### Reports
  - Fixed issue with Week Numbers going above 53 on the Weekly Sales report
 

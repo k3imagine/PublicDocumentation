@@ -9,6 +9,9 @@
 
 ### Price and Promotion Engine
  - Enhancement to the basket calculation to improve performance and scalability
+ 
+### Other
+ - Added a reindex fucntion in the backend to rebuild receipt search indexes
 
 ## Bugs
 ### POS

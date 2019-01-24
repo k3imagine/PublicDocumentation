@@ -1,4 +1,14 @@
-# 23rd January 2018
+# 24th January 2019
+## Bug Fixes
+### POS 
+ - Fixed an issue where the toaster overlay prevents access of buttons. Implemented a whole new toaster.
+ - Fixed an issue where returns would be different depending on the method of return
+ 
+### Order Ready Board
+ - Addition of Network bypass for Pilot site
+---
+
+# 23rd January 2019
 ## Features
 ### POS
  - Added a button to Clear All Discounts
@@ -31,7 +41,7 @@
  - Return text on return receipt is fixed and translatable
 
 ---
-# 17th January 2018
+# 17th January 2019
 ## Features
 ### POS
  - Updated Swedish translations
@@ -67,7 +77,7 @@
 
 ---
 
-# 14th January 2018
+# 14th January 2019
 ## Features
 ### POS
  - Future receipts will now be searchable on Payment Type/Method

@@ -27,6 +27,9 @@
 ### Public API
  - Fixed issue with return amounts when original price is 0
 
+### Connector
+ - Return text on return receipt is fixed and translatable
+
 ---
 # 17th January 2018
 ## Features

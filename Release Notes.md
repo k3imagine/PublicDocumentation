@@ -1,3 +1,13 @@
+# Scheduled 30th January 2019
+## Features
+### Support Platform
+ - Restricted access to certain functions to administrators only
+## Bug Fixes
+### Price and Promotion Engine
+ - Fixed issue saving Least Expensive discount
+ - Fixed issue saving Multibuy discount
+ - Fixed issue saving Multibuy with Price Discount
+---
 # 24th January 2019
 ## Bug Fixes
 ### POS 

@@ -1,10 +1,28 @@
 # Scheduled 30th January 2019
 ## Features
+### Admin
+ - Currency and number values now support the local number format
+
+### Item Management
+ - Currency and number values now support the local number format
+ 
 ### Support Platform
  - Restricted access to certain functions to administrators only
+ 
 ## Bug Fixes
+### Admin
+ - Currency header labels were switched over
+ - CVR string stranslated to Comany Number
+ - Fixed issue where saving Shop Setup would not pop a successful toast message
+ - Fixed issue where saving Button Management would not pop a successful toast message
+ - Fixed issue where saving POS Options would not pop a successful toast message, Button Management and POS Options 
+ - Fixed issue where the receipt preview would not display Bold lines in the same way they were printed. Whilst we could not exactly match, it is now more proportionally representative. 
+ 
 ### Item Management
  - Fixed issues where it would not display the item's selcted hierarchy node
+ - Fixed validation error to pop a toaster when the name is too long
+ - Fixed issue where Restock level and Reorder Point logic for which should be higher was the wrong way round
+ - Fixed issue where items would create dimensions with the wrong ordinal positions meaning the matrix grid would display incorrectly
  
 ### Price and Promotion Engine
  - Fixed issue saving Least Expensive discount

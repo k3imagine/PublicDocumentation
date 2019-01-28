@@ -1,5 +1,9 @@
 # Scheduled 30th January 2019
 ## Features
+### Backoffice
+ - Added an Active/Inactive toggle to Vendors
+ - Added an Active/Inactive toggle to Shops
+ 
 ### Reports
  - Added new Trandsaction List report
  

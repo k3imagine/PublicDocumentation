@@ -1,5 +1,8 @@
 # Scheduled 30th January 2019
 ## Features
+### Reports
+ - Added new Trandsaction List report
+ 
 ### Admin
  - Currency and number values now support the local number format
 

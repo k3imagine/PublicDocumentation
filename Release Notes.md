@@ -3,6 +3,9 @@
 ### Support Platform
  - Restricted access to certain functions to administrators only
 ## Bug Fixes
+### Item Management
+ - Fixed issues where it would not display the item's selcted hierarchy node
+ 
 ### Price and Promotion Engine
  - Fixed issue saving Least Expensive discount
  - Fixed issue saving Multibuy discount

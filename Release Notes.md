@@ -30,6 +30,7 @@
  - Fixed validation error to pop a toaster when the name is too long
  - Fixed issue where Restock level and Reorder Point logic for which should be higher was the wrong way round
  - Fixed issue where items would create dimensions with the wrong ordinal positions meaning the matrix grid would display incorrectly
+ - Fixed issue where updating items would fail
  
 ### Price and Promotion Engine
  - Fixed issue saving Least Expensive discount

@@ -4,6 +4,9 @@
  - Added an Active/Inactive toggle to Vendors
  - Added an Active/Inactive toggle to Shops
  
+### Stock Management
+ - Added a Matrix button to add items from a matrix grid in Purchase Orders
+ 
 ### Reports
  - Added new Trandsaction List report
  
@@ -17,6 +20,16 @@
  - Restricted access to certain functions to administrators only
  
 ## Bug Fixes
+### Stock Management
+ - Fixed various issues saving/creating/committing a Purchase Order
+ - Fixed various issues saving/creating/committing a Goods Receive
+ - Fixed the dates of Goods Receive in main screen
+ - Changes where made to the searches in all views
+ - When opneing a GRN which is linked to a PO the PO should be connected/displayed
+ - When viewing a closed PO(and GRN) the Matrix button should not be displayed
+ - Fixed label printing in Goods receiving
+ - Fixed every input field in the app to disallow negative integers
+ 
 ### Admin
  - Currency header labels were switched over
  - CVR string stranslated to Comany Number

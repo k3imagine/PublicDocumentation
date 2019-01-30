@@ -8,7 +8,7 @@
  - Added a Matrix button to add items from a matrix grid in Purchase Orders
  
 ### Reports
- - Added new Trandsaction List report
+ - Added new Transaction List report
  
 ### Admin
  - Currency and number values now support the local number format

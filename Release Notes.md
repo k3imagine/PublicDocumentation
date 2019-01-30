@@ -19,6 +19,10 @@
 ### Support Platform
  - Restricted access to certain functions to administrators only
  
+### Reports
+ - (Beta) Transaction List report has been added
+ - (Beta) Overview report has been added
+ 
 ## Bug Fixes
 ### Stock Management
  - Fixed various issues saving/creating/committing a Purchase Order

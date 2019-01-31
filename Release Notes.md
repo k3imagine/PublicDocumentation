@@ -1,4 +1,4 @@
-# Scheduled 30th January 2019
+# 31st January 2019
 ## Features
 ### Backoffice
  - Added an Active/Inactive toggle to Vendors

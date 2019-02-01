@@ -1,3 +1,12 @@
+# 1st February 2019
+## Features
+## Bug Fixes
+### POS
+ - Fixed issue recording VAT on some transactions
+
+### Reports
+ - Fixed issue where Financial Report was not separating connector data
+---
 # 31st January 2019
 ## Features
 ### Backoffice

@@ -6,6 +6,7 @@
  - POS will now check for config changes every minute, meaning a reload of the POS is not necessary when changing settings
  - Added the ability to search for Entered Text in the POS and display in electronic journal
  - Added support for CCV payment terminal integration (pending certification)
+ - Now records the unit price when sales price is 0 for use in the public API
 
 ### Backoffice
  - Added support for Shoebox labels, where it will print a left, right and box section with a sequence number

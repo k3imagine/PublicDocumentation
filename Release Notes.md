@@ -1,3 +1,38 @@
+# Scheduled 7th February 2019
+## Features
+### POS
+ - Added the ability for the POS to run offline completely from reboot of PC
+ - POS can now be "installed" via chrome
+ - POS will now check for config changes every minute, meaning a reload of the POS is not necessary when changing settings
+ - Added the ability to search for Entered Text in the POS and display in electronic journal
+ - Added support for CCV payment terminal integration (pending certification)
+
+### Reports
+ - Added the ability top negate groupings for the Generic reports
+ - Improvements to the Overview report (Beta)
+ - Improvements to the Transaction Report (Beta)
+
+### Public API
+ - Added endpoints for Stock Lookup
+ - Added endpoints for Goods Receive Notes
+ - Added enddpoints for Clerks
+ - Extended Item endpoints to accept additional barcodes
+
+## Bug Fixes
+### Price and Promotion Engine
+ - Fixed issue where Basket in wrong currency would throw an error
+ - Fixed an issue in reprinting receipts (requires connector update)
+ - Fixed issue recording VAT on certain transactions
+ - Fixed issue where updates would cause notifications to spam the user
+ 
+### Stock Management
+ - Fixed issue when committing a Purchase Order which had previously been a draft throwing an error
+ - Purchase Orders have been fully refactored
+ - Fixed issue where On Hand was just matching On Order
+ - Fixed a rounding issue for prices
+ 
+---
+
 # 1st February 2019
 ## Features
 ## Bug Fixes

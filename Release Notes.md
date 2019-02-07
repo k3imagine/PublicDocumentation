@@ -22,17 +22,17 @@
  - Extended Item endpoints to accept additional barcodes
 
 ## Bug Fixes
-### POS 
- - Fixed issue where local clerks could still log into other stores
- 
 ### Item Management
  - Fixed issue where dimension sequences were not being set
  
 ### Price and Promotion Engine
  - Fixed issue where Basket in wrong currency would throw an error
+ 
+### POS
  - Fixed an issue in reprinting receipts (requires connector update)
  - Fixed issue recording VAT on certain transactions
  - Fixed issue where updates would cause notifications to spam the user
+ - Fixed issue where local clerks could still log into other stores
  
 ### Stock Management
  - Fixed issue when committing a Purchase Order which had previously been a draft throwing an error

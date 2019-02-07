@@ -12,7 +12,7 @@
  - Added support for Shoebox labels, where it will print a left, right and box section with a sequence number
 
 ### Reports
- - Added the ability top negate groupings for the Generic reports
+ - Added the ability to negate groupings for the Generic reports
  - Improvements to the Overview report (Beta)
  - Improvements to the Transaction Report (Beta)
 

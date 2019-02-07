@@ -7,6 +7,9 @@
  - Added the ability to search for Entered Text in the POS and display in electronic journal
  - Added support for CCV payment terminal integration (pending certification)
 
+### Backoffice
+ - Added support for Shoebox labels, where it will print a left, right and box section with a sequence number
+
 ### Reports
  - Added the ability top negate groupings for the Generic reports
  - Improvements to the Overview report (Beta)
@@ -19,6 +22,9 @@
  - Extended Item endpoints to accept additional barcodes
 
 ## Bug Fixes
+### Item Management
+ - Fixed issue where dimension sequences were not being set
+ 
 ### Price and Promotion Engine
  - Fixed issue where Basket in wrong currency would throw an error
  - Fixed an issue in reprinting receipts (requires connector update)

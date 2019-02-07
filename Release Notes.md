@@ -1,4 +1,4 @@
-# Scheduled 7th February 2019
+# 7th February 2019
 ## Features
 ### POS
  - Added the ability for the POS to run offline completely from reboot of PC

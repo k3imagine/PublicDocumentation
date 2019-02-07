@@ -22,6 +22,9 @@
  - Extended Item endpoints to accept additional barcodes
 
 ## Bug Fixes
+### POS 
+ - Fixed issue where local clerks could still log into other stores
+ 
 ### Item Management
  - Fixed issue where dimension sequences were not being set
  

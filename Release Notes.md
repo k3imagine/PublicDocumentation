@@ -1,3 +1,52 @@
+# 20th February 2019
+## Features
+### Reports
+ - Localizations added for Dutch and German
+ - Transaction Report updated and in final Beta
+
+### Item Management
+ - Localizations added for Dutch and German
+
+### Price and Promotion Engine
+ - Localizations added for Dutch and German
+
+### Stock Management
+ - Transfer Outs can now only be sent to shops in the same Group as the Sending store
+ - Localizations added for Dutch and German
+
+## Bugs
+### POS
+ - Fixed issue with error returning no results for customer search
+ - DdD Connector renamed to K3 Connector
+ - Fixed issue where duplicate payment lines are added when cancelling a transaction
+ - Fixed issue where entering an invalid email address into Email Receipt would then not be editable
+ - Fixed issue where CurrencyUnits would be displayed in the wrong order
+ - Fixed error creating new customers in the Find Customer widget
+
+### Admin
+ - DdD Connector renamed to K3 Connector
+
+### Reports
+ - Minor fixes to the Financial Report
+
+### Stock Management
+ - Searches now utilise the Vendor filter
+ - Fixed issues creating purchase orders and not showing on the PO list
+ - Fixed an issue where the On Order quantity was not getting adjusted properly when receiving against a PO
+
+### Tracking
+ - Fixed tracking Microservice for PublicAPI requests
+
+### Support
+ - Fixed issues utilising Shop Context between screens
+
+### Connector
+ - Fixed issue where it would not print a receipt when a customer number contains non-numeric characters
+
+### Tenant Creation
+ - Major overhaul to the tenant creation process to make it work more seamlessly
+ 
+---
 # 7th February 2019
 ## Features
 ### POS

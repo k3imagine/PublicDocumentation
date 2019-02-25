@@ -1,3 +1,33 @@
+# Scheduled - 27th February 2019
+## Features
+### Portal
+ - New user interface implemented
+ - Added fucntionality for lost/forgotten password
+ 
+### Reports
+ - New user interface implemented
+
+### Item Management
+ - Added support to print the currency symbol on the label
+ 
+### POS
+ - Added "Shop Logo" widget which will display the Shop's ImageURL defined in the backoffice
+ - Added "Product Image" widget which will display the product's image if provided in Item Management#
+
+### Tracking
+ - Implemented auto cleanse of tracking data older than 30 days via Kubernetes CronJob
+
+## Bugs
+### POS
+ - Fixed a bug where Rounding payment lines were not being recorded to the database
+ - Fixed a bug where the clerk's language was not overruling the shop/backoffice user lamguage
+ - Fixed issue where the Cash statement was showing on the charts
+ 
+### Support UI
+ - Fixed bug where Password was showing as expired on first creation
+ - Fixed bug where selcting a shop in Shop Details was displaying the wrong data
+ 
+---
 # 20th February 2019
 ## Features
 ### Reports

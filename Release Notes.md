@@ -2,7 +2,7 @@
 ## Features
 ### Portal
  - New user interface implemented
- - Added fucntionality for lost/forgotten password
+ - Added functionality for lost/forgotten password
  
 ### Reports
  - New user interface implemented

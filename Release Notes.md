@@ -7,7 +7,6 @@
 ### Reports
  - New user interface implemented
  - Transaction report improvements in Beta
- - Overview report improvements in Beta
 
 ### Item Management
  - Added support to print the currency symbol on the label

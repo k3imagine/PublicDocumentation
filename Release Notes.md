@@ -1,4 +1,4 @@
-# Scheduled - 27th February 2019
+# 28th February 2019
 ## Features
 ### Portal
  - New user interface implemented
@@ -6,6 +6,8 @@
  
 ### Reports
  - New user interface implemented
+ - Transaction report improvements in Beta
+ - Overview report improvements in Beta
 
 ### Item Management
  - Added support to print the currency symbol on the label
@@ -17,15 +19,27 @@
 ### Tracking
  - Implemented auto cleanse of tracking data older than 30 days via Kubernetes CronJob
 
+### Support UI
+ - Added better validation of usernames and email addresses during user creation
+
 ## Bugs
 ### POS
  - Fixed a bug where Rounding payment lines were not being recorded to the database
  - Fixed a bug where the clerk's language was not overruling the shop/backoffice user lamguage
  - Fixed issue where the Cash statement was showing on the charts
+ - Fixed bug where web orders were not being marked as closed
  
 ### Support UI
  - Fixed bug where Password was showing as expired on first creation
- - Fixed bug where selcting a shop in Shop Details was displaying the wrong data
+ - Fixed bug where selecting a shop in Shop Details was displaying the wrong data
+ - Fixed bug where you could not assign widgets unless you were an administrator
+
+### Item management
+ - Fixed bug where item creation would error "Failed to create items"
+
+### Price and Promotion Engine
+ - Fixed bug saving new item prices
+ 
  
 ---
 # 20th February 2019

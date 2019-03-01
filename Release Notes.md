@@ -1,3 +1,18 @@
+# 1st March - Hotfix
+## Bugs
+### Reports
+ - Fixed error where the filters would be hidden on the Transactions Report
+ - Fixed cash statements appearing in the Sales Analysis
+ - Fixed coloriing of bar chart so White is not a default colour
+ - Fixed issue where Expenses would appear in the wrong reports
+ - Fixed issue where the printing of the financial report was not formatted well
+ - Fixed issue where the financial report would not print over more than one page
+ 
+### POS
+ - Fixed issue where creating customers would error if the customer number already existed
+
+---
+
 # 28th February - Hotfix
 ## Features
 ### Admin
@@ -10,7 +25,8 @@
  - Fixed avatar logo that was missing
  - Fixed cash statement error in financial report
  - Fixed curly brackets appearing in Reports
- 
+
+---
 
 # 28th February 2019
 ## Features

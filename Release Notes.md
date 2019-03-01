@@ -1,3 +1,17 @@
+# 28th February - Hotfix
+## Features
+### Admin
+ - Added ability for admins to turn of Clean Cash
+ 
+## Bugs
+### Reports
+ - Fixed error where the menu would appear on the print view
+ - Fixed error with alignment of monetary values
+ - Fixed avatar logo that was missing
+ - Fixed cash statement error in financial report
+ - Fixed curly brackets appearing in Reports
+ 
+
 # 28th February 2019
 ## Features
 ### Portal

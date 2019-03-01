@@ -3,7 +3,6 @@
 ### Reports
  - Fixed error where the filters would be hidden on the Transactions Report
  - Fixed cash statements appearing in the Sales Analysis
- - Fixed coloriing of bar chart so White is not a default colour
  - Fixed issue where Expenses would appear in the wrong reports
  - Fixed issue where the printing of the financial report was not formatted well
  - Fixed issue where the financial report would not print over more than one page

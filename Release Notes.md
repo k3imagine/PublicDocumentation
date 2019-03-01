@@ -11,6 +11,9 @@
 ### POS
  - Fixed issue where creating customers would error if the customer number already existed
 
+### Support UI
+ - Fixed bugs with user creations and validations
+
 ---
 
 # 28th February - Hotfix

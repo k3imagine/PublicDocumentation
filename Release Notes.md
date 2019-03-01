@@ -1,7 +1,7 @@
 # 28th February - Hotfix
 ## Features
 ### Admin
- - Added ability for admins to turn of Clean Cash
+ - Added ability for admins to turn off Clean Cash
  
 ## Bugs
 ### Reports

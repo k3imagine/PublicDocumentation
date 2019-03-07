@@ -1,3 +1,44 @@
+# 13th March 2019 - Scheduled
+## Features
+### POS 
+ - Added Gift Receipt functionality. Youc an now mark transaction lines to automatically print a Gift Receipt, or repreint a gift receipt from the journal
+
+### Reports
+ - Added Overview Report
+ - Added Index Report
+ - Added Employee Report
+ - Added Top List Report
+ - Added Stock Report
+ - Added Financial Stock Report
+
+### Backoffice
+ - Clerks can now be a "local clerk" to many shops
+
+## Bug Fixes
+### POS
+ - Fixed some danish translations
+ - Fixed issue where cost was not being returned by the gateway
+
+### Item Management
+ - Fixed issue where movements were not showing the right type/direction
+ - Added maintenence controllers to republish data to rabbit
+
+### Reports
+ - Fixed issue where cash staements and morning amount would be included in the simpel reports
+
+### Stock management
+ - Fixed issue adding quantities from matrix Grid would add "Qty"
+ - Added maintenence controllers to republish data to rabbit
+
+### Support UI
+ - Fixed errors and validations when creating new users
+ 
+### Backoffice
+ - Added maintenence controllers to republish data to rabbit
+ 
+ 
+
+---
 # 1st March - Hotfix
 ## Bugs
 ### Reports

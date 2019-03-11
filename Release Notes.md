@@ -1,7 +1,7 @@
 # 13th March 2019 - Scheduled
 ## Features
 ### POS 
- - Added Gift Receipt functionality. Youc an now mark transaction lines to automatically print a Gift Receipt, or repreint a gift receipt from the journal
+ - Added Gift Receipt functionality. You can now mark transaction lines to automatically print a Gift Receipt, or repreint a gift receipt from the journal
  - Added functionality to view Cash Statements from the receipt journal
  - Added functionality to allow the Email Receipt to be customised via a Shop Feature
 

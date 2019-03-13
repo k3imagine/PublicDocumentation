@@ -4,6 +4,7 @@
  - Added Gift Receipt functionality. You can now mark transaction lines to automatically print a Gift Receipt, or repreint a gift receipt from the journal
  - Added functionality to view Cash Statements from the receipt journal
  - Added functionality to allow the Email Receipt to be customised via a Shop Feature
+ - Added functionality for Norwegian Fiscalization which prevents the execution of Cash Statements when ther is open parked notes. This must be enabled via a Shop Feature. This is a readiness addition and not yet implemented in the backend.
 
 ### Reports
  - Added Overview Report

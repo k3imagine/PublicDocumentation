@@ -25,6 +25,7 @@
 ### Item Management
  - Fixed issue where movements were not showing the right type/direction
  - Added maintenence controllers to republish data to rabbit
+ - Fixed error when creating duplicate hierarchy nodes
 
 ### Reports
  - Fixed issue where cash staements and morning amount would be included in the simpel reports

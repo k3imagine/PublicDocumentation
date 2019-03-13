@@ -21,6 +21,8 @@
 ### POS
  - Fixed some danish translations
  - Fixed issue where cost was not being returned by the gateway
+ - Fixed bug when returning receipts would cause endless error loop
+ - Fixed bug where product image was not getting cleared between transactions
 
 ### Item Management
  - Fixed issue where movements were not showing the right type/direction

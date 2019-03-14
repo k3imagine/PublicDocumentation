@@ -1,4 +1,4 @@
-# 13th March 2019 - Scheduled
+# 14th March 2019
 ## Features
 ### POS 
  - Added Gift Receipt functionality. You can now mark transaction lines to automatically print a Gift Receipt, or repreint a gift receipt from the journal
@@ -14,8 +14,8 @@
  - Added Stock Report
  - Added Financial Stock Report
 
-### Backoffice
- - Clerks can now be a "local clerk" to many shops
+### Connector
+ - Connector now supports printing of stock documents, but the UI work to enable this is still pending
 
 ## Bug Fixes
 ### POS

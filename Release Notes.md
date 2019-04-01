@@ -1,3 +1,68 @@
+# 1st April 2019 - Release Candidate
+## Features
+### Connector
+ - Added Google Cloud Print support
+
+### Admin
+ - Added Google Cloud Print support
+ - Added German translations
+
+### Item Management
+ - Updating MasterItemName now updates all items
+
+### Stock Management
+ - Stock management is now utilising weighted average costs
+ - Backend now supports multi-currency receipt of goods and purchase orders
+
+### Public API
+ - Added support to import a Customer XLS file
+ - Added support for a new Item Import which includes an opening receipt of goods and cost price
+
+### POS 
+ - Added a count of receipt reprints performed so it can be used for future fiscal requirements
+ - Added the ability to restrict the number of reprints of receipts
+
+### Integration Gateway
+ - Added support for Tax Groups to be integrated
+ - Added support for Item Hiearchies to be integrated
+
+### Support Platform
+ - Added support for creating and using Shop Feature Templates to make assignment of such things to retailers easier
+
+## Bug Fixes
+### Portal
+ - Fixed issue where login form was not recognised by password managers
+ 
+### Admin
+ - Added exception handling middleware
+ - Fixed issue where new tenants would not have any Line parameeters for their receipt configuration
+
+### Identity
+ - Fixed issue where shop and tenant data not getting distributed correctly
+
+### POS
+ - Fixed issue with setting a blank morning amount
+ - Added german translations to widgets
+ - Fixed issue with the recording of various types of data to enhance the Financial Report
+ - Fixed bug where Gift Certificate was not showing in receipt search as a line parameter
+ - Fixed issue where prices were not being pulled from the group correctly when defined in the PPE
+
+### Stock Management
+ - Fixed issue where user name length would stop documents being saved
+
+### Public API
+ - Fixed issue where item dimension values and hierarchies not creating the matrix
+ - Fixed issues where Customers were not being upserted properly
+
+### Number Generation
+ - Fixed issue where Vendor Number generation would fail due to an invalid max length
+
+### Integration Gateway
+ - Fixxed issue where vendors would keep getting deactivated
+ 
+
+---
+
 # 14th March 2019
 ## Features
 ### POS 

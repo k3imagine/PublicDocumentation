@@ -36,7 +36,7 @@
 ## Bug Fixes
 ### Portal
  - Fixed issue where login form was not recognised by password managers
- - Fixed issue where the page wa snot loading correctly forcing a refresh
+ - Fixed issue where the page was not loading correctly forcing a refresh
  
 ### Admin
  - Added exception handling middleware
@@ -52,6 +52,7 @@
  - Fixed bug where Gift Certificate was not showing in receipt search as a line parameter
  - Fixed issue where prices were not being pulled from the group correctly when defined in the PPE
  - Fixed error sending eReceipt on the defualt tempalte not substituting varaibles
+ - Fixed issue where Reprint Last Receipt was not printing the right details
 
 ### Stock Management
  - Fixed issue where user name length would stop documents being saved

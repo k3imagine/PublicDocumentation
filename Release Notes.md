@@ -28,6 +28,7 @@
 
 ### Support Platform
  - Added support for creating and using Shop Feature Templates to make assignment of such things to retailers easier
+ - Users no longer required to have a global unique email address. Unique username is the only requirement
 
 ## Bug Fixes
 ### Portal
@@ -46,6 +47,7 @@
  - Fixed issue with the recording of various types of data to enhance the Financial Report
  - Fixed bug where Gift Certificate was not showing in receipt search as a line parameter
  - Fixed issue where prices were not being pulled from the group correctly when defined in the PPE
+ - Fixed error sending eReceipt on the defualt tempalte not substituting varaibles
 
 ### Stock Management
  - Fixed issue where user name length would stop documents being saved
@@ -53,12 +55,17 @@
 ### Public API
  - Fixed issue where item dimension values and hierarchies not creating the matrix
  - Fixed issues where Customers were not being upserted properly
+ - Fixed error where it would delete items if not present in a master item update
 
 ### Number Generation
  - Fixed issue where Vendor Number generation would fail due to an invalid max length
 
 ### Integration Gateway
  - Fixxed issue where vendors would keep getting deactivated
+
+### Reports
+ - Fixed Financial report to handle multiple cash statements on the same date
+ - Fixed financial report to handle daily closure counts
  
 
 ---

@@ -1,5 +1,8 @@
-# 1st April 2019 - Release Candidate
+# 3rd April 2019
 ## Features
+### Portal
+ - Added release notes and links to documentation to Portal landing page
+ 
 ### Connector
  - Added Google Cloud Print support
 
@@ -33,6 +36,7 @@
 ## Bug Fixes
 ### Portal
  - Fixed issue where login form was not recognised by password managers
+ - Fixed issue where the page wa snot loading correctly forcing a refresh
  
 ### Admin
  - Added exception handling middleware

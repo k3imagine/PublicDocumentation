@@ -4,7 +4,6 @@
  - Updated dutch translations for some widgets
  - Added support to restrict quantity adjustments for norwegian fiscalizations
  - A4/A5, Portrait or Landscape orientation added for Google Cloud Printing
- - Fixed issue where stock lookup widget returning 0s and not displaying grid
 
 ### Portal
  - Password reset in the support UI will now ask a user to reset their password on the next login
@@ -18,6 +17,12 @@
 ## Bugs
 ### Item Management
  - Fixed issue where the seed data would incorrectly create the search parameters, resulting in search errors for new tenants
+
+### POS
+ - Fixed issue where stock lookup widget returning 0s and not displaying grid
+
+### Portal
+ - Fixed issue where + symbol was not being included in the password
 
 ### Support
  - Fixed issue where new users were not inheriting the tenant's user group

@@ -1,3 +1,30 @@
+# RC - 10th April 2019
+## Features
+### POS
+ - Updated dutch translations for some widgets
+ - Added support to restrict quantity adjustments for norwegian fiscalizations
+ - A4/A5, Portrait or Landscape orientation added for Google Cloud Printing
+ - Fixed issue where stock lookup widget returning 0s and not displaying grid
+
+### Portal
+ - Password reset in the support UI will now ask a user to reset their password on the next login
+
+### Admin
+ - Started conversion to the new UI. Work in progress, subsequent changes occuring bit by bit
+ 
+### Reports
+ - Started adding support for Account Deposits and ensure they are properyl excluded from figures
+ 
+## Bugs
+### Item Management
+ - Fixed issue where the seed data would incorrectly create the search parameters, resulting in search errors for new tenants
+
+### Support
+ - Fixed issue where new users were not inheriting the tenant's user group
+
+### Public API
+ - Updated item model
+---
 # 3rd April 2019
 ## Features
 ### Portal

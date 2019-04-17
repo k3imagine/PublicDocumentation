@@ -1,4 +1,4 @@
-# RC - 10th April 2019
+# 17th April 2019
 ## Features
 ### POS
  - Updated dutch translations for some widgets

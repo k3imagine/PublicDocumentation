@@ -31,6 +31,9 @@
 
 ### Backoffice
  - Fixed issue where it would not redirect to login when the token has expired/is invalid
+
+### Stock management
+ - Fixed issue where null address for a vendor would result in an error creating a GRN
 ---
 # 17th April 2019
 ## Features

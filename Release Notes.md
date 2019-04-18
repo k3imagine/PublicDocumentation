@@ -1,3 +1,37 @@
+# Scheduled for RC 25th April 2019
+## Features
+### POS
+ - Norwegian Fiscalization - Voided lines are now logged and recorded on the connector and printed on the Z report when the Norwegian Fiscalization shop feature is enabled
+ - Norwegian Fiscalization - Quantity adjustments are disabled when when the Norwegian Fiscalization shop feature is enabled
+ - Norwegian Fiscalization - Cancelled sales are now logged and recorded on the connector and printed on the Z report when the Norwegian Fiscalization shop feature is enabled
+ - Now allows you to make account payments to the customers account
+
+### Connector
+ - Supports the recording of Voided Lines
+ - Supports the recording of Cancelled Sales
+ - Supports the detection of the current drawer open/closed status
+ - Supports the printing of Account Deposit payments
+ - Supports the printing of special receipt headers for fiscal purposes
+
+### Integration Gateway
+ - Added support for ItemHierarchy Codes
+ - Added support for Tax Groups and Codes
+
+## Bugs
+### Item management
+ - Fixed issue where Item was not searching on Vendor Item Number
+ - Fixed issue with the rabbit publiher to the Item Exchange
+
+### Reports
+ - Fixed date/time bug in financial report resulting in incorrect overall totals
+
+### POS
+ - Fixed issues with the Solid Insurance integration which switched to use https
+ - Fixed issues with Revide integration not seartching for customer
+
+### Backoffice
+ - Fixed issue where it would not redirect to login when the token has expired/is invalid
+---
 # 17th April 2019
 ## Features
 ### POS

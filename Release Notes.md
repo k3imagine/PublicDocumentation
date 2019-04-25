@@ -6,6 +6,9 @@
  - Norwegian Fiscalization - Cancelled sales are now logged and recorded on the connector and printed on the Z report when the Norwegian Fiscalization shop feature is enabled
  - Now allows you to make account payments to the customers account
 
+### Admin
+ - Admin module is now using the new UX
+
 ### Connector
  - Supports the recording of Voided Lines
  - Supports the recording of Cancelled Sales
@@ -28,12 +31,14 @@
 ### POS
  - Fixed issues with the Solid Insurance integration which switched to use https
  - Fixed issues with Revide integration not seartching for customer
+ - Fixed rounding bug for returns
 
 ### Backoffice
  - Fixed issue where it would not redirect to login when the token has expired/is invalid
 
 ### Stock management
  - Fixed issue where null address for a vendor would result in an error creating a GRN
+ - Fixed issue when scanning a barcode to increment quantities
 ---
 # 17th April 2019
 ## Features

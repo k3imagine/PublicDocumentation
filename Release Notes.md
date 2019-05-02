@@ -1,4 +1,4 @@
-# Scheduled for RC 25th April 2019
+# 2nd May 2019
 ## Features
 ### POS
  - Norwegian Fiscalization - Voided lines are now logged and recorded on the connector and printed on the Z report when the Norwegian Fiscalization shop feature is enabled

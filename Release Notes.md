@@ -1,3 +1,44 @@
+# Release Candidate - 9th May 2019
+## Features
+### Backoffice
+ - Added the Data Export functionality for German Fiscalization requirements (pending certification)
+
+### Admin
+ - Converted the Manage K3 Connector screen to the new UX
+
+### Customers
+ - Customer list now pages the search results
+
+## Bugs
+### POS
+ - Revide Integration inappropriate toasters
+ - Solid integration validations improved
+ - When a price is changed as an Increase it no longer shows as a discount
+ - Web orders now correctly adjust stock in and out of Committed/On hand during transaction flow
+
+### Backoffice 
+ - Editing tax group name no longer creates a new tax group
+
+### Reports
+ - Hamburger menu now showing properly on Mobile
+ - Turnover Ex Vat KPI now calculating correctly
+ - Date filter now picking up the right dates
+ 
+### Stock Management
+ - Removed Inactive shops from Side menu
+ 
+### Admin
+ - Fixed the required fields in the SHop Setup screen
+
+### Support
+ - Fixed the toaster framework so the Ellipsis menu is now clickable after the "hidden" overlay
+
+### General
+ - Fixed index warnings in the RBO Microservice
+ 
+
+---
+
 # 2nd May 2019
 ## Features
 ### POS

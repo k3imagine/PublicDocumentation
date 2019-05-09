@@ -2,6 +2,11 @@
 ## Features
 ### Backoffice
  - Added the Data Export functionality for German Fiscalization requirements (pending certification)
+ - Vendor email address length extended to 80 characters
+ 
+### POS
+ - Now prevented from pressing the Payment button when a transaction is empty
+ - Find customer widget has been improved
 
 ### Admin
  - Converted the Manage K3 Connector screen to the new UX
@@ -9,12 +14,27 @@
 ### Customers
  - Customer list now pages the search results
 
+### Connector
+ - Now shows sales and return counts on X/Z report
+ - Now shows count/value of cancelled sales
+ - Now shows count/value of voided lines
+
+### Dataswitch Integration
+ - Now supports hierarchies by Code
+
+### Public API
+ - Master items can now be returned by Updated Since as a filter
+ - Return to Vendor endpoints added
+
+---
+
 ## Bugs
 ### POS
  - Revide Integration inappropriate toasters
  - Solid integration validations improved
  - When a price is changed as an Increase it no longer shows as a discount
  - Web orders now correctly adjust stock in and out of Committed/On hand during transaction flow
+ - Missing translations added
 
 ### Backoffice 
  - Editing tax group name no longer creates a new tax group

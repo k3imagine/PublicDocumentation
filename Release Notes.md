@@ -26,6 +26,8 @@
  - Master items can now be returned by Updated Since as a filter
  - Return to Vendor endpoints added
 
+### Portal
+ - Release notes now hidden by default. Tap to expand.
 
 ## Bugs
 ### POS
@@ -55,7 +57,9 @@
 ### General
  - Fixed index warnings in the RBO Microservice
  
-
+### Portal
+ - Fixed issue with long tokens by moving to local storage
+ - Fixed issue with modules that are meant to have sub-options misbehaving when no options are present
 ---
 
 # 2nd May 2019

@@ -1,4 +1,4 @@
-# Release Candidate - 9th May 2019
+# 16th May 2019
 ## Features
 ### Backoffice
  - Added the Data Export functionality for German Fiscalization requirements (pending certification)
@@ -11,7 +11,7 @@
 ### Admin
  - Converted the Manage K3 Connector screen to the new UX
 
-### Customers
+### Customers (Not publicly available)
  - Customer list now pages the search results
 
 ### Connector
@@ -26,7 +26,6 @@
  - Master items can now be returned by Updated Since as a filter
  - Return to Vendor endpoints added
 
----
 
 ## Bugs
 ### POS

@@ -1,8 +1,5 @@
 # Release Candidate - 22nd May 2019
 ## Features
-### POS
- - Swedish translations updated
- 
 ### Stock Management
  - Purchase Orders and Goods Receive have now been converted to the new UI.
  - Now supports Negative Receive Goods which will be interpreted as a Return to Vendor
@@ -26,6 +23,7 @@
 ### Integration Gateway
  - Fixed issue where Upseting masteritems would fail when alphanumeric values were used
 
+---
 
 # 16th May 2019
 ## Features

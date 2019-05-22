@@ -1,3 +1,32 @@
+# Release Candidate - 22nd May 2019
+## Features
+### POS
+ - Swedish translations updated
+ 
+### Stock Management
+ - Purchase Orders and Goods Receive have now been converted to the new UI.
+ - Now supports Negative Receive Goods which will be interpreted as a Return to Vendor
+
+## Bugs
+### POS
+ - Fixed issue where Daily Closures were not linked to transactions through both PosId and ReceiptId causing issues in reports
+### Stock Management
+ - Partial Goods Received quantities now accurately deducing the outstanding amount to receive
+ Fixed issue where incrementing a count on a stock take would return a null barcode in the response throwing a toaster error
+
+### Item management
+ - Fixed issue where creating items with no variants would throw errors and also not display anything in the Matrix tab
+ - Fixed bug with the Next button being incorrectly disabled in the Purchase Order paging
+
+### Portal
+ - Fixed issue interpeting + symbol when resettign password
+ - Fixed issue where long shop names would not display correctly in the Sidebar
+ - Fixed issue where clicking a sidebar option which is meant to have suboptions (like the POS) but has none defined, would incorrectly route them to the selected app anyway  triggering errors
+
+### Integration Gateway
+ - Fixed issue where Upseting masteritems would fail when alphanumeric values were used
+
+
 # 16th May 2019
 ## Features
 ### Backoffice

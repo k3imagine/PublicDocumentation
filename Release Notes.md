@@ -4,6 +4,9 @@
  - Purchase Orders and Goods Receive have now been converted to the new UI.
  - Now supports Negative Receive Goods which will be interpreted as a Return to Vendor
 
+### Connector
+ - Worldline WiPay now a supported EFT type
+
 ## Bugs
 ### POS
  - Fixed issue where Daily Closures were not linked to transactions through both PosId and ReceiptId causing issues in reports

@@ -1,4 +1,4 @@
-# Release Candidate - 22nd May 2019
+# 30th May 2019
 ## Features
 ### Stock Management
  - Purchase Orders and Goods Receive have now been converted to the new UI.

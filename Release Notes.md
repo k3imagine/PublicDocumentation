@@ -8,8 +8,6 @@
  - Worldline WiPay now a supported EFT type
 
 ## Bugs
-### POS
- - Fixed issue where Daily Closures were not linked to transactions through both PosId and ReceiptId causing issues in reports
 ### Stock Management
  - Partial Goods Received quantities now accurately deducing the outstanding amount to receive
  Fixed issue where incrementing a count on a stock take would return a null barcode in the response throwing a toaster error

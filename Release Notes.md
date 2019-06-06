@@ -1,3 +1,43 @@
+# 6th June 2019
+## Features
+### General
+ - Updated German translations
+ 
+### Portal
+ - Added forgotten password functionality
+ - Added bypass of landing page when only a single module is selected (Making Tax Digital)
+
+### Item Management
+ - Improved ability to resequence dimensions and dimension attributes
+
+### Replenishment (Beta)
+ - General improvements and fixes
+
+### Public API
+ - Validations added to the GRN data model
+ - CSV Import now supports multiple prices per item
+
+### Stock Management
+ - Added ability to delete a GRN
+
+### Admin
+ - Fully converted to new UX
+
+## Bugs
+### Stock Management
+ - Fixed error thrown saving a GRN
+ 
+### POS
+ - Fixed issue on Android with the Customer widget not displaying the on screen keyboard
+
+### Reports
+ - Removed "Item" grouping on reports to enhance performance
+
+### Dataswitch Gateway
+ - Fixed bugs importing items
+
+--- 
+
 # 30th May 2019
 ## Features
 ### Stock Management

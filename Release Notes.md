@@ -1,4 +1,4 @@
-# 6th June 2019
+# Release Candidate - 6th June 2019
 ## Features
 ### General
  - Updated German translations

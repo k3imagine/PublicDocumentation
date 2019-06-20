@@ -1,3 +1,35 @@
+# 26th June 2019
+## Features
+
+### Item Management
+ - Added Dimension type setup
+ - Updated UI for custom attributes and Item hierarchy
+
+### Portal
+ - When the user only has one module this now logs in straight to the module
+
+### PPE
+ - Updated UI to use siebar and topbar
+ - All Promotion types are now working
+
+### RBO
+ - Can now set the vat rate to be used on vouchers 
+
+### POS
+ - POS now supports VAT on vouchers
+
+## Bugs
+### POS
+ - Fixed error thrown when loading the POS
+ 
+### Public API
+ - Changed response when importing csv file
+
+### Integration Gateway
+ - Fixed errors when importing master items
+
+--- 
+
 # 12th June 2019
 ## Features
 ### General

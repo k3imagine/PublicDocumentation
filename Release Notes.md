@@ -17,6 +17,10 @@
 
 ### POS
  - POS now supports VAT on vouchers
+ 
+### Reports
+- Report speed improvements
+- Reports now using the task service which includes email notifications when the report is reading to be viewed
 
 ## Bugs
 ### POS

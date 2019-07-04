@@ -1,3 +1,52 @@
+# 10th July 2019
+## Features
+
+### Stock
+ - Added logging of manual stock edits
+ - Updated UI for creating Stocktake by Item Group
+
+## Bugs
+### Item Management
+ - Fixed issue when getting stock figure if item required url encoding 
+ - Fixed issue adding mulitple Item hierarchies
+ - Fixed issue changing Item Barcode
+ - Fixed issue when creating Customer Attributes
+ 
+### POS
+ - Fixed Stock lookup widget
+ - Receipt copy of item group sale now as original Receipt
+ - Fixed issue with POS language when base and clerk language not set
+ - Fixed issue saving edits to customer information via Customer Widget
+ - Fixed issue with login placeholder text if clear password
+ - Resolved issue with customer number length allowed in Customer Widget field 
+ 
+### Reports
+ - Fixed issue with grouping by Item Group 
+ 
+### RBO
+ - Within Gift Vouchers updated labels on date filters
+ - Shops Tax Group now populated from Primary Group
+
+### Portal
+ - Fixed issue with refresh token
+ 
+ ### Integration Gateway
+ - Fixed errors when sending payload with ItemHierarchyNodeCode
+ 
+ ### PPE
+ - Fixed issue where couldn't Edit promotions
+ 
+ ### Stock
+ - Stocktake now shows item number and dimensions
+ - Stocktake recount warning message replaced with confirm button
+ - Fixed partial stocktake custom attribute name issue
+ 
+ ### Customer
+ - Primary Shipping and Primary Billing address can now be set
+ - Credit limit and Account Currency now saves
+
+--- 
+
 # 26th June 2019
 ## Features
 

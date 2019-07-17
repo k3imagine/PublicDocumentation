@@ -1,3 +1,40 @@
+# 24th July 2019
+## Features
+
+### Backoffice
+ - Transactions converted to tenant Currency
+ 
+### Stock
+ - Stock UI converted to new UX for stocktake and stock lookup
+ - Delete stock takes
+ - All table headings are now translatable
+ 
+### Item Management
+ - Item list converted to new UX
+ - Fixed bug in creating custom attributes
+ - Time format is now in 24 hours in movements
+
+## Bugs
+### Item Management
+ - Fixed Item figures and movements when these include characters that need url encoding
+ - Fixed bug in adding multiple item hierarchy
+ - Fixed bug which caused an error when updating a single variant item barcode
+ 
+### Public API
+ - Changed adjustments to return errored lines but still create other adjustments
+
+### RBO
+ - Fixed issue which caused long stores to expand beyond the field edges
+ - Expire button on vouchers no longer shows on expired voucehers
+ 
+### POS
+ - Fixed issue converting discount cde to integer
+ 
+### Admin
+ - Fixed issue translating headers
+ 
+--- 
+
 # 10th July 2019
 ## Features
 

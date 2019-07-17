@@ -13,6 +13,7 @@
  - Item list converted to new UX
  - Fixed bug in creating custom attributes
  - Time format is now in 24 hours in movements
+ - Improved item search now using Elastic Search
 
 ## Bugs
 ### Item Management

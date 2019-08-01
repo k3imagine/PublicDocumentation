@@ -1,3 +1,24 @@
+# 07th August 2019
+## Features
+
+### POS
+ - Customer Sales history available on the POS
+ - Order In Store
+ - Return Web Order
+ - New Item Creation UI
+ 
+## Bugs
+### Stock
+ - Fixed Stock Lookup bug when no movement existed
+ - Stock movement now recorded if item sale and item group sale performed together
+ - Fixed issue with Web Order not reserving stock
+ 
+### Item Management
+ - Fixed issue assigning dimension type to dimensions when creating the item
+ - Fixed issue adding dimensions to template when dimension has the same type.
+ 
+--- 
+
 # 24th July 2019
 ## Features
 

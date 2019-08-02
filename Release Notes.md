@@ -2,10 +2,12 @@
 ## Features
 
 ### POS
- - Customer Sales history available on the POS
- - Order In Store
- - Return Web Order
- - New Item Creation UI
+ - Customer Sales history available as part of the Customer widget
+ - Order In Store feature added to the POS
+ - Included ability to return Order In Store transactions at the POS
+
+### Item
+ - New Item Creation migrated to new UI
  
 ## Bugs
 ### Stock
@@ -46,11 +48,11 @@
  - Changed adjustments to return errored lines but still create other adjustments
 
 ### RBO
- - Fixed issue which caused long stores to expand beyond the field edges
- - Expire button on vouchers no longer shows on expired voucehers
+ - Fixed issue which caused long store names to expand beyond the field edges
+ - 'Expire' button in Vouchers no longer shows for expired voucehers
  
 ### POS
- - Fixed issue converting discount cde to integer
+ - Fixed issue converting discount code to integer
  
 ### Admin
  - Fixed issue translating headers
@@ -185,7 +187,7 @@
 # 30th May 2019
 ## Features
 ### Stock Management
- - Purchase Orders and Goods Receive have now been converted to the new UI.
+ - Purchase Orders and Goods Receive have now been converted to the new UI
  - Now supports Negative Receive Goods which will be interpreted as a Return to Vendor
 
 ### Connector

@@ -7,17 +7,56 @@
  - Included ability to return Order In Store transactions at the POS
 
 ### Item
- - New Item Creation migrated to new UI
+ - New Item Creation converted to new UI
+ - Item list converted to new UI
+ 
+### Stock
+ - Stock Lookup converted to new UI
+ - Stock edits now logged
+ - Stocktake converted to new UI
+ - Added ability to delete stock counts that have not been committed
  
 ## Bugs
 ### Stock
  - Fixed Stock Lookup bug when no movement existed
  - Stock movement now recorded if item sale and item group sale performed together
- - Fixed issue with Web Order not reserving stock
+ - Fixed issue with goods receipt erroring when commiting a negative amount
+ - Stock tables not translatable
+ - Fixed issue in stock takes when scanning the first item
+ - Fixed issues displaying partial stocktake filter options
+ - Removed incorrect stocktake warning text
  
 ### Item Management
  - Fixed issue assigning dimension type to dimensions when creating the item
  - Fixed issue adding dimensions to template when dimension has the same type.
+ - Fixed an issue where item figures and movements failed to load if the item no contained special characters
+ - Fixed an issue when creating multiple item hierarchy failed
+ - Fixed an issue changing a item barcode if it contained no variants
+ - Fixed an issue which caused a continuous spinner if no custom attribute existed, this also would not allow the first attribute to be added
+ - Changed time format in item movement to 24 hour
+ - Fixed issue when deleting item hierarchy which contains a sale record
+
+### POS
+ - Fixed an issue where receipt copy didn't display the item group sold
+ - Fixed an issue which wasn't unreserving web order stock when skipped
+ - Fixed an issue in stock lookup
+ - Cash statement now correctly adjusts for rounding in countries which only trade in whole denominations
+ - Fixed issue which caused an error when updating a customer record
+ - Fixed issue when discount code converts to an integer
+
+### Public API
+ - Fixed an issue which caused adjustments to fail if a single line errored
+ - Fixed an issue stopping web order stock from being reserved 
+ 
+### RBO
+ - Fixed an issue where the store name was longer than the text box
+ - Changed error message when trying to expire an already expired gift voucher/credit memo
+ - Adjusted the labels in gift voucher UI
+ - Fixed issue when saved shop tax groups were not displayed correctly
+ 
+### Admin
+ - Fixed translation issues
+
  
 --- 
 

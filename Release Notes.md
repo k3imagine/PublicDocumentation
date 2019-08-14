@@ -1,3 +1,36 @@
+# 21st August 2019
+## Features
+
+### POS
+ - Added ability to reprint a z report
+ - Parked transactions now reload the selected customer
+ - Inactive clerks can no longer log in to the POS
+ - Customer account limits now in place
+
+### Connector
+ - Label now support additional line properties
+ 
+### Item
+ - Item tax rates are now a multi select to allow items to be sold in multiple countries
+ 
+### Stock
+ - Stock Transfers migrated to new UX
+ - Stock Lookup search migrated to elastic search
+ 
+## Bugs
+### POS
+ - Fixed an issue when returning vouchers which tried to create a new voucher with the same number
+ - Fixed an issue which caused order in store to fail on creation due to missing customer properties
+
+### Public API
+ - Fixed the taxCode endpoints
+
+### Stock
+ - Fixed an error when receiving a Goods Receipt note which contained multiple lines of the same item
+ - Fixed an issue showing stock lookup values when the item had no movement
+ 
+---
+
 # 07th August 2019
 ## Features
 

@@ -1,3 +1,33 @@
+# 4th September 2019
+## Features
+ 
+### Item
+ - Edit item UI updates to new UX
+ - Item active toggle added to the list view
+ - Added custom attributes support on label printing
+ 
+### POS
+ - Changed heading text on receipt for customer signature 
+ - Added Swedish Fiscalisation shop feature which allows the setting of maximum number of times a receipt can be reprinted
+
+## Bugs
+### Platform
+ - Fixed an issue in all UI's where token was too large, this led to the need to log out and back in to use the modules
+ 
+### POS
+ - Fixed receipt search to abide by the `show all shops flag`
+ - Fixed an issue which caused the stock lookup to not display correctly for single variant items
+ - Fixed an error when eturning a transaction that contained multiple items
+ - Fixed order in store isPaid flag to be set on payment on the POS.
+
+### Portal
+ - Fixed an issue when only one module was enabled causing a log in loop
+ 
+### Admin
+ - Connector now automtically saves in lower case
+
+---
+
 # 21st August 2019
 ## Features
 

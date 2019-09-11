@@ -1,3 +1,69 @@
+# 18th September 2019
+## Features
+
+### Admin
+ - POS options now contain an option to `Automatically aggregate identical item lines in a transaction`
+ 
+### Item
+ - Ability to print discount labels by discount % or amount
+ - Ability to view and edit VendorItemNumber
+
+### POS
+ - `Automatically aggregate identical item lines in a transaction` is used by the POS and will split the lines if checked
+ - Added option to print gift labels which also contains a set expiry date which can be overwridden per line on the POS
+ - Inactive items are now excluded from the item search
+ 
+### Stock
+ - Bulk import now has a feature to download a csv file which contains the id values for tax,taxgroups and groups so the values can be used in the xls import
+ - Stock search now updated to use elastic search
+ - Stock transfer screens have been updated to new UI
+ - Stock lookup overview introduced which shows item stock for all shops
+ - In the stock screens when adding an item the Add button now displays at the top and bottom of the page, this eliminates the need to scroll to the top of the page
+ - Stocktake now includes a location option
+ - Vendor Item number now displays on purchase order and goods receive item list.
+ - You can now search by vendorItemNo in the goods receive and purchase order screens 
+
+## Bugs
+
+### Item
+ - Fixed a bug which stopped changes being saved on Item Hierarchys
+
+### POS
+ - Changed Web order pick list to print the barcode
+
+### Public API
+ - When importing prices on the csv import if no end date is added to the price record it automatically sets this to 5 years in the future
+ - When importing prices if it finds an existing record with a matching start date and item id then it will update the existing price record
+ - Fixed an issue where the task message was not being sent to an external endpoint
+ - /MasterItem/masteritemno/{masteritemno} endpoint now returns the master item with items contained
+ - Updated error message when creating a master item but not sending required custom attributes
+ - Fixed stock take item count endpoint
+ - Fixed Stock lookup endpoints
+ - Fixed Stock adjustment endpoints
+ - Fixed cash endpoints
+ - Fixed basket endpoint
+ - Fixed Get Single vendor endpoint
+ - Web Order and order in store endpoints now return the text value on orderType not internal number
+ - Voucher endpoint now returns the voucherType as the text value not internal number
+ - updated price endpoints and improved error handling
+ - Master Item and Item response now have the type response as the text value not internal number
+ - Fixed a bug where customer address was not being set as primary billing or shipping address
+
+### Stock
+ - Added retry logic to stock movements
+ - Fixed a bug which caused the stock location to not be updated when changing a shops details
+ - Fixed a bug which caused the stock take to redirect back to the list when choosing a calculated stocktake
+ - Fixed an error in the stock logs causing no results to be shown
+ - Fixed various issues in the PO/GRN screens
+ - Fixed an issue when creating a new PO from the stock lookup
+ - Currency code list in purchase order/goods receipt now returns all available currencies from Imagine
+ - Fixed an issue which stopped you from adjusting item stock to 0
+ - Fixed an issue which caused an error when performing a negative goods receipt when the item had no previous stock movements
+ - Stock discrepancy now refreshes on recount
+ - Stock UI fixed to display the correct dimension sequence as set in item management
+
+---
+
 # 4th September 2019
 ## Features
  

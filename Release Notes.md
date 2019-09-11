@@ -35,7 +35,7 @@
  - When importing prices on the csv import if no end date is added to the price record it automatically sets this to 5 years in the future
  - When importing prices if it finds an existing record with a matching start date and item id then it will update the existing price record
  - Fixed an issue where the task message was not being sent to an external endpoint
- - /MasterItem/masteritemno/{masteritemno} endpoint now returns the master item with items contained
+ - `/MasterItem/masteritemno/masteritemno` endpoint now returns the master item with items contained
  - Updated error message when creating a master item but not sending required custom attributes
  - Fixed stock take item count endpoint
  - Fixed Stock lookup endpoints

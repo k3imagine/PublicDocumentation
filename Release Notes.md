@@ -9,7 +9,7 @@
  - Ability to view and edit VendorItemNumber
 
 ### POS
- - `Automatically aggregate identical item lines in a transaction` is used by the POS and will split the lines if checked
+ - `Automatically aggregate identical item lines in a transaction` is used by the POS and will split the lines if unchecked
  - Added option to print gift labels which also contains a set expiry date which can be overwridden per line on the POS
  - Inactive items are now excluded from the item search
  

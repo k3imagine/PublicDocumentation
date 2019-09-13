@@ -12,6 +12,7 @@
  - `Automatically aggregate identical item lines in a transaction` is used by the POS and will split the lines if unchecked
  - Added option to print gift labels which also contains a set expiry date which can be overwridden per line on the POS
  - Inactive items are now excluded from the item search
+ - Discount labels can be used on the POS
  
 ### Stock
  - Bulk import now has a feature to download a csv file which contains the id values for tax,taxgroups and groups so the values can be used in the xls import

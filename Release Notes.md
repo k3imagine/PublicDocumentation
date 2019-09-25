@@ -1,3 +1,47 @@
+# 2nd October 2019
+
+## Features
+
+### Item
+ - Added option for shortcut which is used to quickly access the item on the POS
+
+### POS
+ - Added the shortcut key to the right menu to quickly access items
+ - Trash icon now used consistently across the POS UI
+
+### Stock
+ - Refactored to be less dependant on messages from other modules
+
+### Public API
+ - Added a new PUT method to masteritems which also updates the child items
+ - StockLookup endpoint now includes the vendor against each item
+ - Added a new GET method to item which finds the item based upon the barcode or additional barcodes
+ - Transaction endpoint now returns the currency code of the transaction
+ - GET endpoint for Goods receipt now accepts a datetime filter
+ - A new endpoint has been added to GET transfers by shop id, this also accepts a datetime filter
+
+## Bugs
+
+### Portal
+ - Fixed an issue causing a redirect when only one module was enabled
+
+### Item
+ - Refactored item group messages
+
+### Stock
+ - Fixed a ui issue where the stock log filters placeholder text was incorrect
+
+### POS
+ - Fixed graphs to exclude cash statement amounts
+ - Fixed a bug which caused exchange lines to be recorded as wrong movement type
+ - Fixed reprint method so all future receipt copies include the payment method and amount
+
+### Public API
+ - Fixed a timeout issue on csv import
+ - Fixed an issue which caused an error on csv import
+
+---
+
 # 18th September 2019
 ## Features
 

@@ -1,3 +1,37 @@
+# 16th October 2019
+
+## Features
+
+### POS
+ - Gift vouchers now support multi currrency, this requires the shop to have exchange rates setup.
+
+### Stock
+ - Backend improvements to optimise performance
+ - Stock logs improved to show more relevant information
+
+### Back office
+ - Void transaction now can be limited to certain clerks
+
+
+## Bugs
+
+### POS
+ - Clerk shown against the article now shows the correct number instead of the internal id
+ - POS Search now uses elastic search
+ - Sales graphs now show correct figures excluding cash statements
+ - Fixed a bug when inserting return movements
+
+### Back office
+ - Clerk search now uses clerk number instead of ID
+
+### Stock
+ - Fixed a bug when inserting stocktake movements
+
+### Public API
+ - Vendor endpoint now limits the vendor number in the same way as the UI
+
+---
+
 # 2nd October 2019
 
 ## Features

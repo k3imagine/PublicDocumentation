@@ -1,3 +1,38 @@
+# 30th October 2019
+
+## Features
+
+### POS
+ - Customers can now be set a currency for their account
+ - Exchange labels can now include a unique id which can be used to return the item at the original sold price
+
+## Bugs
+
+### POS
+ - Fixed a bug which in certain circumstances caused discounts to be removed from an item
+ - Fixed a bug which showed an error toaster on new tenants with no sales
+
+### Public API
+ - Fixed a bug which caused item broadcast to fail on initial item creation
+
+### Item
+ - Fixed a bug which caused multiple suppliers to display against all items when searching the item list
+ - Fixed a bug which meant return movements didn't display the location name in the movement screen
+
+### Admin
+ - Fixed a bug which caused the sidebar to fail to display if a tenant contained inactive stores
+
+### Reports
+ - Fixed a bug which caused the sidebar to fail to display if a tenant contained inactive stores
+
+### Stock
+ - Fixed a bug which caused the sidebar to fail to display if a tenant contained inactive stores
+
+### Back Office
+ - Fixed a bug which caused the clerk table title to display incorrectly
+
+---
+
 # 16th October 2019
 
 ## Features

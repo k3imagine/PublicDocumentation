@@ -1,3 +1,35 @@
+# 13th November 2019
+
+## Features
+
+### POS
+ - When using the receipt search the filter automatically hides upon pressing search
+ - Can now give credit note as change
+
+### Public API
+ - New endpoints for stock movements which return results based upon a barcode or specific movement and shopId
+
+## Bugs
+
+### POS
+ - Fixed a truncation issue between tables
+
+### Backoffice
+ - Fixed a truncation issue between tables
+
+### Support
+ - Fixed a bug in the tracking filters
+
+### Public API
+ - Fixed a with customer endpoint on the taxExempty property
+ - Fixed the GRN get endpoints by id or number to now include the itemNo
+
+### Reports
+ - Transaction Report now shows the discrepancy in the same way as the cash statement printed from the POS
+ - Fixed an issue causing duplicate results if the timestamp was out of sync within the transaction tables
+
+---
+
 # 30th October 2019
 
 ## Features

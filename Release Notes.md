@@ -1,3 +1,54 @@
+# 27th November 2019
+
+## Features
+
+### Public API
+ - Customer CSV import now works with customer addresses
+ - Added better error handling when creating a Goods Receipt Note when the number already exists
+
+### Item
+ - Item description is now an optional field
+ - New custom attribute type added which allows for custom attribute lists
+ - When making a Item Master Item inactive this will apply to all child items, if any one child item is made active this will re activate the Master Item
+
+### Backoffice
+ - Deletion of vendors
+
+## Bugs
+
+### POS
+ - Fixed a syncronise bug between stock and backoffice for shops which caused stock lookup to show old shop names
+
+### Cutomer
+ - Fixed a bug which caused addresses to be deleted when updating a customer
+
+### Item Management
+ - Fixed a bug which caused a continuous spinner when trying to save an item when one has just been created
+ - Fixed an issue which meant prices were not displayed to 2 decimal places
+ - Fixed a bug which meant saving changes to Item Matrix dimension axis was not saved
+ - Fixed a bug which stopped changes to manufacturer item number from being saved
+ - Fixed a bug which stopped changes to custom attributes from being saved
+ - Fixed a bug which meant the save button didn't always show on the Master Item Summary page after making changes
+ - Fixed a bug when printing labels which meant the browser couldn't connect to the Connector
+ - Fixed a bug on the matrix grid when item had 3 dimensions
+ - Fixed a bug on the matrix grid which was preformatting prices
+
+### Public API
+ - Fixed a bug which stopped customer addresses from being set as the primary billing/shipping address
+
+### Backoffice
+ - Fixed a bug which caused an error when trying to delete an item hierarchy
+ - Fixed a syncronise bug between stock and backoffice for vendors
+
+### Stock Management
+ - Fixed timeouts when trying to find items on a large stock count
+ - Stock switch from internal to item id
+ - Fixed an issue which meant prices were not displayed to 2 decimal places
+ - Fixed a timeout issue when committing GRN/PO's
+ - Fixed a bug when printing labels which meant the browser couldn't connect to the Connector
+
+---
+
 # 13th November 2019
 
 ## Features

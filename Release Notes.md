@@ -13,6 +13,9 @@
 
 ### Backoffice
  - Deletion of vendors
+ 
+### Reports
+ - Reports now support multi currency
 
 ## Bugs
 

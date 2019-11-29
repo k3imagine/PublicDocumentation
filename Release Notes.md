@@ -1,3 +1,36 @@
+# 1st December 2019
+
+## Features
+
+### Inventory
+ - New Inventory Module
+ - Inventory Module includes a new item creation wizard
+
+### Item
+ - On copying item you can now manually enter a item number
+ - Item properties now contains a currency price for each currency set against a shop
+
+### Backoffice
+ - On creating a shop with a currency not used in your Imagine Estate it will now automatically create item prices based upon the tenant base currency and current exchange rates
+
+## Bugs
+
+### Stock
+ - Fixed a bug causing timeouts on large stocktakes, this applies to all stages (creating, calculating and committing)
+ - Stockcount no longer lets the quantity go into negative
+ - Fixed a bug when adding items to a newly created transfer
+
+### Item
+ - Fixed a bug causing the figures to show a grey box on a single variant item
+
+### Portal
+ - Fixed a bug causing the portal to not display when using Edge browser
+
+### Backoffice
+ - Markup Multiplier now allows decimal
+
+---
+
 # 27th November 2019
 
 ## Features

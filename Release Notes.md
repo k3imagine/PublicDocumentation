@@ -14,6 +14,9 @@
 
 ### Backoffice
  - On creating a shop with a currency not used in your Imagine Estate it will now automatically create item prices based upon the tenant base currency and current exchange rates
+ 
+### POS
+ - POS added functionality to make use of the multi currency pricing
 
 ## Bugs
 

@@ -4,7 +4,9 @@
 
 ### Inventory
  - New Inventory Module
- - Inventory Module includes a new item creation wizard
+ - New item creation wizard within inventory
+ - New item import within inventory, including the ability to export a template pre populated with your tenants data 
+
 
 ### Item
  - On copying item you can now manually enter a item number

@@ -1,3 +1,32 @@
+# 11th December 2019
+
+## Features
+
+### Stock
+ - Enabled manual input of a quantity on stock count lines
+ - Fixed pagination buttons on the stock count screen
+
+## Bugs
+
+### POS
+ - Fixed a bug which caused the printing of sets to appear incorrect on the receipt
+ - Fixed a bug which caused a rounding line to appear when a cancelled card payment was on the transaction along with a cash payment
+
+### Portal
+ - Fixed a bug which meant the cache had to be cleared to make the modules appear correctly
+
+### Stock
+ - Fixed a bug on scanning items into a stock count
+
+### Item 
+ - Fixed a bug which caused a refirect failure when clicking on the item image from the item list
+ - Fixed the matrix grid so that it is constrained to its container and made this scrollable
+ - Fixed the figures tab so that it removes the grey box on a single variant item
+
+
+---
+
+
 # 1st December 2019
 
 ## Features

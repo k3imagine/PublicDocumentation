@@ -18,6 +18,7 @@
 ### Stock
  - Fixed a bug on scanning items into a stock count
  - Labels now always print to 2 decimanl places
+ - Fixed a bug in the stock lookup
 
 ### Item 
  - Fixed a bug which caused a refirect failure when clicking on the item image from the item list

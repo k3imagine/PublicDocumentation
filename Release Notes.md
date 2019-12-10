@@ -17,11 +17,13 @@
 
 ### Stock
  - Fixed a bug on scanning items into a stock count
+ - Labels now always print to 2 decimanl places
 
 ### Item 
  - Fixed a bug which caused a refirect failure when clicking on the item image from the item list
  - Fixed the matrix grid so that it is constrained to its container and made this scrollable
  - Fixed the figures tab so that it removes the grey box on a single variant item
+ - Labels now always print to 2 decimanl places
 
 
 ---

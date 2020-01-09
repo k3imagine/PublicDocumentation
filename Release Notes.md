@@ -1,3 +1,63 @@
+# 09th January 2020
+
+## Features
+
+### Stock
+ - Stocktakes now account for any movements between the count being entered and the calculations being completed
+ - Fixed pagination buttons on the stock count screen
+ 
+### Public Api
+ - Added People Counter functionality
+ 
+### Inventory
+ - Item import improvements added 
+
+## Bugs
+
+### Admin
+ - IM-4201 Receipt setup EAN label now reads as 'Barcode' for label consistency 
+
+### BackOffice
+ - IM-4017 Vendor number can now be entered as a string
+ - IM-3001 Fixed issue with Offline flag in Reason Codes not saving
+ - IM-3553 Fixed translations of top menu labels
+ - IM-3537 Resolved issue with occasional timeouts on item updates
+ - IM-3867 Resolved issue related to space in the Vendor main phone number
+ 
+### POS
+ - IM-4416 Fixed a bug which caused some transaction to not show on Cash Statement
+ - IM-4220 Fixed a bug which caused discount to be recorded if sales price adjusted upwards
+ - IM-4428 Fixed issue with items not appearing on receipts 
+
+### Public Api
+ - IM-4337 Fixed issue with Item imports not completing
+ - IM-4442 Fixed issue creating new items via /item/items endpoint
+ - IM-3978 Fixed issue where shops could be creted without a local currency set causing sales to be rejected
+ - IM-4293 Creating item with an ItemNo that already exists now returns friendly message rather than 500 error
+ - IM-4422 Fixed issue with retrieving Master Items
+
+### Stock
+ - IM-4495 Fixed adjustment error when changing stock level through stock lookup
+ - IM-4403 Fixed bug on printing of labels within Goods Receipt
+ - IM-3750 Filtering of stock logs by Item No now working
+ - IM-3950 Fixed issue with saving Item if the description was updated to be empty
+
+### Inventory 
+ - IM-4396 Removed requirement to enter a group on custom dimension
+ - Fixed the matrix grid so that it is constrained to its container and made this scrollable
+ - Fixed the figures tab so that it removes the grey box on a single variant item
+ - Labels now always print to 2 decimanl places
+ 
+### Customer
+ - IM-3849 Resolved issue navigating from Customer module to Admin, Stock or POS menu options
+ 
+### Item
+ - IM-4310 Updating single variant item will now update Master item and vice versa
+ 
+ 
+---
+
+
 # 11th December 2019
 
 ## Features

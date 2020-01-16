@@ -1,3 +1,49 @@
+# 22nd January 2020
+
+## Features
+
+### POS
+ - IM-3519 Transaction is now timestamped at the end of the transaction instead of the beginning
+ - IM-4120 ZVT Can now perform refunds
+ 
+### Item
+ - IM-4185 Label templates can now print multiple currency prices
+
+### Stock
+ - IM-4185 Label templates can now print multiple currency prices
+
+### Inventory
+ - IM-4439 Improved validation on item import
+
+## Bugs
+
+### Item
+ - IM-3637 Prices now alwways shown in local format 
+ - IM-3787 Item properties matrix grid now updates correctly between options
+
+### POS
+ - IM-4507 Could not reject a voice referal on card payment
+ - IM-4508 Taking part payment with a voice referal caused the POS to freeze
+ - IM-3535 Transaction not found when reprinting
+ - IM-3789 Stock lookup widget was calling the endpoint twice
+
+### Report
+ - IM-4643 Financial Stock Report opening figure to be incorrect after a stock count
+ - IM-3086 UI now falls back to English is translation string not found
+
+### Portal
+ - IM-2947 Hamburger menu missing on iOS devices
+
+### Stock
+ - IM-4521 Movements only created now if a discrepancy between expected and counted on stock take
+
+### Backoffice
+ - IM-3086 UI now falls back to English is translation string not found
+ - IM-3026 X Report and Reprint Last options in POS now available in the backoffice clerk roles
+
+
+---
+
 # 09th January 2020
 
 ## Features

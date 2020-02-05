@@ -1,3 +1,55 @@
+# 05th February 2020
+
+## Features
+
+### POS
+ - IM-2943 Integrated chip and pin
+ - IM-3138 Extended Verifone features including Partial Payment and Refund
+ 
+### Item
+ - IM-4456 Can now update items in bulk
+
+### Stock
+ - IM-4105 Can now export Excel Count File
+ 
+
+## Bugs
+
+### Item
+ - IM-4326 Show inactive items toggle now working in Item List
+
+### POS
+ - IM-4033 Fixed issue with Weborder currency symbol not matching shop currency
+ - IM-4090 Fixed issue with extra receipt copies printing on item return
+ - IM-4788 Fixed issue with Transaction ES records being created with 0 transactionId
+
+### Report
+ - IM-4166 Fixed issue with UI not handling report timeout
+
+### Public Api
+ - IM-4381 Deleting customers through PublicAPI now working
+
+### Inventory
+ - IM-4336 Resolved issue creating item when only one currency in use
+ - IM-4692 When creating PO no longer have to click 'Place Order' twice
+
+### PPE
+ - IM-4393 The search function in the PPE is now working
+ 
+### Stock
+ - IM-4408 UnitSale_Price on a stock.movement is no longer multiplied by quantity
+ - IM-4693 Fixed issue not being able to create goods receipt
+ 
+### Customer
+ - IM-4583 Fixed issue with ReturnCode sometimes stopping transactions processing
+ - IM-4639 Return Transaction no longer handled as a Charge on account
+ 
+### Portal
+ - IM-4647 Resolved Portal error message that appeared if user had Swedish language selected
+
+
+---
+
 # 22nd January 2020
 
 ## Features

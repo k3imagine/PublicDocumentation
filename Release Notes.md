@@ -1,3 +1,48 @@
+# 19th February 2020
+
+## Features
+
+### Order Ready Board
+ - IM-2940 Average Waiting Time added
+ 
+### Signup
+ - IM-4406 Confirmation email when signing up for Imagine 
+
+### SCO
+ - IM-2884 Self-Serve Remote Management Tool
+ - IM-2829 Basket Management added
+ 
+
+## Bugs
+
+### Kiosk
+ - IM-4299 PUT on Config API no longer creates duplicate record 
+
+### POS
+ - IM-3968 POS can no longer be opened in multiple browser tabs 
+
+### Report
+ - IM-3179 Item name now showing in reports when sale completed via Kiosk
+ - IM-4112 Graphs in Generic reports now scale correctly 
+
+### Item
+ - IM-4193 Fixed issue with editing dimensions in Matrix view 
+
+### Inventory
+ - IM-4389 Inventory module now uses Translations 
+ 
+ 
+## Other
+ - IM-371  Reduced ArmTenant logging when device not found
+ - IM-2890 Centralized Order Data for ORB and KDS
+ - IM-3237 Kiosk and SCO to use Basket Service
+ - IM-3675 Rabbit handling moved out of API layer
+ - IM-3912 Created Date added to Tenants table
+ - IM-4802 Transaction and Item ES reindex into batches
+ - IM-3282 Subject variable added to email receipt
+
+---
+
 # 05th February 2020
 
 ## Features

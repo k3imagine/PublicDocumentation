@@ -1,3 +1,121 @@
+# 18th March 2020
+
+## Features
+
+### Public API
+- IM-5173 Transaction endpoint parameters. Returns transactions using the Public API specifying a transaction Id
+
+### PoS
+- IM-4420 Gift labels period by set date added
+-	IM-4929 The store you currently working on is now shown in the PoS banner (as well as on Admin and Stock)
+-	IM-4774 Include a denomination button at cash payment screen
+
+### Inventory
+-	IM-4849 Look up and edit items in Inventory module now possible
+Reports
+-	IM-4506 Card types shown in Transaction report
+
+### Retail Back Office
+-	IM-4773 Upload of shop budgets feature restored in RBO
+
+### Item Management
+-	IM-4819 Added the ability to add existing custom attributes to existing items
+-	IM-3377 Revised the Item Dimension Template UX
+
+### Portal
+-	IM-4609 Added top menu options for Roles, New Role button and information page about a Role
+-	IM-4610 Added to the functionality for viewing permissions against Roles
+-	IM-3241 Included the left navigation ‘more options’ indicator
+
+### Connector
+-	IM-4619 Z report now shows a breakdown of card types
+
+### Infrastructure
+-	IM-4926 Added Module-Permission Claim to Token
+
+### Integrations
+-	IM-4887 Included API’s to be able to handle splitting into card types
+
+### Stock Management
+-	IM-5162 Stocktake ID is returned when creating a stock take
+
+## Bugs
+
+### Sign Up
+-	IM-5271 Confirmation email had the Dev Portal URL, this now shows the Production URL
+
+### Inventory
+-	IM-5114 Resolved error where you cannot create items with dimensions that do not have a group applied
+-	IM-4590 Main menu getting hidden behind page elements tweaked
+-	IM-4800 In Stocktake, Open Status search includes other statuses. This has been modified
+-	IM-4526 Fine-tuned where the logout overlay is falling behind the buttons
+
+### Item
+-	IM-4878 Fixed bug with item barcode values that were not unique
+-	IM-5043 Fixed a 500 error when adding a new dimension to an existing template without completing the group
+-	IM-3798 Fixed data type for Boolean value on item custom attributes
+-	IM-4532 Resolved lost link in dimension templates when deleting dimension types
+-	IM-4204 When altering Dimension types in templates, fixed issue where it does not save
+-	IM-4452 Remedied the Item UI where Sales and Unit cost price showing as integer
+-	IM-4735 Item UI matrix grid hides the TaxRate dropdown, this has been solved
+
+### Portal
+-	IM-5103 Fixed a text wrapping issue on the edit user drop down
+-	IM-4610 Incorporated Permissions features for Roles
+
+### Retail Back Office
+-	IM-4638 Resolved the fall back to English language files not working on Data Export
+
+### Connector
+-	IM-4855 Updated PoS connector error message details
+
+### Report
+-	IM-3432 Settled report mobile UI compatibility issues
+-	IM-4073 Sales Sundial annotations display wrong metric corrected
+
+---
+
+# 4th March 2020
+
+## Features
+
+### POS
+- IM-2943 Norwegian Fiscalization - SAFT Journal and Export
+
+### Reports
+- IM-2727 Transaction Report print design improved
+
+## Bugs
+
+### Item
+- IM-4387 Custom Attributes now showing in the Matrix tab
+
+### POS
+- IM-4815 Resolved issue with tax code being applied to new shops
+- IM-4294 Hourly sales chart now populates from first sale
+- IM-3462 Journal calendar now shows correctly
+
+### BackOffice
+- IM-2655 Vendor number change no longer causes error on items
+
+### Connector
+- IM-4958 Connector Certificate error on Apple devices resolved
+
+### Inventory
+- IM-4437 Resolved issue with creating new items
+- IM-4648 Resolved issue where partial stocktakes couldn't be created
+
+### Support
+- IM-4983 Resolved issue where updating users set them inactive
+
+### Portal
+- IM-2911 Clicking on K3|imagine logo now returns to Portal from all modules
+- IM-2956 Can now logout of Portal from all modules
+- IM-4678 Resolved issue logging into Portal using Edge
+- IM-3142 Resolved issue with styling of Portal in Edge
+
+---
+
 # 19th February 2020
 
 ## Features

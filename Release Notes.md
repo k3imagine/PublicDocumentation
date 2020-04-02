@@ -1,3 +1,112 @@
+# 1st April 2020
+
+## Features
+
+### Customer
+-	IM-4918 Included customer export list
+-	IM-5246 Allow the UI to show and save the customers language
+
+### Infrastructure
+-	IM-4577 Adds portal gateway support for roles and permissions
+
+### Inventory
+-	IM-5184 Includes the ability to add items to a stocktake from an import
+
+### Item Management
+-	IM-4820 Added the option to delete optional custom attributes on items
+-	IM-4718 Enabled the editing of items to fix validation errors in item imports
+-	IM-4765 Introduces a Print All function for Item and Stock modules
+-	IM-3369 The Label function on Item Hierarchy has been fixed to return information to the gateway
+-	IM-5012 Investigates the speed of item creation especially around the time taken to perform validation
+
+### Order Ready Board
+-	IM-4679 Added CRUD for orders on the ORB MS
+
+### Public API
+-	IM-4658 Included Rounding to the payment lines of POST /Transactions
+-	IM-5174 Paginated stock lookup for stock that has changed since a date or by transaction ID
+-	IM-5230 Include Vendor ID in the StockLookup response
+-	IM-4589 Includes ShopId and Connector Name on the dailyClosure endpoint
+
+### PoS
+-	IM-5223 Record the VendorID on sales and pass this back to the Public API for stock tracking
+-	IM-4421 Give the ability to print Gift Receipt per item
+-	IM-4903 Brings in the requirement to email Credit Notes alongside the email receipt
+-	IM-4902 Brings in the requirement to email Gift Vouchers alongside the email receipt
+-	IM-4901 Brings in the option to email Gift Receipt alongside the standard email receipt
+-	IM-5165 Removes the reliance on the Chrome deprecated Application Cache API
+
+### Portal
+-	IM-5027 Portal Documents button now opens documents in a new tab
+
+### Reports
+-	IM-3042 Fixed the problem where the transaction report does not show the time of the transaction
+
+### Retail Back Office
+-	IM-4891 Utilise the store’s geo-location for localised information
+
+### Self Serve
+-	IM-4699 Use layout in Simple POS for components and design guidelines
+-	IM-5092 Removes a number of endpoints from the SelfOrder gateway
+
+### Stock Management
+-	IM-4106 Stocktake import of count file
+
+### Store Companion
+-	IM-4458 Introduces faster return of pertinent information from the Item MS
+
+### Web Components
+-	IM-4363 Makes changes to Story Book components to correct components that are available and what needs to be built
+
+## Bugs
+
+### Connector
+-	IM-4655 Introduced better handling of offline payments with K3 Pay
+
+### Customer
+-	IM-3568 Data seed failing in the Customer MS has been fixed
+-	IM4500 Return code cannot be NULL in the Customer MS transaction. This has been rectified now
+
+### Inventory
+-	IM-5272 Corrected incorrect data (date and time) showing in the text field of Custom Attributes
+-	IM-5188 Fixed a 500 error when trying to create a new stock take
+-	IM-4706 Correct the work flow where it is possible to receive a quantity in a GRN greater than the linked PO which should not be possible
+
+### Item Management
+-	IM-4015 Fixed the duplication of AJAX calls in the UI
+-	IM-4736 Corrected a display issue for dimensions where the UI showed values that did not appear in the database
+-	IM-4687 The item import now checks for the same dimension combination in MasterItem
+
+### Retail Back Office
+-	IM-5380 Fixed not being able to save changes to shop details
+-	IM-4094 Resolved an issue where the buttons such as ‘Create’ do not disable when clicked, causing duplicate entries to be made
+-	IM-4669 Made good an issue where ExpireVoucher fails when saving a sale
+-	IM-4793 Mended an error when trying to expire an already redeemed Gift Voucher
+-	IM-4980 Correct a divide by zero error when sending a receipt by email
+
+### POS
+-	IM-5222 Repaired web orders where encoded characters gave a 404 error when pressing the skip button
+-	IM-5056 Card payment time out was too short at the PoS for Verifone P400 units
+-	IM-5061 Correct an error where it was possible to over pay on a card payment if the value contained a comma
+-	IM-3221 When deselecting Drawer in Button Management the clerk was not able to do a transaction discount, this is now rectified
+-	IM3424 Correct a bug where the customer address got reset without warning in the Customer widget
+-	IM-5168 Introduces a flag for extended printing for Verifone card terminals
+
+### PPE
+-	IM-3953 Fixes an error where updating the description in PPE to an empty value did not have any effect
+
+### Public API
+-	IM-3419 Fixed orderedQuantity always returning 0 when updating or creating a GRN
+-	Report
+
+### Self Serve
+-	IM-5085 Item broadcast not creating new items on KioskMS has been rectified
+
+### Stock Management
+-	IM-4928 Fixed a bug when scanning in items to the Transfer In and the screen not refreshing
+
+---
+
 # 18th March 2020
 
 ## Features

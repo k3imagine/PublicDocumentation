@@ -1,3 +1,44 @@
+# 15th April 2020
+## Features
+
+### POS
+ - IM-4899 Added ability to resend receipt by email
+
+### Inventory
+ - IM-4818 Now able to add dimensions to existing matrix items, this will in turn create new variant items
+ - IM-4956 Added ability to import a cipher scanner stock file to stocktake
+ 
+### Report
+ - IM-4646 Enhanced the transaction report to show item details and time of transaction
+
+### Public API
+ - IM-4240 New Stock lookup endpoint added with the ability to show only items with movements since a date or transaction Id
+ - IM-3874 New Cash Statement endpoint
+ - IM-4213 Stock Count endpoint now accepts the count date/time
+ - IM-5328 Staff endpoint now returns the clerk number
+ - IM-3554 Order in store endpoint now accepts a query parameter to search by processed status
+ - IM-3899 Vendor model has been simplified
+ - IM-3340 New endpoint added to skip a web order
+
+### Support
+ - IM-5439 Connector Commands available to all support users
+
+### Self Order
+ - IM-5384 Email Receipt Refinements
+ - IM-5285 Created Adverts
+ - IM-5241 Implemented Splash Screen
+
+### Portal
+ - IM-4926 Portal top and side bar are now sticky
+
+## Bugs
+
+### POS
+ - IM-5016 Fixed bug when applying a discount to a web order
+
+### Self Serve
+ - IM-5280 Fixed bug when clicking a group in search results which previously didn't perform any action
+
 # 1st April 2020
 
 ## Features

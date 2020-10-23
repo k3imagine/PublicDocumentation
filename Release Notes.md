@@ -1,5 +1,4 @@
 # RELEASE VERSION: 28th October 2020
-# RELEASE VERSION: NA
 ## FEATURES
 ### RETAIL
 IM-7193 - Reports - Re-worked 7 standard reports. Min Ko's team.  

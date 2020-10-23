@@ -48,9 +48,7 @@ _It is no longer possible to save a Customer without the Account Currency being 
 IM-5287 - Wrong total calculation on NOK  
 IM-7027 - Error in Z-report - Bikester  
 IM-4289 - GET condimentGroup API not returning body
-_Fixed a bug in Kiosk MS which caused a 204 response to be returned on the CondimentGroup endpoints_  
-IM-4598 - Internal error on looking up hierarchy node by code
-_Not for release notes, isolated fix for a specific data issue_  
+_Fixed a bug in Kiosk MS which caused a 204 response to be returned on the CondimentGroup endpoints_    
 IM-2921 - PoS - Clerk login can be used on another tenant  
 IM-6568 - POS throws error when returning receipt while customer widget is enabled
 _Fixed issue where returning a customer transaction with more than one discount applied would cause an error_  

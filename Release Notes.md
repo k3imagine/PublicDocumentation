@@ -69,6 +69,8 @@ IM-7075 - Lounge - Item duplication when editing items
 _Fixed a bug in Self Serve Lounge which caused items to be duplicated when editing an existing item_  
 IM-7096 - Lounge - Omitting company logo causes Pop to fail  
 IM-7153 - Platform Admin - Tenant expiry showing a date when set to Never  
+IM-7504 - Hummel - 'Print Label' on GRN defaults to printing 1 label and should assume the quantity on the GRN for that line  
+_Fixed a bug which meant only 1 label was printed from Inventory=>Receive Goods, when pressing Print label on an item line. This will now print the quantity being received._  
 ## Other Improvements  
 IM-6484 - SCO compatibility with Visual Composer: Data fetching/storage  
 IM-6835 - Update ReportUI/GW to support reworked generic reports  

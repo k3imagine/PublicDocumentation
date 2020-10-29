@@ -1,7 +1,7 @@
 # RELEASE VERSION: 28th October 2020
 ## FEATURES
 ### RETAIL
-IM-7193 - Reports - Re-worked 7 standard reports. Min Ko's team.  
+IM-7193 - Reports - Re-worked 7 standard reports  
 IM-5087 - Search field in the POS is partial  
 IM-3626 - Change Backoffice Shops overview to use a datagrid  
 IM-6676 - Display stock info when creating purchase order  
@@ -44,32 +44,32 @@ _Fixed a bug in Kiosk MS which caused a 204 to be returned when getting Condimen
 IM-7135 - Customer module: Account currency not saved  
 _It is no longer possible to save a Customer without the Account Currency being set_  
 IM-5287 - Wrong total calculation on NOK  
-IM-7027 - Error in Z-report - Bikester  
+IM-7027 - Error in Z-report fixed  
 IM-4289 - GET condimentGroup API not returning body  
 _Fixed a bug in Kiosk MS which caused a 204 response to be returned on the CondimentGroup endpoints_  
-IM-2921 - PoS - Clerk login can be used on another tenant  
+IM-2921 - PoS - Fixed an issue where Clerk login can be used on another tenant  
 IM-6568 - POS throws error when returning receipt while customer widget is enabled  
 _Fixed issue where returning a customer transaction with more than one discount applied would cause an error_  
-IM-7226 - *URGENT* Return receipt not printed - AddNature POS3  
+IM-7226 - Fixed issue with Return receipt not being printed 
 _Fixed a bug in the POS UI which allowed the user to start a payment before the item requests had finished. This caused the POS to fall into a strange state on the payment_  
-IM-7181 - Cant see recieve goods list overview - AddNature  
-IM-7288 - Goods Receipt Save and Commit - (AddNature)  
+IM-7181 - Can't see recieve goods list overview fixed  
+IM-7288 - Goods Receipt Note Save and Commit fixed  
 _Fixed a bug within Inventory UI => Receive Goods, which allowed the user to click `Save & Commit` multiple times when posting a Goods Receipt Note_  
-IM-7235 - Stock GRN Recorded BY - Internet Stores  
-IM-7162 - Creating new dimensions adds imagine created barcodes - Seeds  
-IM-7260 - Cant do offline sales - Hummel  
+IM-7235 - Stock GRN RecordedBY value now not NULL  
+IM-7162 - Creating new dimensions adds imagine created barcodes  
+IM-7260 - Fixed issue where specific retailers can't do offline sales  
 _Fixed a bug which caused Offline cache to return no results due to historic link to Item Units which is now obsolete_  
-IM-7268 - Inventory - Item Import Barcodes not created in barcode table - Van Os  
-IM-7199 - Customer Display NL Language  
+IM-7268 - Inventory - Item Import Barcodes not created in barcode table  
+IM-7199 - Fixed Customer Display to use NL Language  
 _Added support for nl-nl , fi-fi and de-de in Customer Display_  
 IM-7287 - Inventory - Markup calculation confusing  
-IM-7015 - InventoryUI: Adding barcodes to items  
-IM-6921 - Simple Pos, not to make sale go trough after POS device throws error  
+IM-7015 - InventoryUI: Fixed issue when adding barcodes to items with only one variant  
+IM-6921 - Simple Pos, not to make sale go through after POS device throws error  
 IM-7075 - Lounge - Item duplication when editing items  
 _Fixed a bug in Self Serve Lounge which caused items to be duplicated when editing an existing item_  
 IM-7096 - Lounge - Omitting company logo causes Pop to fail  
 IM-7153 - Platform Admin - Tenant expiry showing a date when set to Never  
-IM-7504 - Hummel - 'Print Label' on GRN defaults to printing 1 label and should assume the quantity on the GRN for that line  
+IM-7504 - 'Print Label' on GRN defaults to printing 1 label and should assume the quantity on the GRN for that line  
 _Fixed a bug which meant only 1 label was printed from Inventory=>Receive Goods, when pressing Print label on an item line. This will now print the quantity being received._  
 ## Other Improvements  
 IM-6484 - SCO compatibility with Visual Composer: Data fetching/storage  
@@ -79,7 +79,7 @@ _Added additional handling of 4xx status codes in Kiosk GW_
 IM-4890 - Speed up getting ComposerListEntries  
 _Improved speed of the ComposerListEntries being returned _  
 IM-7154 - OrderNumber on email receipt from TOP & POP  
-IM-7433 - Admin NL Translations  
+IM-7433 - Merged in Admin NL Translations  
 
 
 

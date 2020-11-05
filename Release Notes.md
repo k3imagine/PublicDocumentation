@@ -1,7 +1,7 @@
 # RELEASE VERSION: 11th November 2020
 ## FEATURES
 ### RETAIL
-IM-5187 - Add connector name on Z-report  
+IM-5187 - Add connector name on Z-rapport  
 _Connector Name now shows on the top of the printed Z Report_  
 IM-4920 - Customer turnover for export   
 ### SELF SERVE
@@ -35,6 +35,12 @@ IM-3125 - RBO - Data Export. The time difference between the `Created` and `Comp
 _The Created time and Completed time are now showing correctly._  
 IM-5549 - PoS - Email receipt does not show item comments for Item Group  
 _Item Group comments added on a transaction are now included in the email receipt_  
+IM-7120 - Web Order decreases item stock but does not create an item movement  
+_When processing a Web order on the POS this will now create a corresponding stock movement for the items if the barcode exists in Imagine_  
+IM-7437 - Inventory GRN/PO Matrix Grid - Hummel  
+_Fixed a bug which caused the matrix grid to show as a blank box once a quantity was set. This occurred on items with large amounts of item variants._  
+IM-7603 - Hummel - Hourly Sales Report  
+_Fixed the hourly sales report to correctly display data by hour. This also include People Counter data entered through the API_  
 IM-7501 - Public API : Basket Endpoint 404  
 _The public api endpoint is now aligned to use the new PPE design._  
 IM-5815 - Signup UI special characters in username  
@@ -43,7 +49,7 @@ IM-7544 - On Cancel payment transaction was still going trough and UI showing su
 _This fixes the issue where if the user cancels the payment at the PED but the transaction completes on imagine._  
 ## Other Improvements  
 IM-7434 - Inventory NL Translations  
-IM-7492 - POS NL Translation  
+IM-7492 - POS NL Translation   
 
 
 

@@ -1,7 +1,7 @@
 # RELEASE VERSION: 11th November 2020
 ## FEATURES
 ### RETAIL
-IM-5187 - Add connector name on Z-rapport  
+IM-5187 - Add connector name on Z-report  
 _Connector Name now shows on the top of the printed Z Report_  
 IM-4920 - Customer turnover for export   
 ### SELF SERVE
@@ -21,7 +21,7 @@ IM-6655 - Email Receipts Missing Currency Symbol
 _this puts the currency symbol on the email receipt from SelfOrder_  
 IM-7450 - Public API - Shop endpoints return locationId  
 _In Public API GET Shops endpoints we now return the locationId which is used in other public api requests for Stock_  
-IM-6751 - Expense payed out on card give cash difference in cash statement - FDB Møbler  
+IM-6751 - Expense payed out on card give cash difference in cash statement  
 _A change has been made to the POS so that expenses can only be paid on Cash payment type._  
 IM-5500 - Public API - Create stocktake response  
 _Fixed a bug in the public api which led to a 500 response when creating a partial stocktake which included no selection. This now results in a blank stocktake._  
@@ -37,9 +37,9 @@ IM-5549 - PoS - Email receipt does not show item comments for Item Group
 _Item Group comments added on a transaction are now included in the email receipt_  
 IM-7120 - Web Order decreases item stock but does not create an item movement  
 _When processing a Web order on the POS this will now create a corresponding stock movement for the items if the barcode exists in Imagine_  
-IM-7437 - Inventory GRN/PO Matrix Grid - Hummel  
+IM-7437 - Inventory GRN/PO Matrix Grid  
 _Fixed a bug which caused the matrix grid to show as a blank box once a quantity was set. This occurred on items with large amounts of item variants._  
-IM-7603 - Hummel - Hourly Sales Report  
+IM-7603 - Hourly Sales Report  
 _Fixed the hourly sales report to correctly display data by hour. This also include People Counter data entered through the API_  
 IM-7501 - Public API : Basket Endpoint 404  
 _The public api endpoint is now aligned to use the new PPE design._  

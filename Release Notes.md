@@ -1,3 +1,52 @@
+# RELEASE VERSION: 11th November 2020
+## FEATURES
+### RETAIL
+IM-5187 - Add connector name on Z-report  
+_Connector Name now shows on the top of the printed Z Report_  
+IM-4920 - Customer turnover for export   
+### SELF SERVE
+IM-7240 - Visual Composer - Add image preview  
+_Within Visual Composer > Composer Groups - This allow the preview of an image url before saving to ensure it is correct._  
+### PLATFORM
+IM-4889 - Create Platform Admin App  
+IM-5358 - POC - Connector Free Receipt Printing (and opening cash draw)  
+IM-6972 - Generate Welcome Email and Password on User Creation  
+IM-3138 - Add to DeviceWorker_Pay all payment modalities necessary for full POS operation (Verifone)  
+## BUGS
+IM-5501 - Public API - Create multiple vendors  
+_Fixed an issue on the Public API which threw an error when trying to create multiple vendors on the Vendor/vendors endpoint_  
+IM-6656 - Email Receipts Missing 0  
+_This fixes the second decimal on the emailed receipts within selforder_  
+IM-6655 - Email Receipts Missing Currency Symbol  
+_this puts the currency symbol on the email receipt from SelfOrder_  
+IM-7450 - Public API - Shop endpoints return locationId  
+_In Public API GET Shops endpoints we now return the locationId which is used in other public api requests for Stock_  
+IM-6751 - Expense payed out on card give cash difference in cash statement - FDB Møbler  
+_A change has been made to the POS so that expenses can only be paid on Cash payment type._  
+IM-5500 - Public API - Create stocktake response  
+_Fixed a bug in the public api which led to a 500 response when creating a partial stocktake which included no selection. This now results in a blank stocktake._  
+IM-6186 - Text "gift certificate" does not appear on e-mail receipt  
+_Fixed an issue which caused Gift certificates to be excluded from the emailed receipt_  
+IM-3515 - RBO - it's not possible to set VAT on GV when creating new store  
+_Option to set the VAT on GV now appears once the the Primary Group has been added to the shop_  
+IM-3124 - RBO - Data Export. It is possible to start an export with mandatory fields missing  
+_All fields are now validated before export can be started_  
+IM-3125 - RBO - Data Export. The time difference between the `Created` and `Completed` is incorrect  
+_The Created time and Completed time are now showing correctly._  
+IM-5549 - PoS - Email receipt does not show item comments for Item Group  
+_Item Group comments added on a transaction are now included in the email receipt_  
+IM-7501 - Public API : Basket Endpoint 404  
+_The public api endpoint is now aligned to use the new PPE design._  
+IM-5815 - Signup UI special characters in username  
+_A change to Signup UI to only allow the following special characters to be allowed `-,.@_`_  
+IM-7544 - On Cancel payment transaction was still going trough and UI showing success  
+_This fixes the issue where if the user cancels the payment at the PED but the transaction completes on imagine._  
+## Other Improvements  
+IM-7434 - Inventory NL Translations  
+IM-7492 - POS NL Translation  
+
+
+
 # RELEASE VERSION: 28th October 2020
 ## FEATURES
 ### RETAIL

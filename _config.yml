@@ -1,6 +1,7 @@
 # Setup
-title:        K3 Imagine | Release Notes
-locale:       "en"
+title: K3 Imagine | Release Notes
+description: K3 Imagine | Release Notes
+locale: "en"
 theme: jekyll-theme-slate
 github:
   is_project_page: false

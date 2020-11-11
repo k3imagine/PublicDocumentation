@@ -1,9 +1,6 @@
 # Setup
 title:        K3 Imagine | Release Notes
-baseurl:      "Release%20Notes"
 locale:       "en"
 theme: jekyll-theme-slate
-include:
-  - Release Notes.md
 github:
   is_project_page: false

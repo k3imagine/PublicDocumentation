@@ -5,10 +5,14 @@ IM-4011 - Cash Statement Reconcile all payment Types
 _Now have the ability to reconcile all payment types in the POS. These can be configured in Backoffice=>Payment Types menu_  
 IM-424 - Item/Inventory UI - Select Default Label Template   
 _Add ability to set default label template on Item Hierarchy which then sets the default on the item_  
+IM-6668 - Print labels from Purchase order  
+_PO now has the ability to print labels in a similar fashion to GRNs_  
 IM-6670 - Backoffice - Expand template field  
 _Expanded the Template field in the label templates within the Backoffice module_  
 IM-6671 - backoffice - print test label  
 _Added the ability to print a test label from within the backoffice label templates screen_  
+IM-6394 - Inventory - label prices to honour regional settings for currency  
+_Inventory - label prices now honour regional settings for currency based on a shops language_  
 IM-6559 - Inventory - add Vendor Item Number column to Item import spreadsheet  
 _Added Vendor Item Number to the inventory item import_  
 IM-5969 - Inventory - increase the field length for Manufacturer Item No:  
@@ -19,20 +23,66 @@ IM-4804 - Inventory PO bulk export template - Vendor Item No should be read only
 _In Inventory bulk export for Purchase orders the Vendor Item No is now read only_  
 IM-7219 - Add default label template to master item  
 _It is now possible to select a Default Label Template on the Master Item and during Item Creation_  
+IM-6669 - Adding new print variables  
+_Added {masterItemNo} as a variable that can be used in Label Templates_  
+IM-7203 - Custom attribute and dimension selectors for label templates  
+_Added custom attribute and dimension selectors in Label Templates_  
 IM-6487 - Disable CARD payment type if no integration is selected for the connector  
 _If no integrated card terminal is setup within Admin then the Card payment option no longer shows in the POS_  
+IM-7213 - MS Stock Modifications  
+_Added GET Stocktakes and GET Stocktake counts to the Public Api_  
 IM-7214 - Public API - Output StockTake  
 _Added a new GET endpoint for stocktakes in the public api_  
+IM-5355 - Adding custom attributes to existing item  
+_Adding a required attribute to an existing item now prompts the user to confirm they want to proceed_  
 ### SELF SERVE
+IM-6621 - SelfServe Admin - Payment provider config  
+_Self Serve Admin - Add payment provider selection_  
+IM-6948 - Multilanguage shop config  
+_Self Serve Admin - Allow per shop language to be configured._  
 IM-5207 - Google Pay Adyen Integration  
 _Now Obsolete_  
 ### PLATFORM
 IM-7189 - Public API - Item Hierarchy Tax Codes  
 _Public API now allows for tax codes to be assigned to Item Hierarchy in the same way that the UI allows._  
+IM-7216 - Password Reset  
+_Tenant Administrators can now reset user passwords through User Management in the Portal, option to force user to change the password on login can be selected. _  
 IM-5358 - POC - Connector Free Receipt Printing (and opening cash draw)  
+IM-6518 - Platform Admin - Assign Widgets  
+_Platform Admin users can now easily apply Widgets across all shops they have access to_  
+IM-3456 - Public API stock lookup should include shopId  
+_Added ShopId query parameter option to all stock lookup endpoints in the public api_  
+IM-5340 - Public API - improve error message for Master Item POST failed  
+_Public api item endpoints, the barcode is a required field so will return an error message if the barcode is not included_  
+IM-6130 - Public API - Currency Price on Items   
+_Through the public api currency prices can now be added and updated through the item and Master Item endpoints_  
+IM-6317 - Public API - Add Vendor Item No in PUT and POST item  
+_Added VendorItemNo property to PUT/POST on Item requests in the public api_  
+IM-6816 - Public API -loyalty Endpoints  
+_Added Public API endpoints to get customer loyalty balance and update loyalty balance_  
+IM-7864 - Public API - Goods Receipt Line Serial Number  
+_Goods Receipt Endpoints on the public api now include the serial number on the goods receipt line_  
 ## BUGS
+IM-5171 - Inventory-ItemList Copy MasterItem not working  
+_Fixed a bug which caused copying of items to fail in Inventory_  
+IM-7278 - Portal UI Roles Gateway Permissons not working  
+_Fixed a bug causing an error on the roles. Roles can now only be updated/assigned by the tenant admin_  
 IM-7394 - 500 error on page size in visual composer  
 _Fixed a 500 error on page size in Visual Composer, caused when viewing Composer Tiles. Note: a database re-index may also be required alongside this fix_  
+IM-7117 - Image scaling on Kiosk with Selected Item  
+_Fixes an issue of Image scaling on Kiosk_  
+IM-7495 - Delete Composer Group - Toaster UI issue  
+_Visual Composer - Delete Composer group_  
+IM-7739 - Cannot Commit GRN - Duplicate GRN lines  
+_Stock MS now aggregates goods receipt lines so that when these come in through the public api these do not cause errors when receiving the goods_  
+IM-7771 - Stock UI -Transfers closed can be changed  
+_Fixed a bug which allowed transfers to be saved after closing or the receive all button to be pressed after close_  
+IM-7679 - Search in Inventory list 
+_Fixed an issue in the inventory item search so that it will match on multiple words_  
+IM-7870 - No lines added when doing a new transfer 
+_Item No and Description are now showing when item added to a Transfer Out_  
+IM-7818 - Gift card and credit note not cutting paper  
+_Fixed an issue where vouchers/credit notes were not being cut by the receipt printer_  
 IM-6739 - InventoryUI: No feedback about a discarded barcode  
 _Inventory UI now has an error show when you try to add a barcode to an existing item and the barcode already belongs to another item._  
 IM-5571 - Inventory Part receive PO  
@@ -41,8 +91,14 @@ IM-7269 - Can't Add Addition Dimension Value to Existing Item
 _Fixed issue with adding a new dimension value to existing Item_  
 IM-7626 - Clerk sent to daily closure module when pressing Cancel button at item lookup  
 _Fixed a bug which caused the item search cancel button to route to the cash statement screen_  
-IM-7274 -  Inventory - missing scroll bar on Matrix grid
+IM-7274 -  Inventory - missing scroll bar on Matrix grid 
 _Scroll bar has been added to Dimension Matrix within Goods Receipt_  
+IM-5063 - POS - failed payment lines are reprinted when transaction completed  
+_Failed payment lines no longer being printed_  
+IM-5383 - POS - Credit note prints copy  
+_Credit Note receipt copy no longer being printed_  
+IM-6742 - In Report - sales anaysis - on clerks  no figures  
+_Figures for the Clerk series are now returned in the Sales Analysis Report_  
 IM-7120 - Web Order decreases item stock but does not create an item movement  
 _When processing a Web order on the POS this will now create a corresponding stock movement for the items if the barcode exists in Imagine_  
 IM-7289 - Creating credit card receipt for every gift receipt printed 
@@ -53,25 +109,34 @@ IM-7729 - Create Item SAVE button creates Duplicate Items
 _When saving the new item the Save button is disabled until the request is completed_  
 IM-7312 - Inventory - matrix tab missing Name field  
 _Fixed a bug which meant the item name was not shown in the matrix tab within inventory when the item only had 1 variant _  
-IM-7438 - GRN/PO matrix grid Item Dimension Sequence
+IM-7438 - GRN/PO matrix grid Item Dimension Sequence 
 _Matrx grid in inventor->Goods Receipt now shows the items in the order as set by the dimension sequence_  
 IM-6791 - Customer: Export not containing data  
-_No. of visits is now updating as expected, Total Spent is the running total purchased on Account_  
+_No. of visits is now updating as expected, Total Spent is the running total purchased on Account_ 
 IM-7402 - Inventory: Tax Rate should not have Select all option  
 _Select all value was removed_  
 IM-7271 - Customer: Issue on Focus for the correct tab  
 _The focus is on the correct tab_  
 IM-7266 - Customer: Address Name field is filled by default  
-_Address name field is fixed. It is not filled by default anymore_  
+_Address name field is fixed. It is not filled by default anymore_ 
+IM-7272 - Customer: Unassociate button remove the Customers before click on Save  
+_Save button is disabled when associated customers tab is selected._  
 IM-7101 - Public API - Blank StockTake adds all shop articles  
 _Fixed issue where creating a blank Stocktake via the PublicAPI added all items _  
 IM-7499 - Modifier Group - Number Picker - Modifier details missing  
 _Fixed bug to modifier group where the modifier details were missing_  
+IM-7690 - Manual Card and Cash button cause error  
+_Fixed an error when running simple pos on the castles device and paying on cash or card_  
 IM-7815 - Portal Users   
 _Fixed a bug when a large amount of users and roles caused the users to show a continuous spinner on the portal_  
 ## Other Improvements  
+IM-6540 - Kitchen Display -> Order Status Display  
+_Rename of Kitchen Display to Order Status Display_  
+IM-6859 - Better caption on dropdown when adding new composer tile  
+_Adding Search caption to dropdowns in Visual Composer_  
 IM-6073 - Customer UI always uses en-gb  
-_Implemented language support in the customer module_ 
+_Implemented language support in the customer module_  
+
 
 
 # RELEASE VERSION: 11th November 2020

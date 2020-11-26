@@ -112,13 +112,13 @@ _Fixed a bug which meant the item name was not shown in the matrix tab within in
 IM-7438 - GRN/PO matrix grid Item Dimension Sequence 
 _Matrx grid in inventor->Goods Receipt now shows the items in the order as set by the dimension sequence_  
 IM-6791 - Customer: Export not containing data  
-_No. of visits is now updating as expected, Total Spent is the running total purchased on Account_ 
+_No. of visits is now updating as expected, Total Spent is the running total purchased on Account_  
 IM-7402 - Inventory: Tax Rate should not have Select all option  
 _Select all value was removed_  
 IM-7271 - Customer: Issue on Focus for the correct tab  
 _The focus is on the correct tab_  
 IM-7266 - Customer: Address Name field is filled by default  
-_Address name field is fixed. It is not filled by default anymore_ 
+_Address name field is fixed. It is not filled by default anymore_  
 IM-7272 - Customer: Unassociate button remove the Customers before click on Save  
 _Save button is disabled when associated customers tab is selected._  
 IM-7101 - Public API - Blank StockTake adds all shop articles  

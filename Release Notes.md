@@ -29,7 +29,7 @@ IM-7203 - Custom attribute and dimension selectors for label templates
 _Added custom attribute and dimension selectors in Label Templates_  
 IM-6487 - Disable CARD payment type if no integration is selected for the connector  
 _If no integrated card terminal is setup within Admin then the Card payment option no longer shows in the POS_  
-IM-7213 - TMobile - MS Stock Modifications  
+IM-7213 - MS Stock Modifications  
 _Added GET Stocktakes and GET Stocktake counts to the Public Api_  
 IM-7214 - Public API - Output StockTake  
 _Added a new GET endpoint for stocktakes in the public api_  
@@ -43,7 +43,7 @@ _Self Serve Admin - Allow per shop language to be configured._
 IM-5207 - Google Pay Adyen Integration  
 _Now Obsolete_  
 ### PLATFORM
-IM-7189 - Public API - Item Hierarch Tax Codes  
+IM-7189 - Public API - Item Hierarchy Tax Codes  
 _Public API now allows for tax codes to be assigned to Item Hierarchy in the same way that the UI allows._  
 IM-7216 - Password Reset  
 _Tenant Administrators can now reset user passwords through User Management in the Portal, option to force user to change the password on login can be selected. _  

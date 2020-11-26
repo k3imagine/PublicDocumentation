@@ -65,7 +65,7 @@ _Goods Receipt Endpoints on the public api now include the serial number on the 
 ## BUGS
 IM-5171 - Inventory-ItemList Copy MasterItem not working  
 _Fixed a bug which caused copying of items to fail in Inventory_  
-IM-7278 - Portal UI Roles Gaeway Permissons not working  
+IM-7278 - Portal UI Roles Gateway Permissons not working  
 _Fixed a bug causing an error on the roles. Roles can now only be updated/assigned by the tenant admin_  
 IM-7394 - 500 error on page size in visual composer  
 _Fixed a 500 error on page size in Visual Composer, caused when viewing Composer Tiles. Note: a database re-index may also be required alongside this fix_  
@@ -77,7 +77,7 @@ IM-7739 - Cannot Commit GRN - Duplicate GRN lines
 _Stock MS now aggregates goods receipt lines so that when these come in through the public api these do not cause errors when receiving the goods_  
 IM-7771 - Stock UI -Transfers closed can be changed  
 _Fixed a bug which allowed transfers to be saved after closing or the receive all button to be pressed after close_  
-IM-7679 - Search in Inventory list - Paustian  
+IM-7679 - Search in Inventory list 
 _Fixed an issue in the inventory item search so that it will match on multiple words_  
 IM-7870 - No lines added when doing a new transfer 
 _Item No and Description are now showing when item added to a Transfer Out_  

@@ -1,4 +1,4 @@
-# RELEASE VERSION: 08th December 2020 (Pre-release)
+# RELEASE VERSION: 08th December 2020
 ## FEATURES
 ### RETAIL
 IM-4011 - Cash Statement Reconcile all payment Types  

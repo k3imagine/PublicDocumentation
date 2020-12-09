@@ -45,7 +45,7 @@ _Self Serve Admin - Add payment provider selection_
 IM-6948 - Multilanguage shop config  
 _Self Serve Admin - Allow per shop language to be configured._  
 ### PLATFORM
-IM-7189 - Public API - Item Hierarch Tax Codes  
+IM-7189 - Public API - Item Hierarchy Tax Codes  
 _Public API now allows for tax codes to be assigned to Item Hierarchy in the same way that the UI allows._  
 IM-7216 - Password Reset  
 _Tenant Administrators can now reset user passwords through User Management in the Portal, option to force user to change the password on login can be selected. _ 
@@ -68,7 +68,7 @@ _Goods Receipt Endpoints on the public api now include the serial number on the 
 ## BUGS
 IM-5171 - Inventory-ItemList Copy MasterItem not working  
 _Fixed a bug which caused copying of items to fail in Inventory_  
-IM-7278 - Portal UI Roles Gaeway Permissons not working  
+IM-7278 - Portal UI Roles Gateway Permissons not working  
 _Fixed a bug causing an error on the roles. Roles can now only be updated/assigned by the tenant admin_  
 IM-7394 - 500 error on page size in visual composer  
 _Fixed a 500 error on page size in Visual Composer, caused when viewing Composer Tiles. Note: a database re-index may also be required alongside this fix_  
@@ -111,7 +111,7 @@ _Failed payment lines no longer being printed_
 IM-2649 - RboMS - When changing a Shop's local currency, remove the existing exchange rates  
 _Changing shop currency will remove any existing exchange rates set against the old currency._  
 IM-5383 - POS - Credit note prints copy  
-_Credit Note receipt copy no longer being printed. Connector updated required for this fix_  
+_Credit Note receipt copy no longer being printed._  
 IM-6742 - In Report - sales anaysis - on clerks  no figures  
 _Figures for the Clerk series are now returned in the Sales Analysis Report_  
 IM-7120 - Web Order decreases item stock but does not create an item movement  

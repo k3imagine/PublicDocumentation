@@ -125,7 +125,7 @@ _When saving the new item the Save button is disabled until the request is compl
 IM-7312 - Inventory - matrix tab missing Name field  
 _Fixed a bug which meant the item name was not shown in the matrix tab within inventory when the item only had 1 variant _  
 IM-7438 - GRN/PO matrix grid Item Dimension Sequence  
-_Matrx grid in inventor->Goods Receipt now shows the items in the order as set by the dimension sequence_  
+_Matrix grid in inventor->Goods Receipt now shows the items in the order as set by the dimension sequence_  
 IM-6792 - Customer - Update currency on empty field  
 _Currency field is now a required field, if the field is left blank using the PublicAPI then it will default to the tenant currency._  
 IM-6791 - Customer: Export not containing data  

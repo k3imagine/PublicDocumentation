@@ -112,7 +112,7 @@ IM-2649 - RboMS - When changing a Shop's local currency, remove the existing exc
 _Changing shop currency will remove any existing exchange rates set against the old currency._  
 IM-5383 - POS - Credit note prints copy  
 _Credit Note receipt copy no longer being printed._  
-IM-6742 - In Report - sales anaysis - on clerks  no figures  
+IM-6742 - In Report - sales analysis - on clerks  no figures  
 _Figures for the Clerk series are now returned in the Sales Analysis Report_  
 IM-7120 - Web Order decreases item stock but does not create an item movement  
 _When processing a Web order on the POS this will now create a corresponding stock movement for the items if the barcode exists in Imagine_  

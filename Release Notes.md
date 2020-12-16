@@ -1,3 +1,50 @@
+# RELEASE VERSION: (Pre Release Notes) 12th January 2021
+## FEATURES
+### RETAIL
+IM-6965 - Vendor Number Length  
+_Vendor No. length increased to allow 10 digits_  
+IM-7436 - Goods received missing information in view when created from API  
+_Goods receipt notes within inventory now display the Number,notes and description fields _  
+IM-2997 - RBO - The clerk pin should be hashed in DB  
+_Clerk password are not encrypted in the DB_  
+IM-6777 - Grid of Logs doesn't give enough information  
+_Item movements tab within inventory now allows you to choose the columns to display, along with this extra columns have been added to show Barcode and Item No_  
+### SELF SERVE
+IM-5327 - TOP - Payment abstraction  
+_Payment will be based on the payment provider in SelfServeAdmin_  
+IM-6809 - New greek translations  
+_Added missing Greek translations to Kiosk for modifiers and min/max_  
+IM-7721 - OSD - Order Details: Collection / Delivery  
+_Order Status Display now shows an icon to indicate if an order is for delivery or pick up in store_  
+### PLATFORM
+IM-6585 - Portal - warn when removing all tenant admin users  
+_Warning now given if you are removing a Tenant Admin, unable to disable your own user and a green highlight has been added to Tenant Admin users._  
+## BUGS
+IM-7301 - PO Item Group Filter Doesn't Work  
+_Fixed an issue where the PO Item Group filter doesn't work_  
+IM-7323 - Create New Customer: No warning when using an existing External Unique ID  
+_Fixed bug where no warning was displayed when entering an existing Unique ID_  
+IM-7548 - PoS - Setting Spanish as shop language has a negative effect on PoS  
+_Added support for Spanish_  
+IM-7604 - POS: Spelling error for incorrect password  
+_Text for incorrect password is fixed_  
+IM-7712 - Changing datatype of custom attributes breaks UI if attribute is already in use  
+_Fixed a bug where changing datatype of custom attributes breaks the UI if attribute is already in use_  
+IM-7635 - PPE Item Bundle Custom Attribute Type  
+_PPE - Create a bundle with a customer attribute text filter_  
+IM-3095 - User logging in Firefox fails  
+_Fixed error logging in to Portal using Firefox browser_  
+IM-7099 - SelfServe Apps using ARM: IP undefined  
+_Simple POS and Kiosk will now show a message if the Connector does not have a valid IP address. This can occur if entering these applications just after configuring a new connector_  
+IM-8021 - POP is being indexed in search engines  
+_Added noindex tags to POP UI so that this is not indexed by search engines_  
+## Other Improvements  
+IM-6575 - Product Configurator Version update and Translate  
+_Product configurator now supports additional language strings. Only en-gb currently available_  
+IM-7628 - Update SearchAgg and SearchMS with DisplayInKitchenProperties  
+_Added self serve information to Item data within Elastic search_  
+
+
 # RELEASE VERSION: 8th December 2020
 ## FEATURES
 ### RETAIL

@@ -62,8 +62,6 @@ IM-7635 - PPE Item Bundle Custom Attribute Type
 _PPE - Create a bundle with a customer attribute text filter_  
 IM-3095 - User logging in Firefox fails  
 _Fixed error logging in to Portal using Firefox browser_  
-IM-7429 - StockMs: Handling of an items alternative barcodes on PurchaseOrders  
-_Corrected the handling of an items alternative barcodes on Purchase Orders_  
 IM-7451 - Voucher printing formatting of receiptId  
 _Corrected formatting of receipt barcode when printing vouchers_  
 IM-6632 - Portal - Tab no shown as active on reload  

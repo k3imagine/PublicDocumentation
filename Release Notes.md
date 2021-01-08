@@ -14,7 +14,7 @@ _Clerk password are not encrypted in the DB_
 IM-6777 - Grid of Logs doesn't give enough information  
 _Item movements tab within inventory now allows you to choose the columns to display, along with this extra columns have been added to show Barcode and Item No_  
 IM-5372 - See balance of loyalty points on printed receipt   
-_The receipt will now show the Loyalty Points earned on the transaction and the currently available to spend points, these are minus any in quarantine._  
+_The receipt will now show the Loyalty Points earned on the transaction and the currently available to spend points, these are minus any in quarantine.**This ticket requires a connector reboot**_  
 IM-7812 - PPE Enhancement - Limit the promotions to store(s)  
 _PPE Enhancement to limit the promotions to store(s)_  
 ### SELF SERVE
@@ -63,7 +63,7 @@ _PPE - Create a bundle with a customer attribute text filter_
 IM-3095 - User logging in Firefox fails  
 _Fixed error logging in to Portal using Firefox browser_  
 IM-7451 - Voucher printing formatting of receiptId  
-_Corrected formatting of receipt barcode when printing vouchers_  
+_Corrected formatting of receipt barcode when printing vouchers **This ticket requires a connector reboot**_  
 IM-6632 - Portal - Tab no shown as active on reload  
 _Fixed incorrect highlighting of the active tab in the top bar on refresh of Portal_  
 IM-7099 - SelfServe Apps using ARM: IP undefined  

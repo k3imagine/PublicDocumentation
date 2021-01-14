@@ -20,6 +20,14 @@
     color: white;
     padding-bottom: 30px;
   }
+
+  .prod{
+    color:#42bf2b
+  }
+
+  .rc{
+    color: #ff9500;
+  }
   
   /* The actual timeline (the vertical ruler) */
   .timeline {

@@ -40,7 +40,7 @@ function addRow(prodRelease, nextDate) {
     if(!prodRelease){
     div.innerHTML = `
         <div class="content">
-        <h2>RC Release</h2>
+        <h2 class="rc">RC Release</h2>
         <h3>${formattedDate}</h3>
         <p>Smoke testing planned completion: Evening of ${smokeComplete}</p>
         <p>UAT testing for Hypercare can commence: Morning of ${uatStarts}</p>
@@ -49,7 +49,7 @@ function addRow(prodRelease, nextDate) {
     }else{
       div.innerHTML = `
         <div class="content">
-        <h2>Production Release</h2>
+        <h2 class="prod">Production Release</h2>
         <h3>Evening of ${formattedDate}</h3>
         <p></p>
         </div>

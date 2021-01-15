@@ -1,4 +1,4 @@
-let originalReleaseDate = new Date('2021-01-26')
+let originalReleaseDate = new Date('2021-01-12')
 let nextProdRelease = originalReleaseDate;
 let prodRelease = true;
 let rcRelease = true
@@ -10,13 +10,13 @@ function getNextYearsWorthOfReleases(originalReleaseDate){
     return nextDate
 }
 
-for(let i=0; i<20;i++){
+for(let i=0; i<25;i++){
     if(i%2){
-        prodRelease = true
-        rcRelease = false
-    } else {
         prodRelease = false
         rcRelease = true
+    } else {
+        prodRelease = true
+        rcRelease = false
     }
     nextDate = getNextYearsWorthOfReleases(nextProdRelease)
     nextProdRelease = nextDate
@@ -24,6 +24,9 @@ for(let i=0; i<20;i++){
 }
 
 function addRow(prodRelease, nextDate) {
+    const todaysDate = Date.now();
+    console.log(todaysDate)
+    if(nextDate<todaysDate) return
     const div = document.createElement('div');
     if(prodRelease){
         div.className = 'container right';

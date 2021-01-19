@@ -1,3 +1,109 @@
+# RELEASE VERSION: (Pre Release notes) 26th January 2021
+## FEATURES
+### RETAIL
+IM-7871 - Item Hierarchy In Inventory Section Has NO Delete Option  
+_Add a Delete option to Item Hierarchy_  
+IM-8105 - Need to be able to print several of the same label at once from Pos  
+_POS Ui now allows you to enter a quantity when printing a label for an item from the search _  
+IM-5941 - External VoucherID in imagine  
+_External VoucherID supported allowing 3rd Party systems to create vouchers_  
+IM-2744 - Transaction report - Load More button not showing more records  
+_Fixed Load More button to pull in more transactions and displays them on screen_  
+IM-7336 - GW - Align HMRC fraud prevention header to the latest spec  
+_HMRC fraud prevention header updated to latest spec_  
+IM-7745 - View transactions from the 9-Box calculations  
+_Button added to view the transactions from the 9-box calculation._  
+IM-7144 - Search/filter transactions endpoint - MS+GW  
+_Endpoints added to allow for filtering of transactions on date range_  
+IM-7191 - Log everything related to the following events transaction import, transaction clear, user login, HMRC auth - MS+GW  
+_Logs extended to include a range of events_  
+IM-7140 - Search/filter transaction - UI  
+_Search/Filter function added to Transactions page, can filter on date range and can exclude submitted transactions_  
+IM-7190 - View/Clear logs - UI  
+_Logs tab added to menu that include range of event details and ability to be cleared down._  
+IM-7264 - Customer: It is not possible remove an address  
+_Fixed bug where after clicking Add new address was not possible to undo this action_  
+IM-7811 - PPE Enhancement - Master item filter  
+_Added the ability to input a master item on item bundle creation._  
+IM-7906 - UI - Add date to view already submitted transaction  
+_Date range for the submissions now shows on the page when viewing that submission period._  
+IM-7960 - UI - submission page needs date filter  
+_Date range filter has been added to the submissions page_  
+IM-8134 - New SideBar/TopBar for All Imagine Modules  
+_Implemented new top bar and side bar in the retail suite_  
+IM-8315 - UI - Show/hide already submitted transaction  
+_Switch added to show/hide submitted transactions when performing a search._  
+IM-8318 - UI - Delete dialog user feedback changes  
+_Dialog added for deleting transactions that shows date range and number of transaction to be included._  
+IM-8354 - Status page in POS  
+_Implemented the Platform status in the ellipsis menu of the POS_  
+IM-8368 - UI - Brexit 9 box text changes  
+_Text within 9 box submissions updated to reflect leaving EU _  
+### SELF SERVE
+IM-6622 - SelfServe Admin - Pathmap  
+_User able to create POP Path Map in Self Serve Admin_  
+IM-8126 - Implementation of Top Bar and Side Bar  
+_Implemented new topbar/sidebar in the Self Serve applications_  
+### PLATFORM
+IM-4811 - New Sidebar/TopBar  
+_New Sidebar implemented into the Portal and Platform Admin_  
+IM-7173 - Portal - alter error message for log on  
+_Portal - Better explanation when login not working/_  
+IM-8252 - Platform Admin - add Rest button to clear search criteria  
+_Platform Admin - Reset button for search _   
+IM-7750 - Platform Admin - Partners - Add Tenant/User to Partners  
+_Platform Admin - Add Tenant/User to Partners_  
+IM-8352 - Status Page in portal  
+_Added Imagine platform status to the portal dashboard_  
+## BUGS
+IM-8270 - POS - paying with Gift Certificate asks for value  
+_Fixed an issue where paying with a Gift Certificate was asking for an amount instead of the certificate number._  
+IM-8260 - ItemUI cannot load  
+_Fixed a bug which caused item management to display a blank page on load_  
+IM-7580 - POS [Sell Set]: Issue when type a barcode to Set start  
+_Fixed master item query on sell set_  
+IM-8069 - Assigned Clerk Role Code not displayed  
+_Fixed a bug where the clerk role code was not displayed correctly_  
+IM-7449 - PosUI: removing a weborder from receipt  
+_When removing a web order from the transaction window this now sets the quantity on hand and quantity reserved back to its previous state so that the web order can be processed at another time_  
+IM-8206 - Clerk language not displayed after saving  
+_Solved a bug where the Clerk language was not displayed after saving_  
+IM-7683 - POS: Can not remove a discount on gift certificate  
+_Fixed bug where could not remove a discount from gift certificate_  
+IM-7670 - POS Item group: Issue on the text in the Filter button  
+_Fixed typo in Filter _  
+IM-8208 - PPE Promotion display doesn't handle long description gracefully  
+_Fixed issue where PPE Promotion page display became distorted by long item descriptions_  
+IM-8279 - MTD MS - Logs are not logging for 500 errors  
+_MTD logs now recording 500 errors_  
+IM-8271 - Deletion of transactions errors out  
+_Fixed issue where deleting transactions caused an error_  
+IM-7959 - UI - the menu gone missing on reload on 9 box calculation page  
+_Fixed issue with the menu not showing on reload of submission page._  
+IM-5553 - Duplicate voucher bounces  
+_Fixed an issue which caused an attempt to resend a voucher to the backend which resulted correctly in a duplicate voucher response_  
+IM-5556 - StockMs uses a lot of memory  
+_Fixed a memory leak within stock ms_  
+IM-7259 - Customer: fields should be validated in New Customer form  
+_Fixed the validation on Customer fields_  
+IM-6957 - Fix connector receipt mapping  
+_Fixed issue with Connector parsing old receipts_  
+IM-8401 - Request to /sales returns 500 on the KioskGW  
+_Setting virtual connector does not trigger an error on the payment_  
+IM-8287 - Visual Composer: Can not edit the Visual Profiles  
+_Fixed the visual profile not editable_  
+IM-8266 - DEV - Tenant creation failing via Platform Admin  
+_Fixed an issue when inserting demo data on new tenants_  
+IM-8286 - UI - New sidebar  
+_Fixed to the new top/sidebar_  
+IM-8365 - UI - Transactions page, submission ID missing  
+_Submission id not visible against transaction if user selects to include submitted transactions in the search._  
+IM-8400 - Public API - POST Error - T:Mobile  
+_Fixed_  
+## Other Improvements  
+IM-6007 - Version number in POS UI does not reflect released version  
+_POS - Now reflects the correct released version._  
+
 # RELEASE VERSION: 12th January 2021
 ## FEATURES
 ### RETAIL

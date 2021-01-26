@@ -1,4 +1,4 @@
-# RELEASE VERSION: (Pre-release notes) 26th January 2021
+# RELEASE VERSION: 26th January 2021
 ## FEATURES
 ### RETAIL
 IM-7871 - Item Hierarchy In Inventory Section Has NO Delete Option  

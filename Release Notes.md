@@ -1,6 +1,7 @@
 # RELEASE: 28th January 2021
 ## FEATURES
 Added a new Analysis Module, this has been auto enabled for all tenants using the existing Reports Module. Documentation can be found within the [K3 Imagine Documentation](https://www.k3imagine.com/documentation/Analysis.html "K3 Imagine | Analysis Module")
+_Please note the Master Item summary currently will not display by Master Item, this will be fixed in the next release on the 23rd February including historic data_
 
 # RELEASE VERSION: 26th January 2021
 ## FEATURES

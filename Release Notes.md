@@ -1,6 +1,6 @@
 # RELEASE: 28th January 2021
 ## FEATURES
-Added a new Analysis Modules, this has been auto enabled for all tenants using the existing Reports Module. Documentation can be found within the [K3 Imagine Documentation](https://www.k3imagine.com/documentation/Analysis.html "K3 Imagine | Analysis Module")
+Added a new Analysis Module, this has been auto enabled for all tenants using the existing Reports Module. Documentation can be found within the [K3 Imagine Documentation](https://www.k3imagine.com/documentation/Analysis.html "K3 Imagine | Analysis Module")
 
 # RELEASE VERSION: 26th January 2021
 ## FEATURES

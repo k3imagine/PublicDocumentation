@@ -1,3 +1,76 @@
+# RELEASE VERSION: (Pre-release) 23rd February 2021
+## FEATURES
+### RETAIL
+IM-7243 - Use default label template in GRN print all functionality  
+_Inventory - change to the print label facility._  
+IM-8112 - GCON002 Add columns to show the overall on-hand quantity and min/max on-hand for each item  
+_Inventory - shows overall quantity on hand. _  
+IM-8261 - Change length of vendorno in public API  
+_Increased permitted value for Vendor Number to 20 characters_  
+IM-8358 - Add a toggle in Admin->Receipt Setup to hide loyalty  
+_POS/Admin and Connector Update to allow loyalty to be printed on the receipt._  
+IM-7151 - Feature request: add {itemVendorName} as a label variable  
+_Add {itemVendorName} variable for use. See Help files for further details_  
+IM-6470 - Inventory - update the way Vendor is present on List and Summary  
+_Item summary now shows current vendor and a new field showing any previous vendors. Item list will show the current vendor._  
+IM-8323 - Inventory - Adding Vendor doesn't allow to specify Vendor number  
+_Removed obsolete fields from 'Add Vendor' within Item Creation process, now only require name and optional Vendor Number._  
+IM-5599 - POS Graphs  
+_Improved the visibility of the sales target on the chart and the summarised button now keeps it's set state._  
+IM-7132 - PPE - Option to delete unused item bundles  
+_PPE - Ability to delete a bundle that is not attached to a promotion_  
+IM-8229 - Inventory Search Text Box Requires the Quick Clear X Function   
+_"X" has been added to the search box_  
+IM-6684 - PosUI: Clear indication if not connected to connector  
+_POS - Clear indication of connector status_  
+### SELF SERVE
+IM-7955 - Add Swedish to language picker  
+_SCO - Addition of Swedish to the language picker_  
+### PLATFORM
+IM-5807 - Platform Admin - Connector Management Listing View  
+_Connector management added to platform admin_  
+IM-6517 - Platform Admin - Assign Shop Features  
+_Ability to assign Shop Features within tenants now added to Platform Admin_  
+IM-8044 - Email Customers  
+_Platform Admin - Email to Imagine Portal users or selected group from dropdown list_  
+IM-8249 - Platform Admin - inactive shops in Widgets  
+_Platform Admin - Addition of status column on shop - widgets and shop features_  
+## BUGS
+IM-7688 - Clerk login password input not cleared  
+_Simple POS - Fixed bug with password not clearing on input_  
+IM-8493 - Scanning multiple giftlabels at Pos returns  wrong value on second label scanned  
+_Fixed issue. Scanning the gift label will return the quantity and items from original receipt, no need to scan all gift labels._  
+IM-7498 - Reports - Sales Analysis Data Not Showing by Item  
+_Fixed issue with Sales Analysis report not showing data by item_  
+IM-7720 - POS Park transactions:  Receipt line is cut and not well organised  
+_Fixed bug where the item lines in POS where not organized _  
+IM-8167 -  Item Create - Hierarchy Selection can be By-passed  
+_Inventory - Fixed bug with Hierarchy when creating new item_  
+IM-7283 - Customer: Create New group Fields are filled  
+_Removed the placeholders from the fields_  
+IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed  
+_Removed <Save> button from Audit log_  
+IM-7472 - PPE – Price Field Format not 2 Decimal Places on Promotions Setup  
+_Fixed the decimal place to show as 2 places even when the value is 0_  
+IM-7748 - Item Hierarchy Label Template Field Disappears  
+_Fixed the tax rate form to include a scroll bar for longer lists_  
+IM-7731 - Admin Shop Setup: Year displayed is 0001  
+_Fixed the issue where year displayed is 0001_  
+IM-6888 - ExceptionHandlingMiddleware is missing from ms-posidentity  
+_Added exception handling to pos identity service_  
+IM-7915 - Extended Receipt not updating correctly on Connector  
+_Extended receipt option now saving correctly in admin and printing_  
+IM-7920 - User details with only one module enabled  
+_Fixed an issue which stopped users being able to access their user details when they only have 1 module enabled_  
+IM-7976 - Public API - Stock Adjustment mapping error  
+_Fixed an error when posting a stock adjustment through the StockAdjustment endpoint on the public api_  
+IM-8380 - Username not being validated in the Platform UI  
+_Added validation in platform admin when adding a user to an existing tenant to check if the username already exists_  
+IM-8464 - Visual Composer - 'Choose a tile type' menu blank  
+_Visual composer - update tile type menu _  
+IM-8477 - UI - Styling of drop down elements are different  
+_Fixed styling of drop down element on transactions page_   
+
 # RELEASE: 28th January 2021
 ## FEATURES
 Added a new Analysis Module, this has been auto enabled for all tenants using the existing Reports Module. Documentation can be found within the [K3 Imagine Documentation](https://www.k3imagine.com/documentation/Analysis.html "K3 Imagine | Analysis Module")

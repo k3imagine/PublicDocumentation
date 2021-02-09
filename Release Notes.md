@@ -4,8 +4,8 @@
 IM-7243 - Use default label template in GRN print all functionality  
 _Inventory - change to the print label facility._  
 IM-8112 - GCON002 Add columns to show the overall on-hand quantity and min/max on-hand for each item  
-_Inventory - shows overall quantity on hand. _  
-IM-8261 - Change length of vendorno in public API  
+_Inventory - shows overall quantity on hand._  
+IM-8261 - Change length of vendorno in public API
 _Increased permitted value for Vendor Number to 20 characters_  
 IM-8358 - Add a toggle in Admin->Receipt Setup to hide loyalty  
 _POS/Admin and Connector Update to allow loyalty to be printed on the receipt._  
@@ -38,7 +38,7 @@ _Platform Admin - Addition of status column on shop - widgets and shop features_
 ## BUGS
 IM-7688 - Clerk login password input not cleared  
 _Simple POS - Fixed bug with password not clearing on input_  
-IM-8493 - Scanning multiple giftlabels at Pos returns  wrong value on second label scanned  
+IM-8493 - Scanning multiple gift labels at POS returns  wrong value on second label scanned  
 _Fixed issue. Scanning the gift label will return the quantity and items from original receipt, no need to scan all gift labels._  
 IM-7498 - Reports - Sales Analysis Data Not Showing by Item  
 _Fixed issue with Sales Analysis report not showing data by item_  
@@ -48,8 +48,8 @@ IM-8167 -  Item Create - Hierarchy Selection can be By-passed
 _Inventory - Fixed bug with Hierarchy when creating new item_  
 IM-7283 - Customer: Create New group Fields are filled  
 _Removed the placeholders from the fields_  
-IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed  
-_Removed <Save> button from Audit log_  
+IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed
+_Removed Save button from Audit log_  
 IM-7472 - PPE – Price Field Format not 2 Decimal Places on Promotions Setup  
 _Fixed the decimal place to show as 2 places even when the value is 0_  
 IM-7748 - Item Hierarchy Label Template Field Disappears  
@@ -63,7 +63,7 @@ _Extended receipt option now saving correctly in admin and printing_
 IM-7920 - User details with only one module enabled  
 _Fixed an issue which stopped users being able to access their user details when they only have 1 module enabled_  
 IM-7976 - Public API - Stock Adjustment mapping error  
-_Fixed an error when posting a stock adjustment through the StockAdjustment endpoint on the public api_  
+_Fixed an error when posting a stock adjustment through the StockAdjustment endpoint on the Public API_  
 IM-8380 - Username not being validated in the Platform UI  
 _Added validation in platform admin when adding a user to an existing tenant to check if the username already exists_  
 IM-8464 - Visual Composer - 'Choose a tile type' menu blank  

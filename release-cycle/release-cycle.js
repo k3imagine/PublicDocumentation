@@ -25,8 +25,9 @@ for(let i=0; i<25;i++){
 
 function addRow(prodRelease, nextDate) {
     const todaysDate = Date.now();
-    console.log(todaysDate)
-    if(nextDate<todaysDate) return
+    var tomorrow = new Date();
+    tomorrow.setDate(tomorrow.getDate() + 1);
+    if(nextDate<tomorrow) return
     const div = document.createElement('div');
     if(prodRelease){
         div.className = 'container right';

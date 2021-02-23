@@ -51,7 +51,7 @@ _Inventory - Fixed bug with Hierarchy when creating new item_
 IM-7283 - Customer: Create New group Fields are filled  
 _Removed the placeholders from the fields_  
 IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed  
-_Removed <Save> button from Audit log_  
+_Removed 'Save' button from Audit log_  
 IM-7472 - PPE – Price Field Format not 2 Decimal Places on Promotions Setup  
 _Fixed the decimal place to show as 2 places even when the value is 0_  
 IM-7748 - Item Hierarchy Label Template Field Disappears  

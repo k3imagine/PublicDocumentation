@@ -1,11 +1,9 @@
-# RELEASE VERSION: (Pre-release) 23rd February 2021
+# RELEASE VERSION: 2021-02-23
 ## FEATURES
 ### RETAIL
-IM-7243 - Use default label template in GRN print all functionality  
-_Inventory - change to the print label facility._  
-IM-8112 - GCON002 Add columns to show the overall on-hand quantity and min/max on-hand for each item  
-_Inventory - shows overall quantity on hand._  
-IM-8261 - Change length of vendorno in public API
+IM-7901 - Validate Customer Phone Number input against E.164 international standard.  
+_Customer Phone Numbers can now validated against the E.164 international standard, by default this is off but can be activated under the Settings tab in the Customer module._  
+IM-8261 - Change length of vendorno in public API  
 _Increased permitted value for Vendor Number to 20 characters_  
 IM-8358 - Add a toggle in Admin->Receipt Setup to hide loyalty  
 _POS/Admin and Connector Update to allow loyalty to be printed on the receipt._  
@@ -17,8 +15,6 @@ IM-8323 - Inventory - Adding Vendor doesn't allow to specify Vendor number
 _Removed obsolete fields from 'Add Vendor' within Item Creation process, now only require name and optional Vendor Number._  
 IM-5599 - POS Graphs  
 _Improved the visibility of the sales target on the chart and the summarised button now keeps it's set state._  
-IM-7132 - PPE - Option to delete unused item bundles  
-_PPE - Ability to delete a bundle that is not attached to a promotion_  
 IM-8229 - Inventory Search Text Box Requires the Quick Clear X Function   
 _"X" has been added to the search box_  
 IM-6684 - PosUI: Clear indication if not connected to connector  
@@ -26,6 +22,12 @@ _POS - Clear indication of connector status_
 ### SELF SERVE
 IM-7955 - Add Swedish to language picker  
 _SCO - Addition of Swedish to the language picker_  
+IM-7689 - Timeslots in OSD - Order Details  
+_OSD can now display and print out orders using a Windows Printer as well as utilise Time Slots which may be configured in SelfServe Admin_  
+IM-7488 - Hide Order Waiting Time  
+_Kiosk will now have the Waiting Time hidden if the relevant setting is configured in SelfServe Admin_  
+IM-6560 - Description shown instead of Name in Stocktake  
+_Inventory->Stocktakes and Good receipt notes now show Item Name instead of item description_  
 ### PLATFORM
 IM-5807 - Platform Admin - Connector Management Listing View  
 _Connector management added to platform admin_  
@@ -36,9 +38,9 @@ _Platform Admin - Email to Imagine Portal users or selected group from dropdown 
 IM-8249 - Platform Admin - inactive shops in Widgets  
 _Platform Admin - Addition of status column on shop - widgets and shop features_  
 ## BUGS
-IM-7688 - Clerk login password input not cleared  
-_Simple POS - Fixed bug with password not clearing on input_  
-IM-8493 - Scanning multiple gift labels at POS returns  wrong value on second label scanned  
+IM-8804 - Fix language file issue in SelfServeAdmin  
+_SelfServeAdmin was displaying dummy langauge strings due to an issue with path based routing which is now resolved._  
+IM-8493 - Scanning multiple giftlabels at Pos returns  wrong value on second label scanned  
 _Fixed issue. Scanning the gift label will return the quantity and items from original receipt, no need to scan all gift labels._  
 IM-7498 - Reports - Sales Analysis Data Not Showing by Item  
 _Fixed issue with Sales Analysis report not showing data by item_  
@@ -48,28 +50,28 @@ IM-8167 -  Item Create - Hierarchy Selection can be By-passed
 _Inventory - Fixed bug with Hierarchy when creating new item_  
 IM-7283 - Customer: Create New group Fields are filled  
 _Removed the placeholders from the fields_  
-IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed
-_Removed Save button from Audit log_  
+IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed  
+_Removed <Save> button from Audit log_  
 IM-7472 - PPE – Price Field Format not 2 Decimal Places on Promotions Setup  
 _Fixed the decimal place to show as 2 places even when the value is 0_  
 IM-7748 - Item Hierarchy Label Template Field Disappears  
 _Fixed the tax rate form to include a scroll bar for longer lists_  
-IM-7731 - Admin Shop Setup: Year displayed is 0001  
-_Fixed the issue where year displayed is 0001_  
 IM-6888 - ExceptionHandlingMiddleware is missing from ms-posidentity  
 _Added exception handling to pos identity service_  
+IM-7526 - Tile buttons not visible in Composer Groups in Visual Composer  
+_Bug Fix for the 'x' in Visual Composer > Composer Groups_  
 IM-7915 - Extended Receipt not updating correctly on Connector  
-_Extended receipt option now saving correctly in admin and printing_  
+_Extended receipt option now saving correctly in admin and printing. CONNECTOR UPDATE REQUIRED_  
 IM-7920 - User details with only one module enabled  
 _Fixed an issue which stopped users being able to access their user details when they only have 1 module enabled_  
-IM-7976 - Public API - Stock Adjustment mapping error  
-_Fixed an error when posting a stock adjustment through the StockAdjustment endpoint on the Public API_  
+IM-8313 - ORB: Error 500  
+_Fix issue where ORB could not be loaded_  
 IM-8380 - Username not being validated in the Platform UI  
 _Added validation in platform admin when adding a user to an existing tenant to check if the username already exists_  
-IM-8464 - Visual Composer - 'Choose a tile type' menu blank  
-_Visual composer - update tile type menu _  
+IM-8363 - Modifiers are always displaying in £  
+_Country specific currency symbol is shown is all areas, including Modifiers_  
 IM-8477 - UI - Styling of drop down elements are different  
-_Fixed styling of drop down element on transactions page_   
+_Fixed styling of drop down element on transactions page_  
 
 # RELEASE: 28th January 2021
 ## FEATURES

@@ -1,3 +1,221 @@
+# RELEASE VERSION: 09th March 2021
+## FEATURES
+### RETAIL
+IM-7243 - Use default label template in GRN print all functionality  
+_Inventory - change to the print label facility._  
+IM-6183 - Issue with keyboard on screen blocks for info.  
+_Fixed issue where the unit labels in cash statement were not displayed_  
+IM-8546 - Stock counts - add 'Select All' to shop filter and a new date filter  
+_Select All filter added as well as new date filter_  
+IM-8112 - GCON002 Add columns to show the overall on-hand quantity and min/max on-hand for each item  
+_Inventory - shows overall quantity on hand._  
+IM-8497 - Feature request for Footer and Header for credit notes  
+_Adds CN and GV header and lines to the appropriate receipts. 
+IM-7838 - Inventory - limit connectors shown when printing labels  
+_Connectors can now be filtered in dropdown selector_  
+IM-8261 - Change length of vendorno in public API  
+_Increased permitted value for Vendor Number to 20 characters_  
+IM-8358 - Add a toggle in Admin->Receipt Setup to hide loyalty  
+_POS/Admin and Connector Update to allow loyalty to be printed on the receipt._  
+IM-7151 - Feature request: add {itemVendorName} as a label variable  
+_Add {itemVendorName} variable for use. See Help files for further details_  
+IM-5660 - Inventory - Add the possibility in a PO to cancel the remaining quantity  
+_Purchase Order now shows the "Qty Received to date" and allows cancellation from any status after being placed.._  
+IM-6470 - Inventory - update the way Vendor is present on List and Summary  
+_Item summary now shows current vendor and a new field showing any previous vendors. Item list will show the current vendor._  
+IM-8323 - Inventory - Adding Vendor doesn't allow to specify Vendor number  
+_Removed obsolete fields from 'Add Vendor' within Item Creation process, now only require name and optional Vendor Number._  
+IM-6430 - Search function for receipts only works if corresponding date is also searched for  
+_Fixed issue where search a receipt it is needed to enter a date_  
+IM-5510 - Define payment types in backoffice by  tenant  
+_It is now possible to define your own payment types in the Back Office under Payment Types_  
+IM-5599 - POS Graphs  
+_Improved the visibility of the sales target on the chart and the summarised button now keeps it's set state._  
+IM-7132 - PPE - Option to delete unused item bundles  
+_PPE - Ability to delete a bundle that is not attached to a promotion_  
+IM-8229 - Inventory Search Text Box Requires the Quick Clear X Function   
+_"X" has been added to the search box_  
+IM-6684 - PosUI: Clear indication if not connected to connector  
+_POS - Clear indication of connector status_  
+### SELF SERVE
+IM-5389 - Kiosk Management -> Product Configurator  
+IM-5390 - Product Configurator - Remove Item Groups  
+IM-5564 - Multiple Order Status Displays  
+IM-8430 - Expand Images  
+_TOP and POP will now allow a user to view images in a bigger full screen lightbox from the item details screen by tapping the image._  
+IM-7955 - Add Swedish to language picker  
+_SCO - Addition of Swedish to the language picker_  
+IM-4796 - Ability to create multiple composer lists  
+IM-5068 - Save to Basket in SelfOrder  
+IM-5278 - ComposerGroup fixes  
+IM-8595 - Add Analysis Data to all Point-Of-Sale applications  
+_Self Serve - Data added to enable analysis reporting_  
+IM-7691 - Timeslots in OSD - Time Slot Management  
+_The OSD will now allow you to manage your time slots using the new button._  
+IM-7488 - Hide Order Waiting Time  
+_Kiosk will now have the Waiting Time hidden if the relevant setting is configured in SelfServe Admin_  
+IM-6444 - KFR-86: Terms and Conditions and Other Pages in SelfServeAdmin  
+_Self Serve Admin can now configure your Shop Policies - FAQ, Delivery, Return and Q&A which appear in POP._  
+### PLATFORM
+IM-5807 - Platform Admin - Connector Management Listing View  
+_Connector management added to platform admin_  
+IM-6480 - Connector Free printer security   
+_Cloud Connector now has an additional security mechanism between the Star Printers and Imagine_  
+IM-5040 - Connector Free End of Day  
+_Cloud Connector now supports End of Day functions, which are now present and processing in the cloud._  
+IM-5797 - Connector Free - Card Payments  
+_Cloud Connector now supports Adyen as a payment method, ready for piloting._  
+IM-5786 - Ability for Administrators to Disable 2FA  
+_Platform Admin - Ability to disable 2FA for a user_  
+IM-5834 - Connector Free - Feedback Loop  
+_Cloud Connector now offers a detailed Status endpoint which the POS can use to display meaningful error statuses from the cloud-connected hardware_  
+IM-6517 - Platform Admin - Assign Shop Features  
+_Ability to assign Shop Features within tenants now added to Platform Admin_  
+IM-5804 - Platform Admin - Shop Feature Management  
+_Platform Admin - Shop feature management_  
+IM-6361 - Portal - when using 2FA can the Authentication Code box be in focus?  
+_2FA code entry box now in focus by default, ready for the user to enter their code_  
+IM-8258 - SearchMs: enable verbatim search for strings  
+_Fixed issue to search Receipt in POS without enter dates_  
+IM-7842 - Stock Lookup Exclude Zero stock  
+_Option to exclude zero stock added to Stock Lookup via the API, this will allow negative stock to still be returned._  
+IM-8044 - Email Customers  
+_Platform Admin - Email to Imagine Portal users or selected group from dropdown list_  
+IM-8249 - Platform Admin - inactive shops in Widgets  
+_Platform Admin - Addition of status column on shop - widgets and shop features_  
+IM-8480 - Platform Admin - Tenant Creation user validation  
+_Platform Admin - User validation_  
+IM-8623 - Portal - remove paging from profile/mymodules  
+_Remove Paging from Module Reorder Screen_  
+IM-8417 - Public API refresh token flow  
+_Added scope option to the public api token request so that the refresh token has to be explicitly requested in order for this to be created_  
+IM-8769 - Public API -Item Stock Update Adjustment Number  
+_Public API Item Stocks Update endpoint now optionally allows user to pass in the adjustment number to be used, if not send this will be auto generated_  
+### MTD & BESPOKE DEVELOPMENT
+IM-7925 - Export to Excel feature  
+_Digital VAT UK added option to download selected transaction as CSV file._  
+IM-8388 - HMRC introduced new FP headers, implement them  
+_Implemented new FP headers_  
+IM-8197 - UI - Update to new side bar, top bar  
+_Digital Tax UK Menu and Sidebar updated to new layout theme_  
+IM-8198 - GW - Update the K3 nuget to enable module pinning feature  
+IM-7926 - Filter transactions by submission periods  
+_Digital VAT UK when viewing transaction list the filter start and end date is automatically set by choosing a submission period._  
+IM-8386 - Logs deletion by date ranges  
+_Digital VAT UK Delete logs now only deletes selected date range_  
+IM-8387 - Automatic deletion of logs  
+_Logs older than 1 month are now automatically deleted_  
+IM-8688 - Fix intermittent HMRC communication issues  
+_Resolved intermittent HMRC communication issues_  
+## BUGS
+IM-7688 - Clerk login password input not cleared  
+_Simple POS - Fixed bug with password not clearing on input_  
+IM-7066 - SimplePos, isManager for supervisor functions only works the first time  
+_The SimplePOS Is Manager function only worked the first time, this is now fixed_  
+IM-8804 - Fix language file issue in SelfServeAdmin  
+_SelfServeAdmin was displaying dummy langauge strings due to an issue with path based routing which is now resolved._  
+IM-8493 - Scanning multiple giftlabels at Pos returns  wrong value on second label scanned  
+_Fixed issue. Scanning the gift label will return the quantity and items from original receipt, no need to scan all gift labels._  
+IM-8551 - Issue with calculating loyalty points with return on the imagine POS  
+_Loyalty Points are now returned to the Customer's balance when performing a return where Loyalty Points were used as payment._  
+IM-8798 - Card payment withdraws wrong amount of money due to delimiter error  
+_Fixed issue with wrong amount being withdrawn if incorrect delimiter entered_  
+IM-8877 - PoS - all GV and CN are created as expired  
+_Fixed issue with GV and CN's being expired on creation_  
+IM-7498 - Reports - Sales Analysis Data Not Showing by Item  
+_Fixed issue with Sales Analysis report not showing data by item_  
+IM-7518 - POS: Customer address is not displayed  
+_Fixed issue where customer address was not displayed in POS_  
+IM-7720 - POS Park transactions:  Receipt line is cut and not well organised  
+_Fixed bug where the item lines in POS where not organized_  
+IM-8167 -  Item Create - Hierarchy Selection can be By-passed  
+_Inventory - Fixed bug with Hierarchy when creating new item_  
+IM-7283 - Customer: Create New group Fields are filled  
+_Removed the placeholders from the fields_  
+IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed  
+_Removed <Save> button from Audit log_  
+IM-7429 - StockMs: Handling of an items alternative barcodes on PurchaseOrders  
+_Corrected the handling of an items alternative barcodes on Purchase Orders_  
+IM-7472 - PPE – Price Field Format not 2 Decimal Places on Promotions Setup  
+_Fixed the decimal place to show as 2 places even when the value is 0_  
+IM-7731 - Admin Shop Setup: Year displayed is 0001  
+_Fixeed the issue where year displayed is 0001_  
+IM-8643 - Customer Module: Primary billing address goes missing after customer is saved in POS  
+_Fixed the issue where the primary  billing address was not saved_  
+IM-8527 - POS - Using incorrect delimiter can cause wrong amount to be redeemed  
+_Fixed issue where entering the wrong delimiter would cause incorrect amount to be redeemed_  
+IM-7427 - Tenant Features - Unable to save valid JSON containing an array  
+_Tenant Features now supports arrays and nested json objects_  
+IM-6888 - ExceptionHandlingMiddleware is missing from ms-posidentity  
+_Added exception handling to pos identity service_  
+IM-8422 - Auth code invalid error  
+_Fixed issue where the Auth code was giving an invalid error_  
+IM-8500 - MTD - Time displayed in logs not clear if AM/PM  
+_Time in the logs now displays AM/PM_  
+IM-8693 - CSV Export is missing the Record ID  
+_RecID column now included in Digital Tax UK transactions export of transactions._  
+IM-7526 - Tile buttons not visible in Composer Groups in Visual Composer  
+_Bug Fix for the 'x' in Visual Composer > Composer Groups_  
+IM-8125 - Order Status Display - Set display categories not showing  
+_Order Status Display categories now shows on Tablet devices_  
+IM-7680 - P400 val issue  
+_Fixed a bug in the Verifone pay integration due to a change in data type in mongo_  
+IM-7915 - Extended Receipt not updating correctly on Connector  
+_Extended receipt option now saving correctly in admin and printing.  
+IM-7882 - Connection string deadlock - ItemManagementMS  
+IM-7904 - Connection string deadlock - PPE MS  
+IM-7913 - Vault connection string service manual HTTP client - RBO MS  
+_Fixes to the RBO Microservice conenction string to improve some stability issues_  
+IM-7951 - Connection string deadlock - CustomerMS  
+IM-7973 - Connection string deadlock - PeopleCounterMS  
+_Update to the people Counter MS to fix SQL issues_  
+IM-7920 - User details with only one module enabled  
+_Fixed an issue which stopped users being able to access their user details when they only have 1 module enabled_  
+IM-7976 - Public API - Stock Adjustment mapping error  
+_Fixed an error when posting a stock adjustment through the StockAdjustment endpoint on the public api_  
+IM-8656 - Public API - Create Stock take  
+_Public API Stocktake POST request now responds with the created stocktakeId_  
+IM-8313 - ORB: Error 500  
+_Fix issue where ORB could not be loaded_  
+IM-8322 - Discounted Item gift label  
+_Fixed issue where returning discounted item via gift receipt it was showing original sale price_  
+IM-8380 - Username not being validated in the Platform UI  
+_Added validation in platform admin when adding a user to an existing tenant to check if the username already exists_  
+IM-8464 - Visual Composer - 'Choose a tile type' menu blank  
+_Visual composer - update tile type menu_  
+IM-8865 - Product Configurator: Restricted quantity and Age restricted are not saved  
+_Fixed issue on Product Configurator where restricted quantity and Age restricted are not saved_  
+IM-8438 - KFR-97: ORB Compatibility with Multiple OSDs  
+_The ORB will now only show orders when all components of the order are completed when using multiple order Status Displays_  
+IM-8477 - UI - Styling of drop down elements are different  
+_Fixed styling of drop down element on transactions page_  
+IM-8565 - UI - Config checkbox update not working  
+_Fixed issue with Settings checkbox not updating_  
+IM-8622 - Companion App Not setting createdBy for GRNs  
+_Companion App now adds the created by when performing a Goods Receipt_  
+IM-8767 - UI - Landing page HMRC auth check  
+_Digital VAT UK - HMRC authorisation status is correctly displayed in a new browser session, even in incognito mode._  
+IM-8799 - Public API -Item Stock Update not be handle multiple requests  
+_Public API - new endpoint for updating stock to an explicit value which creates the adjustment via a long running background task_  
+IM-9053 - Fetch Timeslots by date in OSD returns incorrect timeslots  
+_OSD was returning incorrect timeslots based upon date._  
+## Other Improvements  
+IM-7654 - Refactor Search Aggregator Transaction Reindex  
+_Refactored transaction reindex to perform in batches so that it can handle large data_  
+IM-7806 - POP Config (Pick-up, delivery, etc.)  
+_SelfServeAdmin now supports the ability to configure your POP delivery and pickup settings._  
+IM-7835 - SearchAggregatorMs: Update repository to match recent RboMs migrations  
+IM-8040 - Public API - fix docker compose file  
+IM-8307 - Make GW-ProductConfig use ms-itemmanagement.item instead of ms-kiosk.item  
+IM-8308 - Make GW-VisualComposer use ms-itemmanagement.item instead of ms-kiosk.item  
+IM-8383 - Improvements on Simple Pos for a small screen size(mobile and android device)  
+_Simple POS - improvements to visual content for mobile devices_  
+IM-8295 - Vault stability issue might be caused by old version of nuget packaged  
+IM-8331 - New SSP Kiosk Item Import  
+IM-8587 - Downpayment fields not exposed as part of public API  
+IM-8677 - Extend CA StockTake review to account for SerialNo   
+
+
 # RELEASE VERSION: 2021-02-23
 ## FEATURES
 ### RETAIL

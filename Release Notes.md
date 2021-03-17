@@ -1,3 +1,47 @@
+# RELEASE VERSION: (PRE-RELEASE) 23 March 2021
+## FEATURES
+### RETAIL
+IM-9083 - G00029 - UK Gap 3.4 - PO Selection Criteria - last sold date  
+_Additional information added_  
+IM-8459 - G00037 - UK Gap 4.3 - Purchase Order  
+_Added option to automatically create an order for remaining items when cancelling a partially received Purchase order._  
+IM-7989 - Gift Voucher Expiry Date  
+_Can now set valid period for Gift Vouchers and Credit Notes in days within Shop Setup, expiry date is printed on receipt._  
+IM-6190 - Scheduling VAT changes  
+_When setting a VAT amount within a Tax Group the option set a start date is now available_  
+IM-8393 - G00031 - UK Gap 3.11 - Purchase Order Print or Email PDF  
+_When downloading an order as a PDF it will automatically named based on the number and title._  
+IM-8912 - Prevent a POS user from entering a negative payment value.  
+_It is not not possible to enter a minus sign '-' from the physical or on-screen keyboards_  
+IM-8424 - G00036 - UK Gap 4.1 - GCON0036 - Goods Receiving from Purchase Order  
+_Inventory - On Goods received, the order selection filter is a combination of the Order Number and the Order Title_  
+### SELF SERVE
+### MTD & BESPOKE DEVELOPMENT
+IM-9051 - Purchase order API needs a new field in the purchaseorderline structure  
+_Public api now allows a serialNo to be passed on purchase order lines. Note, Imagine does not support serialised tracking of items_  
+## BUGS
+IM-8968 - The connector sets receipt dates to utc time and not local time  
+_Fixed issue where the time on the receipt was UTC and not local time_  
+IM-8852 - Broken buttons  
+_Fixed buttons that were deemed to not function as expected_  
+IM-8707 - Inventory - Stock Lookup Overview - Variant Dimension Information Required  
+_The “Stock Lookup Overview” in the inventory section now shows the variant dimension information_  
+IM-9149 - Error in Simple POS card transactions  
+_Added in checking for both a successful transaction and payment. If payment fails we show the error message “Payment Failed”, if transaction fails there is a re-attempt process in place with the RBO MS_  
+IM-8428 - RBO - Can't create new Tax Group  
+_Fixed issue with creating new Tax Groups_  
+IM-8858 - Wrong tax rate used on the POS  
+_Fixed issue with wrong tax rate being used when multiple tax groups assigned_  
+IM-8644 - Kiosk 2 and Simple POS Card Receipt  
+_Card slip is now printed on kiosk 2  or Simple POS transactions_  
+IM-9118 - Public API - Transfers  
+_Fixed a bug on the public api which meant the Transfer ID was not returned when performing a POST request._  
+IM-9095 - Missing items lines in transfers  
+_Fixed issue with missing item lines within Transfers_  
+## Other Improvements  
+IM-6926 - Various platform projects both maintenance and new featues  
+
+
 # RELEASE VERSION: 09th March 2021
 ## FEATURES
 ### RETAIL

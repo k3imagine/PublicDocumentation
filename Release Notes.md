@@ -1,6 +1,8 @@
-# RELEASE VERSION: (PRE-RELEASE) 23 March 2021
+# RELEASE VERSION: 23rd March 2021
 ## FEATURES
 ### RETAIL
+IM-8319 - G00029 - UK Gap 3.4 - PO Selection Criteria - restock+reorder point  
+_When editing a purchase order, the reorder point and restock level can be displayed as additional columns._  
 IM-9083 - G00029 - UK Gap 3.4 - PO Selection Criteria - last sold date  
 _Additional information added_  
 IM-8459 - G00037 - UK Gap 4.3 - Purchase Order  
@@ -13,20 +15,30 @@ IM-8393 - G00031 - UK Gap 3.11 - Purchase Order Print or Email PDF
 _When downloading an order as a PDF it will automatically named based on the number and title._  
 IM-8912 - Prevent a POS user from entering a negative payment value.  
 _It is not not possible to enter a minus sign '-' from the physical or on-screen keyboards_  
+IM-8717 - Stock Purchase Order and GRN Close Time not using timezone  
+_Inventory - GRN and PO to have timezone information on them_  
 IM-8424 - G00036 - UK Gap 4.1 - GCON0036 - Goods Receiving from Purchase Order  
 _Inventory - On Goods received, the order selection filter is a combination of the Order Number and the Order Title_  
+IM-7483 - POS - add a Label variable for an item's current price  
+_The variable {currentPrice} has been added for use in PoS labels_  
 ### SELF SERVE
+### PLATFORM
 ### MTD & BESPOKE DEVELOPMENT
 IM-9051 - Purchase order API needs a new field in the purchaseorderline structure  
 _Public api now allows a serialNo to be passed on purchase order lines. Note, Imagine does not support serialised tracking of items_  
 ## BUGS
+IM-8576 - Item list On-hand range values incorrect when negative (Related to IM-8112)  
+_Fixed the calculation for the range, correctly taking movements in to account_  
 IM-8968 - The connector sets receipt dates to utc time and not local time  
+CONNECTOR UPDATE REQUIRED  
 _Fixed issue where the time on the receipt was UTC and not local time_  
 IM-8852 - Broken buttons  
 _Fixed buttons that were deemed to not function as expected_  
 IM-8707 - Inventory - Stock Lookup Overview - Variant Dimension Information Required  
 _The “Stock Lookup Overview” in the inventory section now shows the variant dimension information_  
-IM-9149 - Error in Simple POS card transactions  
+IM-8945 - Create Shops fails  
+_Issue resolved with store creation._  
+IM-9149 - Error in Simple POS at the theatre  
 _Added in checking for both a successful transaction and payment. If payment fails we show the error message “Payment Failed”, if transaction fails there is a re-attempt process in place with the RBO MS_  
 IM-8428 - RBO - Can't create new Tax Group  
 _Fixed issue with creating new Tax Groups_  
@@ -38,11 +50,11 @@ IM-9118 - Public API - Transfers
 _Fixed a bug on the public api which meant the Transfer ID was not returned when performing a POST request._  
 IM-9095 - Missing items lines in transfers  
 _Fixed issue with missing item lines within Transfers_  
-## Other Improvements  
-IM-6926 - Various platform projects both maintenance and new featues  
+IM-8863 - Gift Certificate error - This voucher has expired  
+_Fixed issue with Gift Vouchers being issued expired_  
 
 
-# RELEASE VERSION: 09th March 2021
+# RELEASE VERSION: 9th March 2021
 ## FEATURES
 ### RETAIL
 IM-7243 - Use default label template in GRN print all functionality  
@@ -260,7 +272,7 @@ IM-8587 - Downpayment fields not exposed as part of public API
 IM-8677 - Extend CA StockTake review to account for SerialNo   
 
 
-# RELEASE VERSION: 2021-02-23
+# RELEASE VERSION: 23rd February 2021
 ## FEATURES
 ### RETAIL
 IM-7901 - Validate Customer Phone Number input against E.164 international standard.  

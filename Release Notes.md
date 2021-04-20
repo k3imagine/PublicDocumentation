@@ -1,3 +1,62 @@
+# RELEASE VERSION: 2021-04-20
+## FEATURES
+### RETAIL
+IM-8394 - G00039 - UK Gap 5.11 - Profit Margin Calculation  
+_Item detail and Item creation now show the margin % based on cost, sell price and tax rate_  
+_Mote: there is a known issue where the profit margin does not show during Item Creation_ 
+IM-8742 - G00060 - S1 - Item Options - Editing Items (POS)  
+_Added POS item option_ 
+_There is a known issue with bulk setting of this value to FALSE in the Summary tab_
+IM-2740 - Inventory - Print PO/GRN as a PDF  
+_Inventory - Ability to download PO or Receive goods as PDF_  
+IM-9068 - G00060 - S3 - Item Options - Actioning Options at POS - Discount  
+_POS - Not allowing discount on specific items._  
+_This is pre-release and will not currently function in the PoS_ 
+IM-9069 - G00060 - S3 - Item Options - Actioning Options at POS - Quantity  
+_POS - Stopping increase of quantity_ 
+_This is pre-release and will not currently function in the PoS_ 
+IM-8398 - Connector Update Button  
+_It was added a reboot connector button on POS_  
+### PLATFORM
+IM-9163 - Summary Transaction Data Access  
+_Public API - Transaction Summary data now available_  
+IM-9207 - Public API - Purchase Order   
+_Public API, purchase orders are now created by passing the barcode only on the purchase order line_  
+### MTD & BESPOKE DEVELOPMENT
+IM-8756 - IKEA Greece - 3.3 Bank ID Integration  
+IM-8757 - IKEA Greece - 3.6 NAV Service Check (Priority: High)  
+## BUGS
+IM-8737 - Over receive Goods receipt note on partial  
+_Inventory bug fixed regarding over receiving against a PO_  
+IM-9260 - Cant enter text in note field on an item  
+_POS bug Fix - unable to add item note._  
+IM-9329 - Shop Policies in SelfServeAdmin not saving  
+_Fixed a bug in self serve admin which caused the policies to not be saved_  
+IM-9366 - Product Modifiers After Save Not Available to Edit or Remove - Critical  
+_Product Configuration - Bug fix on item modifiers_  
+IM-8901 - Inventory Item Creation Tenant Currency  
+_Inventory - Item creation local prices_  
+IM-8820 - Platform Admin - users active flag is alway s True in UI  
+_Platform Admin - bug fix for inactive/active users_  
+IM-8547 - Customer - Issues to assign and unassign a customer to/from a group  
+_Fixed the issue where could not assign or unassign a customer to/from a group_  
+IM-9361 - Item Creation 'Variants' edit page does not load properly   
+_Bug fixed with page loading_  
+IM-8821 - Inventory - Vendor On Item List Does Not Update When Changed Within Item  
+_Vendor Name in Item List now reflects that set against the item_  
+IM-9112 - Inventory - Unable to Print Barcode Labels from PO and GRN  
+_Inventory - Bug fixed Label printing GRN/PO_  
+IM-9362 - POS - Tax not applied to Item Group sales  
+_Bug Fix - Tax on Item Groups not works_  
+IM-9281 - UI - Transactions "hide submitted..." broken - checkbox using old event  
+_Updated checkbox using Im-checkbox from webcomponents_  
+## Other Improvements  
+IM-8192 - POS Update procedure  
+_POS - Automatic Update_  
+IM-9352 - External message ms - BCC/Cc  
+_Fixed an issue which meant order receipts were not being bcc'd to the shop when ordering through pop_  
+
+
 # RELEASE VERSION: 23rd March 2021
 ## FEATURES
 ### RETAIL

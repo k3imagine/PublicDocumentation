@@ -1,3 +1,64 @@
+# RELEASE VERSION: 2021-05-18 (Pre-release)
+## FEATURES
+### RETAIL
+IM-8962 - G00060 - S5 - Item Options - Actioning Options on PPE and Sets  
+_PPE Options and Sets_  
+IM-8203 - POS [Customer]: Customer No. and  Currency should not be editable  
+_Fixed issue where customer no and account currency were editable_  
+IM-8624 - G00024 - S1 Customer History  
+_Customer - Customer History tab_  
+IM-9215 - G00042 - Customer PPE - S1 - Discount by Customer Group  
+_PPE - Discounts on customer groups_  
+IM-9218 - G00042 - Customer PPE - S3 - Discount Improvements  
+_PPE - New Multi Group Deal Bundle promotion added_  
+IM-8268 - PoS - TM88v printed receipts don't show barcode  
+_TM-T88V - receipt barcode printed_  
+IM-9082 - G00097 - POS - Return Function  
+_Add option select items to return instead return the whole transaction_  
+IM-8915 - G00024 - S2 Customer History  
+_Add grid on the customer history that allows line items to be ‘drilled into’ to show more detail of the transaction_  
+IM-9268 - G00072 - Add On-Hand and extra columns to Export of Stock Count File  
+_Export/Import of stockcount - additional columns_  
+### PLATFORM
+IM-8130 - Item Validation  
+_The Item Creation process now validates the total number of variants created for a Master Item. The default limit is set to 200_  
+IM-9055 - [Extension Framework] Extension Management Tool   
+_Extension Management Tool_  
+IM-9590 - Public API - Item by ID  
+_Public API - Item by ID_  
+### MTD & COMPANION APP
+IM-9052 - PO IMEI check companion check  
+_Companion App - IMEI changes_  
+## BUGS
+IM-9312 - SelfServe apps - Valitor integration  
+_Self Serve Bug fix - Valitor integration_  
+IM-8516 - Visual bug in Shop creation view  
+_Bug Fix - Shop creation visual bug_  
+IM-9186 - PO-GRN - Cannot Add Quantities via Matrix Button if Item has 3 Dimensions  
+_Fixed issue with 3 dimensions item in PO_  
+IM-8418 - POS password does not allow certain special characters.  
+_Changed Clerk password reset to be numeric only_  
+IM-9511 - POS Keyboard Clearing Inputs  
+_Fixed issue where values being removed from input field on POS when closing keyboard_  
+IM-9514 - Simple POS clerk login failure  
+_Fixed a bug in Simple POS which stopped clerks from being able to log in due to password encryption_  
+IM-8071 - Missing Header Info on completed Receive Goods.  
+_Inventory Bug fix - Received Goods Number and Notes field_  
+IM-9331 - POS - Receipt barcodes not recognised in 'Find Receipt'.  
+_POS - Receipt barcode scanning in 'find receipt'_  
+IM-9320 - Customers - new tenants don't have exchange ratios set  
+_Customer - exchange ratios_  
+IM-7443 - New/Edit Customer Save Button in POS on 1024x768 Res.  
+_Fixed issue where was not possible to select the currency on the dropdown_   
+IM-8783 - Inventory Transfers - Unable to Save and Commit to Create a Transfer Record  
+_Bug Fix - Inventory create transfer error 500_  
+## Other Improvements  
+IM-8272 - Move remaining Stock UI functionality into Inventory UI  
+_Depreciate Stock and create in Inventory - Stock lookup Overview, Stock lookup, Purchase Orders, Receive Goods, Transfers, Stocktake and Logs_  
+IM-8655 - Public API slow Item update  
+_Public API - Item update speed_  
+
+
 # RELEASE VERSION: 2021-04-20
 ## FEATURES
 ### RETAIL

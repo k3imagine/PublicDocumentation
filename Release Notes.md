@@ -1,4 +1,4 @@
-# RELEASE VERSION: 2021-05-18 (Pre-release)
+# RELEASE VERSION: 18th May 2021 (Pre-release)
 ## FEATURES
 ### RETAIL
 IM-8962 - G00060 - S5 - Item Options - Actioning Options on PPE and Sets  
@@ -59,7 +59,7 @@ IM-8655 - Public API slow Item update
 _Public API - Item update speed_  
 
 
-# RELEASE VERSION: 2021-04-20
+# RELEASE VERSION: 20th April 2021
 ## FEATURES
 ### RETAIL
 IM-8394 - G00039 - UK Gap 5.11 - Profit Margin Calculation  
@@ -309,7 +309,7 @@ _Inventory - Fixed bug with Hierarchy when creating new item_
 IM-7283 - Customer: Create New group Fields are filled  
 _Removed the placeholders from the fields_  
 IM-7315 - Loyalty - Audit Log: Save Configuration button should not be displayed  
-_Removed <Save> button from Audit log_  
+_Removed_ Save _button from Audit log_  
 IM-7429 - StockMs: Handling of an items alternative barcodes on PurchaseOrders  
 _Corrected the handling of an items alternative barcodes on Purchase Orders_  
 IM-7472 - PPE – Price Field Format not 2 Decimal Places on Promotions Setup  
@@ -980,8 +980,6 @@ IM-4890 - Speed up getting ComposerListEntries
 _Improved speed of the ComposerListEntries being returned _  
 IM-7154 - OrderNumber on email receipt from TOP & POP  
 IM-7433 - Merged in Admin NL Translations  
-
-
 
 # RELEASE VERSION: 14th October 2020
 ## FEATURES

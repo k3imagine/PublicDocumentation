@@ -45,7 +45,8 @@ _Fixed a bug in Simple POS which stopped clerks from being able to log in due to
 IM-8071 - Missing Header Info on completed Receive Goods.  
 _Inventory Bug fix - Received Goods Number and Notes field_  
 IM-9331 - POS - Receipt barcodes not recognised in 'Find Receipt'.  
-_POS - Receipt barcode scanning in 'find receipt'_  
+_POS - Receipt barcode scanning in 'find receipt'_ 
+**This fix requires a connector reboot**
 IM-9320 - Customers - new tenants don't have exchange ratios set  
 _Customer - exchange ratios_  
 IM-7443 - New/Edit Customer Save Button in POS on 1024x768 Res.  

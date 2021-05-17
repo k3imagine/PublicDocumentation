@@ -13,6 +13,7 @@ IM-9218 - G00042 - Customer PPE - S3 - Discount Improvements
 _PPE - New Multi Group Deal Bundle promotion added_  
 IM-8268 - PoS - TM88v printed receipts don't show barcode  
 _TM-T88V - receipt barcode printed_  
+**This fix requires a connector reboot**  
 IM-9082 - G00097 - POS - Return Function  
 _Add option select items to return instead return the whole transaction_  
 IM-8915 - G00024 - S2 Customer History  
@@ -45,7 +46,7 @@ _Fixed a bug in Simple POS which stopped clerks from being able to log in due to
 IM-8071 - Missing Header Info on completed Receive Goods.  
 _Inventory Bug fix - Received Goods Number and Notes field_  
 IM-9331 - POS - Receipt barcodes not recognised in 'Find Receipt'.  
-_POS - Receipt barcode scanning in 'find receipt'_ 
+_POS - Receipt barcode scanning in 'find receipt'_  
 **This fix requires a connector reboot**  
 IM-9320 - Customers - new tenants don't have exchange ratios set  
 _Customer - exchange ratios_  

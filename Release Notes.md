@@ -1,12 +1,42 @@
-# RELEASE VERSION: 18th May 2021 (Pre-release)
+# RELEASE VERSION: 15th June 2021 (Pre-release)
 ## FEATURES
 ### RETAIL
+IM-9662 - Implement Budget Template Download and Import Budgets  
+_Export and Import Shop budgets_  
+IM-8921 - G00060 - S2 - Item Options - Editing Items (PO+Web)  
+_Implemented story to edit Items (PO+Web)_  
+IM-8925 - G00060 - S4 - Item Options - Actioning Options on PO  
+_Inventory - May not be placed on PO on bulk import._  
+IM-8922 - G00060 - S3 - Item Options - Actioning Options at POS - Price  
+_Items can be flagged for the price to be prompted on POS._  
 IM-8962 - G00060 - S5 - Item Options - Actioning Options on PPE and Sets  
 _PPE Options and Sets_  
-IM-8203 - POS [Customer]: Customer No. and  Currency should not be editable  
+IM-8549 - Add "account" to payment types list  
+_POS - Accounts in the payments list_  
+IM-8203 - POS Customer: Customer No. and  Currency should not be editable  
 _Fixed issue where customer no and account currency were editable_  
+IM-5860 - Inventory - a couple of changes to the Figures tab   
+_Fixed issue to have Sold label and Available field to displays data_  
+IM-9633 - Set redirection pages for Stock screens  
+_Redirection pages from Stock to Inventory_  
+IM-8915 - G00024 - S2 Customer History  
+_Add grid on the customer history that allows line items to be ‘drilled into’ to show more detail of the transaction_  
+IM-9084 - G00029 - UK Gap 3.4 - PO Selection Criteria - autopopulate from create screen  
+_Inventory - Autopopulate selection_  
+IM-9217 - G00042 - Customer PPE - S2 - Customer Pricing  
+_PPE - Customer groups for promotions_  
 IM-8624 - G00024 - S1 Customer History  
 _Customer - Customer History tab_  
+IM-8234 - Inventory - limit data entry on Stock Take  
+_Inventory - Restriction on quantity counted on stocktakes_  
+IM-9560 -  G00041 - S1 - Purchase Order - Autopopulate across stores  
+_Inventory - Purchase orders autopopulate for several stores using restock and reorder points._  
+IM-8647 - Automatic Column Sorting  
+_Backoffice - Automatic Column Sorting_  
+IM-5663 - Inventory - have extra detail in the PO's and GRN's to see totals per order  
+_Inventory - Add total quantity + total costs to Receive Goods._  
+IM-9499 - Inventory - Stock Lookup - No dimension/variant/shop details  
+_Fixed issue where the dimensions/variant/shop details were not displayed in Stock Lookup_  
 IM-9215 - G00042 - Customer PPE - S1 - Discount by Customer Group  
 _PPE - Discounts on customer groups_  
 IM-9218 - G00042 - Customer PPE - S3 - Discount Improvements  
@@ -16,49 +46,84 @@ _TM-T88V - receipt barcode printed_
 **This fix requires a connector reboot**  
 IM-9082 - G00097 - POS - Return Function  
 _Add option select items to return instead return the whole transaction_  
-IM-8915 - G00024 - S2 Customer History  
-_Add grid on the customer history that allows line items to be ‘drilled into’ to show more detail of the transaction_  
 IM-9268 - G00072 - Add On-Hand and extra columns to Export of Stock Count File  
 _Export/Import of stockcount - additional columns_  
+IM-7774 - Purchase Order Form To Use Name Instead of Description to Identify an Item.  
+_Inventory - PO to use name rather than description_  
+IM-8359 - Vendor - Requires Additional Address Lines   
+_Vendors - additional address fields_  
 ### PLATFORM
 IM-8130 - Item Validation  
 _The Item Creation process now validates the total number of variants created for a Master Item. The default limit is set to 200_  
-IM-9055 - [Extension Framework] Extension Management Tool   
+IM-9530 - Platform Admin - Extension Creation  
+_Platform Admin - Extension creation_  
+IM-9556 - Update Portal dashboard with image background  
+_Portal - New Background images_  
+IM-9713 - Automatic Column Sorting PlatformUI  
+_Automatic Column Sorting_  
+IM-9782 - Public API - Transfer Put   
+_Add new endpoints to PUT Transfers in and out_  
+IM-9055 - Extension Framework - Extension Management Tool   
 _Extension Management Tool_  
 IM-9590 - Public API - Item by ID  
 _Public API - Item by ID_  
-### MTD & COMPANION APP
+### MTD & BESPOKE DEVELOPMENT
 IM-9052 - PO IMEI check companion check  
 _Companion App - IMEI changes_  
 ## BUGS
+IM-8829 - Request Header Or Cookie Too Large  
+_Bug Fix - Cookie too large_  
+IM-8071 - Missing Header Info on completed Receive Goods.  
+_Inventory Bug fix - Received Goods Number and Notes field_  
+IM-9320 - Customers - new tenants don't have exchange ratios set  
+_Customer - exchange ratios_  
+IM-9339 - Resend receipts for march 1st to march 16th  
+_Project that can resend receipt from a connector_  
+**This fix requires a connector reboot**  
+IM-8783 - Inventory Transfers - Unable to Save and Commit to Create a Transfer Record  
+_Bug Fix - Inventory create transfer error 500_  
+IM-9482 - Public API - Mapping error when creating a parked sale  
+_Fixed error when creating parked transaction via Public API_  
+IM-8900 - Seed Data fails to insert  
+_Fixed issue where demo data was not inserted when creating a new tenant and select to insert demo data_  
+IM-9752 - Public API - Sales transaction stock movement  
+_Fixes issue with quantity when creating sales via public API_  
+IM-9790 - MTD API returning two obligations with the same date range  
+_MTD - Bug fix_  
 IM-9312 - SelfServe apps - Valitor integration  
 _Self Serve Bug fix - Valitor integration_  
 IM-8516 - Visual bug in Shop creation view  
 _Bug Fix - Shop creation visual bug_  
-IM-9186 - PO-GRN - Cannot Add Quantities via Matrix Button if Item has 3 Dimensions  
-_Fixed issue with 3 dimensions item in PO_  
 IM-8418 - POS password does not allow certain special characters.  
 _Changed Clerk password reset to be numeric only_  
 IM-9511 - POS Keyboard Clearing Inputs  
 _Fixed issue where values being removed from input field on POS when closing keyboard_  
 IM-9514 - Simple POS clerk login failure  
 _Fixed a bug in Simple POS which stopped clerks from being able to log in due to password encryption_  
-IM-8071 - Missing Header Info on completed Receive Goods.  
-_Inventory Bug fix - Received Goods Number and Notes field_  
+IM-9502 - Inventory Add Items by Matrix button not refreshing  
+_Bug - Fixed matrix view_  
+IM-9747 - Null cost when adding item to GRN  
+_Bug Fix Inventory - cost price on GRN_  
+IM-9604 - Item Restock Level & Reorder Point values not reflected in Stock Lookup  
+_Inventory - Stock Lookup - Restock and Reorder Points now show_  
 IM-9331 - POS - Receipt barcodes not recognised in 'Find Receipt'.  
 _POS - Receipt barcode scanning in 'find receipt'_  
-**This fix requires a connector reboot**  
-IM-9320 - Customers - new tenants don't have exchange ratios set  
-_Customer - exchange ratios_  
 IM-7443 - New/Edit Customer Save Button in POS on 1024x768 Res.  
-_Fixed issue where was not possible to select the currency on the dropdown_   
-IM-8783 - Inventory Transfers - Unable to Save and Commit to Create a Transfer Record  
-_Bug Fix - Inventory create transfer error 500_  
+_Fixed issue where was not possible to select the currency on the dropdown_  
+IM-7332 - Customer Groups: Issue creating group with name that already exists  
+_Fixed issue where was not displayed message that group name already exists_  
+IM-7389 - Customer - Groups: Header select all checkbox has no functionality  
+_Fixed issue where First name checkbox in Customer Group had no action_  
+IM-8674 - Bug with Printing IP when no network is present  
+_Startup slip is now printed only when Ethernet port is connected_  
+**This fix requires a connector reboot**  
 ## Other Improvements  
 IM-8272 - Move remaining Stock UI functionality into Inventory UI  
 _Depreciate Stock and create in Inventory - Stock lookup Overview, Stock lookup, Purchase Orders, Receive Goods, Transfers, Stocktake and Logs_  
 IM-8655 - Public API slow Item update  
 _Public API - Item update speed_  
+IM-9352 - External message ms - BCC/Cc  
+_Fixed an issue which meant order receipts were not being bcc'd to the shop when ordering through pop_  
 
 
 # RELEASE VERSION: 20th April 2021

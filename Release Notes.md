@@ -1,4 +1,4 @@
-# RELEASE VERSION: 15th June 2021 (Pre-release)
+# RELEASE VERSION: 15th June 2021
 ## FEATURES
 ### RETAIL
 IM-9662 - Implement Budget Template Download and Import Budgets  

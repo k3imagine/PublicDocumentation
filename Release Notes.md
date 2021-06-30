@@ -1,3 +1,84 @@
+# RELEASE VERSION: 13th July 2021 (Pre-Release)
+## FEATURES
+### RETAIL
+IM-6305 - PoS - Needs picking list in Imagine  
+_POS - Picking List_  
+IM-8922 - G00060 - S3 - Item Options - Actioning Options at POS - Price  
+_Items can be flagged for the price to be prompted on POS._  
+IM-8648 - G00057 - S1 - Offline Stock Menu  
+_Inventory - Additon of Offline stock_  
+IM-8649 - G00057 - S2 - Offline Stock - Download PDF Option  
+_Offline Stock - Download a PDF_  
+IM-8650 - G00057 - S3 - Offline Stock - "Transfer to On Hand" action  
+_Inventory - Offline Stock transfer back to online_  
+IM-8462 - G00046 - UK Gap 3.1 - Purchase Order Sort  
+_Inventory - Purchase order sort order_  
+IM-9211 - Add offline stock via POS (expand on existing feature)  
+_Offline Stock via POS_  
+IM-9209 - S7 - Add offline stock via Inventory  
+_Offline Stock - Add offline stock via Inventory_  
+IM-8761 - G00045 - Gift Aid - S1 - Gift Aid Module  
+_Add New Module - Gift Aid_  
+IM-9529 - G00042 - Customer PPE Explicit Pricing  
+_PPE - Multi Buy with Price per item._  
+IM-6565 - Back Office - make Reason Code UI more user friendly  
+_Backoffice - Reason Code UI improvements_  
+IM-6359 - PoS - alter gift receipts to refund just the item listed and not transaction  
+_Scanning Gift Receipt now loads just the item to be returned rather than all original transaction_  
+IM-9651 - G00045 - Gift Aid - S2 - Gift Aid Receipt Settings  
+_Gift Aid - Receipt Settings_  
+IM-8776 - G00045 - Gift Aid - S3 - Item Selection  
+_Gift Aid - Item Selection_  
+IM-8762 - G00045 - Gift Aid - S4 - POS Data Capture  
+_Gift Aid - POS Data Capture_  
+IM-9799 - CnC - S1 - View Web Order Picking List in modal form  
+_Adds option to select printing of the web order picking list to an A4 printer in addition to receipt slip._  
+IM-8763 - G00045 - Gift Aid - S5 - View Gift Aid Transactions  
+_Gift Aid - List of Gift aid transactions within Gift aid module_  
+IM-8764 - G00045 - Gift Aid - S6 - Export Gift Aid Transactions  
+_Gift Aid - Export to CSV._  
+IM-9798 - CnC - S2 - Print Web Order Picking List on A4  
+_Support for printing of POS web order picking list to A4_  
+IM-10266 - CnC - S1.5 - Prevent more than one Web Order in Transaction  
+_CnC - Prevent multiple orders_  
+### PLATFORM
+IM-9823 - Basket - CustomerNumber  
+_Basket - CustomerNumber - Header level and PublicAPI_  
+IM-9356 - Platform Admin - User rights  
+_Platform Admin - platform admin user able to see the integrators tab and create new integrators/integrations for the tenants in their group._  
+IM-9858 - Stock Transfer Modified Date  
+_Inventory - Stock transfer Modified Date_  
+### MTD & BESPOKE DEVELOPMENT
+## BUGS
+IM-9838 - Pos - Item Shortcuts are missing Item Variant Name.    
+_Bug Fix - POS shortcuts missing information_  
+IM-8933 - Create Bundle fails if you do not enter a value in the Restricted Quantity  
+_Product Configurator - Bug fix for 'Restricted Quantity'_  
+IM-8055 - Product Configurator: Bundle Sales Price is 0  
+_Bug Fix - Product Configurator bundle price issue_  
+IM-7700 - Refund transaction should not post an order  
+_SimplePOS not posting an order_  
+IM-9186 - PO-GRN Item Matrix Issues  
+_Fixed issue with 3 dimensions item in PO_  
+IM-9483 - A partial stock take with a selection of item groups also includes articles which used to belong to those item groups  
+_Stocktake - Bug Fix for inactive items/hierarchy issue_  
+IM-9730 - Duplicate Items Displayed on Purchase Order - Find Items Manually  
+_Bug Fix - Inventory Purchase order Duplicate items_  
+IM-9789 - InventoryUI: Transfer In grid crashes with Danish culture  
+_Bug Fixed - Inventory UI Transfer grid_  
+IM-8699 - SimplePOS: Issue with languages  
+_SimplePOS - Languages added_  
+IM-9411 - Unable to create an Expenses entry in Back Office  
+_Bug fixed, functionality restored to previous version and as detailed in the Help files_  
+IM-8851 - Dynamic Scroll on Stock Lookup Widget  
+_Stock lookup - Scroll bar._  
+IM-9145 - POS - using incorrect delimiter still an issue on EUR tenants  
+_POS bug Fix - incorrect delimiter for Euro customers_  
+IM-9741 - Kiosk Bundles When Adding to Basket  Showing Blank Screen - DEV Environment  
+_Bug Fix - Kiosk Bundles showing Blank screen_  
+ 
+
+
 # RELEASE VERSION: 15th June 2021
 ## FEATURES
 ### RETAIL

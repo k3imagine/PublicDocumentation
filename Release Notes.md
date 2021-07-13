@@ -1,4 +1,4 @@
-# RELEASE VERSION: 13th July 2021 (Pre-Release)
+# RELEASE VERSION: 13th July 2021
 ## FEATURES
 ### RETAIL
 IM-6305 - PoS - Needs picking list in Imagine  
@@ -64,6 +64,7 @@ IM-9483 - A partial stock take with a selection of item groups also includes art
 _Stocktake - Bug Fix for inactive items/hierarchy issue_  
 IM-9730 - Duplicate Items Displayed on Purchase Order - Find Items Manually  
 _Bug Fix - Inventory Purchase order Duplicate items_  
+**Automated re-index of ES database required for this fix**  
 IM-9789 - InventoryUI: Transfer In grid crashes with Danish culture  
 _Bug Fixed - Inventory UI Transfer grid_  
 IM-8699 - SimplePOS: Issue with languages  

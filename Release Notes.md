@@ -1,3 +1,91 @@
+# RELEASE VERSION: Pre-release 10th August 2021
+## FEATURES
+### RETAIL
+IM-9921 - Item List Additional Columns  
+_Inventory -Item list, extra columns manufacturers item number and item cost._  
+IM-6034 - PoS - When you refund (return an item), there is no check against the original receipt, so you can use the same receipt more than once.  
+_Return items are checked against the original receipt_  
+IM-8691 - KFR-129: Filter the barcode that is searched for in Stocktake  
+_Inventory - Stocktake barcode filter_  
+IM-4807 - Inventory - Movement - Inactive shop showing in the 'Shop' drop down  
+_Inventory - Item - movements inactive shops no longer show in drop down_  
+IM-5730 - PoS - when off line email receipts get silently dropped  
+_POS - Send Email receipt disabled when offline_  
+IM-8086 - Edit GRN quantities  
+_Inventory - Goods Receive edit quantities and allow over receive option in backoffice_  
+IM-9318 - G00090 - S1 - Creating Item Infos  
+_Backoffice - Item info setup (Not POS)_  
+IM-9810 - Order  - Extension Data  
+_Public API - Order extension_  
+IM-9601 - S4 Item module - Dimension Types  
+_Inventory - Dimension types moved from Item_  
+IM-7086 - Print all variants on label print  
+_Inventory - Print all variant labels for master item_  
+IM-9566 - G00056 - S1 - Return to Supplier: Create Return Document  
+_Created Vendor Return document_  
+IM-9842 - CnC - S3 - Configure Web Order Dispatch Note Variable Footer Text  
+_Adds customisation options to web order dispatch note._  
+IM-9843 - CnC - S4 - Print Web Order Dispatch Note  
+_Adds ability to print an A4 web order dispatch note._  
+IM-9906 - CnC - S5 - Re-print Web Order Dispatch Note  
+_Adds ability to reprint web order dispatch note from POS journal._  
+IM-9617 - S3 Item module - Dimension Templates - Saving  
+_Inventory - Dimension templates saving automatically (no save button)_  
+### PLATFORM
+IM-10402 - Alphanumeric ordering for the payment provider drop down menu in Admin>Manage K3 Connector  
+_Admin - Manage K3 Connector - alphanumeric ordering_  
+IM-10379 - Adding Worldline to Payment Providers in Admin  
+_Admin - Payment Providers - addition of Worldline_  
+IM-10277 - Fiskaly Receipt ID Added to eReceipt  
+_Fiskaly Receipt ID Added to eReceipt_  
+IM-9802 - BI Gateway - Product Data  
+_Additional endpoints - BI gateway - Product Data_  
+IM-9800 - BI Gateway (Phase 1)  
+_GET Endpoint to obtain Reason Codes_  
+IM-9821 - BI Gateway - Inventory Data  
+_New Get endpoints for Inventory Data_  
+IM-9801 - BI Gateway - Reference Data  
+_Additional endpoints for the BI gateway - Reference Data_  
+IM-9804 - BI Gateway - Customer Data  
+_Additional endpoints for the BI gateway - Customer Data_  
+IM-10421 - Filters required on Stock Take Headers API  
+_Public API - Stocktake filters_  
+## BUGS
+IM-8392 - Public API Order endpoint issues  
+_Public API order endpoints_  
+IM-7445 - Stocktake: Total counted quantities is not automatically updated  
+_Fixed issue where total counted qty is not automatically updated_  
+IM-7400 - Inventory: Create new node, Code field not validated  
+_Code node just accepts regular letters and numbers_  
+IM-9654 - Analysis - Store Sale Summary Date Selection Shows Extra Dates  
+_Fixed issue where extra date was added to the Store Sale Summary_  
+IM-9855 - TOP & POP /breakdown/{basketId} 500 internal server error   
+_Fixed issue where could not complete a payment in POP_  
+IM-8681 - Order Status Display number showing Database ID Instead of Order Number  
+_Order Number now displays rather than the database Id_  
+IM-9771 - Order Display - Orders showing in mixed up format  
+_The orders now grouped correctly by modifiers_  
+IM-7822 - POS Filter Customer: labels non-standardised  
+_Labels standardised in POS Filter Customer_  
+IM-10351 - Adding SimplePOS module on tenant fails  
+_SimplePOS bug Fix_  
+IM-10420 - Product Configuration - Configuration - Error loading page  
+_Product Configurator - bug fix error loading page_  
+IM-7755 - POS: Capital letter are not standardised   
+_Capital letters standardised in POS_  
+IM-8014 - Inventory - Transfers - Inactive Shop Showing in Location Drop Down List  
+_Inventory - Transfers - inactive shops_  
+IM-7735 - Inventory - Inactive shop appear in PO drop down  
+_Inventory - Purchase order - Inactive shops_  
+IM-10329 - POP Gateway Failing on Dev with Basket  
+_Fixed issue where the payment in POP could not be completed_  
+IM-10423 - Document ID filter on GoodsReceiptNote API  
+_Public API - Document ID Filter_  
+## Other Improvements  
+IM-9841 - Imei pop up is too slow  
+_Improved the speed of the IMEI pop up_  
+
+
 # RELEASE VERSION: 13th July 2021
 ## FEATURES
 ### RETAIL

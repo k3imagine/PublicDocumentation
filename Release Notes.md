@@ -1,4 +1,4 @@
-# RELEASE VERSION: Pre-release 10th August 2021
+# RELEASE VERSION: 10th August 2021
 ## FEATURES
 ### RETAIL
 IM-9921 - Item List Additional Columns  
@@ -51,6 +51,8 @@ _Additional endpoints for the BI gateway - Customer Data_
 IM-10421 - Filters required on Stock Take Headers API  
 _Public API - Stocktake filters_  
 ## BUGS
+IM-10358 - MTD - Unable to view transactions  
+_Bug fix applied to restore the view of transactions_  
 IM-8392 - Public API Order endpoint issues  
 _Public API order endpoints_  
 IM-7445 - Stocktake: Total counted quantities is not automatically updated  
@@ -71,6 +73,8 @@ IM-10351 - Adding SimplePOS module on tenant fails
 _SimplePOS bug Fix_  
 IM-10420 - Product Configuration - Configuration - Error loading page  
 _Product Configurator - bug fix error loading page_  
+IM-10455 - Kiosk: Order Status Display -  Issue on the first load if no orbAccessTokenSupport present  
+_Kiosk & Order Status Display - Bug Fix re orders not showing._  
 IM-7755 - POS: Capital letter are not standardised   
 _Capital letters standardised in POS_  
 IM-8014 - Inventory - Transfers - Inactive Shop Showing in Location Drop Down List  
@@ -84,7 +88,6 @@ _Public API - Document ID Filter_
 ## Other Improvements  
 IM-9841 - Imei pop up is too slow  
 _Improved the speed of the IMEI pop up_  
-
 
 # RELEASE VERSION: 13th July 2021
 ## FEATURES

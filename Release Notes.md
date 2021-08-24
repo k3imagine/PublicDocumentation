@@ -1,3 +1,142 @@
+# RELEASE VERSION: Pre-release 7th September 2021
+## FEATURES
+### RETAIL
+IM-10386 - Google Pay Configuration  
+_Google Pay Configuration has been implemented for POP_  
+IM-9608 - S6 Item module - Discount Labels  
+_Inventory - discount labels move from Item_  
+IM-6138 - Item - import spreadsheet does not list hierarchies well  
+_Item - hierarchy list bug fix_  
+IM-7127 - PoS - Stock Lookup shows inactive shop  
+_POS - Stock lookup bug fix_  
+IM-9075 - MTD Transactions date format  
+_Date format updated to match other fields_  
+IM-10520 - EVENTS HUB - New Event request  -  Transfers Header  
+_Added events between Imagine and Dataswitch which sends Transfer header information to a dataswitch flow on creation, commit or delete of a transfer within Imagine_  
+### PLATFORM
+IM-8153 - Public API 2 - Staff/POC  
+_Initial POC for Public api v2_  
+IM-9803 - BI Gateway - Transaction Data  
+_BI Gateway endpoints to return transaction and payment data_  
+IM-10449 - Remove payment functionality from Euronet payment container  
+_Euronet payment container removal_  
+IM-10419 - Basket - AgeRestrictedItems  
+_Public API: Added a getItemDetails flag to the GET Basket endpoint, if this is set to true then the basketItems will contain the full item object_  
+IM-10448 - K3 Pay payment layer in Admin > Manage Connector to be reverted to Verifone UK only  
+_K3 Pay Verifone only_  
+IM-7782 - Portal/API - Personal Access Tokens  
+_Personal Access tokens can be generated in user area within Portal_  
+IM-10401 - DSW Send Email Attachment  
+_The Email Asset has been updated to allow Payloads to be included in the email content._  
+IM-10400 - DSW Process Monitor Filter Save  
+_The Process Monitor has been updated to allow filtered results to be retained when leaving the page._  
+IM-10398 - Adding Euronet to Payment Providers in Admin  
+_Addition of Euronet in Admin_  
+IM-9433 - DSW Improve configured headers display  
+_Improved display of Headers in the API Asset_  
+IM-9317 - Search: The ability to search and sort on Master Items  
+_Ability to search and sort on master items_  
+IM-10458 - Public API Upserts  
+_Upsert endpoints previously used in Integration GW have now been migrated to the public api_  
+IM-10578 - BI Gateway - PATs  
+_BI Gateway now uses personal access tokens for authentication_  
+IM-9679 - Basket PPE Integration  
+_Kiosk - Integration with PPE_  
+IM-10570 - DSW Portal. Maximise Button in Help Modal  
+_The Help Modal can now be Maximised._  
+IM-10577 - DSW Portal: Add new help link for File Transfer Menu  
+_A new help link has been added to the File upload and Text to JSON assets_  
+IM-10549 - BI Gateway - Alterations  
+_Added vendorId to PurchaseOrders Endpoint_  
+## BUGS
+IM-7682 - PPE rounding error  
+_Bug Fix - PPE rounding error_  
+IM-7470 - PPE - Inconsistent use of Field Names in Item List, Bundle and Promotions  
+_PPE, fixed promotion deal bundle grid to show item name and variant information as opposed to description of the item as this is not always populated and is inconsistent with other views._  
+IM-7661 - Create New Item in New Composer Tile directs to the wrong location  
+_Bug Fix - Composer group redirecting to item creation_  
+IM-9471 - Storing a Date in the Variable Asset reformats a date string  
+_Fixed "Set Variable" converting date strings when deserializing JSON_  
+IM-9569 - DSW: Conditional - Dataflow Save triggering multiple times (Performance Issue)  
+_A performance issue with the Conditional Asset has been addressed_  
+IM-7391 - Inventory: No items created causes Issues on messages displayed  
+_Fixed a bug which caused an object error in customer->loyalty when the tenant had no data_  
+IM-7660 - Inventory: Issues with Item Hierarchies  
+_Fixed a bug which caused the image url on item hierarchy to not get saved and for the tax rates to be incorrect on hierarchy when saving_  
+IM-10528 - Receive Goods - Price Edit Changes Quantity Instead  
+_Inventory - Bug fix Receive goods editing price changes quantity_  
+IM-9146 - Analysis sales doesnt match  
+_Analysis - Bug fix sales_  
+IM-9771 - Order Display - Orders showing in mixed up format  
+_The orders now grouped correctly by modifiers_  
+IM-9718 - Items cannot be added to Purchase Order  
+_Fixed an issue which caused items not to show when searching the vendor item number in PO creation/edit_  
+IM-8930 - DSW UI: Dashboard Metrics are incorrect.  
+_Fixed an issue with the Dashboard Metrics display_  
+IM-8981 - DSW Assets: Copy Variables Issue  
+_An issue with variables values being stuck in the clipboard has been fixed_  
+IM-9154 - Analysis Calculation  
+_Analysis - Bug fix calculation_  
+IM-8976 - DSW IDM:Unable to add Composite Key  
+_Fixed an issue that prevented a Composite key being added to an IDM Table_  
+IM-8994 - DSW Audit: Processing Time Sorting inconsistent  
+_The Processing Time sort has been disabled against DSW Process Audit_  
+IM-9333 - DSW Variables do not work without a dummy variable connected.  
+_Variables can now be read in compatible assets without a variable asset being required as part of the flow_  
+IM-9481 - Companion App - Bug preventing destination store from being chosen on Transfer   
+_Companion app - bug fix for destination store selection_  
+IM-9531 - DSW: API Auth - Edit button error  
+_API Auth Add, Edit and Delete buttons have been reviewed to only energize where appropriate._  
+IM-9632 - DSW: Assets header properties overflow Identifier step name  
+_Addressed display issue against DSW Asset Identifier_  
+IM-9412 - DSW Conditional - Does not cater for booleans  
+_The Conditional asset now works with Booleans_  
+IM-9770 - DSW.ApiCaller - Fix Add Authentication errors  
+_API Auth - Context provided to validation errors when adding new Auth records_  
+IM-9434 - Copy Flow with Config - 500 Error  
+_Fixed an issue whereby certain dataflows could not be copied successfully_  
+IM-9570 - DSW: Dataflow Graph performance issues  
+_Updated the dataflow designer to improve performance_  
+IM-9717 - DSW: Audit panel has shrunk   
+_A display issue in the DSW Process Audit has been fixed_  
+IM-9720 - DSW.JSEngine - Getting error on Tidy button  
+_The Tidy button on JSEngine Config no longer returns an error_  
+IM-9840 - DSW: Unable to create new User  
+_Fixed an issue which prevented new Users being created_  
+IM-9895 - AD-HOC Stocktake UI issue - Companion App  
+_Companion - ADHOC stocktake duplicate issue fixed_  
+IM-10264 - Order Stuck on ORB Board 
+_ORB Board - Order stuck bug fix_  
+IM-10299 - DSW: UI Display issues after API Asset is added  
+_An issue that affected the Dataflow Designer UI has been addressed_  
+IM-10301 - Companion App - Auto Receive PO/Transfer numbers not recognised.  
+_Companion app - bug fix Auto receive PO/ Transfer numbers_  
+IM-10302 - Companion App - Store Information - Total sales figures don't match with Reports or Analysis.  
+_Bug Fix - Companion sales not showing correct for the store in store information_  
+IM-10319 - DSW: Split throws OutOfMemory exception  
+_DSW.Split v2021.06.14_  
+IM-10347 - DSW: Ratelimiter - Can't update or insert RateLimiter  
+_Rate Limiters can now be updated successfully_  
+IM-10352 - DSW Job Scheduler Cron Issue  
+_The Scheduler Cron has been fixed when using specific Days/Months_  
+IM-10456 - Extension Framework - UI loads all event extensions regardless of the configured shop.  
+_Extension Framework - bug fix_  
+IM-10508 - Sidebar forcing browser redirection opposed to Angular routing  
+_Fixed an issue in the sidebar which caused browser to redirect as opposed to using angular routing._  
+IM-10519 - EVENTS HUB - Movements Incorrectly repeating the first line  
+_Fixed a bug which caused an event to be received in Dataswitch for the same item on a transfer, this now correctly sends one per item line._  
+IM-10524 - DSW - HTTP Caller Asset replacing the + symbol with an empty string in the Auth  
+_The '+' character is no longer replaced with an empty string in applicable Authorization fields_  
+IM-10569 - DSW Split Change wording  
+_Updated wording of batches in Split Asset to be more intuitive._  
+IM-10649 - Label Print Arm Settings url  
+_Fixed a bug in device settings which meant the labelPrintUrl was always set to production_  
+## Other Improvements  
+IM-5480 - Optimize stocktake count import  
+_Bug Fix - bulk stocktake import_  
+IM-10807 - Switch Github Actions workflows to use composite actions  
+
+
 # RELEASE VERSION: 10th August 2021
 ## FEATURES
 ### RETAIL
@@ -324,8 +463,8 @@ _Public API - Transaction Summary data now available_
 IM-9207 - Public API - Purchase Order   
 _Public API, purchase orders are now created by passing the barcode only on the purchase order line_  
 ### MTD & BESPOKE DEVELOPMENT
-IM-8756 - IKEA Greece - 3.3 Bank ID Integration  
-IM-8757 - IKEA Greece - 3.6 NAV Service Check (Priority: High)  
+IM-8756 - Bank ID Integration  
+IM-8757 - NAV Service Check (Priority: High)  
 ## BUGS
 IM-8737 - Over receive Goods receipt note on partial  
 _Inventory bug fixed regarding over receiving against a PO_  

@@ -35,19 +35,21 @@ function addRow(prodRelease, nextDate) {
     div.className = "container left";
   }
   const formattedDate = formatDate(nextDate);
-  let smokeComplete = new Date(nextDate);
-  let uatStarts = new Date(nextDate);
-  smokeComplete.setDate(nextDate.getDate() + 3);
-  uatStarts.setDate(nextDate.getDate() + 6);
-  smokeComplete = formatDate(smokeComplete);
-  uatStarts = formatDate(uatStarts);
+  let nextRCDate = new Date(nextDate);
+  nextRCDate.setDate(nextRCDate.getDate() + 7);
+  nextRCDate = formatDate(nextRCDate);
+  // let smokeComplete = new Date(nextDate);
+  // let uatStarts = new Date(nextDate);
+  // smokeComplete.setDate(nextDate.getDate() + 3);
+  // uatStarts.setDate(nextDate.getDate() + 6);
+  // smokeComplete = formatDate(smokeComplete);
+  // uatStarts = formatDate(uatStarts);
   if (!prodRelease) {
     div.innerHTML = `
         <div class="content">
         <h2 class="rc">RC Release</h2>
-        <h3>${formattedDate}</h3>
-        <p>Smoke testing planned completion: Evening of ${smokeComplete}</p>
-        <p>UAT testing for Hypercare can commence: Morning of ${uatStarts}</p>
+        <h3>${nextRCDate}</h3>
+        <p>Production Preview, UAT and Customer Access</p>
         </div>
     `;
   } else {

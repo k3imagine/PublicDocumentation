@@ -10,7 +10,7 @@ function getNextYearsWorthOfReleases(originalReleaseDate) {
   return nextDate;
 }
 
-for (let i = 0; i < 25; i++) {
+for (let i = 0; i < 52; i++) {
   if (i % 2) {
     prodRelease = false;
     rcRelease = true;
@@ -20,14 +20,18 @@ for (let i = 0; i < 25; i++) {
   }
   nextDate = getNextYearsWorthOfReleases(nextProdRelease);
   nextProdRelease = nextDate;
-  addRow(prodRelease, nextProdRelease);
+  addRow(prodRelease, nextProdRelease, rcRelease);
 }
 
-function addRow(prodRelease, nextDate) {
+function addRow(prodRelease, nextDate, rcRelease) {
   const todaysDate = Date.now();
   var yesterday = new Date();
   yesterday.setDate(yesterday.getDate() - 1);
-  if (nextDate < yesterday) return;
+  var twoWeeks = new Date();
+  twoWeeks.setDate(yesterday.getDate() - 14);
+  if (nextDate < yesterday && prodRelease) return;
+  if (nextDate < twoWeeks && rcRelease) return;
+  console.log(todaysDate);
   const div = document.createElement("div");
   if (prodRelease) {
     div.className = "container right";
@@ -38,12 +42,6 @@ function addRow(prodRelease, nextDate) {
   let nextRCDate = new Date(nextDate);
   nextRCDate.setDate(nextRCDate.getDate() + 7);
   nextRCDate = formatDate(nextRCDate);
-  // let smokeComplete = new Date(nextDate);
-  // let uatStarts = new Date(nextDate);
-  // smokeComplete.setDate(nextDate.getDate() + 3);
-  // uatStarts.setDate(nextDate.getDate() + 6);
-  // smokeComplete = formatDate(smokeComplete);
-  // uatStarts = formatDate(uatStarts);
   if (!prodRelease) {
     div.innerHTML = `
         <div class="content">

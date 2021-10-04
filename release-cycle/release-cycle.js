@@ -31,7 +31,6 @@ function addRow(prodRelease, nextDate, rcRelease) {
   twoWeeks.setDate(yesterday.getDate() - 14);
   if (nextDate < yesterday && prodRelease) return;
   if (nextDate < twoWeeks && rcRelease) return;
-  console.log(todaysDate);
   const div = document.createElement("div");
   if (prodRelease) {
     div.className = "container right";
@@ -42,6 +41,7 @@ function addRow(prodRelease, nextDate, rcRelease) {
   let nextRCDate = new Date(nextDate);
   nextRCDate.setDate(nextRCDate.getDate() + 7);
   nextRCDate = formatDate(nextRCDate);
+  if (nextDate.getMonth() == 11) return;
   if (!prodRelease) {
     div.innerHTML = `
         <div class="content">
@@ -58,12 +58,12 @@ function addRow(prodRelease, nextDate, rcRelease) {
         <p></p>
         </div>
     `;
-    if (formattedDate == "7th September 2021") {
+    if (nextDate.getMonth() == 10 && nextDate.getDate() > 20) {
       div.innerHTML = `
         <div class="content">
         <h2 class="prod">Production Release</h2>
         <h3>Evening of ${formattedDate}</h3>
-        <p>Postponed due to technical issues</p>
+        <p>Last release of ${nextDate.getFullYear()}</p>
         </div>
     `;
     }

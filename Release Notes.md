@@ -1,3 +1,55 @@
+# PRE-RELEASE VERSION: 23rd October 2021
+## FEATURES
+### RETAIL
+IM-9602 - S7 Item module - Remove unused screens  
+_Item - removal of screens that have been moved to Inventory_  
+IM-8912 - Prevent a POS user from entering a negative payment value.  
+_It is not not possible to enter a minus sign '-' from the physical or on-screen keyboards_  
+IM-9868 - Analysis - S1 - Footfall and Conversion Rate  
+_Foot Fall and Conversion Rate_  
+IM-10574 - CBL - S1 - ItemCost-MS to record Cost price in POS transaction record  
+_Cost By Location - POS records cost price_  
+IM-10596 - CBL - S2 - Show Weighted Average Cost by Location   
+_Inventory - Show weighted cost by location_  
+IM-8619 - Remarks for reports Retail Suite  
+_Analysis - Sales ex VAT and Sales Value_  
+IM-10994 - Google Pay button needs adding into the TOP UI in the basket  
+_TOP - Addition of googlepay button_  
+### PLATFORM
+IM-9761 - Basket Endpoints to other Self Serve Apps  
+_Basket implementation for Self Serve Apps_  
+## BUGS
+IM-10970 - Platform Admin - Unable to add extension to tenant  
+_Platform Admin - Bug Fix add extension_  
+IM-11167 - Total Amount in all Self Serve Calculating Incorrectly  
+_Total Amount is now fixed in POP, TOP and Kiosk_  
+IM-9508 - Ongoing credit card terminal issues  
+_Device Worker update - Credit card terminal issues_  
+IM-9750 - gift label giving full amount on return when scanning label  
+_POS - Gift label bug fix_  
+IM-9771 - Order Display - Orders showing in mixed up format  
+_The orders now grouped correctly by modifiers_  
+IM-11071 - InventoryUI Bug: paging and  column chooser  not working (NaN and undefined)  
+_Resolved paging error showing at top of table when first generated_  
+IM-10854 - Stock overview in the POS is not showing the correct figures  
+_POS - Bug Fix - Stock overview figures_  
+IM-10968 - MTD Calculate VAT Return - Offset VAT not included in box 7 calcs  
+_Resolved Offset VAT calculations_  
+IM-11091 - Not getting discount from PPE  
+_PPE - Bug Fix discounts not working_  
+IM-11101 - Fix problem with Bundle Mapping  
+_Kiosk - Basket update_  
+IM-11116 - Order Stuck on ORB Board  
+_ORB Board - Order stuck bug fix_  
+IM-11137 - Comment on the Basket lines is not being retained  
+_Comment Line is now fixed for TOP and POP_  
+IM-11173 - Kiosk Payment Lines Not being Populated when using virtual connector  
+_Payment Line is now populated_  
+## Other Improvements  
+IM-10831 - Documentation - Fiskaly   
+IM-11032 - Add Swedish fiscalisation to Help files  
+
+
 # RELEASE VERSION: 05th October 2021
 ## FEATURES
 ### RETAIL
@@ -118,7 +170,6 @@ IM-5480 - Optimize stocktake count import
 _Bug Fix - bulk stocktake import_  
 IM-8339 - Move Custom Attributes in Item UI into Inventory UI  
 _Inventory - Custom Attributes moved from Item._  
-  
 
 
 # RELEASE VERSION: 10th August 2021
@@ -212,6 +263,7 @@ _Public API - Document ID Filter_
 IM-9841 - Imei pop up is too slow  
 _Improved the speed of the IMEI pop up_  
 
+
 # RELEASE VERSION: 13th July 2021
 ## FEATURES
 ### RETAIL
@@ -291,7 +343,6 @@ IM-9145 - POS - using incorrect delimiter still an issue on EUR tenants
 _POS bug Fix - incorrect delimiter for Euro customers_  
 IM-9741 - Kiosk Bundles When Adding to Basket  Showing Blank Screen - DEV Environment  
 _Bug Fix - Kiosk Bundles showing Blank screen_  
- 
 
 
 # RELEASE VERSION: 15th June 2021

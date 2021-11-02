@@ -1,4 +1,4 @@
-# PRE-RELEASE VERSION: 2nd November 2021
+# RELEASE VERSION: 2nd November 2021
 ## FEATURES
 ### RETAIL
 IM-9602 - S7 Item module - Remove unused screens  
@@ -33,6 +33,8 @@ IM-11071 - InventoryUI Bug: paging and  column chooser  not working (NaN and und
 _Resolved paging error showing at top of table when first generated_  
 IM-10854 - Stock overview in the POS is not showing the correct figures  
 _POS - Bug Fix - Stock overview figures_  
+IM-10555 - Slow Payments  
+_An update has been made to speed up the transaction process_  
 IM-10968 - MTD Calculate VAT Return - Offset VAT not included in box 7 calcs  
 _Resolved Offset VAT calculations_  
 IM-11091 - Not getting discount from PPE  
@@ -45,9 +47,11 @@ IM-11137 - Comment on the Basket lines is not being retained
 _Comment Line is now fixed for TOP and POP_  
 IM-11173 - Kiosk Payment Lines Not being Populated when using virtual connector  
 _Payment Line is now populated_  
+IM-11208 - Add Rabbit Message for Basket Sales From Transaction To RBO  
+_Transactions for Self Serve apps are now sent to RBO so that these are included in the analysis and Reports modules_  
 
 
-# RELEASE VERSION: 05th October 2021
+# RELEASE VERSION: 5th October 2021
 ## FEATURES
 ### RETAIL
 IM-10386 - Google Pay Configuration  

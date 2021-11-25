@@ -1,3 +1,121 @@
+# RELEASE VERSION: 30th November 2021
+## FEATURES
+### RETAIL
+IM-8425 - G00047 - UK Gap 5.7 - GCON007 - Item List View  
+_Inventory - Addition of manufacturer item no. unit cost. Ability to sort on several columns_  
+IM-10460 - ICT-S2-Inter-Company Company Management  
+_Inter Company Trading - Manage different legal entities called ‘Companies’ in a single imagine tenant._  
+IM-11057 - ICT-S2.5 Configure Currency at Company-level  
+_Inter Company Trading - Configure currency at company level_  
+IM-10775 - IIM-S3-Allow External URL to be associated with an  item  
+_External URL associated with item_  
+IM-8641 - Inventory - Export of Inventory - LOGS file(s)  
+_Inventory - Export Logs_  
+IM-10597 - CBL - S3 - Add Company Filter to Figures Tab  
+_Inventory - Item List - Add company to figures tab._  
+IM-6413 - Inventory - make the Search bar static in Item List  
+_Inventory - Item -  Search bar static (only Item List)_  
+IM-6072 - PoS - add a numeric keypad to the Manager credentials prompt  
+_POS - addition of numeric keypad for manager credentials_  
+IM-6682 - Inventory - make the instruction for Copy option more detailed  
+_Inventory - copy function explained_  
+IM-4763 - Add security and styling to the PO excel export in InventoryGW  
+_Inventory - PO Export Security_  
+IM-11070 - Stock Take - S2- Allow Ordering Discrepancy Column  
+_Inventory - Stocktake Discrepancy column_  
+IM-10626 - IIM-S2-Allow Multiple Images to be uploaded from local storage and associated with an item  
+_Multiple Images associated with an Item_  
+IM-10390 - ODP333 Till Printer needs adding into the supported printer list in the manage connector area  
+_Manage Connector - ODP333 Printer Added_  
+### PLATFORM
+IM-11325 - BI Gateway - VendorID in product Request  
+_BI GW - VendorID in Product request_  
+IM-11099 - Adyen - Utilise Display and Event Notifications  
+_Adyen - update_  
+IM-9326 - LogRocket Implementation  
+_Logrocket implementation_  
+IM-10614 - RBP - S1 - Apply Role Based Permissions to Side-Bar Sub Menu Items (Platform)  
+_Role based permissions setup_  
+IM-10983 - Adyen - On board terminal printer bypass change needed  
+_Adyen - Printer bypass change_  
+IM-10811 - Adyen Receipt Format Mis-aligned  
+_Adyen - receipt bug fix_  
+IM-11019 - DK Translations   
+_DK Translations_  
+## BUGS
+IM-7638 - Item Import  
+_Removed Caching on Item import download template as this caused new vendors to not show in the list_  
+IM-6880 - Extra Entries in the Customer Transaction History  
+_Customer Account tab now filters out account adjustments of 0_  
+IM-10906 - PlatformAdmin Tenant Creation - Wrong user language set   
+_Platform Admin - bug fix for user language_  
+IM-10571 - Deleting Receipt/ticket discount   
+_POS-Item discount and Line Discount_  
+IM-7796 - POS: Missing spaces in some Card terminal actions  
+_POS - Update Card Terminal Labels_  
+IM-7834 - POS: Add Customer Birthdate field is not validated  
+_POS - customer birthdate validation_  
+IM-8316 - Purchase Order Can't be saved after Bulk Import  
+_Inventory - PO Bulk import_  
+IM-7664 - POS: Can not filter item group by No  
+_POS-Item Group_  
+IM-7821 - Invalid column name Clerk in Stock Report  
+_Report - Bug fix in columns_  
+IM-7986 - GRN - Possible to Save and Commit an Empty Goods Received Order  
+_Inventory - Stop the ability to save an empty GRN_  
+IM-7801 - POS: Journals accepts to select a period of the future  
+_POS - Bug Fix dates in journal_  
+IM-7714 - POS: Issue to display the correct change when using gift certificate  
+_POS - bug fix gift certificate_  
+IM-10573 - Discount not matching up  
+_POS - Bug Fix - Discounts_  
+IM-7935 - POS [Account]: null is displayed in <Credit Limit Exceeds> message  
+_POS - Bug fix credit limit error message_  
+IM-7756 - Customer: Can not save external unique ID and Currency  
+_POS - Bug Fix - Customer required fields currency and external unique ID are now saved correctly_  
+IM-10338 - Issue new return interface IM-9082 checkbox items cannot be checked on a K3POS using touch  
+_POS - Bug Fix on return_  
+IM-7715 - POS: Issue with filter expense  
+_POS - Bug Fix expenses_  
+IM-8659 - POS: Remove foreign credit note makes the  sale complete  
+_POS Bug Fix - Foreign Credit Note_  
+IM-11242 - Order Status Board - Status doesn't update after extension  
+_Fixed a bug which caused the status to not update after an extension is fired_  
+IM-10364 - Stock adjustment reason code not displaying  
+_Inventory - Logs now showing stock adjustment reason code_  
+IM-10575 - Ticket discount in Euro's not right when increasing amount of articles  
+_POS - Bug Fix on whole transaction discount_  
+IM-10261 - GRN info incorrect when receiving PO's via Companion App  
+_Inventory - GRN info updated when received via companion._  
+IM-10290 - Loadig a partial scheduled stock take takes  minutes in the companion app if it succeeds.  
+_This ticket is already in Production_  
+IM-10301 - Companion App - Auto Receive PO/Transfer numbers not recognised.  
+_Companion app - bug fix Auto receive PO/ Transfer numbers_  
+IM-11240 - Public API - Stock Lookup Default Vendor when no movement  
+_Stock lookup on public api now returns the default vendor even if the item has had no movements_  
+IM-11132 - Simple POS Fails if Item Modifier Qty is incremented   
+_Simple POS bug fix modifier Qty._  
+IM-11157 - Can't create new Worldline device in Admin  
+_Admin - Manage Connector - Creation of new worldline device_  
+IM-11158 - Loyalty Bonus Button on POS Takes Time to Load and Display  
+_Loyalty Button now showing when customer loaded_  
+IM-11193 - Total Amount in Simple POS Calculating Incorrectly  
+_Simple POS - Total Amount calculated incorrectly_  
+IM-11275 - Numbergen fails to create next order number  
+_Fixed issue around Numbergen failing to create next order_  
+IM-11281 - Items with modifiers are doubling the item price  
+_Fixed an issue within the kiosk where default modifiers were incorrectly adding to the item total_  
+IM-11311 - Simple POS handling discount with different currencies  
+_Simple POS handling discount fixed for different currencies_  
+IM-11326 - Extension Framework - Unable to create and configure extensions  
+_Platform Admin - Bug fix extensions_  
+## Other Improvements  
+IM-10373 - Item MS Importing Items  
+_ItemMS - Importing Items_  
+IM-11374 - Modifier Prices not included in the Item Prices on the receipt  
+_Kiosk Bug Fix modifier prices_  
+
+
 # RELEASE VERSION: 2nd November 2021
 ## FEATURES
 ### RETAIL

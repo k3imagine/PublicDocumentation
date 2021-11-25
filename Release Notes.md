@@ -1,4 +1,4 @@
-# RELEASE VERSION: 30th November 2021
+# RELEASE VERSION: 30th November 2021 (Pre-release)
 ## FEATURES
 ### RETAIL
 IM-8425 - G00047 - UK Gap 5.7 - GCON007 - Item List View  

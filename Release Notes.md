@@ -1,12 +1,10 @@
-# RELEASE VERSION: 30th November 2021 (Pre-release)
+# RELEASE VERSION: 30th November 2020
 ## FEATURES
 ### RETAIL
 IM-8425 - G00047 - UK Gap 5.7 - GCON007 - Item List View  
 _Inventory - Addition of manufacturer item no. unit cost. Ability to sort on several columns_  
 IM-10460 - ICT-S2-Inter-Company Company Management  
 _Inter Company Trading - Manage different legal entities called ‘Companies’ in a single imagine tenant._  
-IM-11057 - ICT-S2.5 Configure Currency at Company-level  
-_Inter Company Trading - Configure currency at company level_  
 IM-10775 - IIM-S3-Allow External URL to be associated with an  item  
 _External URL associated with item_  
 IM-8641 - Inventory - Export of Inventory - LOGS file(s)  
@@ -73,7 +71,7 @@ IM-7935 - POS [Account]: null is displayed in <Credit Limit Exceeds> message
 _POS - Bug fix credit limit error message_  
 IM-7756 - Customer: Can not save external unique ID and Currency  
 _POS - Bug Fix - Customer required fields currency and external unique ID are now saved correctly_  
-IM-10338 - Issue new return interface IM-9082 checkbox items cannot be checked on a K3POS using touch  
+IM-10338 - CAS-73369-C7J8Y4 issue new return interface IM-9082 checkbox items cannot be checked on a K3POS using touch  
 _POS - Bug Fix on return_  
 IM-7715 - POS: Issue with filter expense  
 _POS - Bug Fix expenses_  
@@ -103,7 +101,7 @@ IM-11193 - Total Amount in Simple POS Calculating Incorrectly
 _Simple POS - Total Amount calculated incorrectly_  
 IM-11275 - Numbergen fails to create next order number  
 _Fixed issue around Numbergen failing to create next order_  
-IM-11281 - Items with modifiers are doubling the item price  
+IM-11281 - Items with modifiers are doubling the item price 
 _Fixed an issue within the kiosk where default modifiers were incorrectly adding to the item total_  
 IM-11311 - Simple POS handling discount with different currencies  
 _Simple POS handling discount fixed for different currencies_  
@@ -114,6 +112,7 @@ IM-10373 - Item MS Importing Items
 _ItemMS - Importing Items_  
 IM-11374 - Modifier Prices not included in the Item Prices on the receipt  
 _Kiosk Bug Fix modifier prices_  
+  
 
 
 # RELEASE VERSION: 2nd November 2021

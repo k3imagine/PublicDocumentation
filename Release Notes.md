@@ -1,3 +1,140 @@
+# RELEASE VERSION: 26th January 2022 (Pre-release)
+## FEATURES
+### RETAIL
+IM-10535 - Unable to see item variants on returns screen  
+_Added barcode, dimensions and item name on the return screen_  
+IM-11057 - ICT-S2.5 Configure Currency at Company-level  
+_Inter Company Trading - Configure currency at company level_  
+IM-8301 - Inventory - Expanding Hierarchy when creating a product  
+_Expanding Hierarchy when creating a product_  
+IM-6086 - PoS - The on-screen receipt in Find Receipt does not match the detail on the paper copy  
+_Fixed discrepancies between on-screen receipt and the paper copy_  
+IM-10615 - Add setting for enabling/disabling the inclusion of images in receipt emails  
+_Add option to include image on the receipt email_  
+IM-5884 - Stock Take - S1-print a Stock Take discrepancy list  
+_Print stock take discrepancy list_  
+IM-9661 - Limit the size of an XLS or XLSX file for import  
+_Limit import file sizes_  
+IM-8317 - Columns should be made sticky  
+_Columns made stcky_  
+IM-6672 - Customer - Loyalty - give user better feedback if they do not complete fields  
+_Validate fields in Customer Loyalty_  
+IM-6613 - Reporting KPI with square meter (sq)   
+_Added report per sqm in Analysis module_  
+IM-6683 - Inventory - be able to select an item by clicking the row in Copy  
+_Added the ability to select an item by clicking the row in Copy_  
+IM-7525 - Searching for receipts, loading more by default  
+_Increased the pagination from 10 to 100 for receipts in POS_  
+IM-10388 - Apple Pay - Domain Verification  
+_Apple Pay - Domain Verification_  
+IM-10737 - ms-payglobalpay - Update to dotnet 5.0  
+_ms-payglobal update to dotnet 5.0_  
+IM-10387 - Apple Pay - Merchant Identity Certificate Implementation  
+_Apple Pay - Merchant Identity_  
+IM-10682 - gw-paymentintegration - Update to dotnet 5.0  
+_gw-paymentintegration - Update to dotnet 5.0_  
+IM-11572 - SCO Finnish language support  
+_Added Finish language on SCO_  
+### PLATFORM
+IM-10758 - ms-task - Update to dotnet 5.0  
+_ms-task update to dotnet 5.0_  
+IM-10759 - ms-tenantfeatures - Update to dotnet 5.0  
+_ms-tenantfeatures - update to dotnet 5.0_  
+IM-10666 - gw-arm - Update to dotnet 5.0  
+_gw-arm - Update to dotnet 5.0_  
+IM-10699 - gw-starp - Update to dotnet 5.0  
+_gw-starp - Update to dotnet 5.0_  
+IM-10705 - ms-armtenant - Update to dotnet 5.0  
+_ms-armtenant update to dotnet 5.0_  
+IM-10715 - ms-externalmsg - Update to dotnet 5.0  
+_ms-externalmsg - Update to dotnet 5.0_  
+IM-10744 - ms-print - Update to dotnet 5.0  
+_ms-print - Update to dotnet 5.0_  
+IM-10760 - ms-tracking - Update to dotnet 5.0  
+_ms-tracking update to dotnet 5.0_  
+IM-10726 - ms-integrationidentity - Update to dotnet 5.0  
+_ms-integrationIdentity update to dotnet 5.0_  
+IM-10751 - ms-scheduledjobs - Update to dotnet 5.0  
+_ms-scheduledjobs - update to dotnet 5.0_  
+IM-10733 - ms-numgen - Update to dotnet 5.0  
+_ms-numgen - update to dotnet 5.0_  
+IM-11404 - Integrate Apple Pay in TopUI   
+_Apple Pay - TOP_  
+IM-11406 - Apple Pay - Changes to descriptions on certificate section in Admin UI (OB Pay)  
+_Apple Pay - Admin UI update._  
+IM-11276 - SCO Item scan dialog  
+_SCO - Loading page added for scanning_  
+IM-11387 - Google Pay - Self Serve Admin UI Change (OB Pay)  
+_Self Serve Admin - Google Pay Changes_  
+IM-11427 - Google Pay - Merchant ID/Client ID text change in Admin UI (OB Pay)  
+_Admin UI - Google Pay test change_  
+### MTD & BESPOKE DEVELOPMENT
+IM-11373 - Configurable payment icons in SCO   
+_SCO - Configurable payment icons_  
+## BUGS
+IM-11521 - Stock detail view in the POS is not showing the correct figures ptII  
+_Fixed issue where the figures were not correct_  
+IM-11570 - Refresh Token returns {"valueKind":1}  
+_Fixed issue where token was not refreshed_  
+IM-7043 - Inventory - Required Field Prompts Issue  
+_Fixed issue with prompts in required fields under Inventory_  
+IM-11477 - Exchange date missing from gift receipt  
+_Added exchange date on gift receipts._  
+IM-8805 - Admin - Receipt Preview Not Showing Correct Header-Footer Messages  
+_Gift Receipts and Credit Note now showing correct preview in Receipt Setup_  
+IM-10481 - Unable to split payment using gift certificates  
+_Fixed issue where could not split the payment using Gif certificate as the second option_  
+IM-11474 - Inventory - Cancel Remainder on placed or partially received PO's causes a 404 error  
+_Fixed issue where cancel remainder in PO had no action_  
+IM-10853 - Item Creation - Enable as Web Item not saved  
+_Fixed issue where Enable as Web item was not saved_  
+IM-11261 - Menu not updating  
+_Highlights the correct submenu_  
+IM-8718 - Stocktake - Import Count File Not Recognising Secondary Manufacturer Barcodes  
+_Fixed issue where import count file didnt recognize secondary manufacturer barcode_  
+IM-11078 - PeopleCount MS: POST People count - returns 500 error: object reference not set to instance of an object  
+_Fixed bug where POST People count returned 500 error_  
+IM-11349 - Add Image Button in Item Creation does not respond to click the second time  
+_Add Image button fixed_  
+IM-11508 - Transfers throws 500 error  
+_Fixed issue where Transfer throws 500 error_  
+IM-11412 - InventoryUI PO download button has wrong text  
+_Text now corrected to Download File rather than Upload_  
+IM-11439 - Self Serve Admin Payment Provider errors when no tenant feature exists  
+_Self Serve Admin Payment fixed_  
+IM-11446 - TOP Failed transaction  
+_TOP - Bug Fix - Failed Transaction_  
+IM-11458 - Cant create items through API  
+_Fixed an issue in item microservice where item dimension values were defaulting to integer data type_  
+IM-11463 - Trimit Account Payments Not Working  
+_Trimit - Bug Fix - Account Payments_  
+IM-11483 - MasterItem & Item not published to rabbit after image change  
+_Fixed issue where set an image to an existing item was not published to rabbit_  
+IM-11486 - POS - Expenses are included in the POS Chart  
+_Fixed issue where expenses are included in the chart_  
+IM-11536 - SideBar Spelling error Self Serve Admin  
+_Fixed issue where it was displayed Pop Londing Page_  
+IM-11541 - InventoryUI: On GRN aggregate item quantity if item is already on the GRN  
+_Fixed issue where a new line was created if increased quantity for an item in GRN_  
+IM-11542 - Inventory UI - Discount Labels Danish language  
+_Inventory - Discount Labels DK Language_  
+IM-11545 - Purchase Order: Search button is disabled  
+_Fixed issue where search button was disabled in PO_  
+IM-11557 - When using Manual Search Item in receive goods, after adding items, the save/commit buttons are disabled  
+_Fixed issue where Save/commit buttons where disabled in Receive goods_  
+IM-11562 - PosGW crashing on missing VoucherConfiguration in tenantfeature-ms  
+_Fixed issue where could not load POS_  
+IM-11574 - Commiting a stock take returns error message  
+_Fixed the issue where commiting a stock take returns error message_  
+## Other Improvements  
+IM-11230 - Platform Admin leaking of user data  
+_Fixed issue where the whole user list was saved in local storage._  
+IM-7619 - RboMS: Voucher currencies and reports  
+_Voucher with different currency code_  
+IM-11130 - User (username) regex platform admin  
+_Allow special characters in username_  
+
+
 # RELEASE VERSION: 30th November 2020
 ## FEATURES
 ### RETAIL

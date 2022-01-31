@@ -1,4 +1,4 @@
-# RELEASE VERSION: 26th January 2022 (Pre-release)
+# RELEASE VERSION: 26th January 2022
 ## FEATURES
 ### RETAIL
 IM-10535 - Unable to see item variants on returns screen  
@@ -35,6 +35,12 @@ IM-10682 - gw-paymentintegration - Update to dotnet 5.0
 _gw-paymentintegration - Update to dotnet 5.0_  
 IM-11572 - SCO Finnish language support  
 _Added Finish language on SCO_  
+IM-11370 - CBL - S4 - View Costs by Location  
+_Inventory - Item List - Add company to figures tab._  
+IM-10843 - RBP - S1 - Apply Role Based Permissions to Side-Bar Sub Menu Items - Product  
+_Role Based Permissions - Side bar Menus_  
+IM-11525 - Gift Vouchers removed from Analysis Dashboard Figures  
+_Analysis - Sales ex VAT and Sales Value_  
 ### PLATFORM
 IM-10758 - ms-task - Update to dotnet 5.0  
 _ms-task update to dotnet 5.0_  
@@ -74,30 +80,48 @@ _SCO - Configurable payment icons_
 ## BUGS
 IM-11521 - Stock detail view in the POS is not showing the correct figures ptII  
 _Fixed issue where the figures were not correct_  
+IM-11600 - Discount reasons gone from POS  
+_Fixed issue where discount reason was gone from POS_  
+IM-11596 - Inventory -> Receive Goods -> Unable to Save and Commit  
+_Removed requirement for Currency to be selected before saving GRN_  
+IM-11643 - Vendor Return validation problem on entering a saved draft  
+_Fixed issue where Save buttons became disabled_  
+IM-11692 - Changed Sales price on a matrix item is not saved  
+_Fixed issue where updated Sales Price within Matrix not saving_  
 IM-11570 - Refresh Token returns {"valueKind":1}  
 _Fixed issue where token was not refreshed_  
+IM-11301 - Gift receipt layout all wrong  
+_Fixed issue where the printed documents are mashed up_  
 IM-7043 - Inventory - Required Field Prompts Issue  
 _Fixed issue with prompts in required fields under Inventory_  
+IM-11318 - Cant save and commit vendor return  
+_Fixed issue saving Vendor Return_  
 IM-11477 - Exchange date missing from gift receipt  
 _Added exchange date on gift receipts._  
 IM-8805 - Admin - Receipt Preview Not Showing Correct Header-Footer Messages  
 _Gift Receipts and Credit Note now showing correct preview in Receipt Setup_  
 IM-10481 - Unable to split payment using gift certificates  
-_Fixed issue where could not split the payment using Gif certificate as the second option_  
+_Fixed issue where could not split the payment using Gift certificate as the second option_  
 IM-11474 - Inventory - Cancel Remainder on placed or partially received PO's causes a 404 error  
 _Fixed issue where cancel remainder in PO had no action_  
 IM-10853 - Item Creation - Enable as Web Item not saved  
 _Fixed issue where Enable as Web item was not saved_  
 IM-11261 - Menu not updating  
 _Highlights the correct submenu_  
+IM-9416 - Received Goods - Name and Dimension Column - Visual Issues  
+_Received Goods - Name and Dimension Column_  
 IM-8718 - Stocktake - Import Count File Not Recognising Secondary Manufacturer Barcodes  
 _Fixed issue where import count file didnt recognize secondary manufacturer barcode_  
+IM-11136 - Cant print labels from discount labels  
+_Fixed issue where discount labels in the range of 55, 56, 57, 58 couldn't be printed from Inventory - Discount labels_  
 IM-11078 - PeopleCount MS: POST People count - returns 500 error: object reference not set to instance of an object  
 _Fixed bug where POST People count returned 500 error_  
 IM-11349 - Add Image Button in Item Creation does not respond to click the second time  
 _Add Image button fixed_  
 IM-11508 - Transfers throws 500 error  
 _Fixed issue where Transfer throws 500 error_  
+IM-11380 - Portal Module not available   
+_Added Portal module_  
 IM-11412 - InventoryUI PO download button has wrong text  
 _Text now corrected to Download File rather than Upload_  
 IM-11439 - Self Serve Admin Payment Provider errors when no tenant feature exists  
@@ -126,6 +150,12 @@ IM-11562 - PosGW crashing on missing VoucherConfiguration in tenantfeature-ms
 _Fixed issue where could not load POS_  
 IM-11574 - Commiting a stock take returns error message  
 _Fixed the issue where commiting a stock take returns error message_  
+IM-11624 -  Imagine Kiosk - modifier issue   
+_Kiosk - Bug Fix Modifiers_  
+IM-11027 - Gift label and Gift receipt do not function in the same way, the only difference should be the print option.  
+_Fixed issue where the period to exchange was not displayed into POS_  
+IM-11590 - When marked as gift, calendar not showing correctly on lower resolutions  
+_Bug Fix - POS - Calendar showing correctly at lower resolutions_  
 ## Other Improvements  
 IM-11230 - Platform Admin leaking of user data  
 _Fixed issue where the whole user list was saved in local storage._  
@@ -133,6 +163,7 @@ IM-7619 - RboMS: Voucher currencies and reports
 _Voucher with different currency code_  
 IM-11130 - User (username) regex platform admin  
 _Allow special characters in username_  
+ 
 
 
 # RELEASE VERSION: 30th November 2020

@@ -113,7 +113,7 @@ _Received Goods - Name and Dimension Column_
 IM-8718 - Stocktake - Import Count File Not Recognising Secondary Manufacturer Barcodes  
 _Fixed issue where import count file didnt recognize secondary manufacturer barcode_  
 IM-11136 - Cant print labels from discount labels  
-_Bug Fix - Discount labels_  
+_Fixed issue where discount labels in the range of 55, 56, 57, 58 couldn't be printed from Inventory - Discount labels_  
 IM-11078 - PeopleCount MS: POST People count - returns 500 error: object reference not set to instance of an object  
 _Fixed bug where POST People count returned 500 error_  
 IM-11349 - Add Image Button in Item Creation does not respond to click the second time  

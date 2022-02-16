@@ -15,8 +15,8 @@ IM-9910 - Receive Goods Sort
 _Inventory - Purchase order sort order_  
 IM-10929 - ICT-S7-InterCompany Price add filtering  
 _Filter price list by search text, vendor, hierarchy_  
-IM-11133 - ISV - S3 - Selling an Intersolve Intersolve Gift Card  
-_Selling Intersolve gift card_  
+IM-11133 - ISV - S3 - Selling an Intersolve Gift Card  
+_Added functionality to sell Intersolve gift card via the POS_  
 IM-11177 - ISV - S4 - Refunding and De-Activating Intersolve Gift Cards  
 _Ability to refunding and de activating Intersolve cards_  
 IM-11172 - ISV - S1.5 - Create logging functionality  
@@ -81,7 +81,7 @@ _Stock take overview fix_
 IM-11426 - Public API Create Item endpoint fails  
 _Public API~ - Bug fix - Create item endpoint fails_  
 IM-7225 - Parking receipt without customer and items  
-_Parking receipt without Customers_  
+_Disabled ability to park a transaction with no items attached to it, toaster message added to alert user_  
 IM-10785 - Return receipts are not showing the deducted number of loyalty points  
 _Fixed issue where return receipts where not showing the deducted number of loyalty points_  
 IM-9735 - POS Password allows + and - special characters  

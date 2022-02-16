@@ -1,3 +1,138 @@
+# RELEASE VERSION: 23rd February 2022 (Pre-release)
+## FEATURES
+### RETAIL
+IM-11727 - Public API - add Get transaction by uuid  
+_New endpoint added to retrieve transaction on the unique uuid_  
+IM-8651 - G00057 - S4 - Offline Stock - "Return to Vendor" action  
+_Ability to move item quantities from the Offline stock list directly to a Vendor return_  
+IM-11303 - Currency code on receipts  
+_Added currency code in receipts_  
+IM-7669 - Inventory - Make connector selection remember selection  
+_Recover the last connector choice for print labels in Inventory_  
+IM-6584 - Inventory - add 'Type' to the Summary tab  
+_Type added to Inventory Summary Tab_  
+IM-9910 - Receive Goods Sort  
+_Inventory - Purchase order sort order_  
+IM-10929 - ICT-S7-InterCompany Price add filtering  
+_Filter price list by search text, vendor, hierarchy_  
+IM-11133 - ISV - S3 - Selling an Intersolve Gift Card  
+_Added functionality to sell Intersolve gift card via the POS_  
+IM-11177 - ISV - S4 - Refunding and De-Activating Intersolve Gift Cards  
+_Ability to refunding and de activating Intersolve cards_  
+IM-11172 - ISV - S1.5 - Create logging functionality  
+_Creating a data model to logging_  
+IM-11171 - ISV - S2 - Viewing an Intersolve Gift Card Status  
+_Ability to see Intersolve card details_  
+IM-10900 - ICT-S6-InterCompany Search Items With IC prices on Transfers  
+_The search for items should only show items that have a price defined on IC_  
+IM-11077 - ISV - S1 - Intersolve Setup Basic Integration  
+_Configure different types of gift card_  
+IM-11357 - ICT-3.6: Adjustments to the companies page  
+_Adjustments to the company page_  
+IM-11560 - Cant press enter when searching items in item list  
+_Enter can now search items in item list_  
+IM-10475 - Gift Aid is triggered on POS when boolean custom attribute is set as 'NO'  
+_Gift aid is just triggered on POS when Custom attribute is set to Yes_  
+IM-7672 - Inactive Item shows on Purchase Order / Receive Goods Lists  
+_When manually selecting items there is 'Show inactive' option_  
+IM-7618 - Missing Hierarchy Tax Rate Linked to Missing Item Groups  
+_Make tax rate mandatory in Item Hierarchies_  
+IM-7532 - Show Custom Attribute Code and Name when creating items  
+_Show custom attribute code and name when creating items_  
+IM-6626 - Tech Story - PoS - All receipts need to be reviewed for correct time printed  
+_Fixed issue where the time stamp printed on the receipt were wrong_  
+IM-11192 - ISV - S5 - Making a Payment when Intersolve gift card(s) is present on the transaction.  
+_Making payment when Intersolve card is present on the transaction_  
+IM-10504 - ICT-S3.5-Add Columns to Transfer Data Entities  
+_Added new columns to Transfer Data Entities_  
+IM-10461 - ICT-S3-Inter-Company Price Lists  
+_Added the ability to maintain the prices in base tenant currency and source location currency_  
+IM-10465 - ICT-S4-Inter-Company Transfer Order Creation  
+_Added functionality to move items from one location to another which are associated with different companies and that transfer be represented as a sale by the sending location and a purchase by the receiving location_  
+IM-10579 - ICT-S5-In-Company Transfer Out Prices  
+_Include and record the weighted average cost of items in a In company transfer_  
+IM-11752 - Order Needs transaction id and uuid  
+_TransactionId and TransactionUUID now recorded against Order_  
+IM-11753 - Public API GET Orders  
+_Endpoint will now return the transactionId and transactionUuid_  
+IM-11756 - PublicApi - Add CustomerName and Reference fields to Order endpoint  
+_Customer Name and Reference fields now returned in call to Order endpoint_  
+## BUGS
+IM-11342 - Production - Unable to print journals  
+_POS - Bug Fix - Print from Journal_  
+IM-11554 - PPE - Discount Item Percentage promotion require Item Bundle item  
+_PPE - Bug Fix - Discount Item Percentage_  
+IM-11613 - Inventory - Barcode not issued to Copy of Masteritem  
+_Fixed issue where copying a Masteritem did not issue a barcode to new item_  
+IM-11544 - PPE - Item Bundles stuck in 'In Queue' status  
+_PPE in queue status bug fix_  
+IM-8752 - Customer Loyalty - 'Select/Deselect All' option for items not available  
+_Items now have option to Select/Deselect All within Customer Loyalty_  
+IM-11250 - Inventory - The column headers in the data grids in Inventory cover results  
+_Bug Fix Inventory > Item List > column headers moving correctly._  
+IM-7779 - Filter Duplication in PPE Item Bundles (UI Bug)  
+_Fixed issue were the filter was duplicated in Item bundle under PPE_  
+IM-9642 - POS - Can't disable total amount/percentage discount options via clerk roles  
+_Fixed issue where could not disable discount options via clerk roles_  
+IM-9734 - InventoryUI: Import Bulk Purchase Order missing data in columns  
+_Fixed issue where Import bulk PO did not retrieve some data_  
+IM-11117 - Stock take overview does not show all stock takes  
+_Stock take overview fix_  
+IM-11426 - Public API Create Item endpoint fails  
+_Public API~ - Bug fix - Create item endpoint fails_  
+IM-7225 - Parking receipt without customer and items  
+_Disabled ability to park a transaction with no items attached to it, toaster message added to alert user_  
+IM-10785 - Return receipts are not showing the deducted number of loyalty points  
+_Fixed issue where return receipts where not showing the deducted number of loyalty points_  
+IM-9735 - POS Password allows + and - special characters  
+_Fixed issue where '+' and '-' were allowed in clerk password_  
+IM-8918 - POS: Spelling error on the reboot connector toast message  
+_Fixed spelling error when asked to reboot the connector_  
+IM-9374 - Kiosk Verifone Certification - Outstanding Issues  
+_Added Reprint last receipt in KIOSK2_  
+IM-11589 - Admin Shop Setup: It is possible to change the local currency  
+_Make the Local currency for Shop in Backoffice read-only_  
+IM-9891 - Item Create Routine - Stock Lookup Summary fields (ReOrder and ReStock) incorrectly populated     
+_Inventory - Bug Fix - Reorder and restock showing incorrectly_  
+IM-10326 - Issue removing discount from an Item Group  
+_Fixed issue where could not remove discount from an item group_  
+IM-10490 - RboMs: Cannot send emails for receipts  
+_Fixed issue where the receipts were not sent by email_  
+IM-10815 - Inventory VR - PDF shows incorrect values  
+_PDF issue fixed_  
+IM-11274 - Customer Next Page Button Not Working in the Backoffice  
+_Fixed issue with Next Page button not responding_  
+IM-11296 - PoS - discount showing on items when using transaction discount  
+_Fixed issue where a discount was apply to wrong items_  
+IM-11564 - RboMS: Prevent local currency change  
+_Fixed issue where currencies are deleted if local currency is changed in a request_  
+IM-11580 - PdfMS: Image handling  
+_Image handling issue fix for PDF_  
+IM-11672 - POS: Setting a fixed exchange period is not reflected in POS  
+_Fixed issue where a fixed exchange period was not reflected into POS_  
+IM-8058 - Item - Matrix Tab Changes Not Being Remembered After Editing  
+_Fixed issue where changes in the Item matrix tab was not remembered after editing_  
+IM-11695 - TOP and POP - the 'i' information button is not shown  
+_Added 'i' information button in TOP and POP_  
+IM-11699 - Issues in Transfer  
+_Issues resolved_  
+IM-11700 - SimplePosUI: Fix flow on sales endpoint  
+_Only make sale in SimplePos when connector is turned on_  
+IM-11705 - Unable to remove an Item from Price list before saving  
+_Unwanted Item can now be removed from the Pricelist_  
+IM-11733 - Publicapi - no transactionid returned when order created through TOP  
+_Fixed issue where transactionId not been copied to Order table_  
+IM-11735 - InventoryGW: crashes on loading a GRN if the GRN has no lines on it  
+_Fixed issue when GRN had no lines_  
+IM-11745 - UI needs to set Inactive Flag to True when fetching the pricelist  
+_Adding inactive Items to Pricelist_  
+IM-11760 - Urgent - Public API -  api/v1.0/Transfers/CreateTransfersOutWithLines 500 Internal Service error  
+_Fixed issue where CreateTransferOutWithLines was throwing error code 500_  
+## Other Improvements   
+IM-11736 - Exchange Test for Danish Language  
+_Danish Language update for Exchange text_  
+
+
 # RELEASE VERSION: 26th January 2022
 ## FEATURES
 ### RETAIL

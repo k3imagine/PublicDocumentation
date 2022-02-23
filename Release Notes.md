@@ -1,4 +1,4 @@
-# RELEASE VERSION: 23rd February 2022 (Pre-release)
+# RELEASE VERSION: 23rd February 2022
 ## FEATURES
 ### RETAIL
 IM-11727 - Public API - add Get transaction by uuid  
@@ -56,7 +56,9 @@ _TransactionId and TransactionUUID now recorded against Order_
 IM-11753 - Public API GET Orders  
 _Endpoint will now return the transactionId and transactionUuid_  
 IM-11756 - PublicApi - Add CustomerName and Reference fields to Order endpoint  
-_Customer Name and Reference fields now returned in call to Order endpoint_  
+_Customer Name and Reference fields now returned in call to Order endpoint_ 
+IM-11800 - Netherlands Translations  
+_Updated Dutch Translations_
 ## BUGS
 IM-11342 - Production - Unable to print journals  
 _POS - Bug Fix - Print from Journal_  
@@ -127,7 +129,9 @@ _Fixed issue when GRN had no lines_
 IM-11745 - UI needs to set Inactive Flag to True when fetching the pricelist  
 _Adding inactive Items to Pricelist_  
 IM-11760 - Urgent - Public API -  api/v1.0/Transfers/CreateTransfersOutWithLines 500 Internal Service error  
-_Fixed issue where CreateTransferOutWithLines was throwing error code 500_  
+_Fixed issue where CreateTransferOutWithLines was throwing error code 500_
+IM-11815 - Simple POS error on second transaction  
+_Fixed a bug within Simple POS which caused the second transaction performed to report an error_ 
 ## Other Improvements   
 IM-11736 - Exchange Test for Danish Language  
 _Danish Language update for Exchange text_  

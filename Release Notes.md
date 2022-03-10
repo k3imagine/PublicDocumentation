@@ -1,3 +1,9 @@
+# RELEASE VERSION: 10th March 2022
+
+##### Inventory - 500 error or system freeze when changing Sales/Cost Price on Item <span class="ticket">IM-11865</span>  
+ Resolved issue where after saving update to one variant any further updates to variants would cause a 500 error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 23rd February 2022
 ## FEATURES
 ### RETAIL

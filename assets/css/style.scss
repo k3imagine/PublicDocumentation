@@ -6,3 +6,74 @@
 #forkme_banner {
   display: none;
 }
+
+.service{
+    white-space: normal;
+    background-color: lightgrey;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 14px;
+    font-size: 0.8em;
+}
+.bug{
+    white-space: normal;
+    background-color: lightcoral;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 14px;
+    font-size: 0.8em;
+}
+.new{
+    white-space: normal;
+    background-color: #ffefd2;
+    border: none;
+    color: #67625a;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 14px;
+    font-size: 0.8em;
+}
+.debt{
+    white-space: normal;
+    background-color: #90dfd6;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 14px;
+    font-size: 0.8em;
+}
+.task{
+    white-space: normal;
+    background-color: yellowgreen;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 14px;
+    font-size: 0.8em;
+}
+.ticket{
+    font-size: 0.8em;
+    color: grey;
+    font-style: normal;
+}

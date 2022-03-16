@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2022
 
+##### Port AdminUI - Shop Setup - General Information <span class="ticket">IM-11703</span>  
+ General Information sidebar added in POS ADMIN module and information on the page can be updated  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Port AdminUI - Shop Setup - Currency Exchange Rates <span class="ticket">IM-11451</span>  
  Admin UI move currency Exchange Rates to POS Admin (Note new module you need access to new module)  
   <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  

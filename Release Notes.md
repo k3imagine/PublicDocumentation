@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2022
 
+##### Port AdminUI(POS Option) to Angular 12 <span class="ticket">IM-11199</span>  
+ Port AdminUI(POS Option) to Angular 12  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Port AdminUI - Shop Setup - General Information <span class="ticket">IM-11703</span>  
  General Information sidebar added in POS ADMIN module and information on the page can be updated  
   <span class="debt">Technical Debt</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2022
 
+##### Port AdminUI - POS Options - Customer Display <span class="ticket">IM-11453</span>  
+ Move Customer Display from Admin -> POS Options to POS Admin -> POS Options  
+  <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  
+  
 ##### CUD - S1- Customer Display Configuration <span class="ticket">IM-11553</span>  
  Added the Customer display under POS Options menu  
   <span class="new">New Feature</span> <span class="service">POS</span> <span class="service">Pos Admin</span>  

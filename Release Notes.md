@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2022
 
+##### Port AdminUI - Shop Setup - Currency Exchange Rates <span class="ticket">IM-11451</span>  
+ Admin UI move currency Exchange Rates to POS Admin (Note new module you need access to new module)  
+  <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  
+  
 ##### Port AdminUI - POS Options - Customer Display <span class="ticket">IM-11453</span>  
  Move Customer Display from Admin -> POS Options to POS Admin -> POS Options  
   <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  

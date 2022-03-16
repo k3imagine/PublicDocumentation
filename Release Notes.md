@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2022
 
+##### Inventory - thumb nails not showing in Item List <span class="ticket">IM-11512</span>  
+ Fixed issue where the picture of the item is not displayed into item list  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Port AdminUI(POS Option) to Angular 12 <span class="ticket">IM-11199</span>  
  Port AdminUI(POS Option) to Angular 12  
   <span class="debt">Technical Debt</span>  

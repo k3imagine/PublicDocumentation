@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### ISV - S9 - Total testing of all functionality together <span class="ticket">IM-11602</span>  
+ Tested all ISV funcionalities together  
+  <span class="new">New Feature</span> <span class="service">IntersolveGW</span> <span class="service">IntersolveMS</span> <span class="service">IntersolveUI</span>  
+  
 ##### ISV - S8 - Receipts When Using Intersolve Gift Cards <span class="ticket">IM-11234</span>  
  Inform on the receipts about the sale, redemption and use of Intersolve gift cards  
   <span class="new">New Feature</span> <span class="service">IntersolveMS</span>  

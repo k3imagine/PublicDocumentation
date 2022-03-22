@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### ISV - S8 - Receipts When Using Intersolve Gift Cards <span class="ticket">IM-11234</span>  
+ Inform on the receipts about the sale, redemption and use of Intersolve gift cards  
+  <span class="new">New Feature</span> <span class="service">IntersolveMS</span>  
+  
 ##### Public API - Stocktake POST error <span class="ticket">IM-11841</span>  
  Fixed issue with posting partial stocktakes after dotnet upgrade  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

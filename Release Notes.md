@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Item List -> Move focus on Reorder is showing Loading Spinner <span class="ticket">IM-11772</span>  
+ Inventory - Item List - Reorder showing loading spinner   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - Stock take - Error adding item to blank stocktake <span class="ticket">IM-10270</span>  
  Fixed issue error adding item to Partial Stocktake with Partial Type Blank  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

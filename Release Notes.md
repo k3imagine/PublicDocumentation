@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### ArmTenantMicroservice <span class="ticket">IM-10940</span>  
+ ArmTenantms Update dotnet 2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### SS Applications slow <span class="ticket">IM-11421</span>  
  Fixed the SS applications slow  
   <span class="debt">Technical Debt</span>  

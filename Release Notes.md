@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### GCS - S0 - Create PORTAL sub menu for global settings. <span class="ticket">IM-11802</span>  
+ A new PORTAL sub menu named Configuration created for global setting.  
+  <span class="new">New Feature</span> <span class="service">Portal</span>  
+  
 ##### ISV - S6 - Using an Intersolve gift Card as MOP(method of payment) <span class="ticket">IM-11202</span>  
  Use Intersolve card as a method of payment  
   <span class="new">New Feature</span> <span class="service">IntersolveMS</span>  

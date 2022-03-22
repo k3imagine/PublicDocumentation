@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### ISV - S8.5 cancel of refund <span class="ticket">IM-11754</span>  
+ Cancel of refund of Intersolve cards  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### ISV - S9 - Total testing of all functionality together <span class="ticket">IM-11602</span>  
  Tested all ISV funcionalities together  
   <span class="new">New Feature</span> <span class="service">IntersolveGW</span> <span class="service">IntersolveMS</span> <span class="service">IntersolveUI</span>  

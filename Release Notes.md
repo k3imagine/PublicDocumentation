@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### DeviceWorker_ResendCashStatements <span class="ticket">IM-10954</span>  
+ DeviceWorker_ResendCashStatements Update dotnet 2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### SolidIntegrationMicroservice <span class="ticket">IM-10946</span>  
  SolidIntegrationMicroservice Update dotnet 2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

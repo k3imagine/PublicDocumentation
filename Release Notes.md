@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Public API - Stocktake POST error <span class="ticket">IM-11841</span>  
+ Fixed issue with posting partial stocktakes after dotnet upgrade  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Public API - /StockTake/stockTakeHeaders requires body <span class="ticket">IM-11842</span>  
  Resolved issue with mappings due to dotnet upgrade  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

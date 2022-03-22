@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### RevideIntegrationMicroservice <span class="ticket">IM-10948</span>  
+ RevideIntegrationMS Update dotnet 2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### IntegrationMicroservice <span class="ticket">IM-10945</span>  
  Integration ms Update dotnet 2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

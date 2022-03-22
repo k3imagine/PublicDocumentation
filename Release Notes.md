@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Not able to delete customer using Public API /Customer/{customerId} <span class="ticket">IM-10381</span>  
+ Fixed issue where could not delete customer using Public API  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Cant use platform admin commands <span class="ticket">IM-10359</span>  
  Fixed issue where could not use Connector Commands under Tenant within Platform Admin.  
   <span class="bug">Bug</span> <span class="service">Platform Admin</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### VisualComposerMicroservice <span class="ticket">IM-10953</span>  
+ VisualComposer MS update dotnet 2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### NumberGenerationMicroservice <span class="ticket">IM-10947</span>  
  NumberGenerationMicroservice Update dotnet 2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Stock sale line barcode length <span class="ticket">IM-11514</span>  
+ Fixed a bug which caused stock movment to not be created when the item barcode was greater than 20 characters  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Stock Management MS Purchase Order Error <span class="ticket">IM-11481</span>  
  Added validation to stock service so that multiple lines of the same item cannot exist on a single purchase order  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

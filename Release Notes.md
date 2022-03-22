@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### PromotionMicroservice <span class="ticket">IM-10941</span>  
+ Promotion ms Update dotnet 2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### ArmTenantMicroservice <span class="ticket">IM-10940</span>  
  ArmTenantms Update dotnet 2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Item cost not created <span class="ticket">IM-11751</span>  
+ fixed issue where the item cost was not created for a new blank tenant created  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### Item Import failure <span class="ticket">IM-11734</span>  
  Fixed issue where importing through Inventory the import fails to insert into item  
   <span class="bug">Bug</span> <span class="service">BulkItemImport</span> <span class="service">Item Management</span>  

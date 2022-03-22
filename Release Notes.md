@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Inventory - Stock take - Error adding item to blank stocktake <span class="ticket">IM-10270</span>  
+ Fixed issue error adding item to Partial Stocktake with Partial Type Blank  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### CAS-75174-N3S1C9 Item import ignores commas <span class="ticket">IM-10451</span>  
  Fixed issue where Item import ignored commas  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

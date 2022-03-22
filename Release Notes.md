@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Inventory - Receive Goods to have an export to Excel button <span class="ticket">IM-8455</span>  
+ Added export to excel button in Receive goods  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### Vendor Return Default Sort Order <span class="ticket">IM-11809</span>  
  Vendor Return list is sort in descending order where the latest / newest record shows on top of the list.   
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

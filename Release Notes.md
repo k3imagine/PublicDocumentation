@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Incorrect Cost label on Item Creation <span class="ticket">IM-11778</span>  
+ Fixed label in Local Prices tab from Last Cost to Cost  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### Item cost not created <span class="ticket">IM-11751</span>  
  fixed issue where the item cost was not created for a new blank tenant created  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

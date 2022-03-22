@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### TaskMicroservice <span class="ticket">IM-10951</span>  
+ Taskms Update dotnet 2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### CompanionAppMicroservice <span class="ticket">IM-10952</span>  
  CompanionApp ms Update dotnet2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

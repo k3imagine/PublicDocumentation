@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### SS Apps Connector ID on sales <span class="ticket">IM-8419</span>  
+ Self Serve - Connector ID on Sales in RBO  
+  <span class="bug">Bug</span> <span class="service">Kiosk</span> <span class="service">Simple POS</span>  
+  
 ##### CAS-86188-H5F7M2 Customer address data is not fully shown when looking up the customer on the pos using the filter <span class="ticket">IM-11520</span>  
  Fixed issue where the customer address was not fully shown when using search button in POS  
   <span class="bug">Bug</span> <span class="service">POS</span>  

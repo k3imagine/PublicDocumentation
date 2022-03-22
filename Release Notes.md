@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Item Import failure <span class="ticket">IM-11734</span>  
+ Fixed issue where importing through Inventory the import fails to insert into item  
+  <span class="bug">Bug</span> <span class="service">BulkItemImport</span> <span class="service">Item Management</span>  
+  
 ##### Item List -> Move focus on Reorder is showing Loading Spinner <span class="ticket">IM-11772</span>  
  Inventory - Item List - Reorder showing loading spinner   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

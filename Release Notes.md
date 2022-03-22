@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Public API - Stocklookup/barcode mapping error <span class="ticket">IM-11880</span>  
+ Fixed a bug on the stock lookup by barcode endpoint when the item had quantites on a purchase order  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Not able to delete customer using Public API /Customer/{customerId} <span class="ticket">IM-10381</span>  
  Fixed issue where could not delete customer using Public API  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Item Variants Added to Item not appearing in Elastic <span class="ticket">IM-11422</span>  
+ Fixed a bug where new item variants were not indexed in elastic search  
+  <span class="debt">Technical Debt</span>  
+  
 ##### WeborderMicroservice <span class="ticket">IM-10949</span>  
  Weborderms Update dotnet 2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

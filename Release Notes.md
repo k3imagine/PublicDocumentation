@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Filter out inactive Tenants by default <span class="ticket">IM-11874</span>  
+ Fixed issue on show list of active tenant by default. Inactive tenant are excluded from the list.  
+  <span class="bug">Bug</span> <span class="service">Platform Admin</span>  
+  
 ##### POS Receipt View Showing Incorrect VAT Amount <span class="ticket">IM-11537</span>  
  Fixed issue where receipt in POS showed incorrect VAT amount  
   <span class="bug">Bug</span> <span class="service">POS</span>  

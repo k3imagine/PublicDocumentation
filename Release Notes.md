@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### POS - Shop & Variants - Items with 3 Dimensions or more not displayed correctly in the matrix grid <span class="ticket">IM-9500</span>  
+ POS - Shop Widget - Matrix items with more than 2 variants now grouped into the first 2 variants  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Stock sale line barcode length <span class="ticket">IM-11514</span>  
  Fixed a bug which caused stock movment to not be created when the item barcode was greater than 20 characters  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

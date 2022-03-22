@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Inventory - warn the user that they won't be able to edit Master Item Number/ItemNumber after item creation <span class="ticket">IM-8211</span>  
+ Inventory-Warning message implemented for Master Item Number and Item Number which can not be modified after item creation  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### Custom attributes bulk-edit variants <span class="ticket">IM-6562</span>  
  Added the ability to copy values from Custom attributes to other item variants  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

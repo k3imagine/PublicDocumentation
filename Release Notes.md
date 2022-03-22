@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Scheduled tax rate change - Date selection incorrect  <span class="ticket">IM-9419</span>  
+ Fixed issue where the 'valid from' date was not saved in Scheduled tax rate  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Taxcode comes to the POS incorrect or 0 <span class="ticket">IM-11866</span>  
  Fixed issue on Tax Code printed incorrectly on printed receipt and in find receipt  
   <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">POS</span>  

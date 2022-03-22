@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### POS Receipt View Showing Incorrect VAT Amount <span class="ticket">IM-11537</span>  
+ Fixed issue where receipt in POS showed incorrect VAT amount  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POS - Shop & Variants - Items with 3 Dimensions or more not displayed correctly in the matrix grid <span class="ticket">IM-9500</span>  
  POS - Shop Widget - Matrix items with more than 2 variants now grouped into the first 2 variants  
   <span class="bug">Bug</span> <span class="service">POS</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### CAS-86188-H5F7M2 Customer address data is not fully shown when looking up the customer on the pos using the filter <span class="ticket">IM-11520</span>  
+ Fixed issue where the customer address was not fully shown when using search button in POS  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Scheduled tax rate change - Date selection incorrect  <span class="ticket">IM-9419</span>  
  Fixed issue where the 'valid from' date was not saved in Scheduled tax rate  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

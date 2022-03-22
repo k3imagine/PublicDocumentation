@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Stock Management MS Purchase Order Error <span class="ticket">IM-11481</span>  
+ Added validation to stock service so that multiple lines of the same item cannot exist on a single purchase order  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### OSD - print icon throws a 500 error <span class="ticket">IM-11341</span>  
  Fixed issue where the print icon in OSD throws a 500 error  
   <span class="bug">Bug</span> <span class="service">Order Status Display</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Public API - /StockTake/stockTakeHeaders requires body <span class="ticket">IM-11842</span>  
+ Resolved issue with mappings due to dotnet upgrade  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Public API - Upload csv unsupported media type <span class="ticket">IM-11844</span>  
  Fixed issue with uploading csv via publicapi  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

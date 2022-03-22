@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### PosIdentityMicroservice <span class="ticket">IM-10943</span>  
+ ms-PosIdentity update dotnet2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### PromotionMicroservice <span class="ticket">IM-10941</span>  
  Promotion ms Update dotnet 2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

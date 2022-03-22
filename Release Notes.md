@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### SS Applications slow <span class="ticket">IM-11421</span>  
+ Fixed the SS applications slow  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Stock Take Complete Event <span class="ticket">IM-11482</span>  
  Dataswitch receives an event when a stocktake is completed within Imagine so that integrations can start a flow on this happening  
   <span class="new">New Feature</span> <span class="service">Event Hub</span>  

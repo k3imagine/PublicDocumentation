@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Taxcode comes to the POS incorrect or 0 <span class="ticket">IM-11866</span>  
+ Fixed issue on Tax Code printed incorrectly on printed receipt and in find receipt  
+  <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">POS</span>  
+  
 ##### Incorrect Cost label on Item Creation <span class="ticket">IM-11778</span>  
  Fixed label in Local Prices tab from Last Cost to Cost  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

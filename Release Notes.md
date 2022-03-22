@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Vendor Return Default Sort Order <span class="ticket">IM-11809</span>  
+ Vendor Return list is sort in descending order where the latest / newest record shows on top of the list.   
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### GCS - S0 - Create PORTAL sub menu for global settings. <span class="ticket">IM-11802</span>  
  A new PORTAL sub menu named Configuration created for global setting.  
   <span class="new">New Feature</span> <span class="service">Portal</span>  

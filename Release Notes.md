@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Custom attributes bulk-edit variants <span class="ticket">IM-6562</span>  
+ Added the ability to copy values from Custom attributes to other item variants  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - Receive Goods to have an export to Excel button <span class="ticket">IM-8455</span>  
  Added export to excel button in Receive goods  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

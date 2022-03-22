@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### CAS-75174-N3S1C9 Item import ignores commas <span class="ticket">IM-10451</span>  
+ Fixed issue where Item import ignored commas  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - 500 error or system freeze when changing Sales/Cost Price on Item <span class="ticket">IM-11865</span>  
  Resolved issue where after saving update to one variant any further updates to variants would cause a 500 error  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

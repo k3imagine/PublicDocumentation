@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### CompanionAppMicroservice <span class="ticket">IM-10952</span>  
+ CompanionApp ms Update dotnet2.1 dockerfile  
+  <span class="debt">Technical Debt</span>  
+  
 ##### DocumentNumberMicroservice <span class="ticket">IM-10942</span>  
  DocumentNumberms update dotnet2.1 dockerfile  
   <span class="debt">Technical Debt</span>  

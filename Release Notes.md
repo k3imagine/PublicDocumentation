@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Simple POS -> Total Amount showing incorrectly in the basket/Unable to process payment successfully <span class="ticket">IM-11788</span>  
+ Total price in simple pos showing up as zero as been resolved and also payment can be processed successfully now  
+  <span class="bug">Bug</span> <span class="service">SimplePOS</span>  
+  
 ##### SS Apps Connector ID on sales <span class="ticket">IM-8419</span>  
  Self Serve - Connector ID on Sales in RBO  
   <span class="bug">Bug</span> <span class="service">Kiosk</span> <span class="service">Simple POS</span>  

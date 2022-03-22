@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### ISV - S6 - Using an Intersolve gift Card as MOP(method of payment) <span class="ticket">IM-11202</span>  
+ Use Intersolve card as a method of payment  
+  <span class="new">New Feature</span> <span class="service">IntersolveMS</span>  
+  
 ##### ISV - S8.5 cancel of refund <span class="ticket">IM-11754</span>  
  Cancel of refund of Intersolve cards  
   <span class="new">New Feature</span> <span class="service">POS</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Stock Take Complete Event <span class="ticket">IM-11482</span>  
+ Dataswitch receives an event when a stocktake is completed within Imagine so that integrations can start a flow on this happening  
+  <span class="new">New Feature</span> <span class="service">Event Hub</span>  
+  
 ##### Inventory - warn the user that they won't be able to edit Master Item Number/ItemNumber after item creation <span class="ticket">IM-8211</span>  
  Inventory-Warning message implemented for Master Item Number and Item Number which can not be modified after item creation  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

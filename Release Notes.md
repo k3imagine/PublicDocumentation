@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### Cant use platform admin commands <span class="ticket">IM-10359</span>  
+ Fixed issue where could not use Connector Commands under Tenant within Platform Admin.  
+  <span class="bug">Bug</span> <span class="service">Platform Admin</span>  
+  
 ##### Filter out inactive Tenants by default <span class="ticket">IM-11874</span>  
  Fixed issue on show list of active tenant by default. Inactive tenant are excluded from the list.  
   <span class="bug">Bug</span> <span class="service">Platform Admin</span>  

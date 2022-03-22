@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2022
 
+##### OSD - print icon throws a 500 error <span class="ticket">IM-11341</span>  
+ Fixed issue where the print icon in OSD throws a 500 error  
+  <span class="bug">Bug</span> <span class="service">Order Status Display</span>  
+  
 ##### Simple POS -> Total Amount showing incorrectly in the basket/Unable to process payment successfully <span class="ticket">IM-11788</span>  
  Total price in simple pos showing up as zero as been resolved and also payment can be processed successfully now  
   <span class="bug">Bug</span> <span class="service">SimplePOS</span>  

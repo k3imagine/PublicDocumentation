@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th March 2022
 
+##### Orb MS - SQL Blocking from events <span class="ticket">IM-11958</span>  
+ ORB MS - SQL issue with events fixed  
+  <span class="bug">Bug</span> <span class="service">Order Status Display</span>  
+  
 ##### Order status display multi click <span class="ticket">IM-11960</span>  
  Move Order button disabled after click until request completed to stop multiple clicks registering by mistake  
   <span class="bug">Bug</span> <span class="service">Order Status Display</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th March 2022
 
+##### Item Ms simple/itemid endpoint not returning fluctuating properties  <span class="ticket">IM-11975</span>  
+ Fixed an issue with Item management which caused the SCO to send Bottle deposit item as a regular item instead of a condiment  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### Public API - Order endpoint time out <span class="ticket">IM-11892</span>  
  Fixed an issue causing the order microservice to crash when adding new orders through the public api  
   <span class="bug">Bug</span> <span class="service">Order Ready Board</span>  

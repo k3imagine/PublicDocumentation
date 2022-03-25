@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th March 2022
 
+##### Public API - Order endpoint time out <span class="ticket">IM-11892</span>  
+ Fixed an issue causing the order microservice to crash when adding new orders through the public api  
+  <span class="bug">Bug</span> <span class="service">Order Ready Board</span>  
+  
 ##### Orb MS - SQL Blocking from events <span class="ticket">IM-11958</span>  
  ORB MS - SQL issue with events fixed  
   <span class="bug">Bug</span> <span class="service">Order Status Display</span>  

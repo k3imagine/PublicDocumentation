@@ -1,5 +1,9 @@
 # RELEASE VERSION: 31st March 2022
 
+##### Top/Pop/Kiosk Pricing not correct if additional qty added to a basket item <span class="ticket">IM-11991</span>  
+ Top/Pop and Kiosk pricing now showing correctly when additional quantity is added to the basket  
+  <span class="bug">Bug</span> <span class="service">Kiosk</span> <span class="service">POP</span> <span class="service">TOP</span>  
+  
 ##### Simple POS -> PPE not showing on the UI <span class="ticket">IM-11838</span>  
  PPE discount not showing on Simple PoS was fixed so now User can see the amount of discount they on a particular item  
   <span class="bug">Bug</span> <span class="service">Simple POS</span>  

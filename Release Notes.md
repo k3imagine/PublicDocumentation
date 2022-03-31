@@ -1,5 +1,9 @@
 # RELEASE VERSION: 31st March 2022
 
+##### Kiosk - Printed receipt not correct  <span class="ticket">IM-11949</span>  
+ Fixed issue where the total price on the receipt was not correct  
+  <span class="bug">Bug</span> <span class="service">Kiosk</span>  
+  
 ##### Inventory - PO, GRN Vendor Returns and Transfers: Issue on alert in the dropdowns <span class="ticket">IM-11464</span>  
  Inventory - Alerts on mandatory fields not hiding the first selection in the dropdowns  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

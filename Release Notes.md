@@ -1,5 +1,9 @@
 # RELEASE VERSION: 31st March 2022
 
+##### Simple POS -> PPE not showing on the UI <span class="ticket">IM-11838</span>  
+ PPE discount not showing on Simple PoS was fixed so now User can see the amount of discount they on a particular item  
+  <span class="bug">Bug</span> <span class="service">Simple POS</span>  
+  
 ##### Kiosk - Printed receipt not correct  <span class="ticket">IM-11949</span>  
  Fixed issue where the total price on the receipt was not correct  
   <span class="bug">Bug</span> <span class="service">Kiosk</span>  

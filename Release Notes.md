@@ -1,3 +1,9 @@
+# RELEASE VERSION: 31st March 2022
+
+##### Inventory - PO, GRN Vendor Returns and Transfers: Issue on alert in the dropdowns <span class="ticket">IM-11464</span>  
+ Inventory - Alerts on mandatory fields not hiding the first selection in the dropdowns  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 28th March 2022
 
 ##### Order status display multi click <span class="ticket">IM-11960</span>  

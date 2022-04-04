@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th April 2022
+
+##### OSD SQL Deadlocks <span class="ticket">IM-12008</span>  
+ Removed retry logic from the order status display UI ,Changed orb ms GET request to filter out done orders, this is used by the Order Ready Board and added logrocket to order status display  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 31st March 2022
 
 ##### Top/Pop/Kiosk Pricing not correct if additional qty added to a basket item <span class="ticket">IM-11991</span>  

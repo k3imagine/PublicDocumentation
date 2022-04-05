@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Order Status Display print showing wrong order number <span class="ticket">IM-9613</span>  
+ Order Status Display - now showing the correct order number   
+  <span class="bug">Bug</span> <span class="service">Order Status Display</span>  
+  
 ##### Item Price showing Incorrectly on TOP and POP <span class="ticket">IM-11918</span>  
  TOP and POP prices issue fixed and are now displaying correctly as Sales Price  
   <span class="bug">Bug</span> <span class="service">POP</span> <span class="service">TOP</span>  

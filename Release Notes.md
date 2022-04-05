@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Version number missing on POS <span class="ticket">IM-10375</span>  
+ POS - Bug fixed version number now showing  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### PoS - Over payment on returns with split payments <span class="ticket">IM-11548</span>  
  Fixed issue where POS accepted return a value greater than the item price on split payments  
   <span class="bug">Bug</span> <span class="service">POS</span>  

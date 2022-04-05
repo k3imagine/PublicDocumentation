@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Using an Ipad I can't edit a Composer Tile in Composer Group <span class="ticket">IM-7696</span>  
+ Visual Composer - Can now edit the composer tile on iPad  
+  <span class="bug">Bug</span> <span class="service">Self Serve</span> <span class="service">Visual Composer</span>  
+  
 ##### Clerks - Local Shop Clerk setting not saved in UI. <span class="ticket">IM-9465</span>  
  Fixed issue where local shop clerk was not saved  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

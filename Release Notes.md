@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Registered 3 times "Change" on receipt <span class="ticket">IM-11895</span>  
+ POS - Bug fixed for POS payments   
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Customer - Unable to clear dropdown boxes <span class="ticket">IM-11909</span>  
  Customer - Clear language and Company box of selected incorrectly.  
   <span class="bug">Bug</span> <span class="service">Customer</span>  

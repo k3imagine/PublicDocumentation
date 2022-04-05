@@ -1,3 +1,9 @@
+# RELEASE VERSION: 5th April 2022
+
+##### Customer Display: variant text displayed wrong <span class="ticket">IM-11939</span>  
+ Customer Display - fixed displayed variant text   
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 4th April 2022
 
 ##### OSD SQL Deadlocks <span class="ticket">IM-12008</span>  

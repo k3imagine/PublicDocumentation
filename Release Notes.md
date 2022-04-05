@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Issue when using Account Payments <span class="ticket">IM-8907</span>  
+ Accounts Payments - Changes to not show in the POS Chart  
+  <span class="bug">Bug</span> <span class="service">POS</span> <span class="service">Reports</span>  
+  
 ##### Customer Display: variant text displayed wrong <span class="ticket">IM-11939</span>  
  Customer Display - fixed displayed variant text   
   <span class="bug">Bug</span> <span class="service">POS</span>  

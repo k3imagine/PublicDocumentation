@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Total On Hand in Item summary screen incorrect <span class="ticket">IM-11716</span>  
+ Inventory - Item List Total   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Order Status Display print showing wrong order number <span class="ticket">IM-9613</span>  
  Order Status Display - now showing the correct order number   
   <span class="bug">Bug</span> <span class="service">Order Status Display</span>  

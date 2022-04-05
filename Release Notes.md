@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Clerks - Local Shop Clerk setting not saved in UI. <span class="ticket">IM-9465</span>  
+ Fixed issue where local shop clerk was not saved  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Total On Hand in Item summary screen incorrect <span class="ticket">IM-11716</span>  
  Inventory - Item List Total   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

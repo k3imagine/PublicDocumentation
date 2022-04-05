@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Customer - Unable to clear dropdown boxes <span class="ticket">IM-11909</span>  
+ Customer - Clear language and Company box of selected incorrectly.  
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 ##### Customer - Missing languages in dropdown <span class="ticket">IM-11908</span>  
  Customer - Creation now showing more languages   
   <span class="bug">Bug</span> <span class="service">Customer</span>  

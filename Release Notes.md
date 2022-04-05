@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Using an iPad I can't scroll the new composer tile modal <span class="ticket">IM-7697</span>  
+ Visual Composer - iPad can now see the add button (save)  
+  <span class="bug">Bug</span> <span class="service">Self Serve</span> <span class="service">Visual Composer</span>  
+  
 ##### Using an Ipad I can't edit a Composer Tile in Composer Group <span class="ticket">IM-7696</span>  
  Visual Composer - Can now edit the composer tile on iPad  
   <span class="bug">Bug</span> <span class="service">Self Serve</span> <span class="service">Visual Composer</span>  

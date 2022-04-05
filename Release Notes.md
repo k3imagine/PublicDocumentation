@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### Customer - Missing languages in dropdown <span class="ticket">IM-11908</span>  
+ Customer - Creation now showing more languages   
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 ##### Version number missing on POS <span class="ticket">IM-10375</span>  
  POS - Bug fixed version number now showing  
   <span class="bug">Bug</span> <span class="service">POS</span>  

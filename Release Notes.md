@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### PoS - Over payment on returns with split payments <span class="ticket">IM-11548</span>  
+ Fixed issue where POS accepted return a value greater than the item price on split payments  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POSUI - PPE not working after a refund <span class="ticket">IM-11805</span>  
  POS - PPE now working correctly after a refund.  
   <span class="bug">Bug</span> <span class="service">POS</span> <span class="service">Price and Promotion Engine</span>  

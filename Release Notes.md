@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### POSUI - PPE not working after a refund <span class="ticket">IM-11805</span>  
+ POS - PPE now working correctly after a refund.  
+  <span class="bug">Bug</span> <span class="service">POS</span> <span class="service">Price and Promotion Engine</span>  
+  
 ##### Issue when using Account Payments <span class="ticket">IM-8907</span>  
  Accounts Payments - Changes to not show in the POS Chart  
   <span class="bug">Bug</span> <span class="service">POS</span> <span class="service">Reports</span>  

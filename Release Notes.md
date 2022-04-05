@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th April 2022
 
+##### TOP/POP - Item Modifier Minimum Selection <span class="ticket">IM-9078</span>  
+ It is not possible to add an item to the basket that has mandatory modifier requirement without making a selection.  
+  <span class="bug">Bug</span> <span class="service">POP</span> <span class="service">TOP</span>  
+  
 ##### Using an iPad I can't scroll the new composer tile modal <span class="ticket">IM-7697</span>  
  Visual Composer - iPad can now see the add button (save)  
   <span class="bug">Bug</span> <span class="service">Self Serve</span> <span class="service">Visual Composer</span>  

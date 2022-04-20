@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### G00090 - S1.1 - Creating Item Infos does not respect Bool Custom Attribute types <span class="ticket">IM-10617</span>  
+ Bug Fix - Item Information shows correct custom attributes  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Payment method CARD in the financial report <span class="ticket">IM-11839</span>  
  Analysis - Bug Fix for cancelled payment types  
   <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Reports</span>  

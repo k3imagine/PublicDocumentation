@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th April 2022
+
+##### DSW On Prem Agent - Deleting an Agent Tied to Connections 2 <span class="ticket">IM-10407</span>  
+ DSW - Deleting an Agent tied to connections   
+  <span class="bug">Bug</span> <span class="service">DSW: On-Prem Agent</span>  
+  
 # RELEASE VERSION: 5th April 2022
 
 ##### TOP/POP - Item Modifier Minimum Selection <span class="ticket">IM-9078</span>  

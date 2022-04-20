@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### Profit Margin not available on item creation <span class="ticket">IM-9504</span>  
+ Inventory - Item creation now shows profit margin on item creation  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Inventory - prevent minus quantities on Vendor Return <span class="ticket">IM-11371</span>  
  Inventory - Prevention of minus quantities.  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

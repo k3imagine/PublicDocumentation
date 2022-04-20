@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### Inventory - alternative thumb nails for Item List and other places <span class="ticket">IM-11829</span>  
+ Item images now duplicated to variants from MasterItem if empty and vice versa, they are not updated unless empty.  
+  <span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">Product Configurator</span>  
+  
 ##### Discount Label – Discount Price not Printed Correctly if the Decimal Place Ends with a Zero <span class="ticket">IM-9382</span>  
  Labels - Dscounted price is printed correctly with decimal places on labels   
   <span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">Item Management</span>  

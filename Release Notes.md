@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### token not refreshing in analysis module <span class="ticket">IM-11696</span>  
+ Analysis - Bug Fix module not refresh correctly  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Customer Display: Showing item image <span class="ticket">IM-11940</span>  
  Customer Display now searches variant for image first, then MasterItem and if none found will display no image  
   <span class="new">New Feature</span> <span class="service">POS</span>  

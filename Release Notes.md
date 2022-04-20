@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### GCS - S1 - Create global setting 'Allow Price Embedded Barcode at POS' <span class="ticket">IM-11803</span>  
+ Option added to enable or disable 18 digit price embedded barcode function. By default this option is disabled. If required the option should be be enabled within the UI. There has been no functional change to how 18 digit barcodes are handled  
+  <span class="new">New Feature</span> <span class="service">Portal</span>  
+  
 ##### Add currency code when entering cash statement values <span class="ticket">IM-11806</span>  
  Added currency code label on the soft keyboard when entering cash statement values  
   <span class="new">New Feature</span> <span class="service">POS</span>  

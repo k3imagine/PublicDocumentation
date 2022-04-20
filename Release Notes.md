@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### Customer Display: Showing item image <span class="ticket">IM-11940</span>  
+ Customer Display now searches variant for image first, then MasterItem and if none found will display no image  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Inventory - alternative thumb nails for Item List and other places <span class="ticket">IM-11829</span>  
  Item images now duplicated to variants from MasterItem if empty and vice versa, they are not updated unless empty.  
   <span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">Product Configurator</span>  

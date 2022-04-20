@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### DSW: Email - Send Payload UX <span class="ticket">IM-10534</span>  
+ Email - Send Payload UX  
+  <span class="new">New Feature</span> <span class="service">DSW-Asset: Email</span>  
+  
 ##### DSW On Prem Agent - Deleting an Agent Tied to Connections 2 <span class="ticket">IM-10407</span>  
  DSW - Deleting an Agent tied to connections   
   <span class="bug">Bug</span> <span class="service">DSW: On-Prem Agent</span>  

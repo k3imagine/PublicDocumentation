@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### Inventory - prevent minus quantities on Vendor Return <span class="ticket">IM-11371</span>  
+ Inventory - Prevention of minus quantities.  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### OSD - Orders with no Display Category are being marked as Done immediately <span class="ticket">IM-10658</span>  
  Fixed issue where order with no display category were not shown in the Order board  
   <span class="bug">Bug</span> <span class="service">Order Ready Board</span> <span class="service">Order Status Display</span>  

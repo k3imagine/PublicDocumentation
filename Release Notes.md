@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### Item Creation - not able to edit Variants  <span class="ticket">IM-12029</span>  
+ Fixed issue where could not edit variants in Item creation  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### token not refreshing in analysis module <span class="ticket">IM-11696</span>  
  Analysis - Bug Fix module not refresh correctly  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

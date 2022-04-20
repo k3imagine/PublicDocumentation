@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### Add currency code when entering cash statement values <span class="ticket">IM-11806</span>  
+ Added currency code label on the soft keyboard when entering cash statement values  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### DSW HttpCaller: Importing API Auth - Duplication Issue <span class="ticket">IM-8978</span>  
  N/A  
   <span class="bug">Bug</span> <span class="service">DSW: Copy Flow</span>  

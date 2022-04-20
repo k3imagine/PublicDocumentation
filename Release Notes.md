@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### OSD - Orders with no Display Category are being marked as Done immediately <span class="ticket">IM-10658</span>  
+ Fixed issue where order with no display category were not shown in the Order board  
+  <span class="bug">Bug</span> <span class="service">Order Ready Board</span> <span class="service">Order Status Display</span>  
+  
 ##### G00090 - S1.1 - Creating Item Infos does not respect Bool Custom Attribute types <span class="ticket">IM-10617</span>  
  Bug Fix - Item Information shows correct custom attributes  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

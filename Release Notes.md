@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2022
 
+##### DSW HttpCaller: Importing API Auth - Duplication Issue <span class="ticket">IM-8978</span>  
+ N/A  
+  <span class="bug">Bug</span> <span class="service">DSW: Copy Flow</span>  
+  
 ##### DSW: Email - Send Payload UX <span class="ticket">IM-10534</span>  
  Email - Send Payload UX  
   <span class="new">New Feature</span> <span class="service">DSW-Asset: Email</span>  

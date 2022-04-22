@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd April 2022
+
+##### SCO - fluctuating properties are being added/updated wrong <span class="ticket">IM-12058</span>  
+ Fixed issue where fluctuating properties were not saved correctly to the database  
+  <span class="bug">Bug</span> <span class="service">Public API</span> <span class="service">SCO</span>  
+  
 # RELEASE VERSION: 20th April 2022
 
 ##### Profit Margin not available on item creation <span class="ticket">IM-9504</span>  

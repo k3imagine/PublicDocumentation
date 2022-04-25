@@ -2300,4 +2300,3 @@ IM-7045 - Change barcode on an item
 ### Admin
 IM-6909 - When saving connector the page fails to reload
 
-<iframe src="https://cdn.forms-content.sg-form.com/c4066a99-dba3-11e9-8f89-f2255f3c063e"/>

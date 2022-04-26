@@ -121,10 +121,10 @@
   }
   #subscribeBtn{
     white-space: normal;
-    background-color: lightgrey;
+    background-color: #353535;
     border: none;
     color: white;
-    padding: 5px 10px;
+    padding: 10px 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -140,4 +140,7 @@
   }
   #project_tagline{
       padding-left:1em;
+  }
+  #header_wrap{
+    background-color: #1e1e1e;
   }

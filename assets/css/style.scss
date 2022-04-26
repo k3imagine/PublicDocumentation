@@ -118,6 +118,8 @@
   .imagine-logo{
     border: none;
     -webkit-box-shadow: none;
+    max-width: 320px !important;
+    max-height: 140px !important;
   }
   #subscribeBtn{
     white-space: normal;
@@ -132,14 +134,14 @@
     border-radius: 14px;
     font-size: 1em;
     font-weight: bold;
-    margin-left: 1.5em;
+    margin-left: 1em;
   }
   .modal-iframe{
     width: 100%;
     min-height: 580px;
   }
   #project_tagline{
-      padding-left:1em;
+      padding-left:0.8em;
   }
   #header_wrap{
     background: linear-gradient(to top, #1e1e1e, #1e1e1e);

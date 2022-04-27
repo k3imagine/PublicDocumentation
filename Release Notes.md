@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### Public API- ItemImport broken endpoint <span class="ticket">IM-11856</span>  
+ Fixed issue with uploading file to itemImport endpoint  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### ItemMS: itemImport is not working <span class="ticket">IM-11959</span>  
  Fixed issue where importing items via excel file and specifying shopId caused GRN generation to fail  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

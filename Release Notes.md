@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### Customer - Unable to distinguish between customers with the same name <span class="ticket">IM-11910</span>  
+ Customer - Groups now shows customer unique ID.  
+  <span class="new">New Feature</span> <span class="service">Customer</span>  
+  
 ##### Default Currency to Shop Currency on Goods Receipt <span class="ticket">IM-11807</span>  
  Default Currency to Shop Currency on Goods Receipt  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

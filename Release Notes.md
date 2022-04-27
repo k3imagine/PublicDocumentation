@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### COM - S0.5 - Web Order Configuration <span class="ticket">IM-11540</span>  
+ Added Customer Orders page and holding period set to 2 in POSAdmin  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Customer - Unable to distinguish between customers with the same name <span class="ticket">IM-11910</span>  
  Customer - Groups now shows customer unique ID.  
   <span class="new">New Feature</span> <span class="service">Customer</span>  

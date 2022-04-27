@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### Default Currency to Shop Currency on Goods Receipt <span class="ticket">IM-11807</span>  
+ Default Currency to Shop Currency on Goods Receipt  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### CustomerGW Dotnet 6 and C#10 <span class="ticket">IM-11604</span>  
  CustomerGW Dotnet 6 update  
   <span class="debt">Technical Debt</span>  

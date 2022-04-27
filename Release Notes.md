@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### Public API - CSV import  <span class="ticket">IM-12018</span>  
+ Fixed issue where CSV Imports were not working  
+  <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">Public API</span>  
+  
 ##### G00057 - S5 - Offline Stock - Other Offline Actions <span class="ticket">IM-8652</span>  
  Added the possibility to transfer offline stock to another stock store location  
   <span class="new">New Feature</span> <span class="service">RBO</span>  

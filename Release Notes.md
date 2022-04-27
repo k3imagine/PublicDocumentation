@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### PublicApi - Imported items are not showing in Inventory <span class="ticket">IM-12054</span>  
+ Resolved issue where items imported through the Public API were not showing in the Inventory.  
+  <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">Public API</span>  
+  
 ##### Public API - CSV import  <span class="ticket">IM-12018</span>  
  Fixed issue where CSV Imports were not working  
   <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">Public API</span>  

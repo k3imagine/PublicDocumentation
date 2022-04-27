@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### Inventory - refreshing the Stock Lookup screen causes a 400 error <span class="ticket">IM-11372</span>  
+ Labels - Inventory Stock Lookup Adjustment Refresh Not Showing Error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### PublicApi - Imported items are not showing in Inventory <span class="ticket">IM-12054</span>  
  Resolved issue where items imported through the Public API were not showing in the Inventory.  
   <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">Public API</span>  

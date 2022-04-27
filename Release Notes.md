@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th April 2022
+
+##### DSW UI Upgrade Angular Version <span class="ticket">IM-9358</span>  
+ The UI upgraded to Angular 9  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 22nd April 2022
 
 ##### SCO - fluctuating properties are being added/updated wrong <span class="ticket">IM-12058</span>  

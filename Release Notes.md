@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### G00057 - S5 - Offline Stock - Other Offline Actions <span class="ticket">IM-8652</span>  
+ Added the possibility to transfer offline stock to another stock store location  
+  <span class="new">New Feature</span> <span class="service">RBO</span>  
+  
 ##### COM - S0 - Web Order API Enhancements <span class="ticket">IM-11538</span>  
  Enhancement on the web order API to support picking functionality  
   <span class="new">New Feature</span> <span class="service">POS</span>  

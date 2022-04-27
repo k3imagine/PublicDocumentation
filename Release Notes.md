@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th April 2022
 
+##### CustomerGW Dotnet 6 and C#10 <span class="ticket">IM-11604</span>  
+ CustomerGW Dotnet 6 update  
+  <span class="debt">Technical Debt</span>  
+  
 ##### DSW UI Upgrade Angular Version <span class="ticket">IM-9358</span>  
  The UI upgraded to Angular 9  
   <span class="debt">Technical Debt</span>  

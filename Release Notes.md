@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th May 2022
+
+##### USG - S1 - Shop Groups <span class="ticket">IM-11770</span>  
+ Added User shop groups under Portal Menu  
+  <span class="new">New Feature</span> <span class="service">Portal</span>  
+  
 # RELEASE VERSION: 27th April 2022
 
 ##### Public API- ItemImport broken endpoint <span class="ticket">IM-11856</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th May 2022
 
+##### DSW File Write: Asset does not close on Save <span class="ticket">IM-11330</span>  
+ N/A  
+  <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  
+  
 ##### DSW File Write should only connect to end step <span class="ticket">IM-11415</span>  
  Fixed issue File Write where it can only connect to end step. A message will pop-up if connect File Write to other assets and not the end step.  
   <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  

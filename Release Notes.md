@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th May 2022
 
+##### DSW: File Write Asset calling Dataflow Save twice on creation <span class="ticket">IM-10984</span>  
+ DSW - saving twice on creation.  
+  <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  
+  
 ##### DSW EDI: 404 Error when opening Config <span class="ticket">IM-11029</span>  
  Fixed issue open EDI element config for the first time where no error 404 showing  
   <span class="bug">Bug</span> <span class="service">DSW-Asset: EDI</span>  

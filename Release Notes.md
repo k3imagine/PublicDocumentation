@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th May 2022
 
+##### DSW EDI: 404 Error when opening Config <span class="ticket">IM-11029</span>  
+ Fixed issue open EDI element config for the first time where no error 404 showing  
+  <span class="bug">Bug</span> <span class="service">DSW-Asset: EDI</span>  
+  
 ##### DSW File Write: Asset does not close on Save <span class="ticket">IM-11330</span>  
  N/A  
   <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  

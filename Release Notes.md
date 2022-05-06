@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th May 2022
 
+##### DSW - Context Variable, Optional flag ignored <span class="ticket">IM-10972</span>  
+ Fixed issue on Context Variables where the optional flag is ignored  
+  <span class="bug">Bug</span> <span class="service">DSW: Context Variables</span>  
+  
 ##### DSW: File Write Asset calling Dataflow Save twice on creation <span class="ticket">IM-10984</span>  
  DSW - saving twice on creation.  
   <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  

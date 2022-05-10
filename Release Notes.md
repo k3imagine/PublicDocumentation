@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th May 2022
 
+##### Stock Movements - 0 Quantity <span class="ticket">IM-9845</span>  
+ Fixed issue where a movement with quantity 0 was created  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### When creating a Gift certificate when returning an item two receipts are printed out. <span class="ticket">IM-10865</span>  
  Fixed issue where using gift card to pay a return 2 gift certificates were printed  
   <span class="bug">Bug</span> <span class="service">POS</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th May 2022
 
+##### GRN: Open existing GRN is not showing details  <span class="ticket">IM-12063</span>  
+ Fixed issue where GRN details were not displayed  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Can't save an Item with a ItemTag <span class="ticket">IM-12199</span>  
  Fixed issue where editing an item that has a tag triggered a 500 error code  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th May 2022
 
+##### Can't save an Item with a ItemTag <span class="ticket">IM-12199</span>  
+ Fixed issue where editing an item that has a tag triggered a 500 error code  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Stock Movements - 0 Quantity <span class="ticket">IM-9845</span>  
  Fixed issue where a movement with quantity 0 was created  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

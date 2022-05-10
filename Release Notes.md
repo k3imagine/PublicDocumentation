@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th May 2022
 
+##### When creating a Gift certificate when returning an item two receipts are printed out. <span class="ticket">IM-10865</span>  
+ Fixed issue where using gift card to pay a return 2 gift certificates were printed  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Inventory - Discount labels not recognised for 0 to 9 and 100% discounts <span class="ticket">IM-11425</span>  
  Fixed issue with Discount Labels not recognising integers 1 - 9 and 100  
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">POS</span>  

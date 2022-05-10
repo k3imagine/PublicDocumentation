@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th May 2022
 
+##### ISV - S9.0 Improvements request by Intersolve <span class="ticket">IM-11846</span>  
+ Improvements request by Intersolve  
+  <span class="new">New Feature</span> <span class="service">IntersolveGW</span> <span class="service">IntersolveMS</span> <span class="service">POS</span> <span class="service">POS Gateway</span>  
+  
 ##### GRN: Open existing GRN is not showing details  <span class="ticket">IM-12063</span>  
  Fixed issue where GRN details were not displayed  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

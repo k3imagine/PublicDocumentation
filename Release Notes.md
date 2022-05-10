@@ -1,25 +1,3 @@
-# RELEASE VERSION: 6th May 2022
-
-##### DSW - Context Variable, Optional flag ignored <span class="ticket">IM-10972</span>  
- Fixed issue on Context Variables where the optional flag is ignored  
-  <span class="bug">Bug</span> <span class="service">DSW: Context Variables</span>  
-  
-##### DSW: File Write Asset calling Dataflow Save twice on creation <span class="ticket">IM-10984</span>  
- DSW - saving twice on creation.  
-  <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  
-  
-##### DSW EDI: 404 Error when opening Config <span class="ticket">IM-11029</span>  
- Fixed issue open EDI element config for the first time where no error 404 showing  
-  <span class="bug">Bug</span> <span class="service">DSW-Asset: EDI</span>  
-  
-##### DSW File Write: Asset does not close on Save <span class="ticket">IM-11330</span>  
- N/A  
-  <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  
-  
-##### DSW File Write should only connect to end step <span class="ticket">IM-11415</span>  
- Fixed issue File Write where it can only connect to end step. A message will pop-up if connect File Write to other assets and not the end step.  
-  <span class="bug">Bug</span> <span class="service">DSW-Asset: File Write</span>  
-  
 # RELEASE VERSION: 4th May 2022
 
 ##### USG - S1 - Shop Groups <span class="ticket">IM-11770</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 10th May 2022
+
+##### Inventory - Discount labels not recognised for 0 to 9 and 100% discounts <span class="ticket">IM-11425</span>  
+ Fixed issue with Discount Labels not recognising integers 1 - 9 and 100  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 4th May 2022
 
 ##### USG - S1 - Shop Groups <span class="ticket">IM-11770</span>  

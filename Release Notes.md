@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th May 2022
+
+##### Stock MS - aggregate purchase order lines  <span class="ticket">IM-12220</span>  
+ Fixed issue where could not send 2 lines on a PO from the same item  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 10th May 2022
 
 ##### ISV - S9.0 Improvements request by Intersolve <span class="ticket">IM-11846</span>  

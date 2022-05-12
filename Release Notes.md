@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th May 2022
 
+##### Item List - Printing barcodes - ValidateBarcode is null <span class="ticket">IM-12214</span>  
+ Fixed validation issue to print a label  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Stock MS - aggregate purchase order lines  <span class="ticket">IM-12220</span>  
  Fixed issue where could not send 2 lines on a PO from the same item  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

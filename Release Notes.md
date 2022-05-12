@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th May 2022
 
+##### PoS - I cannot enter a phone number in the E168 format with the on-screen keyboard <span class="ticket">IM-11207</span>  
+ POS/Customer setting to allow placeholder of + to be added to customer phone number for use with cashier entered country codes  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Item List - Printing barcodes - ValidateBarcode is null <span class="ticket">IM-12214</span>  
  Fixed validation issue to print a label  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

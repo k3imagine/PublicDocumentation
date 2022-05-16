@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th May 2022
+
+##### Integration API - Error 500 returned on gw-integration/api/v1.0/ItemHierarchys <span class="ticket">IM-12195</span>  
+ Fixed issue where error 500 given when adding Item Hierarchy via Integration API  
+  <span class="bug">Bug</span> <span class="service">Integrations</span>  
+  
 # RELEASE VERSION: 12th May 2022
 
 ##### PoS - I cannot enter a phone number in the E168 format with the on-screen keyboard <span class="ticket">IM-11207</span>  

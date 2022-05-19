@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th May 2022
 
+##### ms-shopify - Update to dotnet 5.0 <span class="ticket">IM-10755</span>  
+ ms Shopify dotnet update 5.0  
+  <span class="new">New Feature</span> <span class="service">TBC</span>  
+  
 ##### Simple PoS - > Failed Transaction when using Virtual Connector to make Payment <span class="ticket">IM-11994</span>  
  Can now process payment successfully as the Virtual connection issue as been fixed  
   <span class="bug">Bug</span> <span class="service">SimplePOS</span>  

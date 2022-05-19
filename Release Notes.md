@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th May 2022
+
+##### Import count list stocktake doesn't work <span class="ticket">IM-12343</span>  
+ Stocktake - bug fix import count list   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 16th May 2022
 
 ##### Integration API - Error 500 returned on gw-integration/api/v1.0/ItemHierarchys <span class="ticket">IM-12195</span>  

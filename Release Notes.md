@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th May 2022
 
+##### Simple PoS - > Failed Transaction when using Virtual Connector to make Payment <span class="ticket">IM-11994</span>  
+ Can now process payment successfully as the Virtual connection issue as been fixed  
+  <span class="bug">Bug</span> <span class="service">SimplePOS</span>  
+  
 ##### Import count list stocktake doesn't work <span class="ticket">IM-12343</span>  
  Stocktake - bug fix import count list   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

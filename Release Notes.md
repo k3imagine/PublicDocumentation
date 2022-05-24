@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th May 2022
+
+##### MTD - time zones back from UTC cause incorrect dates in Submitted form <span class="ticket">IM-11884</span>  
+ Fixed an issue where time zones less that UTC caused an issue with the incorrect date being submitted for transactions  
+  <span class="bug">Bug</span> <span class="service">Making Tax Digital</span>  
+  
 # RELEASE VERSION: 19th May 2022
 
 ##### ms-shopify - Update to dotnet 5.0 <span class="ticket">IM-10755</span>  

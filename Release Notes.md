@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th June 2022
+
+##### Inventory - Tax Code not saving against Item Hierarchy <span class="ticket">IM-12398</span>  
+ Fixed issue where  Tax Code was not saving against the Item Hierarchy  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 24th May 2022
 
 ##### MTD - time zones back from UTC cause incorrect dates in Submitted form <span class="ticket">IM-11884</span>  

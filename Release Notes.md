@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th June 2022
+
+##### Item Management / Public API - CSV import validation <span class="ticket">IM-12213</span>  
+ Uploading CSV with email parameter will send any error message with upload to address given  
+  <span class="bug">Bug</span> <span class="service">Item Management</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 9th June 2022
 
 ##### Inventory - Tax Code not saving against Item Hierarchy <span class="ticket">IM-12398</span>  

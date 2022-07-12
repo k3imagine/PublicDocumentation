@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th July 2022
+
+##### Integration MS: JSON payload not stored or retrieved after .Net upgrade <span class="ticket">IM-12368</span>  
+ Fixed issue where json payload was not retrieved after .NET upgrade  
+  <span class="bug">Bug</span> <span class="service">Integrations</span>  
+  
 # RELEASE VERSION: 27th June 2022
 
 ##### Public API - Master item Upsert <span class="ticket">IM-12400</span>  

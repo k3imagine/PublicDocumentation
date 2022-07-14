@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### Blank text field in receipt text is not showing <span class="ticket">IM-12028</span>  
+ Blank text fields within receipt setup now reflected on receipt preview and applied to printed receipt.  
+  <span class="bug">Bug</span> <span class="service">Admin</span>  
+  
 ##### Unable to add new custom payment type <span class="ticket">IM-11025</span>  
  Fixed issue where we could not save new payment type in Backoffice  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

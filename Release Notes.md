@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### Customer - cannot save Currency to an existing customer <span class="ticket">IM-11470</span>  
+ Fixed issue where we could not save currency to an existing customer  
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 ##### Back-Office Label Template - Required Field Toaster Change <span class="ticket">IM-9738</span>  
  Backoffice Label Template toaster change  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

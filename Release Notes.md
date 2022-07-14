@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### TOP/POP -> Update Order button is greyed out after editing the Order <span class="ticket">IM-12039</span>  
+ TOP/POP update order button bug  
+  <span class="bug">Bug</span> <span class="service">POP</span> <span class="service">TOP</span>  
+  
 ##### Blank text field in receipt text is not showing <span class="ticket">IM-12028</span>  
  Blank text fields within receipt setup now reflected on receipt preview and applied to printed receipt.  
   <span class="bug">Bug</span> <span class="service">Admin</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### Custom payment types not on cash statement. <span class="ticket">IM-9269</span>  
+ custom_payment_cash_statements  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Sales graph on the POS adding an additional 0 to the sales price <span class="ticket">IM-12036</span>  
  Bug Fix POS graph showing additional 0  
   <span class="bug">Bug</span> <span class="service">POS</span>  

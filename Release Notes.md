@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### Customer [Company]: Some fields are not validated <span class="ticket">IM-9115</span>  
+ Added validation on Add Company  
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 ##### SimplePOS TOP POP itemLine issues <span class="ticket">IM-12040</span>  
  Item Line issue for all Self serve fixed  
   <span class="bug">Bug</span> <span class="service">SelfServe Components</span>  

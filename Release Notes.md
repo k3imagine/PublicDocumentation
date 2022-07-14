@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### Unable to add new custom payment type <span class="ticket">IM-11025</span>  
+ Fixed issue where we could not save new payment type in Backoffice  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Customer - cannot save Currency to an existing customer <span class="ticket">IM-11470</span>  
  Fixed issue where we could not save currency to an existing customer  
   <span class="bug">Bug</span> <span class="service">Customer</span>  

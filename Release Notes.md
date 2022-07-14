@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### Back-Office Label Template - Required Field Toaster Change <span class="ticket">IM-9738</span>  
+ Backoffice Label Template toaster change  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Custom payment types not on cash statement. <span class="ticket">IM-9269</span>  
  custom_payment_cash_statements  
   <span class="bug">Bug</span> <span class="service">POS</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th July 2022
 
+##### BasketMS: Fragile implementation - Using app can get into "limbo" mode in certain circumstances <span class="ticket">IM-11673</span>  
+ Resolved issue where BasketMS could get in limbo if connection lost before sale completed  
+  <span class="bug">Bug</span> <span class="service">Kiosk</span> <span class="service">POP</span> <span class="service">SelfServe Components</span> <span class="service">Simple POS</span> <span class="service">TOP</span>  
+  
 ##### TOP/POP -> Update Order button is greyed out after editing the Order <span class="ticket">IM-12039</span>  
  TOP/POP update order button bug  
   <span class="bug">Bug</span> <span class="service">POP</span> <span class="service">TOP</span>  

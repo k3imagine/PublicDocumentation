@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th July 2022
+
+##### Sales graph on the POS adding an additional 0 to the sales price <span class="ticket">IM-12036</span>  
+ Bug Fix POS graph showing additional 0  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 12th July 2022
 
 ##### Integration MS: JSON payload not stored or retrieved after .Net upgrade <span class="ticket">IM-12368</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th July 2022
 
+##### Intersolve: Card details are not printed in the receipt <span class="ticket">IM-11729</span>  
+ Fixed issue where card details were not printed in the receipt  
+  <span class="bug">Bug</span> <span class="service">IntersolveUI</span>  
+  
 ##### Item Import Vendor Xref duplicate <span class="ticket">IM-12450</span>  
  Fix implemented to stop duplicate key entries being created for item and vendor  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

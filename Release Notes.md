@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th July 2022
 
+##### Kiosk UI - Bulgarian language support <span class="ticket">IM-12399</span>  
+ Add Bulgarian language support for Ikea  
+  <span class="new">New Feature</span> <span class="service">Kiosk</span>  
+  
 ##### Stock movement event <span class="ticket">IM-12524</span>  
  n/a  
   <span class="debt">Technical Debt</span>  

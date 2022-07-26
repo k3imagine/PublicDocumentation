@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th July 2022
 
+##### Item Import Vendor Xref duplicate <span class="ticket">IM-12450</span>  
+ Fix implemented to stop duplicate key entries being created for item and vendor  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### Change button to not be enabled by default in Trimit <span class="ticket">IM-10981</span>  
  Trimit - Not a member by default   
   <span class="new">New Feature</span> <span class="service">POS</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th July 2022
+
+##### Stock movement event <span class="ticket">IM-12524</span>  
+ n/a  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 14th July 2022
 
 ##### Customer [Company]: Some fields are not validated <span class="ticket">IM-9115</span>  

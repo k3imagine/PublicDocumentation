@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th July 2022
 
+##### Change button to not be enabled by default in Trimit <span class="ticket">IM-10981</span>  
+ Trimit - Not a member by default   
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Kiosk UI - Bulgarian language support <span class="ticket">IM-12399</span>  
  Add Bulgarian language support for Ikea  
   <span class="new">New Feature</span> <span class="service">Kiosk</span>  

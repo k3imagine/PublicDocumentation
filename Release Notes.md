@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd August 2022
+
+##### Public API - CurrencyCode needs adding as required field for creating GRN <span class="ticket">IM-12479</span>  
+ CurrencyCode now required field via API, opening created GRN in UI now shows items as currency set.  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 26th July 2022
 
 ##### Intersolve: Card details are not printed in the receipt <span class="ticket">IM-11729</span>  

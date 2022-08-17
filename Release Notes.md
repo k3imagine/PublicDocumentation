@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th August 2022
+
+##### Collection 6 of Changes to ANL- S1 - Sales Analysis (IM-11573) <span class="ticket">IM-12614</span>  
+ A collection of changes to the UI with regard to the saving and recalling of reports.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 2nd August 2022
 
 ##### Public API - CurrencyCode needs adding as required field for creating GRN <span class="ticket">IM-12479</span>  

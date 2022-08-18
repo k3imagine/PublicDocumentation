@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2022
 
+##### Collection 2 of Changes to ANL- S1 - Sales Analysis (IM-11573) <span class="ticket">IM-12477</span>  
+ Fixed issues in the UI of Sales Analysis  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### A collection of Issues/bugs/changes to IM-11573 (ANL - S1 - Sales Analysis) <span class="ticket">IM-12437</span>  
  Fixed some issues on the ticket IM-11573  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

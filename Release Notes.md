@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2022
 
+##### A collection of Issues/bugs/changes to IM-11573 (ANL - S1 - Sales Analysis) <span class="ticket">IM-12437</span>  
+ Fixed some issues on the ticket IM-11573  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 ##### ANL – S2 - Recalling and Saving Analysis Reports <span class="ticket">IM-11661</span>  
  Add the ability to save analysis reports  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

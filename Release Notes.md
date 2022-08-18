@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2022
 
+##### ANL – S2 - Recalling and Saving Analysis Reports <span class="ticket">IM-11661</span>  
+ Add the ability to save analysis reports  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Collection 4 of Changes to ANL- S1 - Sales Analysis (IM-11573) <span class="ticket">IM-12543</span>  
  A collection of changes to the UI with regard to the saving and recalling of reports.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

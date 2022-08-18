@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2022
 
+##### Collection 4 of Changes to ANL- S1 - Sales Analysis (IM-11573) <span class="ticket">IM-12543</span>  
+ A collection of changes to the UI with regard to the saving and recalling of reports.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### ANL - S1.5 - Sales Analysis UI <span class="ticket">IM-11992</span>  
  UI for Sales Report  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

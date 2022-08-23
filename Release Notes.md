@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd August 2022
 
+##### Only 1 action is logged while changing available loyalty points and clearing quarantine <span class="ticket">IM-10654</span>  
+ Logged 2 actions when changing available loyalty points  
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 ##### Clearing loyalty points from quarantine <span class="ticket">IM-12597</span>  
  Fixed issue when saving loyalty points  
   <span class="bug">Bug</span> <span class="service">Customer</span>  

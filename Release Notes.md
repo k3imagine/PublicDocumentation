@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd August 2022
+
+##### Clearing loyalty points from quarantine <span class="ticket">IM-12597</span>  
+ Fixed issue when saving loyalty points  
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 # RELEASE VERSION: 18th August 2022
 
 ##### Collection 3 of Changes to ANL- S1 - Sales Analysis (IM-11573) <span class="ticket">IM-12498</span>  

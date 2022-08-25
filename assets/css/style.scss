@@ -148,13 +148,14 @@
     background-color: #1e1e1e;
   }
 
-
 .breaking-change{
-    background-color: #ffaa2c;
-    color: white;
+    background-color: #fcf8e3;
+    color: #8c6f3e;
     padding: 10px;
     border-radius: 10px;
+    border: 1px solid transparent;
+    border-color: #faebcc;
 }
 .breaking-change p a{
-    color: white;
+    color: #8c6f3e;
 }

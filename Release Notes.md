@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th September 2022
+
+##### To assist with diagnosing problems with the Kiosk UI we want to add Log Rocket <span class="ticket">IM-12756</span>  
+ Log Rocket added to Kiosk UI  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 23rd August 2022
 
 ##### Only 1 action is logged while changing available loyalty points and clearing quarantine <span class="ticket">IM-10654</span>  

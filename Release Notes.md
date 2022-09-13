@@ -1,6 +1,6 @@
 # RELEASE VERSION: 13th September 2022
 
-##### IKEA Greece - Kiosk Basket Issues <span class="ticket">IM-12763</span>  
+##### Kiosk Basket Issues <span class="ticket">IM-12763</span>  
  Fixed issue when adding items with no modifies and with modifies  
   <span class="bug">Bug</span> <span class="service">Kiosk</span>  
   

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th September 2022
+
+##### TOP Going to wrong table, Not Clearing Cache <span class="ticket">IM-12697</span>  
+ Fixed issue the order went to the wrong table in TOP  
+  <span class="bug">Bug</span> <span class="service">TOP</span>  
+  
 # RELEASE VERSION: 13th September 2022
 
 ##### Kiosk Basket Issues <span class="ticket">IM-12763</span>  

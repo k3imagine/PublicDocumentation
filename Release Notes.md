@@ -1,7 +1,7 @@
 # RELEASE VERSION: 20th September 2022
 
 ##### New Stocktakes have no items added to them <span class="ticket">IM-12835</span>  
- Hotfix stock service, stock take creation timing out when tenant contains a large amount of items
+ Hotfix stock service, stock take creation timing out when tenant contains a large amount of items  
   <span class="bug">Bug</span> <span class="service">Stock Management</span> <span class="service">Inventory</span>  
 
 # RELEASE VERSION: 14th September 2022

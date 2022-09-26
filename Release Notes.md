@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### POS UI version number <span class="ticket">IM-12227</span>  
+ Removed -dev suffix from the POS version  
+  <span class="debt">Technical Debt</span>  
+  
 ##### G00090 - S4 -Using Item Info's at POS <span class="ticket">IM-12372</span>  
  Using Item info at POS  
   <span class="new">New Feature</span> <span class="service">Backoffice</span>  

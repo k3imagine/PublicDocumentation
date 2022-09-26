@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### COM - S1 - Modify Customer Order List at POS <span class="ticket">IM-11516</span>  
+ Added detailed summary information for all non-closed customer orders  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### POS: Issues on E-mail receipt copy <span class="ticket">IM-10503</span>  
  Added validation in the email receipt copy  
   <span class="bug">Bug</span> <span class="service">POS</span>  

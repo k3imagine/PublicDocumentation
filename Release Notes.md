@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### POS: Issues on E-mail receipt copy <span class="ticket">IM-10503</span>  
+ Added validation in the email receipt copy  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POSUI - Discount Reason Text overlaps with ReasonId <span class="ticket">IM-10971</span>  
  Fixed issue where discount code overlaps the discount reason text in POS  
   <span class="bug">Bug</span> <span class="service">POS</span>  

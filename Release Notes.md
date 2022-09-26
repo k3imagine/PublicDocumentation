@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### POSUI - Discount Reason Text overlaps with ReasonId <span class="ticket">IM-10971</span>  
+ Fixed issue where discount code overlaps the discount reason text in POS  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Keyboard not showing correctly for input type email <span class="ticket">IM-10796</span>  
  keyboard_email_ok  
   <span class="bug">Bug</span> <span class="service">POS</span>  

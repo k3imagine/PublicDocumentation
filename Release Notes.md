@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th September 2022
+
+##### PoS - the shift/caps lock key is not obvious on the on-screen keyboard <span class="ticket">IM-11206</span>  
+ Added a shift key when adding a customer in POS  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 20th September 2022
 
 ##### New Stocktakes have no items added to them <span class="ticket">IM-12835</span>  

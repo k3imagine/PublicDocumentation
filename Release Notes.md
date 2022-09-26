@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### Add Totals to Vendor Return Document <span class="ticket">IM-11919</span>  
+ Inventory - Vendor Return - Cost totals now show correctly   
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### PoS Admin - Button Management requires dxi-items to be removed and added <span class="ticket">IM-12345</span>  
  POS Admin - Button management   
   <span class="new">New Feature</span> <span class="service">Backoffice</span> <span class="service">Pos Admin</span>  

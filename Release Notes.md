@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### COM - S3 - Automated API Tests <span class="ticket">IM-11830</span>  
+ Postman suite that covers CustomerOrder tests  
+  <span class="new">New Feature</span> <span class="service">Web Order</span>  
+  
 ##### COM - S1 - Modify Customer Order List at POS <span class="ticket">IM-11516</span>  
  Added detailed summary information for all non-closed customer orders  
   <span class="new">New Feature</span> <span class="service">POS</span>  

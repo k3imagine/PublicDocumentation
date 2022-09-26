@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### Keyboard not showing correctly for input type email <span class="ticket">IM-10796</span>  
+ keyboard_email_ok  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### PoS - the shift/caps lock key is not obvious on the on-screen keyboard <span class="ticket">IM-11206</span>  
  Added a shift key when adding a customer in POS  
   <span class="bug">Bug</span> <span class="service">POS</span>  

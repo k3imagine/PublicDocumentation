@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### G00090 - S4 -Using Item Info's at POS <span class="ticket">IM-12372</span>  
+ Using Item info at POS  
+  <span class="new">New Feature</span> <span class="service">Backoffice</span>  
+  
 ##### G00090 - S3 - Ordering Item Infos <span class="ticket">IM-12371</span>  
  Ordering Item info should persist  
   <span class="new">New Feature</span> <span class="service">Backoffice</span>  

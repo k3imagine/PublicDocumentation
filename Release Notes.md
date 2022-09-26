@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### COM - S2 - Customer Order to Pick, Pack and Dispatch <span class="ticket">IM-11518</span>  
+ Describes the functionality pick, pack and dispatch the order.  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### COM - S3 - Automated API Tests <span class="ticket">IM-11830</span>  
  Postman suite that covers CustomerOrder tests  
   <span class="new">New Feature</span> <span class="service">Web Order</span>  

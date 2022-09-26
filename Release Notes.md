@@ -1,4 +1,4 @@
-# RELEASE VERSION: 26th September 2022
+# RELEASE VERSION: 25th September 2022
 
 ##### Additional Changes to the Analysis UI <span class="ticket">IM-12471</span>  
  Additional Changes to the Analysis UI  

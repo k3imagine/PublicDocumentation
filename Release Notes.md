@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th September 2022
+
+##### Payment Breakdown returning a 500 in some cases. <span class="ticket">IM-12853</span>  
+ Payment Breakdown OK  
+  <span class="debt">Technical Debt</span> <span class="service">SelfServe Components</span>  
+  
 # RELEASE VERSION: 25th September 2022
 
 ##### Additional Changes to the Analysis UI <span class="ticket">IM-12471</span>  

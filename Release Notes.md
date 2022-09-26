@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### PoS Admin - Button Management requires dxi-items to be removed and added <span class="ticket">IM-12345</span>  
+ POS Admin - Button management   
+  <span class="new">New Feature</span> <span class="service">Backoffice</span> <span class="service">Pos Admin</span>  
+  
 ##### Port AdminUI - Shop Setup - Gift & Voucher Setup <span class="ticket">IM-11452</span>  
  Port AdminUI -> Shop Setup to POS Admin  
   <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  

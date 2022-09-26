@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### Port AdminUI(Receipt Setup) to Angular 12 <span class="ticket">IM-11197</span>  
+ Port Receipt Setup to Angular 12  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Add Totals to Vendor Return Document <span class="ticket">IM-11919</span>  
  Inventory - Vendor Return - Cost totals now show correctly   
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

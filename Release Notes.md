@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### G00090 - S3 - Ordering Item Infos <span class="ticket">IM-12371</span>  
+ Ordering Item info should persist  
+  <span class="new">New Feature</span> <span class="service">Backoffice</span>  
+  
 ##### COM - S2 - Customer Order to Pick, Pack and Dispatch <span class="ticket">IM-11518</span>  
  Describes the functionality pick, pack and dispatch the order.  
   <span class="new">New Feature</span> <span class="service">POS</span>  

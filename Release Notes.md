@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### Port AdminUI - Shop Setup - Gift & Voucher Setup <span class="ticket">IM-11452</span>  
+ Port AdminUI -> Shop Setup to POS Admin  
+  <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  
+  
 ##### Receipt setup: character count on Header and Footer <span class="ticket">IM-12600</span>  
  Show character count on header and footer in the receipt setup  
   <span class="new">New Feature</span> <span class="service">Pos Admin</span>  

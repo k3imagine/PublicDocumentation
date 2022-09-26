@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### Receipt setup: character count on Header and Footer <span class="ticket">IM-12600</span>  
+ Show character count on header and footer in the receipt setup  
+  <span class="new">New Feature</span> <span class="service">Pos Admin</span>  
+  
 ##### POS UI version number <span class="ticket">IM-12227</span>  
  Removed -dev suffix from the POS version  
   <span class="debt">Technical Debt</span>  

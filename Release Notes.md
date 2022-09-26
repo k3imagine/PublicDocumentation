@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2022
 
+##### Port AdminUI(Button Management) to Angular 12 <span class="ticket">IM-11200</span>  
+ Port AdminUI(Button Management) to Angular 12  
+  <span class="debt">Technical Debt</span> <span class="service">Pos Admin</span>  
+  
 ##### Customer Display: POS Admin is missing display selector <span class="ticket">IM-11942</span>  
  Added display selector in POS Admin  
   <span class="bug">Bug</span> <span class="service">Pos Admin</span>  

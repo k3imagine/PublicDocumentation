@@ -1,3 +1,9 @@
+# RELEASE VERSION: 29th September 2022
+
+##### Delete Return to Vendor:  Issue on the pop up text <span class="ticket">IM-10376</span>  
+ Fixed text to delete return to vendor  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 # RELEASE VERSION: 26th September 2022
 
 ##### Payment Breakdown returning a 500 in some cases. <span class="ticket">IM-12853</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th September 2022
 
+##### NumgenMS: Fix GetNext() <span class="ticket">IM-12646</span>  
+ Fixed issue where NextNumber could return an already used number  
+  <span class="bug">Bug</span> <span class="service">NumberGeneration</span>  
+  
 ##### Delete Return to Vendor:  Issue on the pop up text <span class="ticket">IM-10376</span>  
  Fixed text to delete return to vendor  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

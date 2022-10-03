@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Master item sorting <span class="ticket">IM-10526</span>  
+ Master item sort  
+  <span class="new">New Feature</span> <span class="service">Search</span>  
+  
 ##### POM - S0.6 Microservices for vendors <span class="ticket">IM-12425</span>  
  Remove Vendor models and functionality in ItemMS and StockMS  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Public API refresh token flow <span class="ticket">IM-11698</span>  
+ Fixed Integration identity so that the public API refresh token is only generated if this is explicitly requested.  
+  <span class="debt">Technical Debt</span> <span class="service">Public API</span>  
+  
 ##### MS-NumGen: Update .NET 6 <span class="ticket">IM-12687</span>  
  MS-NumGen: Update .NET 6  
   <span class="debt">Technical Debt</span> <span class="service">NumberGeneration</span>  

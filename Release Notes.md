@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Inventory - Logs pagination incorrect <span class="ticket">IM-11436</span>  
+ InventoryLogs_Corrected  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory -> Logs -> Clear Filters Button is not Working <span class="ticket">IM-11650</span>  
  Filter button is now working in Inventory Logs  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

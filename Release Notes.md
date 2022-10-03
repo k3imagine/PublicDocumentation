@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Public API: Sales itemgroup mapping <span class="ticket">IM-12679</span>  
+ Fixed issue where creating a transaction through the sales endpoint without the itemgroup returned a transaction with itemgroup = 0  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### GET Vendor via Public API  <span class="ticket">IM-12604</span>  
  getVendorAPI  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Port AdminUI(Expansions) to Angular 12 <span class="ticket">IM-11201</span>  
+ Port AdminUI(Expansions) to Angular 12  
+  <span class="debt">Technical Debt</span>  
+  
 ##### ms-micros - Update to dotnet 6.0 <span class="ticket">IM-10730</span>  
  ms-micros - Update to dotnet 6.0  
   <span class="new">New Feature</span> <span class="service">TBC</span>  

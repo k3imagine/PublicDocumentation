@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Figures Tab on Item Card Not Showing Cost Price and On-Hand Value <span class="ticket">IM-12706</span>  
+ Figures Tab on Item Card Not Showing Cost Price and On-Hand Value  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### PO and Vendor Return Order No should be unique <span class="ticket">IM-12757</span>  
  PO and Vendor Return Order now checked for uniqueness   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

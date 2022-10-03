@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Inventory - Custom Attributes give a 500 error on Name <span class="ticket">IM-11742</span>  
+ Added a proper error message when entering a CA name longer than 20 characters  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### PO/GRN - Different Print Label Icons <span class="ticket">IM-9739</span>  
  Fixed issue where different icons from print label were shown in PO and in GRN  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

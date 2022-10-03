@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### POM - S0.6 Microservices for vendors <span class="ticket">IM-12425</span>  
+ Remove Vendor models and functionality in ItemMS and StockMS  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### POM - S0.5 <span class="ticket">IM-12079</span>  
  Point the Gateways to the new VendorMS   
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

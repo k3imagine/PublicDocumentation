@@ -1,7 +1,7 @@
 # RELEASE VERSION: 3rd October 2022
 
-##### Inventory - Logs pagination incorrect <span class="ticket">IM-11436</span>  
- InventoryLogs_Corrected  
+##### Inventory: Issues erasing search <span class="ticket">IM-11440</span>  
+ Fixed issue where redoing a search after clicking the backspace button causes the result list to remain and displays [object object]  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  
   
 ##### Inventory -> Logs -> Clear Filters Button is not Working <span class="ticket">IM-11650</span>  

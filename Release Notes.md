@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### 'From Shop'  field in Item Movements for 'Vendor Return' not populated. <span class="ticket">IM-10484</span>  
+ Fixed issue where 'from shop' was not shown in the vendor return  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - Custom Attributes give a 500 error on Name <span class="ticket">IM-11742</span>  
  Added a proper error message when entering a CA name longer than 20 characters  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### ANL 3.4 Item Analysis MS SQL query <span class="ticket">IM-12653</span>  
+ Created new endpoints and query that would produce the expected Dataset for the UI  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### CPN - Remove Word 'Test' from Expected Items lines. <span class="ticket">IM-12758</span>  
  CPN - Remove Word 'Test' from Expected Items lines  
   <span class="bug">Bug</span> <span class="service">Store Companion</span>  

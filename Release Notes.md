@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Card transaction in progress flag stuck on true <span class="ticket">IM-12648</span>  
+ Bug Fix -Card transaction in progress flag stuck on true  
+  <span class="bug">Bug</span> <span class="service">POS</span> <span class="service">Transaction</span>  
+  
 ##### Incorrect Cost Prices Showing on Item Card Summary and Matrix Tabs <span class="ticket">IM-12705</span>  
  Incorrect Cost Prices Showing on Item Card Summary and Matrix Tabs  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

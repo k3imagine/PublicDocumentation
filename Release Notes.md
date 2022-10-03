@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### NumgenMS: EAN validation <span class="ticket">IM-12689</span>  
+ Better suggestion on the valid checksum message  
+  <span class="bug">Bug</span> <span class="service">NumberGeneration</span>  
+  
 ##### SCO - 500 error when processing a payment <span class="ticket">IM-12602</span>  
  SCO 500 payment error fixed on test environment.  
   <span class="bug">Bug</span> <span class="service">SCO</span>  

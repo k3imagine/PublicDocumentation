@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### PoS Admin - Expand expansions to include all Shop Features <span class="ticket">IM-12529</span>  
+ Added all shop features in POS Admin  
+  <span class="new">New Feature</span> <span class="service">Pos Admin</span>  
+  
 ##### POM - S0 VendorMS <span class="ticket">IM-12064</span>  
  n/a  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

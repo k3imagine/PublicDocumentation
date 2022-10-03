@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### ANL - Sales Analysis {Sales (Beta)} over reporting transaction quantities, sales, tax, profit, cost. <span class="ticket">IM-12817</span>  
+ Over Reporting of Sales Fixed  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Public API - Upsert Master Items Query paramater for Vendor/Item Groups <span class="ticket">IM-11974</span>  
  Added new endpoints to API to check if Item Hierarchy or Vendor already exists, returns Boolean value.  
   <span class="new">New Feature</span> <span class="service">Public API</span>  

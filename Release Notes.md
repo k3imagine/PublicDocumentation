@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Inventory -> Logs -> Clear Filters Button is not Working <span class="ticket">IM-11650</span>  
+ Filter button is now working in Inventory Logs  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Public API - Stocktake count POST error <span class="ticket">IM-12867</span>  
  PublicAPI-StockTakeCountPOST  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

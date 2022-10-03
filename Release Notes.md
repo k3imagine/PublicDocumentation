@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### ms-micros - Update to dotnet 6.0 <span class="ticket">IM-10730</span>  
+ ms-micros - Update to dotnet 6.0  
+  <span class="new">New Feature</span> <span class="service">TBC</span>  
+  
 ##### PoS Admin - Expand expansions to include all Shop Features <span class="ticket">IM-12529</span>  
  Added all shop features in POS Admin  
   <span class="new">New Feature</span> <span class="service">Pos Admin</span>  

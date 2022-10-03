@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### GET Vendor via Public API  <span class="ticket">IM-12604</span>  
+ getVendorAPI  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### POST Vendor via Public API Not Generating VendorNo <span class="ticket">IM-12603</span>  
  pAPIGenerateVendorNo  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### CPN - Consolidate Scanned Quantities in Receive PO <span class="ticket">IM-12698</span>  
+ Fixed issue where scanning the same barcode to receive items against a PO created different entries for the same item  
+  <span class="bug">Bug</span> <span class="service">Store Companion</span>  
+  
 ##### PO will not accept new prices <span class="ticket">IM-12780</span>  
  PO will not accept new prices  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

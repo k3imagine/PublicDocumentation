@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### PO and Vendor Return Order No should be unique <span class="ticket">IM-12757</span>  
+ PO and Vendor Return Order now checked for uniqueness   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Item Import UI - Error on uploading an file for the 2nd time <span class="ticket">IM-10924</span>  
  Fixed issue when uploading a file for the 2nd time in item import  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

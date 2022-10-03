@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Incorrect Cost Prices Showing on Item Card Summary and Matrix Tabs <span class="ticket">IM-12705</span>  
+ Incorrect Cost Prices Showing on Item Card Summary and Matrix Tabs  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Public API: Sales itemgroup mapping <span class="ticket">IM-12679</span>  
  Fixed issue where creating a transaction through the sales endpoint without the itemgroup returned a transaction with itemgroup = 0  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

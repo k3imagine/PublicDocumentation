@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### POM - S0.5 <span class="ticket">IM-12079</span>  
+ Point the Gateways to the new VendorMS   
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### ANL 3.4 Item Analysis MS SQL query <span class="ticket">IM-12653</span>  
  Created new endpoints and query that would produce the expected Dataset for the UI  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

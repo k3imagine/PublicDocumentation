@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### CPN - Remove Word 'Test' from Expected Items lines. <span class="ticket">IM-12758</span>  
+ CPN - Remove Word 'Test' from Expected Items lines  
+  <span class="bug">Bug</span> <span class="service">Store Companion</span>  
+  
 ##### CPN - Items with long descriptions do not format properly in companion for receipts. <span class="ticket">IM-12700</span>  
  Fixed issue where Items with long names did not format properly when receiving a PO in Companion  
   <span class="bug">Bug</span> <span class="service">Store Companion</span>  

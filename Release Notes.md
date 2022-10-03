@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### POST Vendor via Public API Not Generating VendorNo <span class="ticket">IM-12603</span>  
+ pAPIGenerateVendorNo  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Public API - MasterItemId needs adding to the Sales endpoint for reporting <span class="ticket">IM-12607</span>  
  MasterItemId_added_EndpointSales  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

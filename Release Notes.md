@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### SCO - 500 error when processing a payment <span class="ticket">IM-12602</span>  
+ SCO 500 payment error fixed on test environment.  
+  <span class="bug">Bug</span> <span class="service">SCO</span>  
+  
 ##### CPN - Consolidate Scanned Quantities in Receive PO <span class="ticket">IM-12698</span>  
  Fixed issue where scanning the same barcode to receive items against a PO created different entries for the same item  
   <span class="bug">Bug</span> <span class="service">Store Companion</span>  

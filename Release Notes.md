@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Public API - MasterItemId needs adding to the Sales endpoint for reporting <span class="ticket">IM-12607</span>  
+ MasterItemId_added_EndpointSales  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Inventory: Issues erasing search <span class="ticket">IM-11440</span>  
  Fixed issue where redoing a search after clicking the backspace button causes the result list to remain and displays [object object]  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

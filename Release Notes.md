@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### MS-NumGen: Update .NET 6 <span class="ticket">IM-12687</span>  
+ MS-NumGen: Update .NET 6  
+  <span class="debt">Technical Debt</span> <span class="service">NumberGeneration</span>  
+  
 ##### MS-Analysis: Some SQL errors found <span class="ticket">IM-12696</span>  
  Fixed issue where leaving DateTime empty was giving error  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

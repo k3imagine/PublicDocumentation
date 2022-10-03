@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Inventory - various bug fixes in Custom Attributes (Make the Type column show the types name) <span class="ticket">IM-12015</span>  
+ Show the type of Custom Attributes instead of the number  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Card transaction in progress flag stuck on true <span class="ticket">IM-12648</span>  
  Bug Fix -Card transaction in progress flag stuck on true  
   <span class="bug">Bug</span> <span class="service">POS</span> <span class="service">Transaction</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd October 2022
+
+##### gw-publicapi - Update to dotnet 6.0 <span class="ticket">IM-10690</span>  
+ Public API GW updated to .net 6  
+  <span class="new">New Feature</span> <span class="service">TBC</span>  
+  
 # RELEASE VERSION: 29th September 2022
 
 ##### NumgenMS: Fix GetNext() <span class="ticket">IM-12646</span>  

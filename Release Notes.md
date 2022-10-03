@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### PO/GRN - Different Print Label Icons <span class="ticket">IM-9739</span>  
+ Fixed issue where different icons from print label were shown in PO and in GRN  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - various bug fixes in Custom Attributes (Make the Type column show the types name) <span class="ticket">IM-12015</span>  
  Show the type of Custom Attributes instead of the number  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### MS-Analysis: Some SQL errors found <span class="ticket">IM-12696</span>  
+ Fixed issue where leaving DateTime empty was giving error  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### ANL - (Sales) Persist Error/Info Messages <span class="ticket">IM-12677</span>  
  Error Messages persist until acknowledgement.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### InternetStores - New Stocktakes have no items added to them <span class="ticket">IM-12835</span>  
+ Fixed issue where creating a full stocktake returned a 524 error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  
+  
 ##### gw-publicapi - Update to dotnet 6.0 <span class="ticket">IM-10690</span>  
  Public API GW updated to .net 6  
   <span class="new">New Feature</span> <span class="service">TBC</span>  

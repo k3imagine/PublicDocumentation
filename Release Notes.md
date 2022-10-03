@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### ANL - (Sales) Persist Error/Info Messages <span class="ticket">IM-12677</span>  
+ Error Messages persist until acknowledgement.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Weighted Average Cost Calculated Incorrectly <span class="ticket">IM-12703</span>  
  Weighted Average Cost Calculated Incorrectly  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Public API - Upsert Master Items Query paramater for Vendor/Item Groups <span class="ticket">IM-11974</span>  
+ Added new endpoints to API to check if Item Hierarchy or Vendor already exists, returns Boolean value.  
+  <span class="new">New Feature</span> <span class="service">Public API</span>  
+  
 ##### Public API refresh token flow <span class="ticket">IM-11698</span>  
  Fixed Integration identity so that the public API refresh token is only generated if this is explicitly requested.  
   <span class="debt">Technical Debt</span> <span class="service">Public API</span>  

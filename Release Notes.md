@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Weighted Average Cost Calculated Incorrectly <span class="ticket">IM-12703</span>  
+ Weighted Average Cost Calculated Incorrectly  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - Custom Attributes of type Text are showing as item-creation.attributes-tab.undefined Data Type <span class="ticket">IM-12693</span>  
  Fixed issue where Custom Attributes of type Text were showing as item-creation.attributes  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

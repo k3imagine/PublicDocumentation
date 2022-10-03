@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### PO will not accept new prices <span class="ticket">IM-12780</span>  
+ PO will not accept new prices  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### ANL - Sales Analysis {Sales (Beta)} over reporting transaction quantities, sales, tax, profit, cost. <span class="ticket">IM-12817</span>  
  Over Reporting of Sales Fixed  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

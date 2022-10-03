@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### CPN - Items with long descriptions do not format properly in companion for receipts. <span class="ticket">IM-12700</span>  
+ Fixed issue where Items with long names did not format properly when receiving a PO in Companion  
+  <span class="bug">Bug</span> <span class="service">Store Companion</span>  
+  
 ##### NumgenMS: EAN validation <span class="ticket">IM-12689</span>  
  Better suggestion on the valid checksum message  
   <span class="bug">Bug</span> <span class="service">NumberGeneration</span>  

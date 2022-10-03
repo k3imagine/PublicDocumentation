@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Item Import UI - Error on uploading an file for the 2nd time <span class="ticket">IM-10924</span>  
+ Fixed issue when uploading a file for the 2nd time in item import  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### 'From Shop'  field in Item Movements for 'Vendor Return' not populated. <span class="ticket">IM-10484</span>  
  Fixed issue where 'from shop' was not shown in the vendor return  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Bug with cancel warning on item creation <span class="ticket">IM-10102</span>  
+ Removed the toast when cancelling the item creation  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Port AdminUI(Expansions) to Angular 12 <span class="ticket">IM-11201</span>  
  Port AdminUI(Expansions) to Angular 12  
   <span class="debt">Technical Debt</span>  

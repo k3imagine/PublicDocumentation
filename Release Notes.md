@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### Public API - Stocktake count POST error <span class="ticket">IM-12867</span>  
+ PublicAPI-StockTakeCountPOST  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### InternetStores - New Stocktakes have no items added to them <span class="ticket">IM-12835</span>  
  Fixed issue where creating a full stocktake returned a 524 error  
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  

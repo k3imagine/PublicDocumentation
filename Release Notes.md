@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd October 2022
 
+##### POM - S0 VendorMS <span class="ticket">IM-12064</span>  
+ n/a  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### Master item sorting <span class="ticket">IM-10526</span>  
  Master item sort  
   <span class="new">New Feature</span> <span class="service">Search</span>  

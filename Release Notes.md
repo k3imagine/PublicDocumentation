@@ -1,3 +1,11 @@
+# RELEASE VERSION: 4th October 2022
+
+##### Public API - CurrencyCode needs adding as required field for creating GRN <span class="ticket">IM-12479</span>  
+ CurrencyCode now required field via API, opening created GRN in UI now shows items as currency set.  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="https://publicapi.k3imagine.com/swagger/index.html" target="_blank">swagger documentation</a></p></div> 
+<span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 3rd October 2022
 
 ##### Bug with cancel warning on item creation <span class="ticket">IM-10102</span>  

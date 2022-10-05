@@ -1,3 +1,9 @@
+# RELEASE VERSION: 5th October 2022
+
+##### BI GW - 404 Not Found when calling Vendors <span class="ticket">IM-12885</span>  
+ Fixed issue where Vendor endpoint not found on the gateway  
+  <span class="bug">Bug</span> <span class="service">BI Gateway</span>  
+  
 # RELEASE VERSION: 4th October 2022
 
 ##### Public API - CurrencyCode needs adding as required field for creating GRN <span class="ticket">IM-12479</span>  

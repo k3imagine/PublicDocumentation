@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th October 2022
 
+##### DSW IDM: Reset Delta from Asset execution <span class="ticket">IM-11431</span>  
+ Reset Delta is available in IDM Delete Deletion Method   
+  <span class="new">New Feature</span> <span class="service">DSW-Asset: IDM</span>  
+  
 ##### DSW - IDM Add Where Clause <span class="ticket">IM-11068</span>  
  Add 'Where' clause  
   <span class="new">New Feature</span> <span class="service">DSW-Asset: IDM</span>  

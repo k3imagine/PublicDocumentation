@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th October 2022
 
+##### DSW - IDM Add Where Clause <span class="ticket">IM-11068</span>  
+ Add 'Where' clause  
+  <span class="new">New Feature</span> <span class="service">DSW-Asset: IDM</span>  
+  
 ##### BI GW - 404 Not Found when calling Vendors <span class="ticket">IM-12885</span>  
  Fixed issue where Vendor endpoint not found on the gateway  
   <span class="bug">Bug</span> <span class="service">BI Gateway</span>  

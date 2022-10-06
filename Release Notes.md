@@ -1,3 +1,9 @@
+# RELEASE VERSION: 6th October 2022
+
+##### Companion: Issues with PO and stocktake <span class="ticket">IM-12893</span>  
+ Fixed issue where could not load scheduled stock take and submit a PO in Companion  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 5th October 2022
 
 ##### DSW IDM: Reset Delta from Asset execution <span class="ticket">IM-11431</span>  

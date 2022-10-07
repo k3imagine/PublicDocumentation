@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th October 2022
+
+##### Connector suddenly gone from admin/tenant <span class="ticket">IM-12874</span>  
+ Resolved issue where connector details removed when adding a new connector  
+  <span class="bug">Bug</span> <span class="service">Connector</span>  
+  
 # RELEASE VERSION: 6th October 2022
 
 ##### Companion: Issues with PO and stocktake <span class="ticket">IM-12893</span>  

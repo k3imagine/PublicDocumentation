@@ -1,3 +1,11 @@
+# RELEASE VERSION: 11th October 2022
+
+##### Public API - GET StockTakeHeaders returning 415 error <span class="ticket">IM-12909</span>  
+ Fixed issue where PublicAPI GET StockTakeHeaders returned 415 error  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="https://publicapi.k3imagine.com/swagger/index.html" target="_blank">swagger documentation</a></p></div> 
+<span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 7th October 2022
 
 ##### Connector suddenly gone from admin/tenant <span class="ticket">IM-12874</span>  

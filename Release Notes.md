@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th October 2022
+
+##### Update Connector Compose variables <span class="ticket">IM-9572</span>  
+ Connector compose variables updated  
+  <span class="new">New Feature</span> <span class="service">Platform Admin</span>  
+  
 # RELEASE VERSION: 11th October 2022
 
 ##### Public API - GET StockTakeHeaders returning 415 error <span class="ticket">IM-12909</span>  

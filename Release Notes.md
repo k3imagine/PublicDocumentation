@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Item Creation - Success Message appears for Picture not deleted <span class="ticket">IM-11379</span>  
+ Delete button is now disabled until an item is selected   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Stock doesn't recognise the alternate barcodes  <span class="ticket">IM-12858</span>  
  Resolved issue where file import within Stocktake is not recognising alternate barcodes for items  
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Stock doesn't recognise the alternate barcodes  <span class="ticket">IM-12858</span>  
+ Resolved issue where file import within Stocktake is not recognising alternate barcodes for items  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  
+  
 ##### Delete a Promotion in PPE <span class="ticket">IM-12224</span>  
  Soft delete can now be performed on PPE Promotion  
   <span class="new">New Feature</span> <span class="service">Price and Promotion Engine</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Identity - Tenant Deletion exclude inactive tenants <span class="ticket">IM-12201</span>  
+ Fixed issue where inactive tenants are notified that their tenant is not being actively used  
+  <span class="new">New Feature</span> <span class="service">Identity</span>  
+  
 ##### OOP S2: SS Admin setting for "Disable SCO when out of paper" <span class="ticket">IM-11708</span>  
  Admin can now disable Sco printer when out of paper  
   <span class="new">New Feature</span> <span class="service">Self Serve Admin</span>  

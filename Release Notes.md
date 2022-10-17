@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### SCO - update translations <span class="ticket">IM-12434</span>  
+ SCO Translations   
+  <span class="new">New Feature</span> <span class="service">SCO</span>  
+  
 ##### Add ids to plus/minus btns in selfserve <span class="ticket">IM-12712</span>  
  ID attributes not working on self serve app and It`s been reverted back to previous version  
   <span class="debt">Technical Debt</span> <span class="service">SelfServe Components</span>  

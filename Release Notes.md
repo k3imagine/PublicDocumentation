@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Old sidebar on Product Configurator (imagine Portal Menu)  <span class="ticket">IM-12816</span>  
+ New sidebar in Product Configurator  
+  <span class="bug">Bug</span> <span class="service">Portal</span> <span class="service">Product Configurator</span>  
+  
 ##### Bin Icon Needs to be removed from Transfer In <span class="ticket">IM-11750</span>  
  Removed bin icon from Transfer In  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

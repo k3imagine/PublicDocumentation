@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### gw-kiosk : Endpoint "Basket/createdetailed" Throw Error  <span class="ticket">IM-12554</span>  
+ EndpointforCreateDetailedBasket  
+  <span class="bug">Bug</span> <span class="service">All_GW's</span>  
+  
 ##### CPN - App back button stops working after choosing Which PO/Transfer to Receive. <span class="ticket">IM-12773</span>  
  App back button stops working  
   <span class="bug">Bug</span> <span class="service">Store Companion</span>  

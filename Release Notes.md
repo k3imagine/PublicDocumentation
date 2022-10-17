@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### CPN - App back button stops working after choosing Which PO/Transfer to Receive. <span class="ticket">IM-12773</span>  
+ App back button stops working  
+  <span class="bug">Bug</span> <span class="service">Store Companion</span>  
+  
 ##### Old Sidebar Self Serve Admin (Imagine Portal Menu) <span class="ticket">IM-11522</span>  
  Fixed issue where Self Serve Admin and submenus redirects to the menu  
   <span class="bug">Bug</span> <span class="service">Portal</span>  

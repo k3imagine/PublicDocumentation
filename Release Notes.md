@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### OOP S2: SS Admin setting for "Disable SCO when out of paper" <span class="ticket">IM-11708</span>  
+ Admin can now disable Sco printer when out of paper  
+  <span class="new">New Feature</span> <span class="service">Self Serve Admin</span>  
+  
 ##### OOP S1.5: Implement the PaperStatus() value <span class="ticket">IM-11913</span>  
  PaperStatus value now stored to local POS storage  
   <span class="new">New Feature</span> <span class="service">Connector</span>  

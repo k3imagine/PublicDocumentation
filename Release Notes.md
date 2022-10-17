@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### ms-kiosk - Update to dotnet 6.0 <span class="ticket">IM-10729</span>  
+ Kiosk MS updated to dotnet 6.0  
+  <span class="new">New Feature</span> <span class="service">TBC</span>  
+  
 ##### gw-kiosk : Endpoint "Basket/createdetailed" Throw Error  <span class="ticket">IM-12554</span>  
  EndpointforCreateDetailedBasket  
   <span class="bug">Bug</span> <span class="service">All_GW's</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Stock Adjustment Created with default date <span class="ticket">IM-12570</span>  
+ Fixed issue where stock adjustment were created with the default date ‘0001-01-01  
+  <span class="bug">Bug</span> <span class="service">Public API</span> <span class="service">Stock Management</span>  
+  
 ##### Item Creation - Success Message appears for Picture not deleted <span class="ticket">IM-11379</span>  
  Delete button is now disabled until an item is selected   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Bin Icon Needs to be removed from Transfer In <span class="ticket">IM-11750</span>  
+ Removed bin icon from Transfer In  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Stock Adjustment Created with default date <span class="ticket">IM-12570</span>  
  Fixed issue where stock adjustment were created with the default date ‘0001-01-01  
   <span class="bug">Bug</span> <span class="service">Public API</span> <span class="service">Stock Management</span>  

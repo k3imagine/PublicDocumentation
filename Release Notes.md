@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### ANL - S0.5 - Configure Row Limits for Analyses <span class="ticket">IM-12759</span>  
+ Configure Row Limits for Analyses  
+  <span class="new">New Feature</span> <span class="service">Analysis</span> <span class="service">Portal</span>  
+  
 ##### SCO - update translations <span class="ticket">IM-12434</span>  
  SCO Translations   
   <span class="new">New Feature</span> <span class="service">SCO</span>  

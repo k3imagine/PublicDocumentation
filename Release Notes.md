@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th October 2022
+
+##### Add ids to plus/minus btns in selfserve <span class="ticket">IM-12712</span>  
+ ID attributes not working on self serve app and It`s been reverted back to previous version  
+  <span class="debt">Technical Debt</span> <span class="service">SelfServe Components</span>  
+  
 # RELEASE VERSION: 13th October 2022
 
 ##### Update Connector Compose variables <span class="ticket">IM-9572</span>  

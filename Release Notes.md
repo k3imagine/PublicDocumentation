@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### PromotionMS: Missing mapping from promotion -> promotionsimpleVM <span class="ticket">IM-12551</span>  
+ promotionShowOnPOS  
+  <span class="bug">Bug</span> <span class="service">Price and Promotion Engine</span>  
+  
 ##### Old sidebar on Product Configurator (imagine Portal Menu)  <span class="ticket">IM-12816</span>  
  New sidebar in Product Configurator  
   <span class="bug">Bug</span> <span class="service">Portal</span> <span class="service">Product Configurator</span>  

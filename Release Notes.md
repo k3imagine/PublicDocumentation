@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### OOP S1.5: Implement the PaperStatus() value <span class="ticket">IM-11913</span>  
+ PaperStatus value now stored to local POS storage  
+  <span class="new">New Feature</span> <span class="service">Connector</span>  
+  
 ##### ANL - S0.5 - Configure Row Limits for Analyses <span class="ticket">IM-12759</span>  
  Configure Row Limits for Analyses  
   <span class="new">New Feature</span> <span class="service">Analysis</span> <span class="service">Portal</span>  

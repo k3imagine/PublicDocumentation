@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Old Sidebar Self Serve Admin (Imagine Portal Menu) <span class="ticket">IM-11522</span>  
+ Fixed issue where Self Serve Admin and submenus redirects to the menu  
+  <span class="bug">Bug</span> <span class="service">Portal</span>  
+  
 ##### PromotionMS: Missing mapping from promotion -> promotionsimpleVM <span class="ticket">IM-12551</span>  
  promotionShowOnPOS  
   <span class="bug">Bug</span> <span class="service">Price and Promotion Engine</span>  

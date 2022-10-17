@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th October 2022
 
+##### Delete a Promotion in PPE <span class="ticket">IM-12224</span>  
+ Soft delete can now be performed on PPE Promotion  
+  <span class="new">New Feature</span> <span class="service">Price and Promotion Engine</span>  
+  
 ##### Identity - Tenant Deletion exclude inactive tenants <span class="ticket">IM-12201</span>  
  Fixed issue where inactive tenants are notified that their tenant is not being actively used  
   <span class="new">New Feature</span> <span class="service">Identity</span>  

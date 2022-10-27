@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th October 2022
+
+##### Public API - Kiosk import endpoint Duplicate Barcodes/ItemNos <span class="ticket">IM-12787</span>  
+ Fixed issue with the Kiosk Import Item endpoint where it would fail to import further items if an error occurred.  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 # RELEASE VERSION: 17th October 2022
 
 ##### ms-kiosk - Update to dotnet 6.0 <span class="ticket">IM-10729</span>  

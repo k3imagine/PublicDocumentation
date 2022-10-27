@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th October 2022
 
+##### TOP Total amount to pay not in local currency <span class="ticket">IM-12793</span>  
+ Fixed issue in TOP total amount to pay was not in local currency  
+  <span class="bug">Bug</span> <span class="service">TOP</span>  
+  
 ##### POS Admin - Receipt Setup won't load if there is an empty field <span class="ticket">IM-12890</span>  
  Fixed issue where Receipt setup didn't load if there was an empty field  
   <span class="bug">Bug</span> <span class="service">Pos Admin</span>  

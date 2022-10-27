@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th October 2022
 
+##### Public API - GRN close endpoint is returning a 400 <span class="ticket">IM-13002</span>  
+ Fixed issue where GRN close endpoint was returning 400 in the Public api  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Public API - Kiosk import endpoint Duplicate Barcodes/ItemNos <span class="ticket">IM-12787</span>  
  Fixed issue with the Kiosk Import Item endpoint where it would fail to import further items if an error occurred.  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th October 2022
 
+##### OSD - 'main item' issued a different OrderId to the rest of the order meaning comments are not shown on OSD <span class="ticket">IM-12834</span>  
+ OSD - Main item orderid different to the rest of the order meaning comments are not shown   
+  <span class="bug">Bug</span> <span class="service">Order Status Display</span>  
+  
 ##### TOP Total amount to pay not in local currency <span class="ticket">IM-12793</span>  
  Fixed issue in TOP total amount to pay was not in local currency  
   <span class="bug">Bug</span> <span class="service">TOP</span>  

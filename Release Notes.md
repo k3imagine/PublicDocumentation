@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th October 2022
 
+##### POS Admin - Receipt Setup won't load if there is an empty field <span class="ticket">IM-12890</span>  
+ Fixed issue where Receipt setup didn't load if there was an empty field  
+  <span class="bug">Bug</span> <span class="service">Pos Admin</span>  
+  
 ##### Public API - GRN close endpoint is returning a 400 <span class="ticket">IM-13002</span>  
  Fixed issue where GRN close endpoint was returning 400 in the Public api  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

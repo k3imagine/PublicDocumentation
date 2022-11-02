@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd November 2022
+
+##### Login to k3 portal from iframe cookie problem <span class="ticket">IM-11500</span>  
+ Change portalRefreshToken and portalApiToken cookie  
+  <span class="new">New Feature</span> <span class="service">Platform Support</span>  
+  
 # RELEASE VERSION: 27th October 2022
 
 ##### DeviceWorkerGW - WakeUp Call Failing <span class="ticket">IM-13001</span>  

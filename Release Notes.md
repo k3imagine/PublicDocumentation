@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd November 2022
 
+##### Image Management UI is broken <span class="ticket">IM-13043</span>  
+ fixed the issue where image management had lost style  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### Elastic Search Reindex fails on large tenant <span class="ticket">IM-11428</span>  
  Fixed issue where on large datasets when performing a reindex through ms-searchaggregator failed with an error  
   <span class="bug">Bug</span> <span class="service">Search</span>  

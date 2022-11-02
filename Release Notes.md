@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd November 2022
 
+##### ANL – S2.3.3 - 'My Analysis' to show all User Saved Reports component <span class="ticket">IM-12827</span>  
+ My Analysis' to show all User Saved Reports component  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Image Management UI is broken <span class="ticket">IM-13043</span>  
  fixed the issue where image management had lost style  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

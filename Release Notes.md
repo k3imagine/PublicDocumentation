@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd November 2022
 
+##### Elastic Search Reindex fails on large tenant <span class="ticket">IM-11428</span>  
+ Fixed issue where on large datasets when performing a reindex through ms-searchaggregator failed with an error  
+  <span class="bug">Bug</span> <span class="service">Search</span>  
+  
 ##### Login to k3 portal from iframe cookie problem <span class="ticket">IM-11500</span>  
  Change portalRefreshToken and portalApiToken cookie  
   <span class="new">New Feature</span> <span class="service">Platform Support</span>  

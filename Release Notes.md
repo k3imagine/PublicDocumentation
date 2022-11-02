@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd November 2022
 
+##### STK-S3- Hide the 'Physical Location' column from the Stocktake Discrepancy list and show shop and title.  <span class="ticket">IM-12561</span>  
+ Removed 'physical location' column from stocktake discrepancy  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### ANL – S2.3.3 - 'My Analysis' to show all User Saved Reports component <span class="ticket">IM-12827</span>  
  My Analysis' to show all User Saved Reports component  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd November 2022
 
+##### ANL 3.5 Item Analysis UI save report <span class="ticket">IM-12671</span>  
+ Check Save Item report works  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### STK-S3- Hide the 'Physical Location' column from the Stocktake Discrepancy list and show shop and title.  <span class="ticket">IM-12561</span>  
  Removed 'physical location' column from stocktake discrepancy  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

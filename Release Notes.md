@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd November 2022
 
+##### Sales Analysis does not include sales of Item Groups <span class="ticket">IM-12929</span>  
+ Included Sales of item groups in Sales(Beta)  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### MS-SearchAggregator throwing errors <span class="ticket">IM-11769</span>  
  Fixed issue where Ms-Searchaggregator was throwing errors whenever an item was created or updated   
   <span class="bug">Bug</span> <span class="service">Search</span>  

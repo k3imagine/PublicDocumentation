@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd November 2022
 
+##### ANL – S2.3.2 - 'My Analysis' to show all User Saved Reports endpoints <span class="ticket">IM-12823</span>  
+ nrfn  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Sales Analysis does not include sales of Item Groups <span class="ticket">IM-12929</span>  
  Included Sales of item groups in Sales(Beta)  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

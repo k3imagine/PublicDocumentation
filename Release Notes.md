@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd November 2022
+
+##### MS-SearchAggregator throwing errors <span class="ticket">IM-11769</span>  
+ Fixed issue where Ms-Searchaggregator was throwing errors whenever an item was created or updated   
+  <span class="bug">Bug</span> <span class="service">Search</span>  
+  
 # RELEASE VERSION: 2nd November 2022
 
 ##### ANL 3.5 Item Analysis UI save report <span class="ticket">IM-12671</span>  

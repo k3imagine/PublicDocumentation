@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th November 2022
+
+##### POS/Inventory - trying to print labels gives 500 error <span class="ticket">IM-12898</span>  
+ Fixed issue where printing label were giving a 500 error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">NumberGeneration</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 3rd November 2022
   
 ##### Sales Analysis does not include sales of Item Groups <span class="ticket">IM-12929</span>  

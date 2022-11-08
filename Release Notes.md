@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th November 2022
+
+##### STK-S1-Retain filter options on return to initial form <span class="ticket">IM-12563</span>  
+ Retain filter options on return to stock take submenu  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 7th November 2022
 
 ##### POS/Inventory - trying to print labels gives 500 error <span class="ticket">IM-12898</span>  

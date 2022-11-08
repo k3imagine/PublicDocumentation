@@ -1,5 +1,9 @@
 # RELEASE VERSION: 8th November 2022
 
+##### Stock Take - Reset overview leaves date fields blank <span class="ticket">IM-13024</span>  
+ Fixed issue where Reset left date fields blank in Stocktake  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### STK-S1-Retain filter options on return to initial form <span class="ticket">IM-12563</span>  
  Retain filter options on return to stock take submenu  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th November 2022
 
+##### SCO: Discounted values are sending across Micros <span class="ticket">IM-13056</span>  
+ Resolved issue where discounted value sent to Micros rather than full value  
+  <span class="bug">Bug</span> <span class="service">Self Checkout</span>  
+  
 ##### STK-S2-Take User to Newly Created Stock Take and Calculation Form <span class="ticket">IM-12559</span>  
  After calculating the ST it will redirect the user to the remembered filter list  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

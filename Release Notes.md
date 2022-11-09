@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th November 2022
+
+##### Public API - not returning null fields <span class="ticket">IM-13098</span>  
+ Fixed issue where null fields were not being returned  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 8th November 2022
 
 ##### Stock Take - Reset overview leaves date fields blank <span class="ticket">IM-13024</span>  

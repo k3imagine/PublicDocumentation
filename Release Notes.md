@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th November 2022
 
+##### ANL 3.6 Item Analysis KPIs <span class="ticket">IM-12672</span>  
+ Added KPI on Item Analysis  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### SCO: Discounted values are sending across Micros <span class="ticket">IM-13056</span>  
  Resolved issue where discounted value sent to Micros rather than full value  
   <span class="bug">Bug</span> <span class="service">Self Checkout</span>  

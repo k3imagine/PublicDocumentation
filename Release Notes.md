@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th November 2022
+
+##### SCO: Discounted values are sending across Micros <span class="ticket">IM-13056</span>  
+ Resolved issue where discounted value sent to Micros rather than full value  
+  <span class="bug">Bug</span> <span class="service">Self Checkout</span>  
+  
 # RELEASE VERSION: 14th November 2022
 
 ##### Incorrect Cost Price being picked up by Purchase Order <span class="ticket">IM-12881</span>  

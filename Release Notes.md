@@ -1,5 +1,9 @@
 # RELEASE VERSION: 1st December 2022
 
+##### ANL - itemsReport and my-anlysis links broken <span class="ticket">IM-13141</span>  
+ Fixed issue where Item (Beta) and My analysis redirected to dashboard when within the analysis module  
+  <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Portal</span>  
+  
 ##### ANL - Change filter box format on Sales and Item Analyses <span class="ticket">IM-13106</span>  
  Analysis filter box controls changed to make better use of space, Superficial UI only.  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

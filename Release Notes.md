@@ -1,3 +1,9 @@
+# RELEASE VERSION: 1st December 2022
+
+##### ANL - Change filter box format on Sales and Item Analyses <span class="ticket">IM-13106</span>  
+ Analysis filter box controls changed to make better use of space, Superficial UI only.  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 17th November 2022
 
 ##### ANL 3.6 Item Analysis KPIs <span class="ticket">IM-12672</span>  

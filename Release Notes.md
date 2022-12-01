@@ -1,5 +1,9 @@
 # RELEASE VERSION: 1st December 2022
 
+##### Stock Take - Item of previous stock take is reselected <span class="ticket">IM-13021</span>  
+ Fixed issue where an item from a previous stock take was automatically reselected when counting a new stock take  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Sales(beta) and Items(beta) analysis returns an error when  'Group by Columns' is used <span class="ticket">IM-13099</span>  
  Fixed issue where grouping by columns in Item analysis and sales beta returned error  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 1st December 2022
 
+##### Sales(beta) and Items(beta) analysis returns an error when  'Group by Columns' is used <span class="ticket">IM-13099</span>  
+ Fixed issue where grouping by columns in Item analysis and sales beta returned error  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### ANL - itemsReport and my-anlysis links broken <span class="ticket">IM-13141</span>  
  Fixed issue where Item (Beta) and My analysis redirected to dashboard when within the analysis module  
   <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Portal</span>  

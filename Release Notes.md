@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th December 2022
 
+##### Simple POS Wakeup Request <span class="ticket">IM-13006</span>  
+ Fixed issue where Simple POS sent an empty Body in the post request  
+  <span class="bug">Bug</span> <span class="service">Simple POS</span>  
+  
 ##### Fix the issue with PPE in SimplePOS <span class="ticket">IM-12710</span>  
  Fixed issue where basketusesppe is was false in simple pos gateway  
   <span class="bug">Bug</span> <span class="service">Basket</span> <span class="service">Simple POS</span>  

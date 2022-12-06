@@ -1,3 +1,9 @@
+# RELEASE VERSION: 6th December 2022
+
+##### Fix the issue with PPE in SimplePOS <span class="ticket">IM-12710</span>  
+ Fixed issue where basketusesppe is was false in simple pos gateway  
+  <span class="bug">Bug</span> <span class="service">Basket</span> <span class="service">Simple POS</span>  
+  
 # RELEASE VERSION: 1st December 2022
 
 ##### Stock Take - Item of previous stock take is reselected <span class="ticket">IM-13021</span>  

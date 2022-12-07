@@ -1,8 +1,4 @@
 # RELEASE VERSION: 6th December 2022
-
-##### POSGW: Fix Docker-Compose for local debugging <span class="ticket">IM-13144</span>  
- nrfn  
-  <span class="debt">Technical Debt</span>  
   
 ##### Simple POS Wakeup Request <span class="ticket">IM-13006</span>  
  Fixed issue where Simple POS sent an empty Body in the post request  

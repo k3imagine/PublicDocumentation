@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th December 2022
+
+##### ItemMS: remove Index constraint from itm.vendor <span class="ticket">IM-12954</span>  
+ Removed Index constraint from itm.vendor  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 # RELEASE VERSION: 6th December 2022
   
 ##### Simple POS Wakeup Request <span class="ticket">IM-13006</span>  

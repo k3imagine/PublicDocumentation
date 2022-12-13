@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th December 2022
+
+##### Custom Attribute ID Mismatch GW/UI/MS <span class="ticket">IM-13183</span>  
+ Fixed issue with CA ID mismatch  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 8th December 2022
 
 ##### ItemMS: remove Index constraint from itm.vendor <span class="ticket">IM-12954</span>  

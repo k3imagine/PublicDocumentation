@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th December 2022
+
+##### SQL fix for sales report <span class="ticket">IM-13188</span>  
+ Analysis - Sales Beta SQL Fix.  
+  <span class="debt">Technical Debt</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 13th December 2022
 
 ##### Custom Attribute ID Mismatch GW/UI/MS <span class="ticket">IM-13183</span>  

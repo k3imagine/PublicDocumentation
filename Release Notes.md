@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th December 2022
 
+##### Fixes to sales report to get it up to par with Item report <span class="ticket">IM-13197</span>  
+ Analysis - Fixes to Sales Beta to bring it in line with Item Beta  
+  <span class="debt">Technical Debt</span> <span class="service">Analysis</span>  
+  
 ##### SQL fix for sales report <span class="ticket">IM-13188</span>  
  Analysis - Sales Beta SQL Fix.  
   <span class="debt">Technical Debt</span> <span class="service">Analysis</span>  

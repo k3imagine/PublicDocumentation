@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th December 2022
+
+##### OSD: 500 error when loading OSD for Larissa store <span class="ticket">IM-13215</span>  
+ Fixed issue where OSD was giving a 500  
+  <span class="bug">Bug</span> <span class="service">Order Status Display</span>  
+  
 # RELEASE VERSION: 14th December 2022
 
 ##### Fixes to sales report to get it up to par with Item report <span class="ticket">IM-13197</span>  

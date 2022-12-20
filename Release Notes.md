@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th December 2022
 
+##### NumberGen connection string  <span class="ticket">IM-13206</span>  
+ Resolved issue where connection string was expiring causing login errors and ultimately application errors  
+  <span class="bug">Bug</span> <span class="service">NumberGeneration</span>  
+  
 ##### OSD: 500 error when loading OSD for Larissa store <span class="ticket">IM-13215</span>  
  Fixed issue where OSD was giving a 500  
   <span class="bug">Bug</span> <span class="service">Order Status Display</span>  

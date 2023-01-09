@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th January 2023
 
+##### Inventory > Item Import  requires manufacturer item number <span class="ticket">IM-13101</span>  
+ Fixed issue where manufacturer item number were required on item import  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Product Configurator - Create/Updating Bundle Giving Error 500 <span class="ticket">IM-13064</span>  
  We can now create and update bundle successfully  
   <span class="bug">Bug</span> <span class="service">Product Configurator</span>  

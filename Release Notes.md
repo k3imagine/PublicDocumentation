@@ -1,8 +1,8 @@
 # RELEASE VERSION: 9th January 2023
 
-##### Simple Pos search fails on bundles <span class="ticket">IM-13164</span>  
- Simple Pos search fails on bundles  
-  <span class="bug">Bug</span> <span class="service">Simple POS</span>  
+##### Public API - GET StockTakeHeaders date filters not accurate <span class="ticket">IM-12917</span>  
+ Resolved issue where date filters were not accurately reflected in filter. Note there is a new POST endpoint for StockTakeHeaders, please see the swagger page for details.  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
   
 ##### MovementType: Receipt should be Renamed to Receive Goods <span class="ticket">IM-12813</span>  
  Renamed 'Receipt' to 'Receive Goods' in Item ->Movement type  

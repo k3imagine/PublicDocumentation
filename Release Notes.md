@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th January 2023
 
+##### POS Admin [Receipt setup]: It does not allow to add blank lines <span class="ticket">IM-13022</span>  
+ Fixed issue where was not possible to insert blank lines in Receipt setup  
+  <span class="bug">Bug</span> <span class="service">Pos Admin</span>  
+  
 ##### Public API - GET StockTakeHeaders date filters not accurate <span class="ticket">IM-12917</span>  
  Resolved issue where date filters were not accurately reflected in filter. Note there is a new POST endpoint for StockTakeHeaders, please see the swagger page for details.  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

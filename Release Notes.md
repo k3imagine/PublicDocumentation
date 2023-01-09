@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th January 2023
+
+##### Product Configurator - Create/Updating Bundle Giving Error 500 <span class="ticket">IM-13064</span>  
+ We can now create and update bundle successfully  
+  <span class="bug">Bug</span> <span class="service">Product Configurator</span>  
+  
 # RELEASE VERSION: 20th December 2022
 
 ##### NumberGen connection string  <span class="ticket">IM-13206</span>  

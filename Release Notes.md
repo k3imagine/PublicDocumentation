@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th January 2023
 
+##### MovementType: Receipt should be Renamed to Receive Goods <span class="ticket">IM-12813</span>  
+ Renamed 'Receipt' to 'Receive Goods' in Item ->Movement type  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory > Item Import  requires manufacturer item number <span class="ticket">IM-13101</span>  
  Fixed issue where manufacturer item number were required on item import  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

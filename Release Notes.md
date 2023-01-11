@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th January 2023
 
+##### OOP S5: Send alert to SS Companion for Out of Paper <span class="ticket">IM-11712</span>  
+ OOP S5: Send alert to SS Companion for Out of Paper  
+  <span class="new">New Feature</span> <span class="service">SCO</span>  
+  
 ##### gw-orb - Update to dotnet 6.0 <span class="ticket">IM-10679</span>  
  gw-orb - Update to dotnet 6.0  
   <span class="new">New Feature</span> <span class="service">TBC</span>  

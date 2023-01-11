@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th January 2023
 
+##### Stock Take - Auto fill "Show counts for section" <span class="ticket">IM-13025</span>  
+ Auto fill Show counts in StockTake  
+  <span class="new">New Feature</span> <span class="service">Stock Management</span>  
+  
 ##### OOP S5: Send alert to SS Companion for Out of Paper <span class="ticket">IM-11712</span>  
  OOP S5: Send alert to SS Companion for Out of Paper  
   <span class="new">New Feature</span> <span class="service">SCO</span>  

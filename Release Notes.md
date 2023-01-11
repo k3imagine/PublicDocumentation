@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th January 2023
 
+##### gw-orb - Update to dotnet 6.0 <span class="ticket">IM-10679</span>  
+ gw-orb - Update to dotnet 6.0  
+  <span class="new">New Feature</span> <span class="service">TBC</span>  
+  
 ##### ms-stockmanagement - Update to dotnet 6.0 <span class="ticket">IM-10757</span>  
  ms-stockmanagement - update to dotnet 6.0  
   <span class="new">New Feature</span> <span class="service">Stock Management</span>  

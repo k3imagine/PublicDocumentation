@@ -1,3 +1,9 @@
+# RELEASE VERSION: 11th January 2023
+
+##### ms-stockmanagement - Update to dotnet 6.0 <span class="ticket">IM-10757</span>  
+ ms-stockmanagement - update to dotnet 6.0  
+  <span class="new">New Feature</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 9th January 2023
 
 ##### POS Admin [Receipt setup]: It does not allow to add blank lines <span class="ticket">IM-13022</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th January 2023
+
+##### Unique Sequential Number barcode label template variable. <span class="ticket">IM-12894</span>  
+ Additional Label Template variable {SequenceNo} added  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 11th January 2023
 
 ##### Stock Take - Auto fill "Show counts for section" <span class="ticket">IM-13025</span>  

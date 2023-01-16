@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th January 2023
+
+##### Inventory --> Receive Goods unable to 'Save and Commit' new GRN <span class="ticket">IM-12832</span>  
+ Fixed issue where Save and commit button was disabled after filling the fields  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 12th January 2023
 
 ##### Unique Sequential Number barcode label template variable. <span class="ticket">IM-12894</span>  

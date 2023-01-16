@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th January 2023
 
+##### remove node-sass from RBO <span class="ticket">IM-13271</span>  
+ remove node-sass from RBO  
+  <span class="debt">Technical Debt</span> <span class="service">RBO</span>  
+  
 ##### Inventory --> Receive Goods unable to 'Save and Commit' new GRN <span class="ticket">IM-12832</span>  
  Fixed issue where Save and commit button was disabled after filling the fields  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

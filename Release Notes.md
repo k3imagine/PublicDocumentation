@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th January 2023
+
+##### ms-promotion - Update to dotnet 6.0 <span class="ticket">IM-10745</span>  
+ N/A  
+  <span class="new">New Feature</span> <span class="service">TBC</span>  
+  
 # RELEASE VERSION: 16th January 2023
 
 ##### remove node-sass from RBO <span class="ticket">IM-13271</span>  

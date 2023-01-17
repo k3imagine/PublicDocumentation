@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th January 2023
 
+##### Include Text and List type Custom Item Attributes values in Elastic Search <span class="ticket">IM-12989</span>  
+ Include Text and List type Custom Item Attributes values in Elastic Search  
+  <span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">POS</span>  
+  
 ##### ms-promotion - Update to dotnet 6.0 <span class="ticket">IM-10745</span>  
  N/A  
   <span class="new">New Feature</span> <span class="service">TBC</span>  

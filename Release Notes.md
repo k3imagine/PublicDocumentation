@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th January 2023
+
+##### POSAdminUI - Hide Chart on POS <span class="ticket">IM-12776</span>  
+ Resolved issue where the chart was not displaying regardless of boolean setting within POS Options  
+  <span class="bug">Bug</span> <span class="service">Pos Admin</span>  
+  
 # RELEASE VERSION: 17th January 2023
 
 ##### Include Text and List type Custom Item Attributes values in Elastic Search <span class="ticket">IM-12989</span>  

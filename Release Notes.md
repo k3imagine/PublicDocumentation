@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd January 2023
+
+##### DisplayName Column Show Twice <span class="ticket">IM-12902</span>  
+ Fixed issue with header labels in Modifiers group  
+  <span class="bug">Bug</span> <span class="service">Product Configurator</span>  
+  
 # RELEASE VERSION: 18th January 2023
 
 ##### POSAdminUI - Hide Chart on POS <span class="ticket">IM-12776</span>  

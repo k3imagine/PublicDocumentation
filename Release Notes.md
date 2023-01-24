@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th January 2023
 
+##### Offline Stock - Moving an item to Vendor Return or Another Shop doubles the loss of item qty when actioned. <span class="ticket">IM-13155</span>  
+ Fixed issue when ,moving items out of offline stock that doubled the loss of item qty when actioned  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### OSD requiring ORB opening first <span class="ticket">IM-13208</span>  
  Fixed issue on OSD where it was required to open ORB first  
   <span class="bug">Bug</span> <span class="service">Order Ready Board</span> <span class="service">Order Status Display</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th January 2023
 
+##### Can't save a vendor with a Duplicate VendorNO <span class="ticket">IM-12953</span>  
+ Fixed issue with general error message when creating a vendor with duplicated number  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 ##### Offline Stock - Moving an item to Vendor Return or Another Shop doubles the loss of item qty when actioned. <span class="ticket">IM-13155</span>  
  Fixed issue when ,moving items out of offline stock that doubled the loss of item qty when actioned  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

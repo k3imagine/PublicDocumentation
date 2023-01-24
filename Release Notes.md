@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th January 2023
+
+##### OSD requiring ORB opening first <span class="ticket">IM-13208</span>  
+ Fixed issue on OSD where it was required to open ORB first  
+  <span class="bug">Bug</span> <span class="service">Order Ready Board</span> <span class="service">Order Status Display</span>  
+  
 # RELEASE VERSION: 23rd January 2023
 
 ##### DisplayName Column Show Twice <span class="ticket">IM-12902</span>  

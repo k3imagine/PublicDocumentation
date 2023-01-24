@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th January 2023
 
+##### Item Creation Vendors List No Longer Alphabetical  <span class="ticket">IM-12903</span>  
+ Vendors dropdown when creating an item now in Alphabetical order  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Item Management</span> <span class="service">UX</span>  
+  
 ##### Can't save a vendor with a Duplicate VendorNO <span class="ticket">IM-12953</span>  
  Fixed issue with general error message when creating a vendor with duplicated number  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th January 2023
 
+##### Inventory Matrix Copy item details not working <span class="ticket">IM-12839</span>  
+ Inventory Matrix Copy item details not working  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Item Movement Shows incorrect additional Entries <span class="ticket">IM-13016</span>  
  Inventory - Bug Fixed Item movement shows correct movement for transfers  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

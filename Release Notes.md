@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th January 2023
+
+##### Stocktake Task Service  <span class="ticket">IM-13286</span>  
+ Resolved issue where starting a recount would cause an error whilst trying to create the new count.  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 25th January 2023
 
 ##### Inventory Matrix Copy item details not working <span class="ticket">IM-12839</span>  

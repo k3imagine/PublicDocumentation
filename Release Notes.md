@@ -1,3 +1,9 @@
+# RELEASE VERSION: 31st January 2023
+
+##### Matrix - Multicopy for Local Price Not Copied Correctly <span class="ticket">IM-13290</span>  
+ Fixed issue where multicopy for Local Price was not copied  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 26th January 2023
 
 ##### Stocktake Task Service  <span class="ticket">IM-13286</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd February 2023
+
+##### SNM - S1 - Create New Item Type 'Serialized' <span class="ticket">IM-12939</span>  
+ New Item Type 'Serialized' now configurable  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 # RELEASE VERSION: 31st January 2023
 
 ##### Matrix - Multicopy for Local Price Not Copied Correctly <span class="ticket">IM-13290</span>  

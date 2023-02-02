@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd February 2023
 
+##### SNM - S3 - Tenant Feature. 'Serial Number Mask' <span class="ticket">IM-12943</span>  
+ New Tenant Feature ' Add Serial Number Mask'  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### SNM - S2 - Tenant Feature. 'Enable SN Tracking' <span class="ticket">IM-12940</span>  
  New Tenant Feature ' Enable Serial Number Tracking'  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

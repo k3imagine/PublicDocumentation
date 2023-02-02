@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd February 2023
 
+##### SNM - S2 - Tenant Feature. 'Enable SN Tracking' <span class="ticket">IM-12940</span>  
+ New Tenant Feature ' Enable Serial Number Tracking'  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### SNM - S1 - Create New Item Type 'Serialized' <span class="ticket">IM-12939</span>  
  New Item Type 'Serialized' now configurable  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

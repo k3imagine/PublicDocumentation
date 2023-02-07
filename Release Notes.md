@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2023
 
+##### PLA - S2 - Set Explicit Tenant Expiry Date <span class="ticket">IM-13059</span>  
+ nrn  
+  <span class="new">New Feature</span> <span class="service">Platform Admin</span>  
+  
 ##### Platform admin - Connector command list cannot see all commands <span class="ticket">IM-13304</span>  
  Platform Admin - View connector command list   
   <span class="bug">Bug</span> <span class="service">Platform Admin</span>  

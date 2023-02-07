@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2023
 
+##### PLA - S1 – Configure License and Contracts email address <span class="ticket">IM-13058</span>  
+ added LicenseContractsTeamEmailAddress field in the DB  
+  <span class="new">New Feature</span> <span class="service">Platform Admin</span>  
+  
 ##### PLA - S2 - Set Explicit Tenant Expiry Date <span class="ticket">IM-13059</span>  
  nrn  
   <span class="new">New Feature</span> <span class="service">Platform Admin</span>  

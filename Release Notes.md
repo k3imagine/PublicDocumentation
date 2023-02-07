@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th February 2023
+
+##### Custom attribute not searchable <span class="ticket">IM-13291</span>  
+ Fixed issue where we could not search an item using a '-'  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 2nd February 2023
 
 ##### SNM - S3 - Tenant Feature. 'Serial Number Mask' <span class="ticket">IM-12943</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2023
 
+##### Platform admin - Connector command list cannot see all commands <span class="ticket">IM-13304</span>  
+ Platform Admin - View connector command list   
+  <span class="bug">Bug</span> <span class="service">Platform Admin</span>  
+  
 ##### Custom attribute not searchable <span class="ticket">IM-13291</span>  
  Fixed issue where we could not search an item using a '-'  
   <span class="bug">Bug</span> <span class="service">POS</span>  

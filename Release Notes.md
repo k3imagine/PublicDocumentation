@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th February 2023
+
+##### file selector dialog broken  <span class="ticket">IM-13356</span>  
+ Inventory - Item import and Backoffice - Upload budget bug fixed  
+  <span class="bug">Bug</span> <span class="service">Side Bar</span>  
+  
 # RELEASE VERSION: 7th February 2023
 
 ##### PLA - S1 – Configure License and Contracts email address <span class="ticket">IM-13058</span>  

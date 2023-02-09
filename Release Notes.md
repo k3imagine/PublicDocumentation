@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th February 2023
+
+##### Stock Management - Get stocktake <span class="ticket">IM-13352</span>  
+ Optimised SQL query when getting a stocktake by ID, This improves loading performance in companion app  
+  <span class="debt">Technical Debt</span> <span class="service">Companion</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 8th February 2023
 
 ##### file selector dialog broken  <span class="ticket">IM-13356</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th February 2023
+
+##### Public API - vendorsbyvendorno  <span class="ticket">IM-13201</span>  
+ Resolved issue where an error was being returned even though endpoint was functioning as expected  
+  <span class="bug">Bug</span> <span class="service">Public API</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 9th February 2023
 
 ##### Stock Management - Get stocktake <span class="ticket">IM-13352</span>  

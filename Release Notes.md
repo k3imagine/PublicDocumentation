@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th February 2023
 
+##### ItemCreation unable to edit an item <span class="ticket">IM-13325</span>  
+ Item Creation unable to edit an item  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Companion App - log rocket  <span class="ticket">IM-13265</span>  
  Fixed issue with Companion App Log Rocket  
   <span class="bug">Bug</span> <span class="service">Portal</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th February 2023
+
+##### MS-RBO - error when sending email with card receipt <span class="ticket">IM-13312</span>  
+ Fixed issue where the email receipt was not received in POS  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 # RELEASE VERSION: 13th February 2023
 
 ##### Public API - vendorsbyvendorno  <span class="ticket">IM-13201</span>  

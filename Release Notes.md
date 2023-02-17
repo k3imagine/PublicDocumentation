@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th February 2023
 
+##### Adyen - Display the last 5 digits of the API key in Admin - FROM IPE <span class="ticket">IM-13368</span>  
+ Adyen - Display the last 5 digits of the API key in Admin  
+  <span class="new">New Feature</span> <span class="service">Payments</span>  
+  
 ##### Adyen - Change of data to be captured for reporting purposes - FROM IPE <span class="ticket">IM-13367</span>  
  Adyen - Change of data to be captured for reporting purposes  
   <span class="new">New Feature</span> <span class="service">Payments</span>  

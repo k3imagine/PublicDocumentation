@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th February 2023
+
+##### Adyen - Change of data to be captured for reporting purposes - FROM IPE <span class="ticket">IM-13367</span>  
+ Adyen - Change of data to be captured for reporting purposes  
+  <span class="new">New Feature</span> <span class="service">Payments</span>  
+  
 # RELEASE VERSION: 14th February 2023
 
 ##### ItemCreation unable to edit an item <span class="ticket">IM-13325</span>  

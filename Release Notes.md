@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th February 2023
+
+##### OSD - create an order clear-down button <span class="ticket">IM-13162</span>  
+ Added <Clear down> button OSD config tab to set all orders to Done  
+  <span class="new">New Feature</span> <span class="service">Order Status Display</span>  
+  
 # RELEASE VERSION: 17th February 2023
 
 ##### Adyen - Display the last 5 digits of the API key in Admin - FROM IPE <span class="ticket">IM-13368</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st February 2023
+
+##### Public API - Kiosk import endpoint not updating existing Items <span class="ticket">IM-12948</span>  
+ Public API - Kiosk import endpoint not updating existing Items  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 20th February 2023
 
 ##### OSD - create an order clear-down button <span class="ticket">IM-13162</span>  

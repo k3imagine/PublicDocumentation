@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd February 2023
 
+##### Create Tenant: 400 error <span class="ticket">IM-13332</span>  
+ Fixed version where creating a tenant was giving a 400 error  
+  <span class="bug">Bug</span> <span class="service">Platform Admin</span>  
+  
 ##### OSD: 500 error when loading OSD <span class="ticket">IM-13215</span>  
  Fixed issue where OSD was giving a 500  
   <span class="bug">Bug</span> <span class="service">Order Status Display</span>  

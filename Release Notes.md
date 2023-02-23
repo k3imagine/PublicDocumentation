@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd February 2023
 
+##### Inventory : Create PO Giving 500 Error <span class="ticket">IM-13364</span>  
+ Inventory : Create PO Giving 500 Error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Create Tenant: 400 error <span class="ticket">IM-13332</span>  
  Fixed version where creating a tenant was giving a 400 error  
   <span class="bug">Bug</span> <span class="service">Platform Admin</span>  

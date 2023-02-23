@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd February 2023
+
+##### OSD: 500 error when loading OSD <span class="ticket">IM-13215</span>  
+ Fixed issue where OSD was giving a 500  
+  <span class="bug">Bug</span> <span class="service">Order Status Display</span>  
+  
 # RELEASE VERSION: 21st February 2023
 
 ##### Public API - Kiosk import endpoint not updating existing Items <span class="ticket">IM-12948</span>  

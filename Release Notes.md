@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd February 2023
 
+##### Inventory : Create a GRN Giving 500 error <span class="ticket">IM-13405</span>  
+ Inventory : Create a GRN Giving 500 error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory : Create PO Giving 500 Error <span class="ticket">IM-13364</span>  
  Inventory : Create PO Giving 500 Error  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

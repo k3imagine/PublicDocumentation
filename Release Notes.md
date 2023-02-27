@@ -1,3 +1,11 @@
+# RELEASE VERSION: 27th February 2023
+
+##### VAT is showing incorrectly on receipts where transactions which have multiple Items with 0% and another Vat Rate eg 20% <span class="ticket">IM-13313</span>  
+ Fixed issue where VAT was showing incorrectly in receipts  
+  
+ <div class="breaking-change"><p>This change requires a connector reboot for the changes to take effect.</p></div> 
+<span class="bug">Bug</span> <span class="service">Connector</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 23rd February 2023
 
 ##### Inventory : Create a GRN Giving 500 error <span class="ticket">IM-13405</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd March 2023
+
+##### Login error links to old K3 website <span class="ticket">IM-13360</span>  
+ Fixed an issue where the old k3 website was shown when logging errored   
+  <span class="bug">Bug</span> <span class="service">Portal</span>  
+  
 # RELEASE VERSION: 27th February 2023
 
 ##### VAT is showing incorrectly on receipts where transactions which have multiple Items with 0% and another Vat Rate eg 20% <span class="ticket">IM-13313</span>  

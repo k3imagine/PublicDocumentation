@@ -1,9 +1,3 @@
-# RELEASE VERSION: 1st March 2023
-
-##### SNM - S4.5 - API Prevent (master)Item Code and Barcode Duplication <span class="ticket">IM-13010</span>  
- nrn  
-  <span class="new">New Feature</span> <span class="service">Item Management</span>  
-  
 # RELEASE VERSION: 27th February 2023
 
 ##### VAT is showing incorrectly on receipts where transactions which have multiple Items with 0% and another Vat Rate eg 20% <span class="ticket">IM-13313</span>  

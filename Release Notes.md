@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th March 2023
 
+##### DRN - S2 - Enhance POS Receipt Number Search to Use Part Strings <span class="ticket">IM-13173</span>  
+ DRN - S2 - Enhance POS Receipt Number Search to Use Part Strings  
+  <span class="new">New Feature</span> <span class="service">POS Identity</span> <span class="service">Search</span>  
+  
 ##### PoS: add a * to First and Last Name <span class="ticket">IM-11407</span>  
  POS - Added * to Customer required fields first name and last name  
   <span class="new">New Feature</span> <span class="service">POS</span>  

@@ -8,10 +8,6 @@
  POS - Added * to Customer required fields first name and last name  
   <span class="new">New Feature</span> <span class="service">POS</span>  
   
-##### PLA - S3 - Send email on creation of a new Imagine Tenant <span class="ticket">IM-13061</span>  
- nrn  
-  <span class="new">New Feature</span> <span class="service">Platform Admin</span>  
-  
 ##### Wrong Cost on PO PDF File <span class="ticket">IM-13147</span>  
  Inventory - Cost price entered on the PO now reflected in the PDF   
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Item Management</span>  

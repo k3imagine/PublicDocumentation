@@ -1,3 +1,9 @@
+# RELEASE VERSION: 6th March 2023
+
+##### Wrong Cost on PO PDF File <span class="ticket">IM-13147</span>  
+ Inventory - Cost price entered on the PO now reflected in the PDF   
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Item Management</span>  
+  
 # RELEASE VERSION: 2nd March 2023
 
 ##### Login error links to old K3 website <span class="ticket">IM-13360</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 6th March 2023
 
+##### PoS: add a * to First and Last Name <span class="ticket">IM-11407</span>  
+ POS - Added * to Customer required fields first name and last name  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### PLA - S3 - Send email on creation of a new Imagine Tenant <span class="ticket">IM-13061</span>  
  nrn  
   <span class="new">New Feature</span> <span class="service">Platform Admin</span>  

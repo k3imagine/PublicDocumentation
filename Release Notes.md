@@ -1,5 +1,9 @@
 # RELEASE VERSION: 13th March 2023
 
+##### PlatformAdminGW - Don't fail create a new tenant if a mail can't be send <span class="ticket">IM-13432</span>  
+ Fixed issue where tenant could not be created if an email could not be sent  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Display screen for creating Expense should only show expense Name <span class="ticket">IM-11121</span>  
  Only the expense name now showing when trying to create expense.  
   <span class="new">New Feature</span> <span class="service">POS</span>  

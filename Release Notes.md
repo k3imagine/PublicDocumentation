@@ -1,5 +1,9 @@
 # RELEASE VERSION: 13th March 2023
 
+##### Display screen for creating Expense should only show expense Name <span class="ticket">IM-11121</span>  
+ Only the expense name now showing when trying to create expense.  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### POSUI: Offline Functionality <span class="ticket">IM-13167</span>  
  Fixed issue where could not use POS when offline  
   <span class="bug">Bug</span> <span class="service">POS</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th March 2023
+
+##### POSUI: Offline Functionality <span class="ticket">IM-13167</span>  
+ Fixed issue where could not use POS when offline  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 6th March 2023
 
 ##### DRN - S2 - Enhance POS Receipt Number Search to Use Part Strings <span class="ticket">IM-13173</span>  

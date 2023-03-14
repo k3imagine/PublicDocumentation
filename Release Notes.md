@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th March 2023
 
+##### Received Goods - Loading page continuously showing  <span class="ticket">IM-13434</span>  
+ Fixed an issue where the loading of received goods failed with currency code error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Public API</span>  
+  
 ##### Intersolve: Clerk without a password is asked to entered one to refund voucher <span class="ticket">IM-11693</span>  
  Fixed issue where a clerk without a password was asked to entered one to refund voucher  
   <span class="bug">Bug</span> <span class="service">IntersolveUI</span>  

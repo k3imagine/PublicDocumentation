@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th March 2023
 
+##### Received Goods - Loading page continuously showing Overreceive error <span class="ticket">IM-13481</span>  
+ Fixed an issue where the loading of received goods failed with currency code error  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Public API</span>  
+  
 ##### Received Goods - Loading page continuously showing  <span class="ticket">IM-13434</span>  
  Fixed an issue where the loading of received goods failed with currency code error  
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Public API</span>  

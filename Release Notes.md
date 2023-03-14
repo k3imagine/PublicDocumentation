@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th March 2023
+
+##### Intersolve: Clerk without a password is asked to entered one to refund voucher <span class="ticket">IM-11693</span>  
+ Fixed issue where a clerk without a password was asked to entered one to refund voucher  
+  <span class="bug">Bug</span> <span class="service">IntersolveUI</span>  
+  
 # RELEASE VERSION: 13th March 2023
 
 ##### PlatformAdminGW - Don't fail create a new tenant if a mail can't be send <span class="ticket">IM-13432</span>  

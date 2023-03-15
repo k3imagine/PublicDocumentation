@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th March 2023
 
+##### Transfers - (Part1) Cost at Sending Shop should be used on Transfer Document <span class="ticket">IM-13013</span>  
+ Transfer-Out document now uses sending shop weighted average cost.  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### Transfers - (Part2) Weighted Average Cost should be updated when receiving items from other shop <span class="ticket">IM-13014</span>  
  Weighted average cost is now recalculated wen receiving on a transfer-in.  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

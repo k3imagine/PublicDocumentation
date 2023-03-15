@@ -1,3 +1,9 @@
+# RELEASE VERSION: 15th March 2023
+
+##### Transfers - (Part2) Weighted Average Cost should be updated when receiving items from other shop <span class="ticket">IM-13014</span>  
+ Weighted average cost is now recalculated wen receiving on a transfer-in.  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 14th March 2023
 
 ##### Received Goods - Loading page continuously showing Overreceive error <span class="ticket">IM-13481</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2023
 
+##### PublicAPI: Remove vendorNo update <span class="ticket">IM-13334</span>  
+ PublicAPI: Remove vendorNo update  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Unable to create new items <span class="ticket">IM-13466</span>  
  Inventory - Bug Fixed - Unable to use creation wizard as timing out  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

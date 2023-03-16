@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2023
 
+##### Public API - Kiosk import endpoint error <span class="ticket">IM-13498</span>  
+ Resolved issue with Auth on the KioskImport endpoints  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### LS Pay Integration - FROM IPE <span class="ticket">IM-13423</span>  
  LS Pay Integration  
   <span class="new">New Feature</span> <span class="service">Payments</span>  

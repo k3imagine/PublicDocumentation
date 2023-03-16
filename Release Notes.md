@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th March 2023
+
+##### LS Pay Integration - FROM IPE <span class="ticket">IM-13423</span>  
+ LS Pay Integration  
+  <span class="new">New Feature</span> <span class="service">Payments</span>  
+  
 # RELEASE VERSION: 15th March 2023
 
 ##### Transfers - (Part1) Cost at Sending Shop should be used on Transfer Document <span class="ticket">IM-13013</span>  

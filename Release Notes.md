@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2023
 
+##### Stocktake Approval fails - 409 conflict <span class="ticket">IM-13353</span>  
+ Companion now shows message that the Stocktake cannot be reviewed if already closed  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Public API - Kiosk import endpoint error <span class="ticket">IM-13498</span>  
  Resolved issue with Auth on the KioskImport endpoints  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

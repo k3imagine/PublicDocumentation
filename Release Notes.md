@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2023
 
+##### Cost price in Analysis Items beta report is being reflected as last Cost instead of Weighted Average <span class="ticket">IM-13394</span>  
+ Analysis - Items - Now shows weighted average cost instead of last cost.  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Stocktake Approval fails - 409 conflict <span class="ticket">IM-13353</span>  
  Companion now shows message that the Stocktake cannot be reviewed if already closed  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th March 2023
 
+##### Unable to create new items <span class="ticket">IM-13466</span>  
+ Inventory - Bug Fixed - Unable to use creation wizard as timing out  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Cost price in Analysis Items beta report is being reflected as last Cost instead of Weighted Average <span class="ticket">IM-13394</span>  
  Analysis - Items - Now shows weighted average cost instead of last cost.  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

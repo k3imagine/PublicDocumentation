@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th March 2023
+
+##### Use V8 (v8.dev) in JS Engine <span class="ticket">IPE-3605</span>  
+ Add the JsonPath functionality on JS Engine using V8  
+  <span class="new">New Feature</span> <span class="service">Asset: JS Engine</span>  
+  
 # RELEASE VERSION: 16th March 2023
 
 ##### PublicAPI: Remove vendorNo update <span class="ticket">IM-13334</span>  

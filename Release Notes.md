@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th March 2023
+
+##### Welcome details not send after creating a new tenant/user <span class="ticket">IM-13441</span>  
+ Platform Admin - Welcome Email now sent when new tenant created  
+  <span class="bug">Bug</span> <span class="service">Portal</span>  
+  
 # RELEASE VERSION: 16th March 2023
 
 ##### PublicAPI: Remove vendorNo update <span class="ticket">IM-13334</span>  

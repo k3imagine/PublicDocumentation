@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st March 2023
 
+##### PO: Can not cancel a placed PO <span class="ticket">IM-13366</span>  
+ Inventory - Issue with Cancelling placed PO's resolved.   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Stock - Purchase order fails to create item stock record <span class="ticket">IM-13461</span>  
  Resolved issue with creating Purchase Order with multiple lines of same item but different serial number  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

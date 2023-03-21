@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st March 2023
+
+##### Stock - Purchase order fails to create item stock record <span class="ticket">IM-13461</span>  
+ Resolved issue with creating Purchase Order with multiple lines of same item but different serial number  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 20th March 2023
 
 ##### Welcome details not send after creating a new tenant/user <span class="ticket">IM-13441</span>  

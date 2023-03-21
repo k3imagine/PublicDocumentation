@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st March 2023
 
+##### POM - S0.6 - Add Currency to Vendor Creation <span class="ticket">IM-13459</span>  
+ Vendor now requires a specified currency on creation  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### Stock - Purchase order cancel remaining items fails <span class="ticket">IM-13439</span>  
  Stock - Cancelling of remaining Items on PO resolved  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

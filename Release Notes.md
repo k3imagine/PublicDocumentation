@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st March 2023
 
+##### Stock - Purchase order cancel remaining items fails <span class="ticket">IM-13439</span>  
+ Stock - Cancelling of remaining Items on PO resolved  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### PO: Can not cancel a placed PO <span class="ticket">IM-13366</span>  
  Inventory - Issue with Cancelling placed PO's resolved.   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd March 2023
 
+##### SNM - SerialNumbers can only be linked to Items of type 'Serialized'  <span class="ticket">IM-13455</span>  
+ Can only save Serial No to item type Serialized  
+  <span class="bug">Bug</span> <span class="service">Portal</span>  
+  
 ##### ITM - Add Reference Column to Item List Movements Grid <span class="ticket">IM-12695</span>  
  Reference column added to Item List Movements Grid  
   

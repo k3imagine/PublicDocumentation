@@ -1,3 +1,11 @@
+# RELEASE VERSION: 22nd March 2023
+
+##### ITM - Add Reference Column to Item List Movements Grid <span class="ticket">IM-12695</span>  
+ Reference column added to Item List Movements Grid  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="" target="_blank">swagger documentation</a></p></div> 
+<span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">Item Management</span>  
+  
 # RELEASE VERSION: 21st March 2023
 
 ##### POM - S0.6 - Add Currency to Vendor Creation <span class="ticket">IM-13459</span>  

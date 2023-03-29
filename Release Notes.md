@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th March 2023
 
+##### Backoffice - Cannot rename or delete vendors <span class="ticket">IM-13551</span>  
+ Resolved issue where a vendor could not be renamed or deleted  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Missing Information on Matrix tab of Item (Matrix items only) <span class="ticket">IM-13520</span>  
  Fixed Missing Information on Matrix tab of Item (Matrix items only)  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

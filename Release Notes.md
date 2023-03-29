@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th March 2023
 
+##### Missing Information on Matrix tab of Item (Matrix items only) <span class="ticket">IM-13520</span>  
+ Fixed Missing Information on Matrix tab of Item (Matrix items only)  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Printed receipt always shows 0% <span class="ticket">IM-13446</span>  
  Receipts now only show VAT relevant to items on receipt  
   

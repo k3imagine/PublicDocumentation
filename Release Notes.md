@@ -1,3 +1,11 @@
+# RELEASE VERSION: 29th March 2023
+
+##### Printed receipt always shows 0% <span class="ticket">IM-13446</span>  
+ Receipts now only show VAT relevant to items on receipt  
+  
+ <div class="breaking-change"><p>This change requires a connector reboot for the changes to take effect.</p></div> 
+<span class="bug">Bug</span> <span class="service">Connector</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 22nd March 2023
 
 ##### SNM - SerialNumbers can only be linked to Items of type 'Serialized'  <span class="ticket">IM-13455</span>  

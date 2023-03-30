@@ -1,5 +1,11 @@
 # RELEASE VERSION: 30th March 2023
 
+##### Tenant Creation: Demodata/seed data not being set <span class="ticket">IM-13519</span>  
+ Demo data and default settings now being applied on tenant creation  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="" target="_blank">swagger documentation</a></p></div> 
+<span class="bug">Bug</span> <span class="service">Platform Admin</span>  
+  
 ##### Analysis - Sales Beta - Report not running due to weightedaveragetenantcost not present <span class="ticket">IM-13521</span>  
  Fixed Analysis - Sales Beta - Report not running due to weightedaveragetenantcost not present  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

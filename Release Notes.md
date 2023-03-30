@@ -1,3 +1,9 @@
+# RELEASE VERSION: 30th March 2023
+
+##### Analysis - Sales Beta - Report not running due to weightedaveragetenantcost not present <span class="ticket">IM-13521</span>  
+ Fixed Analysis - Sales Beta - Report not running due to weightedaveragetenantcost not present  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 29th March 2023
 
 ##### Backoffice - Cannot rename or delete vendors <span class="ticket">IM-13551</span>  

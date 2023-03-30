@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th March 2023
 
+##### Stock - Can't save and commit a Transfer <span class="ticket">IM-13528</span>  
+ Stock - can't save and commit a transfer   
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  
+  
 ##### Tenant Creation: Demodata/seed data not being set <span class="ticket">IM-13519</span>  
  Demo data and default settings now being applied on tenant creation  
   

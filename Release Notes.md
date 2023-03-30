@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th March 2023
 
+##### ANL Item analysis filters - Item No <span class="ticket">IM-13518</span>  
+ Implemented Item No filter in Item Analysis  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### ANL Item analysis filters - Dimensions  <span class="ticket">IM-13512</span>  
  Implemented Dimensions in Item Analysis  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

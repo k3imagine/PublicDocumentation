@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th March 2023
 
+##### ANL Item analysis filters - Dimensions  <span class="ticket">IM-13512</span>  
+ Implemented Dimensions in Item Analysis  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Stock - Can't save and commit a Transfer <span class="ticket">IM-13528</span>  
  Stock - can't save and commit a transfer   
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  

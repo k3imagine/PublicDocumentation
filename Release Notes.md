@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd April 2023
 
+##### ms-selfserveadmin - Update to dotnet 6.0 <span class="ticket">IM-10754</span>  
+ ms-selfserveadmin update to dotnet 6.0  
+  <span class="debt">Technical Debt</span> <span class="service">TBC</span>  
+  
 ##### POM - S3 - Use Selected Vendor's Currency and Item Cost on New PO <span class="ticket">IM-13460</span>  
  New PO's now use Vendor Currency and Vendor tem Costs  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

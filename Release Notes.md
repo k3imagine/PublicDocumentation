@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd April 2023
 
+##### ANL Item analysis filters - Master Item No <span class="ticket">IM-13517</span>  
+ Implemented Master Item No filter in Item Analysis   
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Public API - Create Vendor endpoint failing <span class="ticket">IM-13555</span>  
  Resolved issue with creating a new Vendor via POST /api/v1.0/Vendor  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

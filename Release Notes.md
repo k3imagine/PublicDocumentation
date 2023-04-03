@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd April 2023
 
+##### Barcode not found when adding items does not show toast <span class="ticket">IM-9744</span>  
+ Inventory - not found toast now showing   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### ms-selfserveadmin - Update to dotnet 6.0 <span class="ticket">IM-10754</span>  
  ms-selfserveadmin update to dotnet 6.0  
   <span class="debt">Technical Debt</span> <span class="service">TBC</span>  

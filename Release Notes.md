@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd April 2023
+
+##### Public API - Create Vendor endpoint failing <span class="ticket">IM-13555</span>  
+ Resolved issue with creating a new Vendor via POST /api/v1.0/Vendor  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 30th March 2023
 
 ##### ANL Item analysis filters - Item No <span class="ticket">IM-13518</span>  

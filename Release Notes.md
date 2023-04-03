@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd April 2023
 
+##### POM - S3 - Use Selected Vendor's Currency and Item Cost on New PO <span class="ticket">IM-13460</span>  
+ New PO's now use Vendor Currency and Vendor tem Costs  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### ANL Item analysis filters - Master Item No <span class="ticket">IM-13517</span>  
  Implemented Master Item No filter in Item Analysis   
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

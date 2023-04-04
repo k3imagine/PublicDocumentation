@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th April 2023
+
+##### ANL - Sales (Beta) do not include 'Cash Statement' records in report. <span class="ticket">IM-13477</span>  
+ Cash Statements now not included in Sales Report  
+  <span class="bug">Bug</span> <span class="service">Reports</span>  
+  
 # RELEASE VERSION: 3rd April 2023
 
 ##### Barcode not found when adding items does not show toast <span class="ticket">IM-9744</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th April 2023
 
+##### Stock MS - POST stocktake-selectedby-ids <span class="ticket">IM-13582</span>  
+ Stock MS - POST stocktake-selectedby-ids  
+  <span class="debt">Technical Debt</span> <span class="service">Companion</span> <span class="service">Stock Management</span>  
+  
 ##### Sales(Beta) Analysis Returns Error when attempting to Pre-Group <span class="ticket">IM-13584</span>  
  Sales(Beta) Analysis Returns Error when attempting to Pre-Group  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

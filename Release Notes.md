@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th April 2023
 
+##### Sales(Beta) Analysis Returns Error when attempting to Pre-Group <span class="ticket">IM-13584</span>  
+ Sales(Beta) Analysis Returns Error when attempting to Pre-Group  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### ANL - Sales (Beta) do not include 'Cash Statement' records in report. <span class="ticket">IM-13477</span>  
  Cash Statements now not included in Sales Report  
   <span class="bug">Bug</span> <span class="service">Reports</span>  

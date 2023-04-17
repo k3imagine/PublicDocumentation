@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th April 2023
 
+##### SNM - S7 -  Item number and SN to Fluctuating Transaction Line Properties <span class="ticket">IM-12957</span>  
+ Serial Number  saved to fluctuating properties.  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### SNM - S6 - (UI) Sell by Serial Number BY Item number at POS <span class="ticket">IM-12952</span>  
  Adding Serial Number to Item Sale/Return at POS  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th April 2023
 
+##### Visual Composer : Profile Overview Error Message Not Friendly/Meaningful to User <span class="ticket">IM-13194</span>  
+ Visual Composer -   
+  <span class="bug">Bug</span> <span class="service">Visual Composer</span>  
+  
 ##### SNM - S5 - (UI) Sell by Serial Number at POS <span class="ticket">IM-12946</span>  
  Sell/Return by Serial Number at POS  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

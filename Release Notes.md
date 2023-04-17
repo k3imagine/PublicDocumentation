@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th April 2023
 
+##### SNM - S6 - (UI) Sell by Serial Number BY Item number at POS <span class="ticket">IM-12952</span>  
+ Adding Serial Number to Item Sale/Return at POS  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### RBO - Can only expire gift vouchers if expirationdate has passed <span class="ticket">IM-12351</span>  
  Expiry of Gift Vouchers in Backoffice now works.  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

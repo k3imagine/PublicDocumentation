@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th April 2023
 
+##### SNM - S5 - (UI) Sell by Serial Number at POS <span class="ticket">IM-12946</span>  
+ Sell/Return by Serial Number at POS  
+  <span class="new">New Feature</span> <span class="service">Item Management</span>  
+  
 ##### SNM - S7 -  Item number and SN to Fluctuating Transaction Line Properties <span class="ticket">IM-12957</span>  
  Serial Number  saved to fluctuating properties.  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th April 2023
+
+##### RBO - Can only expire gift vouchers if expirationdate has passed <span class="ticket">IM-12351</span>  
+ Expiry of Gift Vouchers in Backoffice now works.  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 # RELEASE VERSION: 4th April 2023
 
 ##### Stock MS - POST stocktake-selectedby-ids <span class="ticket">IM-13582</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2023
 
+##### Analysis - Item (Beta) Shop Filter Issue <span class="ticket">IM-13537</span>  
+ Analysis - Item (Beta) Stop filter bug resolved  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Public API - PUT vendorsbyvendorno endpoint failing <span class="ticket">IM-13557</span>  
  Fix Public API - PUT vendorsbyvendorno endpoint failing  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

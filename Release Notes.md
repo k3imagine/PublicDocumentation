@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th April 2023
+
+##### Public API - PUT vendorsbyvendorno endpoint failing <span class="ticket">IM-13557</span>  
+ Fix Public API - PUT vendorsbyvendorno endpoint failing  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 17th April 2023
 
 ##### Visual Composer : Profile Overview Error Message Not Friendly/Meaningful to User <span class="ticket">IM-13194</span>  

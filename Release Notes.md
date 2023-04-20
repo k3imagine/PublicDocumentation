@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th April 2023
 
+##### POS Z-Read Do NOT split out different card types on Z Report <span class="ticket">IM-13464</span>  
+ Z-Read Quantity and Values grouped on 'Card' and NOT 'Card Name' with Adyen integration  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### ANL Item analysis filters - Vendor ItemNO <span class="ticket">IM-13516</span>  
  Implemented Vendor Item No in Item Analysis  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

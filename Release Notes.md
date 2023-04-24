@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th April 2023
+
+##### Inventory - Changing Vendor Cost does not update the Vendor Cost field within Matrix <span class="ticket">IM-13597</span>  
+ Updating the cost within Vendor Management is now reflected on the item  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 20th April 2023
 
 ##### POS Z-Read Do NOT split out different card types on Z Report <span class="ticket">IM-13464</span>  

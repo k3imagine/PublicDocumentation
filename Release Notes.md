@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th April 2023
 
+##### [Item Management] Primary Vendor is not populated on item card and Vendor Management modal after item creation <span class="ticket">IM-13602</span>  
+ [Item Management] Primary Vendor is not populated on item card and Vendor Management modal after item creation  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### NPM-Package Item Search Shop Select Not Working <span class="ticket">IM-13421</span>  
  Inventory Transfers - Item Search within Shop Fixed  
   <span class="bug">Bug</span> <span class="service">All_UI's</span>  

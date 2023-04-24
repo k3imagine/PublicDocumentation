@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th April 2023
 
+##### NPM-Package Item Search Shop Select Not Working <span class="ticket">IM-13421</span>  
+ Inventory Transfers - Item Search within Shop Fixed  
+  <span class="bug">Bug</span> <span class="service">All_UI's</span>  
+  
 ##### Inventory - Changing Vendor Cost does not update the Vendor Cost field within Matrix <span class="ticket">IM-13597</span>  
  Updating the cost within Vendor Management is now reflected on the item  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

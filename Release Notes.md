@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th April 2023
 
+##### Item Import & stock import Not Working <span class="ticket">IM-13642</span>  
+ Item Import & stock import Not Working  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### [Item Management] Primary Vendor is not populated on item card and Vendor Management modal after item creation <span class="ticket">IM-13602</span>  
  [Item Management] Primary Vendor is not populated on item card and Vendor Management modal after item creation  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

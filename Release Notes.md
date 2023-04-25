@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th April 2023
 
+##### ANL Item analysis filters - Master item name <span class="ticket">IM-13513</span>  
+ Added master item name filter on Item Analysis  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### ANL Item analysis filters - Item description <span class="ticket">IM-13514</span>  
  Analysis - Item Description Filter  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

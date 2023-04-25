@@ -1,3 +1,9 @@
+# RELEASE VERSION: 25th April 2023
+
+##### ANL Item analysis filters - Item description <span class="ticket">IM-13514</span>  
+ Analysis - Item Description Filter  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 24th April 2023
 
 ##### Item Import & stock import Not Working <span class="ticket">IM-13642</span>  

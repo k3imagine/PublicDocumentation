@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th April 2023
 
+##### POM - S3.1 item Search  <span class="ticket">IM-13572</span>  
+ Added non prImary vendor in the item search in PO  
+  <span class="new">New Feature</span> <span class="service">Item-Search Component</span>  
+  
 ##### [Item Management] Changing the cost price from Vendor Management Modal does not update the Margin on the item card <span class="ticket">IM-13605</span>  
  Fixed issue where changing the cost from vendor mngmt didnt update estimated margin  
   <span class="bug">Bug</span> <span class="service">Item Management</span>  

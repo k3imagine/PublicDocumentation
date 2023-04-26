@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th April 2023
 
+##### ANL Item analysis filters - Item barcode <span class="ticket">IM-13515</span>  
+ Analysis - Item (Beta) filters - Item barcode  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### POM - S3.1 item Search  <span class="ticket">IM-13572</span>  
  Added non prImary vendor in the item search in PO  
   <span class="new">New Feature</span> <span class="service">Item-Search Component</span>  

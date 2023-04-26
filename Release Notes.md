@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th April 2023
+
+##### [Item Management] Changing the cost price from Vendor Management Modal does not update the Margin on the item card <span class="ticket">IM-13605</span>  
+ Fixed issue where changing the cost from vendor mngmt didnt update estimated margin  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 # RELEASE VERSION: 25th April 2023
 
 ##### ANL Item analysis filters - Master item name <span class="ticket">IM-13513</span>  

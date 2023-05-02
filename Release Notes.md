@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd May 2023
+
+##### ms-bulkstocktakeimport - Update to dotnet 6.0 <span class="ticket">IM-10708</span>  
+ ms-bulkstocktakeimport-update to dotnet 6.0  
+  <span class="debt">Technical Debt</span> <span class="service">TBC</span>  
+  
 # RELEASE VERSION: 26th April 2023
 
 ##### ANL Item analysis filters - Item barcode <span class="ticket">IM-13515</span>  

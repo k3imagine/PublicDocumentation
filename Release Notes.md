@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd May 2023
+
+##### Donated Stock : It is missing the printing server software <span class="ticket">IM-13397</span>  
+ Fixed issue where could not download print server  
+  <span class="bug">Bug</span> <span class="service">Donated Stock</span>  
+  
 # RELEASE VERSION: 2nd May 2023
 
 ##### ms-bulkstocktakeimport - Update to dotnet 6.0 <span class="ticket">IM-10708</span>  

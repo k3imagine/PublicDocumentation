@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd May 2023
 
+##### Stock MS Transfer Modified Date <span class="ticket">IM-10414</span>  
+ Added modified date on transfer out  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Donated Stock : It is missing the printing server software <span class="ticket">IM-13397</span>  
  Fixed issue where could not download print server  
   <span class="bug">Bug</span> <span class="service">Donated Stock</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th May 2023
+
+##### Sales report query returns more rows than expected <span class="ticket">IM-13570</span>  
+ Analysis - Sales (Beta) report now showing correct number of sales.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 3rd May 2023
 
 ##### Stock MS Transfer Modified Date <span class="ticket">IM-10414</span>  

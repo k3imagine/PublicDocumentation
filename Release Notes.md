@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th May 2023
 
+##### ms-weborder - Update to dotnet 6.0 <span class="ticket">IM-10765</span>  
+ ms-weborder - Update to dotnet 6.0  
+  <span class="debt">Technical Debt</span> <span class="service">TBC</span>  
+  
 ##### Sales report query returns more rows than expected <span class="ticket">IM-13570</span>  
  Analysis - Sales (Beta) report now showing correct number of sales.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

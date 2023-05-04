@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th May 2023
 
+##### POS: Customer - It is missing the labels on the soft keyboard to add new address <span class="ticket">IM-7865</span>  
+ POS - Soft Keyboard Labels for adding Customer Address.  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### ms-weborder - Update to dotnet 6.0 <span class="ticket">IM-10765</span>  
  ms-weborder - Update to dotnet 6.0  
   <span class="debt">Technical Debt</span> <span class="service">TBC</span>  

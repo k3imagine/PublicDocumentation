@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th May 2023
 
+##### VendorMS: Add migration to recreate all vendoritems <span class="ticket">IM-13680</span>  
+ VendorMS: Fixed issue where primary vendor was not shown  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">RBO</span>  
+  
 ##### POS - Rebrand K3 Imagine logo <span class="ticket">IM-13443</span>  
  Rebrand POS with new logo  
   <span class="new">New Feature</span> <span class="service">POS</span>  

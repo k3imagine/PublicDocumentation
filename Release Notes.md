@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th May 2023
 
+##### ms-bulkitemimport - Update to dotnet 6.0 <span class="ticket">IM-10707</span>  
+ ms-bulkitemimport - Update to dotnet 6.0  
+  <span class="debt">Technical Debt</span> <span class="service">TBC</span>  
+  
 ##### BI Gateway - StockMovements  <span class="ticket">IM-13611</span>  
  Stock Movements now filtering by date given in the 'Since' field  
   <span class="bug">Bug</span> <span class="service">BI Gateway</span>  

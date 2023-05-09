@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th May 2023
 
+##### POS - Rebrand K3 Imagine logo <span class="ticket">IM-13443</span>  
+ Rebrand POS with new logo  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### ms-bulkitemimport - Update to dotnet 6.0 <span class="ticket">IM-10707</span>  
  ms-bulkitemimport - Update to dotnet 6.0  
   <span class="debt">Technical Debt</span> <span class="service">TBC</span>  

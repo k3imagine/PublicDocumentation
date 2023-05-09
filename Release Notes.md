@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th May 2023
+
+##### Inventory - Stock Lookup UI stuck loading on response  <span class="ticket">IM-13689</span>  
+ Resolved issue with the stock lookup UI hanging when loading item information  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 4th May 2023
 
 ##### POS: Customer - It is missing the labels on the soft keyboard to add new address <span class="ticket">IM-7865</span>  

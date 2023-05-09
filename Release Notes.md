@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th May 2023
 
+##### BI Gateway - StockMovements  <span class="ticket">IM-13611</span>  
+ Stock Movements now filtering by date given in the 'Since' field  
+  <span class="bug">Bug</span> <span class="service">BI Gateway</span>  
+  
 ##### Inventory - Stock Lookup UI stuck loading on response  <span class="ticket">IM-13689</span>  
  Resolved issue with the stock lookup UI hanging when loading item information  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

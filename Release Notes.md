@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th May 2023
 
+##### Data pagination in products endpoint of BI gateway <span class="ticket">IM-11092</span>  
+ BI GW- Pagination  
+  <span class="bug">Bug</span> <span class="service">BI Gateway</span>  
+  
 ##### VendorMS: Add migration to recreate all vendoritems <span class="ticket">IM-13680</span>  
  VendorMS: Fixed issue where primary vendor was not shown  
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">RBO</span>  

@@ -1,3 +1,11 @@
+# RELEASE VERSION: 10th May 2023
+
+##### G00100 - Customer - S1 - provide additional option for External Unique Id to be system generated <span class="ticket">IM-11496</span>  
+ Customer: Additional option for ext unique ID to be system generated  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="" target="_blank">swagger documentation</a></p></div> 
+<span class="new">New Feature</span> <span class="service">Customer</span>  
+  
 # RELEASE VERSION: 9th May 2023
 
 ##### Data pagination in products endpoint of BI gateway <span class="ticket">IM-11092</span>  

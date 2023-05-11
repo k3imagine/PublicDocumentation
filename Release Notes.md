@@ -1,3 +1,9 @@
+# RELEASE VERSION: 11th May 2023
+
+##### POM - S2.1 - Make 'Primary Vendor Field' on Matrix Tabs (Both Variant and Non-Variant versions) Read Only <span class="ticket">IM-13652</span>  
+ Primary Vendor now NOT selectable from Matrix Tab  
+  <span class="new">New Feature</span> <span class="service">Item Management</span> <span class="service">Portal</span>  
+  
 # RELEASE VERSION: 10th May 2023
 
 ##### G00100 - Customer - S1 - provide additional option for External Unique Id to be system generated <span class="ticket">IM-11496</span>  

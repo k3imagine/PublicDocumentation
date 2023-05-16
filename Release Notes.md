@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th May 2023
+
+##### Offline stock not transferable to 'On-hand' if item on-hand qty is negative. <span class="ticket">IM-10472</span>  
+ Fixed issue where couldn't transfer item to 'on-hand' if it is negative  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 11th May 2023
 
 ##### POM - S2.1 - Make 'Primary Vendor Field' on Matrix Tabs (Both Variant and Non-Variant versions) Read Only <span class="ticket">IM-13652</span>  

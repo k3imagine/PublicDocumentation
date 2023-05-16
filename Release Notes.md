@@ -1,5 +1,9 @@
 # RELEASE VERSION: 16th May 2023
 
+##### Inventory - various bug fixes in Custom Attributes (Remove the Id column from the CA table) <span class="ticket">IM-12014</span>  
+ Removed Id column from CA table  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Offline stock not transferable to 'On-hand' if item on-hand qty is negative. <span class="ticket">IM-10472</span>  
  Fixed issue where couldn't transfer item to 'on-hand' if it is negative  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

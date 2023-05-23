@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### ANL S0.6 - Access control on sidebar entries  <span class="ticket">IM-13695</span>  
+ Added Analysis in the Permissions  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Stock - Exchange transactions are not being recorded in stock schema <span class="ticket">IM-13710</span>  
  Fix Stock - Exchange transactions are not being recorded in stock schema  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### STI -S1 - Add Count Naming to Companion App <span class="ticket">IM-13478</span>  
+ Add Count Naming to Companion App  
+  <span class="new">New Feature</span> <span class="service">Companion</span>  
+  
 ##### SNM - S6.3 - Prevent Serialized Item being sold without Serial Number at POS <span class="ticket">IM-13639</span>  
  Prevent procedure to payment if one or more serialized items do not have serial numbers assigned.  
   <span class="new">New Feature</span> <span class="service">Item Management</span>  

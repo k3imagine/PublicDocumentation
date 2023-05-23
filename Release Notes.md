@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd May 2023
+
+##### Stock take - selecting 1 master item selects all <span class="ticket">IM-13717</span>  
+ Fixed issue in stock take where all master items were selected  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 16th May 2023
 
 ##### Inventory - various bug fixes in Custom Attributes (Remove the Id column from the CA table) <span class="ticket">IM-12014</span>  

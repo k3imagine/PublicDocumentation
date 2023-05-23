@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### Editing count name is not saved <span class="ticket">IM-13691</span>  
+ Fixed issue where editing count name was not saved  
+  <span class="bug">Bug</span> <span class="service">Companion</span>  
+  
 ##### ANL S0.6 - Access control on sidebar entries  <span class="ticket">IM-13695</span>  
  Added Analysis in the Permissions  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

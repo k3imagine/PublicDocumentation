@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### Stock - Exchange transactions are not being recorded in stock schema <span class="ticket">IM-13710</span>  
+ Fix Stock - Exchange transactions are not being recorded in stock schema  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Item Import After Uploading Giving the Save Status <span class="ticket">IM-13715</span>  
  Fixed issue when loading Item import page  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

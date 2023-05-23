@@ -1,8 +1,4 @@
 # RELEASE VERSION: 23rd May 2023
-
-##### K3.Imagine.Core.SharedFunctionality - Update to dotnet 5 <span class="ticket">IM-13643</span>  
- K3.Imagine.Core.SharedFunctionality - Update to dotnet 5  
-  <span class="new">New Feature</span> <span class="service">Portal</span>  
   
 ##### Gift Aid Keyboard: Not possible navigate between fields <span class="ticket">IM-11741</span>  
  Fixed issue where the green button in gift aid keyboard had no action  

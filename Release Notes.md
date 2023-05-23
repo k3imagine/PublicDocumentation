@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### Item Import After Uploading Giving the Save Status <span class="ticket">IM-13715</span>  
+ Fixed issue when loading Item import page  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Stock take - selecting 1 master item selects all <span class="ticket">IM-13717</span>  
  Fixed issue in stock take where all master items were selected  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

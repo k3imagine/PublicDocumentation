@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### Gift Aid Keyboard: Not possible navigate between fields <span class="ticket">IM-11741</span>  
+ Fixed issue where the green button in gift aid keyboard had no action  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POS Item dimension order incorrect <span class="ticket">IM-12007</span>  
  Fix POS Item dimension order incorrect  
   <span class="bug">Bug</span> <span class="service">POS</span>  

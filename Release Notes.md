@@ -1,5 +1,9 @@
 # RELEASE VERSION: 23rd May 2023
 
+##### POS Item dimension order incorrect <span class="ticket">IM-12007</span>  
+ Fix POS Item dimension order incorrect  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### STI -S1 - Add Count Naming to Companion App <span class="ticket">IM-13478</span>  
  Add Count Naming to Companion App  
   <span class="new">New Feature</span> <span class="service">Companion</span>  

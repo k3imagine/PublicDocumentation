@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th June 2023
 
+##### BI Gateway - salesDetails endpoint param page=2 shows empty results <span class="ticket">IM-13711</span>  
+ Stock Movements now filtering by date given in the 'Since' field  
+  <span class="bug">Bug</span> <span class="service">BI Gateway</span>  
+  
 ##### Inventory - various bug fixes in Custom Attributes (unknown 500 error if I try to use a string longer than 2000 char) <span class="ticket">IM-12016</span>  
  User friendly error on custom attributes   
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

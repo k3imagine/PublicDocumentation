@@ -1,3 +1,9 @@
+# RELEASE VERSION: 5th June 2023
+
+##### POS - Journal print out has dates in wrong format <span class="ticket">IM-11743</span>  
+ Fixed issue where data was printed in wrong format  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 23rd May 2023
   
 ##### Gift Aid Keyboard: Not possible navigate between fields <span class="ticket">IM-11741</span>  

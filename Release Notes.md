@@ -1,5 +1,11 @@
 # RELEASE VERSION: 5th June 2023
 
+##### InventoryUI: ItemCreation UI is missing Barcode length validation <span class="ticket">IM-13732</span>  
+ Fix InventoryUI: ItemCreation UI is missing Barcode length validation  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="" target="_blank">swagger documentation</a></p></div> 
+<span class="debt">Technical Debt</span>  
+  
 ##### BI Gateway - salesDetails endpoint param page=2 shows empty results <span class="ticket">IM-13711</span>  
  Stock Movements now filtering by date given in the 'Since' field  
   <span class="bug">Bug</span> <span class="service">BI Gateway</span>  

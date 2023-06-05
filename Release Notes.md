@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th June 2023
 
+##### Inventory - various bug fixes in Custom Attributes (unknown 500 error if I try to use a string longer than 2000 char) <span class="ticket">IM-12016</span>  
+ User friendly error on custom attributes   
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### POS - Journal print out has dates in wrong format <span class="ticket">IM-11743</span>  
  Fixed issue where data was printed in wrong format  
   <span class="bug">Bug</span> <span class="service">POS</span>  

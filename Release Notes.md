@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th June 2023
 
+##### POS:  Do Not Require a 'Payment Type' to be selected if the balance to pay is 0.00(zero) <span class="ticket">IM-13451</span>  
+ POS :Not now necessary to choose a payment type if total transaction value = 0.00  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Transfers - Items not received are removed from In-Transit <span class="ticket">IM-13675</span>  
  Partial receipts of transfers now possible. Unreceived items remain In-Transit.  
   <span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">Portal</span>  

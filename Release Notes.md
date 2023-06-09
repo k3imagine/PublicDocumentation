@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th June 2023
 
+##### Bulk Item Import Failure <span class="ticket">IM-13728</span>  
+ Fix Bulk Item Import Failure  
+  <span class="bug">Bug</span> <span class="service">BulkItemImport</span>  
+  
 ##### Fixes to report filters to remove the No Data drop down <span class="ticket">IM-13741</span>  
  Analysis - removal of 'no data' tag on free text filters  
   <span class="debt">Technical Debt</span> <span class="service">Analysis</span>  

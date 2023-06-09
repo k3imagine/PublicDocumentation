@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th June 2023
+
+##### Fixes to report filters to remove the No Data drop down <span class="ticket">IM-13741</span>  
+ Analysis - removal of 'no data' tag on free text filters  
+  <span class="debt">Technical Debt</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 5th June 2023
 
 ##### InventoryUI: ItemCreation UI is missing Barcode length validation <span class="ticket">IM-13732</span>  

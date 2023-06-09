@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th June 2023
 
+##### On payment of credit, log details shows an empty object <span class="ticket">IM-10657</span>  
+ Customer - Fix to the customer account payment screen   
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 ##### Public API - GRN with required CurrencyCode field <span class="ticket">IM-12809</span>  
  Public API - GRN with required CurrencyCode field Version 2.0  
   <span class="debt">Technical Debt</span>  

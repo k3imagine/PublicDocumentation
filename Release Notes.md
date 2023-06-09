@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th June 2023
 
+##### Transfers - Items not received are removed from In-Transit <span class="ticket">IM-13675</span>  
+ Partial receipts of transfers now possible. Unreceived items remain In-Transit.  
+  <span class="new">New Feature</span> <span class="service">Inventory</span> <span class="service">Portal</span>  
+  
 ##### Bulk Item Import Failure <span class="ticket">IM-13728</span>  
  Fix Bulk Item Import Failure  
   <span class="bug">Bug</span> <span class="service">BulkItemImport</span>  

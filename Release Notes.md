@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th June 2023
 
+##### Elastic Search - isn't returning results correctly <span class="ticket">IM-13403</span>  
+ Elastic Search - Partial word search now works   
+  <span class="bug">Bug</span> <span class="service">All_UI's</span>  
+  
 ##### POS:  Do Not Require a 'Payment Type' to be selected if the balance to pay is 0.00(zero) <span class="ticket">IM-13451</span>  
  POS :Not now necessary to choose a payment type if total transaction value = 0.00  
   <span class="new">New Feature</span> <span class="service">POS</span>  

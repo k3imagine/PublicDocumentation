@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th June 2023
 
+##### Public API - GRN with required CurrencyCode field <span class="ticket">IM-12809</span>  
+ Public API - GRN with required CurrencyCode field Version 2.0  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Elastic Search - isn't returning results correctly <span class="ticket">IM-13403</span>  
  Elastic Search - Partial word search now works   
   <span class="bug">Bug</span> <span class="service">All_UI's</span>  

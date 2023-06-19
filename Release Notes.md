@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th June 2023
 
+##### STI -S3 - Add Value Discrepancy column to Calculated results in StockTake <span class="ticket">IM-13490</span>  
+ Add Value Discrepancy column to calculated results in StockTake  
+  <span class="new">New Feature</span> <span class="service">Companion</span>  
+  
 ##### STI -S2 - Companion App: Allow Replace or Add To existing counted quantities. <span class="ticket">IM-13486</span>  
  Allow Replace or Add To existing counted quantities to Companion App  
   <span class="new">New Feature</span> <span class="service">Companion</span>  

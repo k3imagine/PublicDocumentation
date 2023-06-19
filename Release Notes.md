@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th June 2023
 
+##### Stock Take: Add or replace message should not be shown for TMobile configuration <span class="ticket">IM-13817</span>  
+ Stock Take: Add or replace message should not be shown for TMobile configuration  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Stock take - Stock take name is not saved <span class="ticket">IM-13789</span>  
  Fixed Stock take - Stock take name is not saved  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th June 2023
 
+##### Companion Picklist Show 500 <span class="ticket">IM-13783</span>  
+ Companion fixed PickList error 500  
+  <span class="bug">Bug</span> <span class="service">Companion</span>  
+  
 ##### STI -S3 - Add Value Discrepancy column to Calculated results in StockTake <span class="ticket">IM-13490</span>  
  Add Value Discrepancy column to calculated results in StockTake  
   <span class="new">New Feature</span> <span class="service">Companion</span>  

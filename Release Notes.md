@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th June 2023
 
+##### Stock take - Stock take name is not saved <span class="ticket">IM-13789</span>  
+ Fixed Stock take - Stock take name is not saved  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Companion Picklist Show 500 <span class="ticket">IM-13783</span>  
  Companion fixed PickList error 500  
   <span class="bug">Bug</span> <span class="service">Companion</span>  

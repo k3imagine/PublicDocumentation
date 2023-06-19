@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th June 2023
+
+##### STI -S2 - Companion App: Allow Replace or Add To existing counted quantities. <span class="ticket">IM-13486</span>  
+ Allow Replace or Add To existing counted quantities to Companion App  
+  <span class="new">New Feature</span> <span class="service">Companion</span>  
+  
 # RELEASE VERSION: 9th June 2023
 
 ##### On payment of credit, log details shows an empty object <span class="ticket">IM-10657</span>  

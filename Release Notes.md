@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st June 2023
 
+##### POS Admin [Expansion]: Error when saving clean cash <span class="ticket">IM-13753</span>  
+ POS Admin - Fixed error when saving clean cash  
+  <span class="bug">Bug</span> <span class="service">Pos Admin</span>  
+  
 ##### Dutch Translations <span class="ticket">IM-13814</span>  
  Dutch Translations  
   <span class="debt">Technical Debt</span>  

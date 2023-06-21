@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st June 2023
+
+##### Dutch Translations <span class="ticket">IM-13814</span>  
+ Dutch Translations  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 19th June 2023
 
 ##### Stock Take: Add or replace message should not be shown for TMobile configuration <span class="ticket">IM-13817</span>  

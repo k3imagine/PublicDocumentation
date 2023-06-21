@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st June 2023
 
+##### [Vendor Management] Issues on Cost price, Primary Vendor, Min Order and Variant on Vendor Management Modal <span class="ticket">IM-13604</span>  
+ Inventory - Item List - Various fixes on vendor Modal  
+  <span class="bug">Bug</span> <span class="service">Item Management</span>  
+  
 ##### Donated stock migration failing <span class="ticket">IM-13749</span>  
  Donated stock migration failing  
   <span class="bug">Bug</span> <span class="service">Donated Stock</span>  

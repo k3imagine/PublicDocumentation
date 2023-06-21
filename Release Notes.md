@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st June 2023
 
+##### Donated stock migration failing <span class="ticket">IM-13749</span>  
+ Donated stock migration failing  
+  <span class="bug">Bug</span> <span class="service">Donated Stock</span>  
+  
 ##### POS Admin [Expansion]: Error when saving clean cash <span class="ticket">IM-13753</span>  
  POS Admin - Fixed error when saving clean cash  
   <span class="bug">Bug</span> <span class="service">Pos Admin</span>  

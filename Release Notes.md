@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### Cash Discrepancies <span class="ticket">IM-13785</span>  
+ Fixed Cash Discrepancies  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POS Print Last Z Report 500 <span class="ticket">IM-13787</span>  
  Fix POS Print Last Z Report 500  
   <span class="bug">Bug</span> <span class="service">POS</span>  

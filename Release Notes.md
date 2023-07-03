@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### ms-rbo - Update to dotnet 7.0 <span class="ticket">IM-10746</span>  
+ ms-rbo - Update to dotnet 7.0  
+  <span class="debt">Technical Debt</span> <span class="service">TBC</span>  
+  
 ##### ANL S4.2 - Movements - Tenant configuration <span class="ticket">IM-13663</span>  
  nrfn  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### Stock Take Import : Not Able to Upload More than 200KB <span class="ticket">IM-13813</span>  
+ Stock Take Import : Not Able to Upload More than 200KB  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 ##### Purchase Orders: Reduce data retrieved <span class="ticket">IM-13816</span>  
  Purchase Orders: Reduce data retrieved  
   <span class="debt">Technical Debt</span>  

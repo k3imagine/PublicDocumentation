@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### ANL S4.2 - Movements - Tenant configuration <span class="ticket">IM-13663</span>  
+ nrfn  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### POS: Sale+Return is not registered <span class="ticket">IM-13737</span>  
  Fixed issue where Sale+return transaction was not registered  
   <span class="bug">Bug</span> <span class="service">POS</span>  

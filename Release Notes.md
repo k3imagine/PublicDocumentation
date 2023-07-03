@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### POS - VendorItemNo doesn't print on receipts <span class="ticket">IM-13751</span>  
+ POS - VendorItemNo from Matrix tab Able to Print on Receipt  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Cash Discrepancies <span class="ticket">IM-13785</span>  
  Fixed Cash Discrepancies  
   <span class="bug">Bug</span> <span class="service">POS</span>  

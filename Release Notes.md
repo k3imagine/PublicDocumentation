@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### POP|TOP - Unable to Navigate to either TOP or POP <span class="ticket">IM-13805</span>  
+ Navigation to POP/TOP fixed.  
+  <span class="bug">Bug</span> <span class="service">Self Serve</span>  
+  
 ##### Companion Stocktake : To Rename Button from Recount to Replace <span class="ticket">IM-13811</span>  
  Stocktake fixed to spelling error - 'replace not recount'   
   <span class="bug">Bug</span> <span class="service">Companion</span>  

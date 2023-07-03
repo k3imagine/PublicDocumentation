@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### Companion Stocktake : To Rename Button from Recount to Replace <span class="ticket">IM-13811</span>  
+ Stocktake fixed to spelling error - 'replace not recount'   
+  <span class="bug">Bug</span> <span class="service">Companion</span>  
+  
 ##### Stock Take Import : Not Able to Upload More than 200KB <span class="ticket">IM-13813</span>  
  Stock Take Import : Not Able to Upload More than 200KB  
   <span class="bug">Bug</span> <span class="service">Stock Management</span>  

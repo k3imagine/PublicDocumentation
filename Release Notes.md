@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd July 2023
+
+##### STI - S4 - Add a Search option to the Manual Counting page in Stock Takes <span class="ticket">IM-13835</span>  
+ Inventory - Stocktake now has search on manual count screen.  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 21st June 2023
 
 ##### Customers - Can't set exchange ratio for loyalty points in new tenants <span class="ticket">IM-11764</span>  

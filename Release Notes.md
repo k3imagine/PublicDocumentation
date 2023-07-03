@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### POS: Sale+Return is not registered <span class="ticket">IM-13737</span>  
+ Fixed issue where Sale+return transaction was not registered  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POS - VendorItemNo doesn't print on receipts <span class="ticket">IM-13751</span>  
  POS - VendorItemNo from Matrix tab Able to Print on Receipt  
   <span class="bug">Bug</span> <span class="service">POS</span>  

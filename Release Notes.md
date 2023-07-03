@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### Purchase Orders: Reduce data retrieved <span class="ticket">IM-13816</span>  
+ Purchase Orders: Reduce data retrieved  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Error 500 while printing Cash Statement <span class="ticket">IM-13830</span>  
  Fixed Error 500 while printing Cash Statement  
   <span class="bug">Bug</span> <span class="service">POS</span>  

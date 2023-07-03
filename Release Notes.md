@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### Arm gateway 500 error on label get when device not found <span class="ticket">IM-13804</span>  
+ Fixed Arm gateway 500 error on label get when device not found  
+  <span class="debt">Technical Debt</span>  
+  
 ##### POP|TOP - Unable to Navigate to either TOP or POP <span class="ticket">IM-13805</span>  
  Navigation to POP/TOP fixed.  
   <span class="bug">Bug</span> <span class="service">Self Serve</span>  

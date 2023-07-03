@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### Error 500 while printing Cash Statement <span class="ticket">IM-13830</span>  
+ Fixed Error 500 while printing Cash Statement  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### STI - S4 - Add a Search option to the Manual Counting page in Stock Takes <span class="ticket">IM-13835</span>  
  Inventory - Stocktake now has search on manual count screen.  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

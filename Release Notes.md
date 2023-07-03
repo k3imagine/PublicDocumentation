@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd July 2023
 
+##### POS Print Last Z Report 500 <span class="ticket">IM-13787</span>  
+ Fix POS Print Last Z Report 500  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Arm gateway 500 error on label get when device not found <span class="ticket">IM-13804</span>  
  Fixed Arm gateway 500 error on label get when device not found  
   <span class="debt">Technical Debt</span>  

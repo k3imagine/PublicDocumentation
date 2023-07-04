@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th July 2023
 
+##### STI - S5 - Add Count Location data to Stock Take Discrepancy screen <span class="ticket">IM-13836</span>  
+ Inventory - Stocktake - Addition of stock count to discrepancy screen and exported file   
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### Gift Voucher Expired When Partial of the Voucher Redeemed <span class="ticket">IM-13855</span>  
  Bug FIxed - Gift Voucher will not be expired if partially redeemed   
   <span class="bug">Bug</span> <span class="service">POS</span>  

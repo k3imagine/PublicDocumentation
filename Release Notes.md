@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th July 2023
 
+##### Public API - Get Vendor endpoint - Giving 500 error <span class="ticket">IM-13822</span>  
+ Fix Public API - Get Vendor endpoint - Giving 500 error  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### STI - S5 - Add Count Location data to Stock Take Discrepancy screen <span class="ticket">IM-13836</span>  
  Inventory - Stocktake - Addition of stock count to discrepancy screen and exported file   
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

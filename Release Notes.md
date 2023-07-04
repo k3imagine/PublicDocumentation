@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th July 2023
 
+##### Gift Voucher Expired When Partial of the Voucher Redeemed <span class="ticket">IM-13855</span>  
+ Bug FIxed - Gift Voucher will not be expired if partially redeemed   
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### STI - S9 - Add Item Number to the Export Count file in Stocktaking <span class="ticket">IM-13861</span>  
  Inventory Stocktake - Export includes Item Number   
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

@@ -15,8 +15,6 @@
 ##### STI - S9 - Add Item Number to the Export Count file in Stocktaking <span class="ticket">IM-13861</span>  
  Inventory Stocktake - Export includes Item Number   
   <span class="new">New Feature</span> <span class="service">Inventory</span>  
-  
-# RELEASE VERSION: 3rd July 2023
 
 ##### ms-rbo - Update to dotnet 7.0 <span class="ticket">IM-10746</span>  
  ms-rbo - Update to dotnet 7.0  

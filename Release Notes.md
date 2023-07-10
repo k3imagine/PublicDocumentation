@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th July 2023
 
+##### Public API - Create Master Item Giving Serialize Message <span class="ticket">IM-13838</span>  
+ Fixed Public API - Create Master Item Giving Serialize Message  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Public API - Upsert MasterItems errors <span class="ticket">IM-13850</span>  
  Fixed Public API - Upsert MasterItems errors  
   <span class="debt">Technical Debt</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th July 2023
 
+##### gw-BI to Include Custom Attribute <span class="ticket">IM-13829</span>  
+ gw-BI to Include Custom Attribute  
+  <span class="bug">Bug</span> <span class="service">BI Gateway</span>  
+  
 ##### Public API - Create Master Item Giving Serialize Message <span class="ticket">IM-13838</span>  
  Fixed Public API - Create Master Item Giving Serialize Message  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

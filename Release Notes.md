@@ -1,3 +1,9 @@
+# RELEASE VERSION: 10th July 2023
+
+##### Mismatches in Transaction tables <span class="ticket">IM-13854</span>  
+ Mismatches in Transaction tables  
+  <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Reports</span>  
+  
 # RELEASE VERSION: 4th July 2023
 
 ##### Public API - Get Vendor endpoint - Giving 500 error <span class="ticket">IM-13822</span>  

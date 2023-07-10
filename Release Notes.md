@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th July 2023
 
+##### OBSOLETE needs adding for PublicAPI <span class="ticket">IM-13801</span>  
+ OBSOLETE needs adding for PublicAPI  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### gw-BI to Include Custom Attribute <span class="ticket">IM-13829</span>  
  gw-BI to Include Custom Attribute  
   <span class="bug">Bug</span> <span class="service">BI Gateway</span>  

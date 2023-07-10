@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th July 2023
 
+##### Public API - Upsert MasterItems errors <span class="ticket">IM-13850</span>  
+ Fixed Public API - Upsert MasterItems errors  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Mismatches in Transaction tables <span class="ticket">IM-13854</span>  
  Mismatches in Transaction tables  
   <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Reports</span>  

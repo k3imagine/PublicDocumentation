@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th July 2023
 
+##### Translations update from Weblate <span class="ticket">IM-13882</span>  
+ Translation updates  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 ##### Translations update from Weblate <span class="ticket">IM-13897</span>  
  Translations  
   <span class="new">New Feature</span> <span class="service">UI Translations</span>  

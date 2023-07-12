@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th July 2023
+
+##### Translations update from Weblate <span class="ticket">IM-13897</span>  
+ Translations  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 # RELEASE VERSION: 10th July 2023
 
 ##### OBSOLETE needs adding for PublicAPI <span class="ticket">IM-13801</span>  

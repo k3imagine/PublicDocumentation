@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th July 2023
 
+##### Companion lookup item by barcode <span class="ticket">IM-13874</span>  
+ Fixed Companion lookup item by barcode  
+  <span class="bug">Bug</span> <span class="service">Companion</span>  
+  
 ##### Translations update from Weblate <span class="ticket">IM-13881</span>  
  Translation updates  
   <span class="new">New Feature</span> <span class="service">UI Translations</span>  

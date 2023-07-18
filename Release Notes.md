@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th July 2023
+
+##### Translations update from Weblate <span class="ticket">IM-13909</span>  
+ Translations  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 # RELEASE VERSION: 12th July 2023
 
 ##### Companion lookup item by barcode <span class="ticket">IM-13874</span>  

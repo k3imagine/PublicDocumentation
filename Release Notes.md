@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th July 2023
 
+##### ANL S4.7 - Movements - Save Movements report  <span class="ticket">IM-13670</span>  
+ Analysis - Movements - Save Movements report   
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### ANL S4.8 - Movements - KPIs  <span class="ticket">IM-13671</span>  
  ANL S4.8 - Movements - KPIs   
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

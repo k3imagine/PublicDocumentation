@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th July 2023
 
+##### ANL S1.7 - Remove '(beta)' tag from Sales report title <span class="ticket">IM-13738</span>  
+ Analysis - Remove 'Beta' tag from Sales Report   
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### ANL S3.8 - Remove '(beta)' tag from Items report title <span class="ticket">IM-13739</span>  
  Analysis - Remove 'Beta' Tag from Items report.  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th July 2023
+
+##### Report - Stock & Financial Stock Report Not Able to Generate <span class="ticket">IM-13828</span>  
+ Analysis - Financial reports now generate  
+  <span class="bug">Bug</span> <span class="service">Reports</span>  
+  
 # RELEASE VERSION: 18th July 2023
 
 ##### Translations update from Weblate <span class="ticket">IM-13898</span>  

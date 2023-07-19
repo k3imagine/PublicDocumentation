@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th July 2023
 
+##### ANL S4.5 - Movements - Third row of filters <span class="ticket">IM-13668</span>  
+ ANL S4.5 - Movements - Third row of filters  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### ANL S4.7 - Movements - Save Movements report  <span class="ticket">IM-13670</span>  
  Analysis - Movements - Save Movements report   
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

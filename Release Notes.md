@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th July 2023
 
+##### ANL S3.8 - Remove '(beta)' tag from Items report title <span class="ticket">IM-13739</span>  
+ Analysis - Remove 'Beta' Tag from Items report.  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Report - Stock & Financial Stock Report Not Able to Generate <span class="ticket">IM-13828</span>  
  Analysis - Financial reports now generate  
   <span class="bug">Bug</span> <span class="service">Reports</span>  

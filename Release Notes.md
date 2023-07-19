@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th July 2023
 
+##### ANL S4.8 - Movements - KPIs  <span class="ticket">IM-13671</span>  
+ ANL S4.8 - Movements - KPIs   
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### ANL S4.9 - Movements - SideBar entry and access control for inventory Movements (Beta) <span class="ticket">IM-13672</span>  
  New Report - Movements (Beta)  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

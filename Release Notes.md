@@ -1,3 +1,9 @@
+# RELEASE VERSION: 25th July 2023
+
+##### Inventory Elastic search : Search via Barcode Return No Data <span class="ticket">IM-13833</span>  
+ Inventory Elastic search : Able to Search via Barcode  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 19th July 2023
 
 ##### ANL S4.5 - Movements - Third row of filters <span class="ticket">IM-13668</span>  

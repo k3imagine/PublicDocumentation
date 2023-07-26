@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th July 2023
+
+##### Analysis - Items - Filter 'Item Description' not working <span class="ticket">IM-13302</span>  
+ Fixed for Analysis - Items - Filter 'Item Description' not working  
+  <span class="bug">Bug</span> <span class="service">Reports</span>  
+  
 # RELEASE VERSION: 25th July 2023
 
 ##### ANL S4.6 - Movements - Fourth  row of filters <span class="ticket">IM-13669</span>  

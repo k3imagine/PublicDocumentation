@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th July 2023
 
+##### Item Report no active status filter on backend <span class="ticket">IM-13923</span>  
+ Fixed for Item Report no active status filter on backend  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Inventory - slow item load <span class="ticket">IM-13840</span>  
  Inventory - fixed where items are slow to load.  
   

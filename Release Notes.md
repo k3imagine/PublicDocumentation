@@ -1,5 +1,11 @@
 # RELEASE VERSION: 26th July 2023
 
+##### Inventory - slow item load <span class="ticket">IM-13840</span>  
+ Inventory - fixed where items are slow to load.  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="" target="_blank">swagger documentation</a></p></div> 
+<span class="debt">Technical Debt</span>  
+  
 ##### Analysis: Item report & SalesReport not working with all filters <span class="ticket">IM-13803</span>  
  Fixed for Analysis: Item report & SalesReport not working with all filters  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

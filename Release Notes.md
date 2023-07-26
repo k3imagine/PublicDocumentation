@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th July 2023
 
+##### Analysis: Item report & SalesReport not working with all filters <span class="ticket">IM-13803</span>  
+ Fixed for Analysis: Item report & SalesReport not working with all filters  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Analysis - Items - Filter 'Item Description' not working <span class="ticket">IM-13302</span>  
  Fixed for Analysis - Items - Filter 'Item Description' not working  
   <span class="bug">Bug</span> <span class="service">Reports</span>  

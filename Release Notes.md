@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th July 2023
+
+##### Inventory - Add ability to edit PO's with a status of 'Placed' <span class="ticket">IM-13818</span>  
+ Inventory - Ability to adjust placed PO  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 26th July 2023
 
 ##### Item Report no active status filter on backend <span class="ticket">IM-13923</span>  

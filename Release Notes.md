@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th July 2023
 
+##### ANL S4.12 - Movements - Set default value in Configuration <span class="ticket">IM-13928</span>  
+ ANL S4.12 - Movements - Set default value in Configuration  
+  <span class="new">New Feature</span> <span class="service">Portal</span>  
+  
 ##### Inventory - Add ability to edit PO's with a status of 'Placed' <span class="ticket">IM-13818</span>  
  Inventory - Ability to adjust placed PO  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

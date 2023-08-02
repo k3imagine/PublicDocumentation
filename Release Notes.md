@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd August 2023
+
+##### Public API - Return Fluctuating properties on transaction line <span class="ticket">IM-13644</span>  
+ Public API - Returns fluctuating properties.  
+  <span class="new">New Feature</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 27th July 2023
 
 ##### ANL S4.12 - Movements - Set default value in Configuration <span class="ticket">IM-13928</span>  

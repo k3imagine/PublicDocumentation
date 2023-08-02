@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd August 2023
 
+##### Inventory - Stocktake allows the user to skip the initial Enter Count Name prompt <span class="ticket">IM-13870</span>  
+ Inventory - Stocktake allows the user to skip the initial Enter Count Name prompt  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Public API - Return Fluctuating properties on transaction line <span class="ticket">IM-13644</span>  
  Public API - Returns fluctuating properties.  
   <span class="new">New Feature</span> <span class="service">Public API</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 8th August 2023
 
+##### TOP - Order number not showing on Success screen <span class="ticket">IM-13984</span>  
+ TOP - Order number now is showing on Success Screen  
+  <span class="bug">Bug</span> <span class="service">TOP</span>  
+  
 ##### Inventory of Skull erasers item no 51000001598 shows 61 on hand 80 sold when there was only 100 in stock <span class="ticket">IM-13929</span>  
  Stock management issue resolved.  
   <span class="bug">Bug</span> <span class="service">Support</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 8th August 2023
 
+##### Companion: Error reading QuantityOnHand <span class="ticket">IM-13858</span>  
+ Companion: Error reading QuantityOnHand  
+  <span class="bug">Bug</span> <span class="service">Companion</span>  
+  
 ##### Use vendor management to fill VendorItemNo <span class="ticket">IM-13831</span>  
  Using Vendor Management updates the vendor item number correctly.  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

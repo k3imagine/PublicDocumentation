@@ -1,5 +1,9 @@
 # RELEASE VERSION: 8th August 2023
 
+##### Adyen - Change wording on 500 internal server error <span class="ticket">IM-13888</span>  
+ Adyen - Internal server error 500 wording change  
+  <span class="new">New Feature</span> <span class="service">Payments</span>  
+  
 ##### Companion: Error reading QuantityOnHand <span class="ticket">IM-13858</span>  
  Companion: Error reading QuantityOnHand  
   <span class="bug">Bug</span> <span class="service">Companion</span>  

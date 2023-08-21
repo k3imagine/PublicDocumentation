@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st August 2023
 
+##### Inventory - add 'Value' column to Receive Goods <span class="ticket">IM-13819</span>  
+ Inventory - add 'Value' column to Receive Goods  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### ANL S4.11 - Movements - Group by filter <span class="ticket">IM-13812</span>  
  Analysis Movements - Group by filter working   
   <span class="new">New Feature</span> <span class="service">Analysis</span>  

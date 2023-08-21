@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st August 2023
 
+##### ANL S4.11 - Movements - Group by filter <span class="ticket">IM-13812</span>  
+ Analysis Movements - Group by filter working   
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### PoS - PoS UI should respect the ‘logRocketEnabled’ flag <span class="ticket">IM-12907</span>  
  PoS - PoS UI should respect the ‘logRocketEnabled’ flag  
   <span class="new">New Feature</span> <span class="service">POS</span>  

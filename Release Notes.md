@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st August 2023
+
+##### PoS - PoS UI should respect the ‘logRocketEnabled’ flag <span class="ticket">IM-12907</span>  
+ PoS - PoS UI should respect the ‘logRocketEnabled’ flag  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 8th August 2023
 
 ##### TOP - Order number not showing on Success screen <span class="ticket">IM-13984</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st August 2023
 
+##### Stocktake timeout on calculate <span class="ticket">IM-14156</span>  
+ Inventory - Stocktake timeout on calculate  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">Stock Management</span>  
+  
 ##### Inventory - add 'Value' column to Receive Goods <span class="ticket">IM-13819</span>  
  Inventory - add 'Value' column to Receive Goods  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

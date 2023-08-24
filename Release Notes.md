@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th August 2023
+
+##### Customers : Export Customers Page Keeps on Loading  <span class="ticket">IM-12414</span>  
+ Customers : Export Customers Page Fixed the Keeps on Loading Message  
+  <span class="bug">Bug</span> <span class="service">Customer</span>  
+  
 # RELEASE VERSION: 21st August 2023
 
 ##### Stocktake timeout on calculate <span class="ticket">IM-14156</span>  

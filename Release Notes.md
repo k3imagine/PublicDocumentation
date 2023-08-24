@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th August 2023
 
+##### Sales Analysis - Group by Item Number  <span class="ticket">IM-14157</span>  
+ Analysis Sales - updated grouping columns, now allows grouping by item, item number, master item and master item number.   
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### New Beta Movements report shows multiple duplicate lines for same "sale" type movement <span class="ticket">IM-13986</span>  
  Movements Analysis - resolved duplicate lines issue.  
   <span class="bug">Bug</span> <span class="service">Support</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th August 2023
 
+##### New Beta Movements report shows multiple duplicate lines for same "sale" type movement <span class="ticket">IM-13986</span>  
+ Movements Analysis - resolved duplicate lines issue.  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Customers : Export Customers Page Keeps on Loading  <span class="ticket">IM-12414</span>  
  Customers : Export Customers Page Fixed the Keeps on Loading Message  
   <span class="bug">Bug</span> <span class="service">Customer</span>  

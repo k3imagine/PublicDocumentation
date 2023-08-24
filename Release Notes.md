@@ -1,5 +1,9 @@
 # RELEASE VERSION: 24th August 2023
 
+##### PoS - Item Shortcuts fixes <span class="ticket">IM-14160</span>  
+ PoS - Item Shortcuts fixes  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Sales Analysis - Group by Item Number  <span class="ticket">IM-14157</span>  
  Analysis Sales - updated grouping columns, now allows grouping by item, item number, master item and master item number.   
   <span class="bug">Bug</span> <span class="service">Analysis</span>  

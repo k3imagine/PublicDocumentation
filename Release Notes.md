@@ -1,8 +1,8 @@
 # RELEASE VERSION: 28th August 2023
 
-##### RBO  - Update Group Giving Error 500 <span class="ticket">IM-13944</span>  
- Fixed RBO  - Update Group Giving Error 500  
-  <span class="bug">Bug</span> <span class="service">RBO</span>  
+##### Possible to bypass mandatory currency field <span class="ticket">IM-13999</span>  
+ Inventory - Vendors - creating new vendor requires a currency   
+  <span class="bug">Bug</span> <span class="service">Support</span>  
   
 ##### RBO - Item Info Giving Error 400 <span class="ticket">IM-13968</span>  
  Fixed RBO - Item Info Giving Error 400  

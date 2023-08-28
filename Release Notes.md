@@ -1,5 +1,11 @@
 # RELEASE VERSION: 28th August 2023
 
+##### Offline Receipt TaxCodeId/MasterItemId missing <span class="ticket">IM-13889</span>  
+ Fixed for Offline Receipt TaxCodeId/MasterItemId Went Missing  
+  
+ <div class="breaking-change"><p>This change requires a connector reboot for the changes to take effect.</p></div> 
+<span class="bug">Bug</span> <span class="service">Backoffice</span> <span class="service">Connector</span>  
+  
 ##### Unable to create a partial Stocktake based on Master items <span class="ticket">IM-13960</span>  
  Inventory - Stocktake resolved the creating of stocktake with master items.  
   <span class="bug">Bug</span> <span class="service">Support</span>  

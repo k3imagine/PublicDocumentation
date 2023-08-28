@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th August 2023
 
+##### RBO  - Update Group Giving Error 500 <span class="ticket">IM-13944</span>  
+ Fixed RBO  - Update Group Giving Error 500  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 ##### RBO - Item Info Giving Error 400 <span class="ticket">IM-13968</span>  
  Fixed RBO - Item Info Giving Error 400  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

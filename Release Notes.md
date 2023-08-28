@@ -1,7 +1,7 @@
 # RELEASE VERSION: 28th August 2023
 
-##### RboMS: Fix Buttonstates saved with single quotations <span class="ticket">IM-14165</span>  
- RboMS: Fix Buttonstates saved with single quotations  
+##### RBO - Item Info Giving Error 400 <span class="ticket">IM-13968</span>  
+ Fixed RBO - Item Info Giving Error 400  
   <span class="bug">Bug</span> <span class="service">RBO</span>  
   
 # RELEASE VERSION: 24th August 2023

@@ -7,6 +7,10 @@
 ##### Possible to bypass mandatory currency field <span class="ticket">IM-13999</span>  
  Inventory - Vendors - creating new vendor requires a currency   
   <span class="bug">Bug</span> <span class="service">Support</span>  
+
+##### Stock and Figures Conflicting Values <span class="ticket">IM-13871</span>  
+ Stock and Figures Conflicting Values   
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
   
 ##### Public API - Making Sale Giving 500 error <span class="ticket">IM-13972</span>  
  Fixed Public API - Making Sale Giving 500 error  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2023
 
+##### Public API - Get Last Transaction Id for All Shop Giving 500 error <span class="ticket">IM-13970</span>  
+ Fixed Public API - Get Last Transaction Id for All Shop Giving 500 error  
+  <span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### RBO  - Get Clerk Exist Giving Error 500 <span class="ticket">IM-13941</span>  
  Fixed RBO  - Get Clerk Exist Giving Error 500  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

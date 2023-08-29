@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2023
 
+##### Possible to bypass mandatory currency field <span class="ticket">IM-13999</span>  
+ Inventory - Vendors - creating new vendor requires a currency   
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Public API - Making Sale Giving 500 error <span class="ticket">IM-13972</span>  
  Fixed Public API - Making Sale Giving 500 error  
   

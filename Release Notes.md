@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2023
 
+##### RBO  - Get Clerk Exist Giving Error 500 <span class="ticket">IM-13941</span>  
+ Fixed RBO  - Get Clerk Exist Giving Error 500  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 ##### RBO  - Taxgroup Update Giving Error 500 <span class="ticket">IM-13940</span>  
  Fixed RBO  - Taxgroup Update Giving Error 500  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

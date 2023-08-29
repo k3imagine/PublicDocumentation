@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2023
 
+##### RBO  - Taxgroup Update Giving Error 500 <span class="ticket">IM-13940</span>  
+ Fixed RBO  - Taxgroup Update Giving Error 500  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 ##### Report errors - ms-rbo <span class="ticket">IM-13875</span>  
  Fixed Report errors - ms-rbo  
   <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Backoffice</span> <span class="service">Reports</span>  

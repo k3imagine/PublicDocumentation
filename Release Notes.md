@@ -1,5 +1,11 @@
 # RELEASE VERSION: 29th August 2023
 
+##### Public API - Making Sale Giving 500 error <span class="ticket">IM-13972</span>  
+ Fixed Public API - Making Sale Giving 500 error  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="https://publicapi.k3imagine.com/swagger/index.html" target="_blank">swagger documentation</a></p></div> 
+<span class="bug">Bug</span> <span class="service">Public API</span>  
+  
 ##### Public API - Get Last Transaction Id for All Shop Giving 500 error <span class="ticket">IM-13970</span>  
  Fixed Public API - Get Last Transaction Id for All Shop Giving 500 error  
   <span class="bug">Bug</span> <span class="service">Public API</span>  

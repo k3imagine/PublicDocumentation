@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2023
 
+##### RboMS: Fix Buttonstates saved with single quotations <span class="ticket">IM-14165</span>  
+ RboMS: Fix Buttonstates saved with single quotations  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 ##### Possible to bypass mandatory currency field <span class="ticket">IM-13999</span>  
  Inventory - Vendors - creating new vendor requires a currency   
   <span class="bug">Bug</span> <span class="service">Support</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 29th August 2023
+
+##### RBO-MS is upgraded to .net 7.0 but from that moment the dynamic property used in the RBO MS isnt serialized as it should be. This causes a lot of issues <span class="ticket">IM-13866</span>  
+ ms-rbo .NET Upgraded  
+  <span class="bug">Bug</span> <span class="service">RBO</span>  
+  
 # RELEASE VERSION: 28th August 2023
 
 ##### Offline Receipt TaxCodeId/MasterItemId missing <span class="ticket">IM-13889</span>  

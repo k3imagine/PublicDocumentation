@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2023
 
+##### Report errors - ms-rbo <span class="ticket">IM-13875</span>  
+ Fixed Report errors - ms-rbo  
+  <span class="bug">Bug</span> <span class="service">Analysis</span> <span class="service">Backoffice</span> <span class="service">Reports</span>  
+  
 ##### RBO-MS is upgraded to .net 7.0 but from that moment the dynamic property used in the RBO MS isnt serialized as it should be. This causes a lot of issues <span class="ticket">IM-13866</span>  
  ms-rbo .NET Upgraded  
   <span class="bug">Bug</span> <span class="service">RBO</span>  

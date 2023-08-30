@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th August 2023
 
+##### POS Admin : Customer Display Lost Existing Settings <span class="ticket">IM-13877</span>  
+ POS Admin : Customer Display Lost Existing Settings  
+  <span class="bug">Bug</span> <span class="service">Pos Admin</span>  
+  
 ##### Inventory - make the Unit Cost value editable in a Vendor Return <span class="ticket">IM-13820</span>  
  Inventory - make the Unit Cost value editable in a Vendor Return  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  

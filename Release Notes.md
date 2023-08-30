@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th August 2023
 
+##### Customer display image urls not being returned <span class="ticket">IM-13910</span>  
+ Fixed for Get Endpoint to Show Image in Admin POS Options  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### POS Admin : Customer Display Lost Existing Settings <span class="ticket">IM-13877</span>  
  POS Admin : Customer Display Lost Existing Settings  
   <span class="bug">Bug</span> <span class="service">Pos Admin</span>  

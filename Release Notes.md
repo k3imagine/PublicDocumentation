@@ -1,3 +1,9 @@
+# RELEASE VERSION: 30th August 2023
+
+##### Inventory - make the Unit Cost value editable in a Vendor Return <span class="ticket">IM-13820</span>  
+ Inventory - make the Unit Cost value editable in a Vendor Return  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 28th August 2023
 
 ##### RboMS: Fix Buttonstates saved with single quotations <span class="ticket">IM-14165</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th August 2023
 
+##### Not auto generating barcodes on matrix tab <span class="ticket">IM-14022</span>  
+ Inventory - Item List remove barcode message as it is not relevant apart from at first item creation.  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Customer display image urls not being returned <span class="ticket">IM-13910</span>  
  Fixed for Get Endpoint to Show Image in Admin POS Options  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  

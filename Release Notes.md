@@ -1,3 +1,9 @@
+# RELEASE VERSION: 31st August 2023
+
+##### Investigate UI consistency: Vendor return <span class="ticket">IM-13967</span>  
+ Investigate UI consistency: Vendor return  
+  <span class="debt">Technical Debt</span>  
+  
 # RELEASE VERSION: 30th August 2023
 
 ##### Not auto generating barcodes on matrix tab <span class="ticket">IM-14022</span>  

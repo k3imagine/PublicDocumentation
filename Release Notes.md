@@ -1,3 +1,11 @@
+# RELEASE VERSION: 11th September 2023
+
+##### PosIdentityMS: Update to .NET 7 <span class="ticket">IM-13111</span>  
+ POS Identity .NET upgrade to 7  
+  
+ <div class="breaking-change"><p>This change is made on a new version of the API endpoint, the current version will be deprecated 1 year from the release date above, for more information on the request/response models please refer to the <a href="" target="_blank">swagger documentation</a></p></div> 
+<span class="debt">Technical Debt</span> <span class="service">POS Identity</span>  
+  
 # RELEASE VERSION: 31st August 2023
 
 ##### Investigate UI consistency: Vendor return <span class="ticket">IM-13967</span>  

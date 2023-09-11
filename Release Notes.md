@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th September 2023
 
+##### Movements Report Incorrectly Calculating Cost <span class="ticket">IM-14004</span>  
+ Movements Report Incorrectly Calculating Cost  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Investigate UI consistency: Goods Receive <span class="ticket">IM-13966</span>  
  Investigate UI consistency: Goods Receive  
   <span class="debt">Technical Debt</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th September 2023
 
+##### Inventory : Not All Variant Shown When Do PO & Good Receive <span class="ticket">IM-13839</span>  
+ Fixed Inventory : Not All Variant Shown When Do PO & Good Receive  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### PosIdentityMS: Update to .NET 7 <span class="ticket">IM-13111</span>  
  POS Identity .NET upgrade to 7  
   

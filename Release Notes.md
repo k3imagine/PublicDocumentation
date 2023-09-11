@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th September 2023
 
+##### Investigate UI consistency: Goods Receive <span class="ticket">IM-13966</span>  
+ Investigate UI consistency: Goods Receive  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Inventory : Not All Variant Shown When Do PO & Good Receive <span class="ticket">IM-13839</span>  
  Fixed Inventory : Not All Variant Shown When Do PO & Good Receive  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  

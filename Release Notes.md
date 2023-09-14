@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th September 2023
+
+##### Create Vendor Error <span class="ticket">IM-14226</span>  
+ Create Vendor Error - resolved  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 # RELEASE VERSION: 11th September 2023
 
 ##### Movements Report Incorrectly Calculating Cost <span class="ticket">IM-14004</span>  

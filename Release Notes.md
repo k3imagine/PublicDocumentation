@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th September 2023
 
+##### PoS - return from receipt form does not show Item Group details <span class="ticket">IM-10343</span>  
+ Fixed PoS - return from receipt form does not show Item Group details  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### POS - Shops and Variant Widget shows item variants that are Inactive. <span class="ticket">IM-9751</span>  
  Fixed POS - Shops and Variant Widget shows item variants that are Inactive.  
   <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">POS</span>  

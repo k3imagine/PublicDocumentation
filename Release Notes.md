@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th September 2023
 
+##### Inventory - the ability to directly edit a Qty value is missing randomly <span class="ticket">IM-13954</span>  
+ Ability to use the +/- buttons on GRN, Vendor Return and PO's  
+  <span class="new">New Feature</span> <span class="service">Support</span>  
+  
 ##### PoS - return from receipt form does not show Item Group details <span class="ticket">IM-10343</span>  
  Fixed PoS - return from receipt form does not show Item Group details  
   <span class="bug">Bug</span> <span class="service">POS</span>  

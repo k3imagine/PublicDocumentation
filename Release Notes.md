@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th September 2023
 
+##### Inventory : The Correct Vendor in Item List Is Not Showing after being  Updated in vendor management. <span class="ticket">IM-14015</span>  
+ Inventory : The Correct Vendor in Item List Is Now Showing after being  Updated in vendor management.  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Inventory - the ability to directly edit a Qty value is missing randomly <span class="ticket">IM-13954</span>  
  Ability to use the +/- buttons on GRN, Vendor Return and PO's  
   <span class="new">New Feature</span> <span class="service">Support</span>  

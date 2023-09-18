@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th September 2023
+
+##### POS - Shops and Variant Widget shows item variants that are Inactive. <span class="ticket">IM-9751</span>  
+ Fixed POS - Shops and Variant Widget shows item variants that are Inactive.  
+  <span class="bug">Bug</span> <span class="service">Inventory</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 14th September 2023
 
 ##### Create Vendor Error <span class="ticket">IM-14226</span>  

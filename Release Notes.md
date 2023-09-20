@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th September 2023
+
+##### Investigation - What is the difference between Matrix and Non-Matrix items <span class="ticket">IM-12010</span>  
+ Move for the Refinement Purposes  
+  <span class="debt">Technical Debt</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 18th September 2023
 
 ##### Inventory : The Correct Vendor in Item List Is Not Showing after being  Updated in vendor management. <span class="ticket">IM-14015</span>  

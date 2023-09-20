@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th September 2023
 
+##### Prevent Discount being applied to Gift Certificates at POS <span class="ticket">IM-12678</span>  
+ Prevent Discount being applied to Gift Certificates at POS  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Investigation - What is the difference between Matrix and Non-Matrix items <span class="ticket">IM-12010</span>  
  Move for the Refinement Purposes  
   <span class="debt">Technical Debt</span> <span class="service">Inventory</span>  

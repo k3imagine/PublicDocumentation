@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st September 2023
+
+##### SCO - Sales failing to send to RBO <span class="ticket">IM-14246</span>  
+ Fixed SCO - Sales failing to send to RBO  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span> <span class="service">SCO</span>  
+  
 # RELEASE VERSION: 20th September 2023
 
 ##### Prevent Discount being applied to Gift Certificates at POS <span class="ticket">IM-12678</span>  

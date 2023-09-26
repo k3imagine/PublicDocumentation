@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### Translation updates for PortalUI-v2 <span class="ticket">IM-14258</span>  
+ Translations for Portal UI  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 ##### Translation updates for GiftAidUI <span class="ticket">IM-14257</span>  
  Translations for GiftAid UI  
   <span class="new">New Feature</span> <span class="service">UI Translations</span>  

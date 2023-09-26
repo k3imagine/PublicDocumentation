@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### USG - S1.5 - Hide User Shop Groups menu <span class="ticket">IM-14179</span>  
+ USG - S1.5 - Hide User Shop Groups menu  
+  <span class="new">New Feature</span> <span class="service">Portal</span>  
+  
 ##### replace DX confirm dialog to DX custom dialogs <span class="ticket">IM-14168</span>  
  UX Consistancy changes  
   <span class="debt">Technical Debt</span>  

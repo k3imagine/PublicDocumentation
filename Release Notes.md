@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### Investigate UI consistency - Stocktake <span class="ticket">IM-13969</span>  
+ Investigate UI consistency - Stocktake  
+  <span class="debt">Technical Debt</span>  
+  
 ##### Investigate UI consistency - Transfers <span class="ticket">IM-13965</span>  
  UX consistency changes   
   <span class="debt">Technical Debt</span>  

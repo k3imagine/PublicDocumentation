@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### Translation updates for GiftAidUI <span class="ticket">IM-14257</span>  
+ Translations for GiftAid UI  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 ##### USG - S1.5 - Hide User Shop Groups menu <span class="ticket">IM-14179</span>  
  USG - S1.5 - Hide User Shop Groups menu  
   <span class="new">New Feature</span> <span class="service">Portal</span>  

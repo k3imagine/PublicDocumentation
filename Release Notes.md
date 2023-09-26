@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### Investigate UI consistency - Transfers <span class="ticket">IM-13965</span>  
+ UX consistency changes   
+  <span class="debt">Technical Debt</span>  
+  
 ##### Add Item Cost to BI-GW Endpoint (InventoryLevels) <span class="ticket">IM-13287</span>  
  Add Item Cost to BI-GW Endpoint (InventoryLevels)  
   <span class="new">New Feature</span> <span class="service">BI Gateway</span>  

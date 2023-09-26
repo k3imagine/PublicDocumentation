@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### POS automatically logs out to Portal <span class="ticket">IM-14142</span>  
+ POS automatically logs out of portal - resolved  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Investigate UI consistency - Stocktake <span class="ticket">IM-13969</span>  
  Investigate UI consistency - Stocktake  
   <span class="debt">Technical Debt</span>  

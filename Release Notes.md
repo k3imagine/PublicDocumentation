@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th September 2023
+
+##### Add Item Cost to BI-GW Endpoint (InventoryLevels) <span class="ticket">IM-13287</span>  
+ Add Item Cost to BI-GW Endpoint (InventoryLevels)  
+  <span class="new">New Feature</span> <span class="service">BI Gateway</span>  
+  
 # RELEASE VERSION: 21st September 2023
 
 ##### SCO - Sales failing to send to RBO <span class="ticket">IM-14246</span>  

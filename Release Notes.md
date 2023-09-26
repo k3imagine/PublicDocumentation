@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th September 2023
 
+##### replace DX confirm dialog to DX custom dialogs <span class="ticket">IM-14168</span>  
+ UX Consistancy changes  
+  <span class="debt">Technical Debt</span>  
+  
 ##### POS automatically logs out to Portal <span class="ticket">IM-14142</span>  
  POS automatically logs out of portal - resolved  
   <span class="bug">Bug</span> <span class="service">POS</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th September 2023
+
+##### Stocktake Export count lines timeout <span class="ticket">IM-14251</span>  
+ Fixed Stocktake Export count lines timeout  
+  <span class="bug">Bug</span> <span class="service">Stock Management</span>  
+  
 # RELEASE VERSION: 26th September 2023
 
 ##### Translation updates for PortalUI-v2 <span class="ticket">IM-14258</span>  

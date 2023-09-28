@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th September 2023
 
+##### Translation updates for POSUI <span class="ticket">IM-14266</span>  
+ Translations for POS UI  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 ##### Translation updates for POSUI <span class="ticket">IM-14265</span>  
  Translations for POS UI  
   <span class="new">New Feature</span> <span class="service">UI Translations</span>  

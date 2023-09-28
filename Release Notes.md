@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th September 2023
+
+##### Translation updates for InventoryUI <span class="ticket">IM-14263</span>  
+ Translations for Inventory UI  
+  <span class="new">New Feature</span> <span class="service">UI Translations</span>  
+  
 # RELEASE VERSION: 27th September 2023
 
 ##### Stocktake Export count lines timeout <span class="ticket">IM-14251</span>  

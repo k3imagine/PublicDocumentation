@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th October 2023
+
+##### Saving POS Options clears out all POS Button States <span class="ticket">RS-95</span>  
+ Fixed a bug which caused button states to be cleared when saving pos options  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 28th September 2023
 
 ##### Translation updates for POSUI <span class="ticket">IM-14266</span>  

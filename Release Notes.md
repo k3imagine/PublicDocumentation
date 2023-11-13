@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th November 2023
+
+##### Serial Number post by item id <span class="ticket">RS-169</span>  
+ Adding serial numbers through the Public API can now be added using the Item ID  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 18th October 2023
 
 ##### Saving POS Options clears out all POS Button States <span class="ticket">RS-95</span>  

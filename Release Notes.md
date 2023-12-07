@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th December 2023
+
+##### Imagine Platform issue where Pos randomly logs back out to Portal for multiple customers <span class="ticket">RS-230</span>  
+ Fixed an issue where the POS randomly logs out and redirects to the Portal  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 13th November 2023
 
 ##### Serial Number post by item id <span class="ticket">RS-169</span>  

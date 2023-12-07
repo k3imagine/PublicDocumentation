@@ -1,4 +1,4 @@
-# RELEASE VERSION: 7th December 2023
+# RELEASE VERSION: 11th December 2023
 
 ##### Imagine Platform issue where Pos randomly logs back out to Portal for multiple customers <span class="ticket">RS-230</span>  
  Fixed an issue where the POS randomly logs out and redirects to the Portal  

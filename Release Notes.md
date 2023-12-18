@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th December 2023
+
+##### PO's Placed Today Not Appearing in PO List <span class="ticket">RS-292</span>  
+ Fixed a bug where purchase orders are not showing unless date filter is set to date after purchase order is placed  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 11th December 2023
 
 ##### Imagine Platform issue where Pos randomly logs back out to Portal for multiple customers <span class="ticket">RS-230</span>  

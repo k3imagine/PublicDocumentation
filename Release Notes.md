@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th January 2024
+
+##### Arm GW - Sales endpoint fails when discount on item <span class="ticket">RS-278</span>  
+ Fixed an issue where offline sales failed to resend to backoffice when item has a discount reason applied  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 18th December 2023
 
 ##### PO's Placed Today Not Appearing in PO List <span class="ticket">RS-292</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd January 2024
+
+##### Imagine Platform issue where Pos randomly logs back out to Portal for multiple customers <span class="ticket">RS-230</span>  
+ Fixed an issue where the POS randomly logs out and redirects to the Portal  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 12th January 2024
 
 ##### Arm GW - Sales endpoint fails when discount on item <span class="ticket">RS-278</span>  

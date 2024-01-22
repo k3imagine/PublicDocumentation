@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd January 2024
 
+##### Inventory - Item List to show Master Item Manufacturer Item Number <span class="ticket">RS-366</span>  
+ Item list now shows the master item manufacturer item number  
+  <span class="new">New Feature</span>  
+  
 ##### Imagine Platform issue where Pos randomly logs back out to Portal for multiple customers <span class="ticket">RS-230</span>  
  Fixed an issue where the POS randomly logs out and redirects to the Portal  
   <span class="bug">Bug</span> <span class="service">Support</span>  

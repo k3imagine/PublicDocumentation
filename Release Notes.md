@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd January 2024
 
+##### Difference in Cash Statement on POS <span class="ticket">RS-184</span>  
+ Fixed a bug in the cash statement where there is a difference on the reprint receipt view  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Inventory - Item List to show Master Item Manufacturer Item Number <span class="ticket">RS-366</span>  
  Item list now shows the master item manufacturer item number  
   <span class="new">New Feature</span>  

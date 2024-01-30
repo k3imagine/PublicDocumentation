@@ -1,3 +1,9 @@
+# RELEASE VERSION: 30th January 2024
+
+##### InfraSec Swedish Fiscalization <span class="ticket">RS-120</span>  
+ Added Infrasec swedish Fiscalisation service  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 22nd January 2024
 
 ##### Difference in Cash Statement on POS <span class="ticket">RS-184</span>  

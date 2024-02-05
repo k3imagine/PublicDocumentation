@@ -1,3 +1,9 @@
+# RELEASE VERSION: 5th February 2024
+
+##### Infrasec - Comma values for price <span class="ticket">RS-431</span>  
+ Fixed an issue for Infrasec when value exceeds 999 due to incorrect spacing added to value  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 30th January 2024
 
 ##### InfraSec Swedish Fiscalization <span class="ticket">RS-120</span>  

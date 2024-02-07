@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th February 2024
+
+##### It is not possible to add article attributes <span class="ticket">RS-396</span>  
+ Fixed bug where item attribute was of a Legacy data type  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 5th February 2024
 
 ##### Infrasec - Comma values for price <span class="ticket">RS-431</span>  

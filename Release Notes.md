@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### dx-data-grid dialog boxes <span class="ticket">RS-364</span>  
+ Translated Yes/No confirmation button text  
+  <span class="new">New Feature</span>  
+  
 ##### Public API - Items with over 200 variants <span class="ticket">RS-98</span>  
  Better response when adding an item in the public api MasterItem Upsert when the request has over 200 variants  
   <span class="bug">Bug</span>  

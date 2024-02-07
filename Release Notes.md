@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Incorrect Primary Vendor is showing for some items in Items report compared to Primary Vendor set in Vendor management <span class="ticket">RS-128</span>  
+ Fixed an issue where the item list was showing the incorrect (non primary) vendor  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Stocktake - Stocktake with no counts fails to close <span class="ticket">RS-143</span>  
  Fixed a bug where stocktake stayed in committing state when it contains no counts  
   <span class="bug">Bug</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### UI Inconsistency - Item selection look up <span class="ticket">RS-362</span>  
+ Fixed UI inconsistency with decimal figures in quantity fields  
+  <span class="new">New Feature</span>  
+  
 ##### dx-data-grid dialog boxes <span class="ticket">RS-364</span>  
  Translated Yes/No confirmation button text  
   <span class="new">New Feature</span>  

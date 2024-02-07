@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Sales report has incorrect value in percentage column when rows are grouped <span class="ticket">RS-234</span>  
+ Fixed calculation of the percentage column within the analysis sales report  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Serial Number returns <span class="ticket">RS-385</span>  
  When returning a receipt from the receipt lookup this now recalls the serial number and reactivates   
   <span class="bug">Bug</span>  

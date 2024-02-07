@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Inventory - cannot create a PO without having an item <span class="ticket">RS-367</span>  
+ Draft Purchase orders can now be saved without any PO lines  
+  <span class="bug">Bug</span>  
+  
 ##### UI Inconsistency - Item selection look up <span class="ticket">RS-362</span>  
  Fixed UI inconsistency with decimal figures in quantity fields  
   <span class="new">New Feature</span>  

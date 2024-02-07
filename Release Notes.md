@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Serial Number returns <span class="ticket">RS-385</span>  
+ When returning a receipt from the receipt lookup this now recalls the serial number and reactivates   
+  <span class="bug">Bug</span>  
+  
 ##### It is not possible to add article attributes <span class="ticket">RS-396</span>  
  Fixed bug where item attribute was of a Legacy data type  
   <span class="bug">Bug</span> <span class="service">Support</span>  

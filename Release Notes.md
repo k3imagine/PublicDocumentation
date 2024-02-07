@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### ANL S5.3 - Customer - Create Filters for Customer report <span class="ticket">RS-55</span>  
+ Fixed a bug in the customer beta report to allow filtering by multiple values  
+  <span class="new">New Feature</span>  
+  
 ##### Vendor Currency code enforced or set to tenant currency <span class="ticket">RS-115</span>  
  When creating a vendor through the public api if no currency code is included on the request then the vendor is created with the tenant default currency  
   <span class="bug">Bug</span> <span class="service">Support</span>  

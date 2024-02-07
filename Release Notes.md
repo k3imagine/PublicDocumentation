@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Vendor Currency code enforced or set to tenant currency <span class="ticket">RS-115</span>  
+ When creating a vendor through the public api if no currency code is included on the request then the vendor is created with the tenant default currency  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Inventory - cannot create a PO without having an item <span class="ticket">RS-367</span>  
  Draft Purchase orders can now be saved without any PO lines  
   <span class="bug">Bug</span>  

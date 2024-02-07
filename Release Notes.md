@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Stocktake - Stocktake with no counts fails to close <span class="ticket">RS-143</span>  
+ Fixed a bug where stocktake stayed in committing state when it contains no counts  
+  <span class="bug">Bug</span>  
+  
 ##### Sales report has incorrect value in percentage column when rows are grouped <span class="ticket">RS-234</span>  
  Fixed calculation of the percentage column within the analysis sales report  
   <span class="bug">Bug</span> <span class="service">Support</span>  

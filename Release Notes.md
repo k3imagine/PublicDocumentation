@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th February 2024
 
+##### Public API - Items with over 200 variants <span class="ticket">RS-98</span>  
+ Better response when adding an item in the public api MasterItem Upsert when the request has over 200 variants  
+  <span class="bug">Bug</span>  
+  
 ##### Incorrect Primary Vendor is showing for some items in Items report compared to Primary Vendor set in Vendor management <span class="ticket">RS-128</span>  
  Fixed an issue where the item list was showing the incorrect (non primary) vendor  
   <span class="bug">Bug</span> <span class="service">Support</span>  

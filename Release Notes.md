@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th February 2024
+
+##### POS email receipt failure <span class="ticket">RS-172</span>  
+ Fixed a bug which caused email receipts to fail to send  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 7th February 2024
 
 ##### ANL S5.3 - Customer - Create Filters for Customer report <span class="ticket">RS-55</span>  

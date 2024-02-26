@@ -1,5 +1,9 @@
 # RELEASE VERSION: 26th February 2024
 
+##### Item transfer cannot be confirmed. <span class="ticket">RS-457</span>  
+ Fixed a bug when creating transfers in/out  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### PoS - Quick Card button to work with chosen Payment Service Provider <span class="ticket">RS-51</span>  
  Quick card button now fires card integration if configured, otherwise it fires non integrated card payment  
   <span class="new">New Feature</span>  

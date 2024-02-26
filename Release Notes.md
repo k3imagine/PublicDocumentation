@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th February 2024
+
+##### PoS - Quick Card button to work with chosen Payment Service Provider <span class="ticket">RS-51</span>  
+ Quick card button now fires card integration if configured, otherwise it fires non integrated card payment  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 13th February 2024
 
 ##### POS email receipt failure <span class="ticket">RS-172</span>  

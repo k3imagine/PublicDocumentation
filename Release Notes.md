@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th February 2024
+
+##### Sales report is calculating the Profit incorrectly <span class="ticket">RS-481</span>  
+ Fixed a bug in the sale report profit calculation  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 26th February 2024
 
 ##### Item transfer cannot be confirmed. <span class="ticket">RS-457</span>  

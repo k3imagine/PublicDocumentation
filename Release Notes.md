@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th March 2024
 
+##### TOP - Loosing basket ID when updating existing basket <span class="ticket">RS-509</span>  
+ Fixed a bug where the basket id was lost on top after a transaction  
+  <span class="bug">Bug</span>  
+  
 ##### Stripe Refunds <span class="ticket">RS-443</span>  
  Added ability to perform a stripe refund from transactions performed in TOP  
   <span class="new">New Feature</span>  

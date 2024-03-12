@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th March 2024
+
+##### Stripe Refunds <span class="ticket">RS-443</span>  
+ Added ability to perform a stripe refund from transactions performed in TOP  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 28th February 2024
 
 ##### Sales report is calculating the Profit incorrectly <span class="ticket">RS-481</span>  

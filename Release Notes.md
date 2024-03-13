@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th March 2024
+
+##### Cannot run a sales report <span class="ticket">RS-526</span>  
+ Fixed a bug in the sales report when item had zero cost  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 12th March 2024
 
 ##### TOP - Loosing basket ID when updating existing basket <span class="ticket">RS-509</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th March 2024
+
+##### Cannot filter out deactivated stock <span class="ticket">RS-502</span>  
+ Fixed a bug where the item report showed blank in the active column  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 13th March 2024
 
 ##### Cannot run a sales report <span class="ticket">RS-526</span>  

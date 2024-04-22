@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd April 2024
 
+##### Receipt is not printed for a zero sum <span class="ticket">RS-550</span>  
+ Fixed a bug which prevented receipt from being printed when using infrasec and giving 100% discount   
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### When scanning a receipt for a return the return reasons are not shown for selection <span class="ticket">RS-554</span>  
  Fixed an issue where you could not select a reason code when scanning a receipt to return serialised items   
   <span class="bug">Bug</span> <span class="service">Support</span>  

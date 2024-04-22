@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd April 2024
+
+##### When scanning a receipt for a return the return reasons are not shown for selection <span class="ticket">RS-554</span>  
+ Fixed an issue where you could not select a reason code when scanning a receipt to return serialised items   
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 19th March 2024
 
 ##### Cannot filter out deactivated stock <span class="ticket">RS-502</span>  

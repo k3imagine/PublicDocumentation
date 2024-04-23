@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd April 2024
+
+##### Email Receipts Not Formatted Correctly <span class="ticket">RS-602</span>  
+ Fixed formatting issues in the receipt sent from the POS  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 22nd April 2024
 
 ##### Receipt is not printed for a zero sum <span class="ticket">RS-550</span>  

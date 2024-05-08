@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th May 2024
+
+##### Menu buttons are not ok in the Companion App buttons.dismiss <span class="ticket">RS-427</span>  
+ Fixed a bug in companion app where button text was not showing the correct label  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 23rd April 2024
 
 ##### Email Receipts Not Formatted Correctly <span class="ticket">RS-602</span>  

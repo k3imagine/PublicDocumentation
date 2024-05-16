@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th May 2024
+
+##### The Shop id in the POWER BI API cannot be used to set a relation to the stock table as location id is a different field form a different table <span class="ticket">RS-676</span>  
+ Change to the BI Gateway to include the location id on the GET Shop request  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 8th May 2024
 
 ##### Menu buttons are not ok in the Companion App buttons.dismiss <span class="ticket">RS-427</span>  

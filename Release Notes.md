@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd May 2024
 
+##### betalnings med kontant max beløb <span class="ticket">RS-534</span>  
+ Added a new feature to enable pos option that restricts total cash payment allowed per transaction  
+  <span class="new">New Feature</span>  
+  
 ##### When scanning a item using RFID the values of the item on the pos do not include name and other fields <span class="ticket">RS-601</span>  
  Fixed an issue which caused the item to have missing text properties when scanning a serial number  
   <span class="bug">Bug</span> <span class="service">Support</span>  

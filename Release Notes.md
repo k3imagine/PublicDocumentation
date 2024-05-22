@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd May 2024
 
+##### Multi Store Purchase Orders <span class="ticket">RS-425</span>  
+ Added the ability to create a multi store purchase order (Beta)   
+  <span class="new">New Feature</span>  
+  
 ##### betalnings med kontant max beløb <span class="ticket">RS-534</span>  
  Added a new feature to enable pos option that restricts total cash payment allowed per transaction  
   <span class="new">New Feature</span>  

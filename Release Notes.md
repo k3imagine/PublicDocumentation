@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd May 2024
+
+##### When scanning a item using RFID the values of the item on the pos do not include name and other fields <span class="ticket">RS-601</span>  
+ Fixed an issue which caused the item to have missing text properties when scanning a serial number  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 16th May 2024
 
 ##### The Shop id in the POWER BI API cannot be used to set a relation to the stock table as location id is a different field form a different table <span class="ticket">RS-676</span>  

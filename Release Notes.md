@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th May 2024
+
+##### Bi Gateway pagination giving incorrect results <span class="ticket">RS-690</span>  
+ Fixed pagination issues on the InventoryLevels and ProductDimension endpoints within the BI Gateway  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 22nd May 2024
 
 ##### Multi Store Purchase Orders <span class="ticket">RS-425</span>  

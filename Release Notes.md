@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th May 2024
 
+##### Issues populating Tiles within Imagine Top images not updating <span class="ticket">RS-689</span>  
+ Fixed an issue where item images would not display in Top after image was added to the item  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Bi Gateway pagination giving incorrect results <span class="ticket">RS-690</span>  
  Fixed pagination issues on the InventoryLevels and ProductDimension endpoints within the BI Gateway  
   <span class="bug">Bug</span> <span class="service">Support</span>  

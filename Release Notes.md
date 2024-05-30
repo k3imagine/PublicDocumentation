@@ -1,3 +1,9 @@
+# RELEASE VERSION: 30th May 2024
+
+##### The stock and endpoint returns a 400 message in stead of a 200 message when a empty page is reached.  <span class="ticket">RS-736</span>  
+ Fixed the InventoryLevels endpoint so that it returns an empty array 200 response when entering a page which returns no results  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 28th May 2024
 
 ##### Issues populating Tiles within Imagine Top images not updating <span class="ticket">RS-689</span>  

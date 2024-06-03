@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd June 2024
+
+##### EFT transactions are timing out and not printing receipts intermittently <span class="ticket">RS-592</span>  
+ Fixed a bug in the adyen service which caused failure when trying to print the receipt  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 30th May 2024
 
 ##### The stock and endpoint returns a 400 message in stead of a 200 message when a empty page is reached.  <span class="ticket">RS-736</span>  

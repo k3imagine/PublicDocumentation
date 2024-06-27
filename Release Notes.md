@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th June 2024
+
+##### Beta Movement Report is showing incorrect Shop location for Transfer In's <span class="ticket">RS-826</span>  
+ Fixed an issue where the Movements (Beta) Report displayed transfer in against the sending store  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 3rd June 2024
 
 ##### EFT transactions are timing out and not printing receipts intermittently <span class="ticket">RS-592</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 8th July 2024
 
+##### MTD - Missing headers  <span class="ticket">RS-852</span>  
+ Added missing headers for Making tax digital as requested by HMRC  
+  <span class="bug">Bug</span>  
+  
 ##### MTD - Encrypt Access Token <span class="ticket">RS-760</span>  
  Added further backend encryption for MTD  
   <span class="new">New Feature</span>  

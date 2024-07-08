@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th July 2024
+
+##### MTD - Encrypt Access Token <span class="ticket">RS-760</span>  
+ Added further backend encryption for MTD  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 27th June 2024
 
 ##### Beta Movement Report is showing incorrect Shop location for Transfer In's <span class="ticket">RS-826</span>  

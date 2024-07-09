@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th July 2024
+
+##### Payments and orders through Stripe are not being recorded in Imagine database <span class="ticket">RS-878</span>  
+ Fixed a bug in Top which caused sales order to fail for newly created shops  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 8th July 2024
 
 ##### MTD - Missing headers  <span class="ticket">RS-852</span>  

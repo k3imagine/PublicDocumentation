@@ -1,3 +1,9 @@
+# RELEASE VERSION: 10th July 2024
+
+##### Menu buttons are not ok in the Companion App buttons.dismiss <span class="ticket">RS-427</span>  
+ Fixed a bug in companion app where button text was not showing the correct label  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 9th July 2024
 
 ##### Payments and orders through Stripe are not being recorded in Imagine database <span class="ticket">RS-878</span>  

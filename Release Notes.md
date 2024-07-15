@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th July 2024
 
+##### Report Filter Slow <span class="ticket">RS-539</span>  
+ Optimised the sql behind the report filter to improve performance  
+  <span class="new">New Feature</span>  
+  
 ##### Item with picture uploaded through the API has that picture not selected as main picture <span class="ticket">RS-677</span>  
  Items/MasterItems uploaded through the public api now have the image changes reflected within the Inventory module  
   <span class="bug">Bug</span> <span class="service">Support</span>  

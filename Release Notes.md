@@ -1,3 +1,9 @@
+# RELEASE VERSION: 15th July 2024
+
+##### Sales analysis report missing web order information <span class="ticket">RS-881</span>  
+ Web order lines now show as such in the sales report  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 10th July 2024
 
 ##### Menu buttons are not ok in the Companion App buttons.dismiss <span class="ticket">RS-427</span>  

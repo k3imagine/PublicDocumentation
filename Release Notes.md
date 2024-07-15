@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th July 2024
 
+##### Item with picture uploaded through the API has that picture not selected as main picture <span class="ticket">RS-677</span>  
+ Items/MasterItems uploaded through the public api now have the image changes reflected within the Inventory module  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Sales analysis report missing web order information <span class="ticket">RS-881</span>  
  Web order lines now show as such in the sales report  
   <span class="bug">Bug</span>  

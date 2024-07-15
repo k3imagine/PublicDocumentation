@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th July 2024
 
+##### If a item has a serial number and it is registered in the POS can it then be printed on the recept as well? <span class="ticket">RS-570</span>  
+ When a serialised item is sold on the POS the serial number will now print on the receipt  
+  <span class="new">New Feature</span>  
+  
 ##### Report Filter Slow <span class="ticket">RS-539</span>  
  Optimised the sql behind the report filter to improve performance  
   <span class="new">New Feature</span>  

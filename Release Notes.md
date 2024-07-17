@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th July 2024
+
+##### MTD - Cannot export transactions <span class="ticket">RS-898</span>  
+ Fixed a bug in the mtd transaction export when requesting the csv file  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 15th July 2024
 
 ##### If a item has a serial number and it is registered in the POS can it then be printed on the recept as well? <span class="ticket">RS-570</span>  

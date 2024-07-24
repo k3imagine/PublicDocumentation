@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th July 2024
+
+##### Stock Lookup POS Widget Displays Incorrect Quantity <span class="ticket">RS-742</span>  
+ Fixed a bug where stock lookup on the POS was incorrectly calculating stock values when item had offline stock  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 17th July 2024
 
 ##### MTD - Cannot export transactions <span class="ticket">RS-898</span>  

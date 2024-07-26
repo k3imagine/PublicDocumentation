@@ -1,3 +1,9 @@
+# RELEASE VERSION: 26th July 2024
+
+##### Stripe - Use Tenant-Specific Base URL for Stripe Callback <span class="ticket">RS-906</span>  
+ Stripe MS now has configurable baseurl for callback based upon a tenant feature  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 24th July 2024
 
 ##### Stock Lookup POS Widget Displays Incorrect Quantity <span class="ticket">RS-742</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th August 2024
+
+##### Self Serve admin top url on self hosted domain <span class="ticket">RS-908</span>  
+ Self serve admin now shows top url based upon the tenant feature if set, allowing qr code generation for custom domains  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 26th July 2024
 
 ##### Stripe - Use Tenant-Specific Base URL for Stripe Callback <span class="ticket">RS-906</span>  

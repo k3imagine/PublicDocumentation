@@ -1,8 +1,8 @@
 # RELEASE VERSION: 29th August 2024
 
-##### Companion App failing to submit counts from scanner. <span class="ticket">RS-968</span>  
- Companion app no longer submits the lines from the UI as this causes a 413 response  
-  <span class="bug">Bug</span> <span class="service">Support</span>  
+##### Public API - Stocktake count add to stocktake <span class="ticket">RS-966</span>  
+ Optional parameter on Public API stock count endpoint which will allow items to be counted and added to the stocktake  
+  <span class="new">New Feature</span>  
   
 # RELEASE VERSION: 14th August 2024
 

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 29th August 2024
+
+##### Companion App failing to submit counts from scanner. <span class="ticket">RS-968</span>  
+ Companion app no longer submits the lines from the UI as this causes a 413 response  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 14th August 2024
 
 ##### Self Serve admin top url on self hosted domain <span class="ticket">RS-908</span>  

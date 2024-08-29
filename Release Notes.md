@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th August 2024
 
+##### When a customer order is created with serialised items the POS does not ask for the serial number/RFID when finalizing the order.  <span class="ticket">RS-931</span>  
+ Added support for customer orders to included serialised items, when loading the customer order on the pos it will now prompt for the serial number  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Public API - Stocktake count add to stocktake <span class="ticket">RS-966</span>  
  Optional parameter on Public API stock count endpoint which will allow items to be counted and added to the stocktake  
   <span class="new">New Feature</span>  

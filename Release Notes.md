@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th August 2024
 
+##### Item figures available quantity incorrect <span class="ticket">RS-949</span>  
+ Item figures available quantity now calculates correctly by deducting the offline stock  
+  <span class="bug">Bug</span>  
+  
 ##### Companion App failing to submit counts from scanner. <span class="ticket">RS-968</span>  
  Companion app no longer submits the lines from the UI as this causes a 413 response  
   <span class="bug">Bug</span> <span class="service">Support</span>  

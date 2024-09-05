@@ -1,3 +1,9 @@
+# RELEASE VERSION: 5th September 2024
+
+##### Cannot search in drop down in received goods in Vendor drop down by typing in the start of the vendor name. <span class="ticket">RS-993</span>  
+ Made inventory Receive goods vendor drop down searchable  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 29th August 2024
 
 ##### Item figures available quantity incorrect <span class="ticket">RS-949</span>  

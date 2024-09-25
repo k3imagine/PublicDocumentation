@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th September 2024
 
+##### POS - serialised item removed when clerk using different language <span class="ticket">RS-1006</span>  
+ Fixed a bug where serialised items could not be added when the clerk language did not match the shop language  
+  <span class="bug">Bug</span>  
+  
 ##### Stock Take Discrepancy Search Not Working As Expected <span class="ticket">RS-1020</span>  
  Stocktake Discrepancy search now filters the results on the current page instead of highlighting only  
   <span class="bug">Bug</span> <span class="service">Support</span>  

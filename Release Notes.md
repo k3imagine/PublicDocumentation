@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th September 2024
 
+##### Customer Order - PrePaid payment amount shows 0 <span class="ticket">RS-1003</span>  
+ Fixed a customer order bug where it was not setting the prepaid amount if the order was marked as paid  
+  <span class="bug">Bug</span>  
+  
 ##### POS - serialised item removed when clerk using different language <span class="ticket">RS-1006</span>  
  Fixed a bug where serialised items could not be added when the clerk language did not match the shop language  
   <span class="bug">Bug</span>  

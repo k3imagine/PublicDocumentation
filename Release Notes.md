@@ -1,5 +1,9 @@
 # RELEASE VERSION: 25th September 2024
 
+##### Stock Take Discrepancy Search Not Working As Expected <span class="ticket">RS-1020</span>  
+ Stocktake Discrepancy search now filters the results on the current page instead of highlighting only  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Add Quantity and Value to Vendor Return Summary <span class="ticket">RS-1021</span>  
  Added Total Quantity and Total Value columns on the vendor return overview  
   <span class="new">New Feature</span>  

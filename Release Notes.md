@@ -1,3 +1,9 @@
+# RELEASE VERSION: 25th September 2024
+
+##### Add Quantity and Value to Vendor Return Summary <span class="ticket">RS-1021</span>  
+ Added Total Quantity and Total Value columns on the vendor return overview  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 5th September 2024
 
 ##### Cannot search in drop down in received goods in Vendor drop down by typing in the start of the vendor name. <span class="ticket">RS-993</span>  

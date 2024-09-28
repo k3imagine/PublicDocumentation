@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th September 2024
 
+##### Add Season to Edit Item <span class="ticket">RS-937</span>  
+ Added season to edit item  
+  <span class="new">New Feature</span>  
+  
 ##### Add Season to Create Item <span class="ticket">RS-936</span>  
  Added season to create item wizard  
   <span class="new">New Feature</span>  

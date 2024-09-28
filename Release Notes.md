@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th September 2024
+
+##### Add Season to Create Item <span class="ticket">RS-936</span>  
+ Added season to create item wizard  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 25th September 2024
 
 ##### Customer Order - PrePaid payment amount shows 0 <span class="ticket">RS-1003</span>  

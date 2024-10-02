@@ -1,5 +1,9 @@
 # RELEASE VERSION: 2nd October 2024
 
+##### Item Info response error <span class="ticket">RS-1046</span>  
+ Item info response was erroring on the backend  
+  <span class="bug">Bug</span>  
+  
 ##### Offline stock not updated <span class="ticket">RS-928</span>  
  Fixed a bug where offline stock was not removed when transferring to another store  
   <span class="bug">Bug</span> <span class="service">Support</span>  

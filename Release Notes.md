@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd October 2024
+
+##### Offline stock not updated <span class="ticket">RS-928</span>  
+ Fixed a bug where offline stock was not removed when transferring to another store  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 28th September 2024
 
 ##### Add Season to Edit Item <span class="ticket">RS-937</span>  

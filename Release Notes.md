@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th October 2024
 
+##### Add Season endpoints to public API to support PUT, POST, GET, DELETE <span class="ticket">RS-950</span>  
+ Added season endpoints to the Public API  
+  <span class="new">New Feature</span>  
+  
 ##### Add Season Filter to Analysis Report <span class="ticket">RS-938</span>  
  Added season filter to Analysis reports  
   <span class="new">New Feature</span>  

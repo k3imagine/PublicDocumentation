@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th October 2024
+
+##### Supplier Drop Down in Item Creation Wizard Not Searchable/Filterable <span class="ticket">RS-1075</span>  
+ Within item creation the vendor and season dropdowns are now searchable  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 2nd October 2024
 
 ##### Item Info response error <span class="ticket">RS-1046</span>  

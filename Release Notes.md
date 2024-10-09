@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th October 2024
 
+##### Add Season Filter to Analysis Report <span class="ticket">RS-938</span>  
+ Added season filter to Analysis reports  
+  <span class="new">New Feature</span>  
+  
 ##### Supplier Drop Down in Item Creation Wizard Not Searchable/Filterable <span class="ticket">RS-1075</span>  
  Within item creation the vendor and season dropdowns are now searchable  
   <span class="new">New Feature</span>  

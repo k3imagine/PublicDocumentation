@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th October 2024
 
+##### Self Serve email receipts are not showing correct transaction value due to Modifier values not being added <span class="ticket">RS-1070</span>  
+ Top receipts now include item modifiers   
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Top Missing transactions <span class="ticket">RS-1104</span>  
  Top improvements with improved error handling on failed transactions. As part of this a bug was fixed where the sales was missing the basket id which caused failure  
   <span class="bug">Bug</span>  

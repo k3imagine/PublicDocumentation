@@ -1,5 +1,9 @@
 # RELEASE VERSION: 29th October 2024
 
+##### Weighted average not working <span class="ticket">RS-182</span>  
+ Fixed a bug in weighted average cost which was not updating when item had no stock initially  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Self Serve email receipts are not showing correct transaction value due to Modifier values not being added <span class="ticket">RS-1070</span>  
  Top receipts now include item modifiers   
   <span class="bug">Bug</span> <span class="service">Support</span>  

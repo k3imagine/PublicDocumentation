@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th November 2024
 
+##### Primary vendor detail is not importing from item import download sheet <span class="ticket">RS-1081</span>  
+ Item import now updates the primary vendor on the item to match the imported sheet  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Add Barcode, Vendor and Item Hierarchy to Stock Take Discrepancy Report <span class="ticket">RS-1022</span>  
  Added Barcode,Vendor and Item hierarchy to the stocktake discrepancy list  
   <span class="new">New Feature</span>  

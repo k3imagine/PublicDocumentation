@@ -1,3 +1,9 @@
+# RELEASE VERSION: 11th November 2024
+
+##### Add Barcode, Vendor and Item Hierarchy to Stock Take Discrepancy Report <span class="ticket">RS-1022</span>  
+ Added Barcode,Vendor and Item hierarchy to the stocktake discrepancy list  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 29th October 2024
 
 ##### Weighted average not working <span class="ticket">RS-182</span>  

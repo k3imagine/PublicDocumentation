@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th November 2024
 
+##### Can we add the new Seasonality fdrop down field to the Item Import download template in Inventory module. <span class="ticket">RS-1088</span>  
+ Item import now includes season field  
+  <span class="new">New Feature</span>  
+  
 ##### "Serialized" Item Type  has not imported using item import and has set the imported items to "Stock" <span class="ticket">RS-1082</span>  
  Fixed a bug in the item import which meant items were not imported as serialised item type  
   <span class="bug">Bug</span> <span class="service">Support</span>  

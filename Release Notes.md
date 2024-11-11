@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th November 2024
 
+##### "Serialized" Item Type  has not imported using item import and has set the imported items to "Stock" <span class="ticket">RS-1082</span>  
+ Fixed a bug in the item import which meant items were not imported as serialised item type  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Primary vendor detail is not importing from item import download sheet <span class="ticket">RS-1081</span>  
  Item import now updates the primary vendor on the item to match the imported sheet  
   <span class="bug">Bug</span> <span class="service">Support</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th November 2024
+
+##### Self Serve email receipts are not showing correct transaction value due to Modifier values not being added <span class="ticket">RS-1070</span>  
+ Top receipts now include item modifiers   
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 11th November 2024
 
 ##### Can we add the new Seasonality fdrop down field to the Item Import download template in Inventory module. <span class="ticket">RS-1088</span>  

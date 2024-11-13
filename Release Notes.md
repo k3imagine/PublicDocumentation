@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th November 2024
+
+##### Top E-Receipt Discount Amount <span class="ticket">RS-1162</span>  
+ Add Subtotal and Discount fields to the Top e-receipt  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 12th November 2024
 
 ##### Self Serve email receipts are not showing correct transaction value due to Modifier values not being added <span class="ticket">RS-1070</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd December 2024
+
+##### TOP transactions which contain modifiers are showing incorrect sales values in Sales report <span class="ticket">RS-1175</span>  
+ Top transaction modifiers have now been added to the sales report  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 13th November 2024
 
 ##### Top E-Receipt Discount Amount <span class="ticket">RS-1162</span>  

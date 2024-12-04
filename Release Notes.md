@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th December 2024
 
+##### Add Season field to Products endpoint in BI Gateway <span class="ticket">RS-1157</span>  
+ Season has been added to the Bi Gateway products endpoint  
+  <span class="new">New Feature</span>  
+  
 ##### Add To Offline Stock Change <span class="ticket">RS-1154</span>  
  Add to offline view now shows the available quantity (quantity on hand - quantity reserved - quantity offline)  
   <span class="new">New Feature</span>  

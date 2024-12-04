@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th December 2024
 
+##### Incorrect data on Cash Statement - <span class="ticket">RS-1119</span>  
+ Added retry cash statement option for when the backend is unavailable, Also added a check for Pos being online before cash statement can be started  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### When doing a Cash statement using several currencies the Till Totals/Expected and Difference amounts are wrong <span class="ticket">RS-1099</span>  
  Fixed a bug on the cash statement when multiple currencies have been used  
   <span class="bug">Bug</span> <span class="service">Support</span>  

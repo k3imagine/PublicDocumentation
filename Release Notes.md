@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th December 2024
 
+##### When doing a Cash statement using several currencies the Till Totals/Expected and Difference amounts are wrong <span class="ticket">RS-1099</span>  
+ Fixed a bug on the cash statement when multiple currencies have been used  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Ticket for proposed Financial and Basket reports to be added to the Imagine Analysis Module. <span class="ticket">RS-1092</span>  
  New Payment report created  
   <span class="new">New Feature</span>  

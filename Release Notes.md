@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th December 2024
+
+##### Ticket for proposed Financial and Basket reports to be added to the Imagine Analysis Module. <span class="ticket">RS-1092</span>  
+ New Payment report created  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 2nd December 2024
 
 ##### TOP transactions which contain modifiers are showing incorrect sales values in Sales report <span class="ticket">RS-1175</span>  

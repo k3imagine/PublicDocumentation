@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th December 2024
 
+##### Stripe refunds payment values in Imagine UI is not showing discounted value from the transaction tables <span class="ticket">RS-1137</span>  
+ Stripe refunds were not excluding discount so refund would fail. This now only allows refund up to full payment amount.  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Incorrect data on Cash Statement - <span class="ticket">RS-1119</span>  
  Added retry cash statement option for when the backend is unavailable, Also added a check for Pos being online before cash statement can be started  
   <span class="bug">Bug</span> <span class="service">Support</span>  

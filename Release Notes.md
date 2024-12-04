@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th December 2024
 
+##### Add To Offline Stock Change <span class="ticket">RS-1154</span>  
+ Add to offline view now shows the available quantity (quantity on hand - quantity reserved - quantity offline)  
+  <span class="new">New Feature</span>  
+  
 ##### Issue Recording Offline Stock <span class="ticket">RS-1153</span>  
  Restriction on offline stock has been removed so that a higher quantity than currently on hand can be added  
   <span class="bug">Bug</span>  

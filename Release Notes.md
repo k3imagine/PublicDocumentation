@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th December 2024
 
+##### Issue Recording Offline Stock <span class="ticket">RS-1153</span>  
+ Restriction on offline stock has been removed so that a higher quantity than currently on hand can be added  
+  <span class="bug">Bug</span>  
+  
 ##### Inventory > item list shows On Hand Quantity Instead of Available <span class="ticket">RS-1152</span>  
  Item list now shows the available stock as opposed to quantity on hand  
   <span class="new">New Feature</span>  

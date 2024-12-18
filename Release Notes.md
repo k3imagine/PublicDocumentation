@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th December 2024
+
+##### TOP transactions which contain modifiers are showing incorrect sales values in Sales report <span class="ticket">RS-1175</span>  
+ Top transaction modifiers have now been added to the sales report  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 4th December 2024
 
 ##### Add Season field to Products endpoint in BI Gateway <span class="ticket">RS-1157</span>  

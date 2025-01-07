@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th January 2025
+
+##### Tax codes missing on items <span class="ticket">RS-1171</span>  
+ Public API enforces all items to have a taxcode  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 18th December 2024
 
 ##### TOP transactions which contain modifiers are showing incorrect sales values in Sales report <span class="ticket">RS-1175</span>  

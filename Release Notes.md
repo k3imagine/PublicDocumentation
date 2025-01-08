@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th January 2025
+
+##### Serial number validation in item management <span class="ticket">RS-1206</span>  
+ Fixed a bug where serial number validation was incorrectly checking against master item no  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 7th January 2025
 
 ##### Tax codes missing on items <span class="ticket">RS-1171</span>  

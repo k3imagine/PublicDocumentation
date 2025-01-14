@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th January 2025
+
+##### Receipt setup failing to display <span class="ticket">RS-1263</span>  
+ Fixed Pos admin UI when receipt text was null  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 8th January 2025
 
 ##### Serial number validation in item management <span class="ticket">RS-1206</span>  

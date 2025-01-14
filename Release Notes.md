@@ -4,6 +4,10 @@
  Customer display now supports an embedded video from an external url source  
   <span class="new">New Feature</span>  
   
+##### Customer display Embedded Video <span class="ticket">RS-1258</span>  
+ Customer display now supports an embedded video from an external url source  
+  <span class="new">New Feature</span>  
+  
 ##### Receipt setup failing to display <span class="ticket">RS-1263</span>  
  Fixed Pos admin UI when receipt text was null  
   <span class="bug">Bug</span> <span class="service">Support</span>  

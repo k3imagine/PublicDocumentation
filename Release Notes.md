@@ -1,5 +1,9 @@
 # RELEASE VERSION: 22nd January 2025
 
+##### Quantity on Purchase order negative quantity <span class="ticket">RS-1281</span>  
+ Fixed a bug when over receiving a purchase order that caused the quantity on order to show as a negative.  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Imagine Pos does not fire Cash Drawer on Cash Tender when Pos Options receipt printing is set to "Email as default" <span class="ticket">RS-1015</span>  
  Fixed a bug which meant the cash drawer didn't fire if not printing physical receipt (email only)  
   <span class="bug">Bug</span> <span class="service">Support</span>  

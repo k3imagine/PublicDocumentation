@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd January 2025
+
+##### Imagine Pos does not fire Cash Drawer on Cash Tender when Pos Options receipt printing is set to "Email as default" <span class="ticket">RS-1015</span>  
+ Fixed a bug which meant the cash drawer didn't fire if not printing physical receipt (email only)  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 14th January 2025
 
 ##### Customer display Embedded Video <span class="ticket">RS-1258</span>  

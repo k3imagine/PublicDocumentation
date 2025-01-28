@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th January 2025
 
+##### Vendor item number changes won't save <span class="ticket">RS-1231</span>  
+ Fixed a bug which appeared as though the vendor item no was not being updated in inventory UI  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### TOP transactions which contain modifiers are showing incorrect sales values in Sales report <span class="ticket">RS-1175</span>  
  Top transaction modifiers have now been added to the sales report  
   <span class="bug">Bug</span> <span class="service">Support</span>  

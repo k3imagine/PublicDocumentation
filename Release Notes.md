@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th January 2025
+
+##### TOP transactions which contain modifiers are showing incorrect sales values in Sales report <span class="ticket">RS-1175</span>  
+ Top transaction modifiers have now been added to the sales report  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 22nd January 2025
 
 ##### Quantity on Purchase order negative quantity <span class="ticket">RS-1281</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 29th January 2025
+
+##### Hierarchy code does not allow hyphen <span class="ticket">RS-1305</span>  
+ Allow code to include hyphens as this is allowed in the public api creation  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 28th January 2025
 
 ##### Vendor item number changes won't save <span class="ticket">RS-1231</span>  

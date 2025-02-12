@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th February 2025
+
+##### Public Api - Item Import via csv task missing tax code error <span class="ticket">RS-1312</span>  
+ Fixed a bug in the csv import validation , this ensures at least one tax code is present on each item  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 29th January 2025
 
 ##### Hierarchy code does not allow hyphen <span class="ticket">RS-1305</span>  

@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th February 2025
 
+##### Software connector enrollment <span class="ticket">RS-562</span>  
+ Added ability to add the software connector in Pos admin UI  
+  <span class="new">New Feature</span>  
+  
 ##### Public Api - Item Import via csv task missing tax code error <span class="ticket">RS-1312</span>  
  Fixed a bug in the csv import validation , this ensures at least one tax code is present on each item  
   <span class="bug">Bug</span>  

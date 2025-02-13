@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th February 2025
+
+##### Software connector - cert renewal <span class="ticket">RS-1207</span>  
+ Software connector automatically renews the certificates  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 12th February 2025
 
 ##### Software connector enrollment <span class="ticket">RS-562</span>  

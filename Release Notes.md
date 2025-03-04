@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th March 2025
+
+##### k3 reports <span class="ticket">RS-1384</span>  
+ N/A  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 13th February 2025
 
 ##### Software connector - cert renewal <span class="ticket">RS-1207</span>  

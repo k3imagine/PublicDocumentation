@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### PO & GRN PDF Templates Display Unnecessary Decimal Places <span class="ticket">RS-1322</span>  
+ Purchase Order and Receive Goods export to PDF now show the quantity and extended costs to 2 decimal places only  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### PDF on received goods calculating incorrectly <span class="ticket">RS-1323</span>  
  Fixed a bug where the pdf export on PO and GRN was calculating incorrectly.  
   <span class="bug">Bug</span> <span class="service">Support</span>  

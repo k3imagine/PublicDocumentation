@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### Request to add a profit percentage block total to Sales Report <span class="ticket">RS-1315</span>  
+ Add profit % header block to the sales analysis report  
+  <span class="new">New Feature</span>  
+  
 ##### Cannot find searched items with an & <span class="ticket">RS-1320</span>  
  Fixed a bug when searching in the item list for an item containing the & symbol  
   <span class="bug">Bug</span> <span class="service">Support</span>  

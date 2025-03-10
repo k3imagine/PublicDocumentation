@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### Vendor Changes in Vendor Management are Being Undone When Pressing the Save Button #66750 <span class="ticket">RS-1314</span>  
+ Resolved an issue in inventory management where vendor changes were not retained after saving an item.  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Request to add a profit percentage block total to Sales Report <span class="ticket">RS-1315</span>  
  Add profit % header block to the sales analysis report  
   <span class="new">New Feature</span>  

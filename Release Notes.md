@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### Analysis export to PDF as a function <span class="ticket">RS-1321</span>  
+ Added option to export to pdf in the analysis reports  
+  <span class="new">New Feature</span>  
+  
 ##### PO & GRN PDF Templates Display Unnecessary Decimal Places <span class="ticket">RS-1322</span>  
  Purchase Order and Receive Goods export to PDF now show the quantity and extended costs to 2 decimal places only  
   <span class="bug">Bug</span> <span class="service">Support</span>  

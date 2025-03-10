@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### Stripe refunds in Self Serve Admin/Shops  is showing full price of transaction to refund when it should show discounted price <span class="ticket">RS-1354</span>  
+ Stripe refunds now show the net amount excluding discount amount. Max amount that can be refunded is the net amount  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Vendors not showing in analysis filter <span class="ticket">RS-1405</span>  
  Fixed a bug where vendors were not listed in the analysis filters  
   <span class="bug">Bug</span>  

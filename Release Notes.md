@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### Stocktake Discrepancy mapping <span class="ticket">RS-1328</span>  
+ Fixed a bug which caused an error when loading stocktake discrepancy list  
+  <span class="bug">Bug</span>  
+  
 ##### Stripe refunds in Self Serve Admin/Shops  is showing full price of transaction to refund when it should show discounted price <span class="ticket">RS-1354</span>  
  Stripe refunds now show the net amount excluding discount amount. Max amount that can be refunded is the net amount  
   <span class="bug">Bug</span> <span class="service">Support</span>  

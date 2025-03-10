@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### PDF on received goods calculating incorrectly <span class="ticket">RS-1323</span>  
+ Fixed a bug where the pdf export on PO and GRN was calculating incorrectly.  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Stocktake Discrepancy mapping <span class="ticket">RS-1328</span>  
  Fixed a bug which caused an error when loading stocktake discrepancy list  
   <span class="bug">Bug</span>  

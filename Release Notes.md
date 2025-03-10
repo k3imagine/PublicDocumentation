@@ -1,5 +1,9 @@
 # RELEASE VERSION: 10th March 2025
 
+##### Cannot find searched items with an & <span class="ticket">RS-1320</span>  
+ Fixed a bug when searching in the item list for an item containing the & symbol  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Analysis export to PDF as a function <span class="ticket">RS-1321</span>  
  Added option to export to pdf in the analysis reports  
   <span class="new">New Feature</span>  

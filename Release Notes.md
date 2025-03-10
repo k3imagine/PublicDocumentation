@@ -1,3 +1,9 @@
+# RELEASE VERSION: 10th March 2025
+
+##### Vendors not showing in analysis filter <span class="ticket">RS-1405</span>  
+ Fixed a bug where vendors were not listed in the analysis filters  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 4th March 2025
 
 ##### k3 reports <span class="ticket">RS-1384</span>  

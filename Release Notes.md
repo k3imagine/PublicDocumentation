@@ -1,3 +1,9 @@
+# RELEASE VERSION: 11th March 2025
+
+##### Cannot set primary vendor if vendor deleted <span class="ticket">RS-1409</span>  
+ Fixed a bug where you could not assign a vendor as primary after the primary vendor was deleted  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 10th March 2025
 
 ##### Vendor Changes in Vendor Management are Being Undone When Pressing the Save Button #66750 <span class="ticket">RS-1314</span>  

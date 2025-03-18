@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th March 2025
+
+##### Analysis cant save payment report <span class="ticket">RS-1427</span>  
+ Fixed a bug when saving the payment analysis report  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 11th March 2025
 
 ##### Cannot set primary vendor if vendor deleted <span class="ticket">RS-1409</span>  

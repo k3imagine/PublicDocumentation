@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th March 2025
+
+##### Group By on Sales & Customer Analysis Reports Result in 500 Error <span class="ticket">RS-1253</span>  
+ Fixed a bug which caused the analysis sales and customer reports to fail when using the group by filters  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 18th March 2025
 
 ##### Analysis cant save payment report <span class="ticket">RS-1427</span>  

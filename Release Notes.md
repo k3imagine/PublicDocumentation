@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th April 2025
+
+##### Glasgow Life change request to add required date to Purchase order PDF export sheet. <span class="ticket">RS-1448</span>  
+ Added Required Delivery date to the pdf export on Purchase orders  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 19th March 2025
 
 ##### Group By on Sales & Customer Analysis Reports Result in 500 Error <span class="ticket">RS-1253</span>  

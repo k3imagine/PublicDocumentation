@@ -4,7 +4,7 @@
  The 'Notes' field is now included in Purchase Orders, ensuring consistency with the PDF export and Goods Received records.  
   <span class="new">New Feature</span>  
   
-##### Glasgow Life change request to add required date to Purchase order PDF export sheet. <span class="ticket">RS-1448</span>  
+##### Add 'Required Date' to Purchase Order PDF Export Sheet. <span class="ticket">RS-1448</span>  
  Added Required Delivery date to the pdf export on Purchase orders  
   <span class="new">New Feature</span>  
   

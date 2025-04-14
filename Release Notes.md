@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th April 2025
+
+##### Movement Beta Report Displaying Incorrect Reason Codes <span class="ticket">RS-1513</span>  
+ Fixed a bug in inventory ui which set the incorrect adjustment reason on the stock movement when performing a manual adjustment, The adjustment was still recorded with the correct reason  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 8th April 2025
 
 ##### Add 'Notes' field to Purchase Orders for consistency with PDF export and Goods Received <span class="ticket">RS-1473</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd April 2025
+
+##### Add new printer-type for Oxhoo printer <span class="ticket">RS-1445</span>  
+ Add new printer-type for Oxhoo printer  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 14th April 2025
 
 ##### Movement Beta Report Displaying Incorrect Reason Codes <span class="ticket">RS-1513</span>  

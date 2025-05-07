@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th May 2025
 
+##### Adjust Available Quantity Calculation to Include quantityInPick <span class="ticket">RS-1555</span>  
+ Changed stock available calculation to exclude items on pick from a customer order  
+  <span class="new">New Feature</span>  
+  
 ##### Cannot update item if it has a season <span class="ticket">RS-1449</span>  
  Fixed an issue which caused item changes to fail to be saved if the item had already been assigned a season  
   <span class="bug">Bug</span>  

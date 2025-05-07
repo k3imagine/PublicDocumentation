@@ -1,5 +1,9 @@
 # RELEASE VERSION: 7th May 2025
 
+##### Integrate "Block Discount at POS" from Imagine into MStore Membership Extension <span class="ticket">RS-1378</span>  
+ MStore extension now doesn't apply discount to items which have the `disableDiscount` flag set to True on the masteritem  
+  <span class="new">New Feature</span>  
+  
 ##### Adjust Available Quantity Calculation to Include quantityInPick <span class="ticket">RS-1555</span>  
  Changed stock available calculation to exclude items on pick from a customer order  
   <span class="new">New Feature</span>  

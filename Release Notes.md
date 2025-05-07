@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th May 2025
+
+##### Cannot update item if it has a season <span class="ticket">RS-1449</span>  
+ Fixed an issue which caused item changes to fail to be saved if the item had already been assigned a season  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 23rd April 2025
 
 ##### Add new printer-type for Oxhoo printer <span class="ticket">RS-1445</span>  

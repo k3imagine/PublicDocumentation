@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th May 2025
+
+##### Saved Reports Missing in Imagine My Analysis: Role ID Mismatch Between Rbo.staff and Analysis.savedreport Tables <span class="ticket">RS-1412</span>  
+ Resolved an issue where saved reports were not appearing in Imagine My Analysis due to a mismatch between user Role IDs in the Rbo.staff and Analysis.savedreport tables  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 # RELEASE VERSION: 7th May 2025
 
 ##### Integrate "Block Discount at POS" from Imagine into MStore Membership Extension <span class="ticket">RS-1378</span>  

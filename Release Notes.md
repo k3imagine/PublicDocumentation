@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th May 2025
+
+##### Update 'Profit%' calculation to reflect profit margin instead of markup <span class="ticket">RS-1553</span>  
+ Changed analysis report profit % header to be calculated using Profit margin %  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 14th May 2025
 
 ##### Public API – Transaction EAN Field Is Case-Sensitive <span class="ticket">RS-1606</span>  

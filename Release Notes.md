@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th May 2025
 
+##### Customer Order Payment Lines Added for Removed Orders or items in POS <span class="ticket">RS-1558</span>  
+ Change to the Retail POS , when a customer order is picked and added to the basket the lines can no longer be deleted  
+  <span class="bug">Bug</span>  
+  
 ##### Update 'Profit%' calculation to reflect profit margin instead of markup <span class="ticket">RS-1553</span>  
  Changed analysis report profit % header to be calculated using Profit margin %  
   <span class="new">New Feature</span>  

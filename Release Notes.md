@@ -1,9 +1,5 @@
 # RELEASE VERSION: 19th May 2025
 
-##### Enable Support for Comma as Decimal Separator in Item Import Template for European Locales <span class="ticket">RS-1457</span>  
- Item import now accepts comma seperator to support european locales  
-  <span class="bug">Bug</span>  
-  
 ##### Request to add Vendor address and phone number to PDF export page <span class="ticket">RS-1532</span>  
  Added vendor address and main phone number to purchase order pdf export  
   <span class="new">New Feature</span>  

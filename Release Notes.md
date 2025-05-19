@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th May 2025
 
+##### Manufacturer Item No is not showing data in Analysis Sales and Item reports <span class="ticket">RS-1536</span>  
+ Fixed a bug where Manufacturer Item No was not displaying in the sales and item reports  
+  <span class="bug">Bug</span> <span class="service">Support</span>  
+  
 ##### Customer Order Payment Lines Added for Removed Orders or items in POS <span class="ticket">RS-1558</span>  
  Change to the Retail POS , when a customer order is picked and added to the basket the lines can no longer be deleted  
   <span class="bug">Bug</span>  

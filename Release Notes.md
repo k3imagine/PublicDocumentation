@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd May 2025
+
+##### Imagine Multi Store Purchase orders beta store name is misleading when  save but not commit. <span class="ticket">RS-1521</span>  
+ Fixed a bug where multi store purchase order draft showed the store name as a single store  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 19th May 2025
 
 ##### Request to add Vendor address and phone number to PDF export page <span class="ticket">RS-1532</span>  

@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd June 2025
+
+##### Request to include Manufacturer Item No field in both Purchases orders and Receive Goods <span class="ticket">RS-1551</span>  
+ Added Manufacturer item no field to purchase order and receive goods  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 22nd May 2025
 
 ##### Imagine Multi Store Purchase orders beta store name is misleading when  save but not commit. <span class="ticket">RS-1521</span>  

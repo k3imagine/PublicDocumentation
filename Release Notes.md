@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd June 2025
+
+##### Request to include Manufacturer Item No field in both Purchases orders and Receive Goods <span class="ticket">RS-1551</span>  
+ Added Manufacturer item no field to purchase order and receive goods  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 2nd June 2025
 
 ##### Imagine PO "required date" field data is not being saved after save and commit <span class="ticket">RS-1613</span>  

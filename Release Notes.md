@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th June 2025
 
+##### Implement Redis Caching for Public API Token <span class="ticket">RS-1610</span>  
+ The Public API Token endpoint is now rate-limited to prevent abuse and encourage proper token lifecycle usage.  
+  <span class="bug">Bug</span>  
+  
 ##### PPE item prices fail to load when disableDiscount is set to true <span class="ticket">RS-1626</span>  
  Fixed a bug where ppe item prices failed to load if items had disable discount enabled  
   <span class="bug">Bug</span>  

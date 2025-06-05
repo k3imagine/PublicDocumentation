@@ -1,5 +1,9 @@
 # RELEASE VERSION: 5th June 2025
 
+##### Implement Rate limit for Public API Token <span class="ticket">ID-7</span>  
+ Implement Rate limit for Public API Token  
+  <span class="bug">Bug</span>  
+  
 ##### Implement Public API Token Rate Limit <span class="ticket">RS-1610</span>  
  The Public API Token endpoint is now rate-limited to prevent abuse and encourage proper token lifecycle usage.  
   <span class="bug">Bug</span>  

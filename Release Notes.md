@@ -1,3 +1,9 @@
+# RELEASE VERSION: 5th June 2025
+
+##### PPE item prices fail to load when disableDiscount is set to true <span class="ticket">RS-1626</span>  
+ Fixed a bug where ppe item prices failed to load if items had disable discount enabled  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 3rd June 2025
 
 ##### Request to include Manufacturer Item No field in both Purchases orders and Receive Goods <span class="ticket">RS-1551</span>  
